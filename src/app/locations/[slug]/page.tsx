@@ -44,12 +44,9 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     };
   }
 
-  const keywords = generateLocationKeywords(loc.name, loc.city);
-
   return {
     title: `${loc.name} - Software Training Institute in ${loc.city} | LearnMore Technologies`,
     description: loc.overview,
-    keywords,
     alternates: {
       canonical: `https://learnmoretechnologies.in/locations/${loc.slug}`,
     },

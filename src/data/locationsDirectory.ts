@@ -29,6 +29,10 @@ export const allLocationsDirectory: LocationDirectoryItem[] = [
     "defaultRoute": "/locations/marathahalli",
     "popularCourseLinks": [
       {
+        "courseName": "Python Training",
+        "route": "/python-training-in-marathahalli"
+      },
+      {
         "courseName": "Generative AI",
         "route": "/generative-ai-course-in-marathahalli"
       },
@@ -37,16 +41,12 @@ export const allLocationsDirectory: LocationDirectoryItem[] = [
         "route": "/agentic-ai-course-in-marathahalli"
       },
       {
-        "courseName": "Python Full Stack",
-        "route": "/python-full-stack-training-in-marathahalli"
-      },
-      {
         "courseName": "Java Full Stack",
         "route": "/java-full-stack-training-in-marathahalli"
       },
       {
         "courseName": "Data Analytics",
-        "route": "/best-data-analytics-training-in-marathahalli"
+        "route": "/data-analytics-training-in-marathahalli"
       },
       {
         "courseName": "Software Testing",
@@ -61,16 +61,8 @@ export const allLocationsDirectory: LocationDirectoryItem[] = [
         "route": "/aws-training-in-marathahalli"
       },
       {
-        "courseName": "Data Science",
-        "route": "/data-science-python-training-in-marathahalli"
-      },
-      {
         "courseName": "Power BI",
         "route": "/power-bi-training-in-marathahalli"
-      },
-      {
-        "courseName": "Python",
-        "route": "/python-training-in-marathahalli"
       },
       {
         "courseName": "DevOps",
@@ -113,7 +105,7 @@ export const allLocationsDirectory: LocationDirectoryItem[] = [
         "route": "/android-training-in-marathahalli"
       }
     ],
-    "totalCoursesCount": 21
+    "totalCoursesCount": 19
   },
   {
     "id": "btm",
@@ -127,16 +119,16 @@ export const allLocationsDirectory: LocationDirectoryItem[] = [
     "defaultRoute": "/locations/btm",
     "popularCourseLinks": [
       {
+        "courseName": "Python Training",
+        "route": "/python-training-in-btm"
+      },
+      {
         "courseName": "Generative AI",
         "route": "/generative-ai-course-in-btm"
       },
       {
         "courseName": "Agentic AI",
         "route": "/agentic-ai-course-in-btm"
-      },
-      {
-        "courseName": "Python Full Stack",
-        "route": "/python-full-stack-training-in-btm"
       },
       {
         "courseName": "Data Analytics",
@@ -159,15 +151,11 @@ export const allLocationsDirectory: LocationDirectoryItem[] = [
         "route": "/devops-training-in-btm"
       },
       {
-        "courseName": "Python",
-        "route": "/python-training-in-btm"
-      },
-      {
         "courseName": "AWS Cloud",
         "route": "/aws-training-in-btm"
       }
     ],
-    "totalCoursesCount": 10
+    "totalCoursesCount": 9
   },
   {
     "id": "kalyan-nagar",
@@ -181,6 +169,10 @@ export const allLocationsDirectory: LocationDirectoryItem[] = [
     "defaultRoute": "/locations/kalyan-nagar",
     "popularCourseLinks": [
       {
+        "courseName": "Python Training",
+        "route": "/python-training-in-kalyan-nagar"
+      },
+      {
         "courseName": "Generative AI",
         "route": "/generative-ai-course-in-kalyan-nagar"
       },
@@ -191,14 +183,6 @@ export const allLocationsDirectory: LocationDirectoryItem[] = [
       {
         "courseName": "Software Testing",
         "route": "/software-testing-training-in-kalyan-nagar"
-      },
-      {
-        "courseName": "Python",
-        "route": "/python-training-in-kalyan-nagar"
-      },
-      {
-        "courseName": "Python Full Stack",
-        "route": "/python-full-stack-training-in-kalyan-nagar"
       },
       {
         "courseName": "Power BI",
@@ -233,7 +217,7 @@ export const allLocationsDirectory: LocationDirectoryItem[] = [
         "route": "/aws-training-in-kalyan-nagar"
       }
     ],
-    "totalCoursesCount": 13
+    "totalCoursesCount": 12
   },
   {
     "id": "hebbal",
@@ -247,6 +231,10 @@ export const allLocationsDirectory: LocationDirectoryItem[] = [
     "defaultRoute": "/microsoft-azure-training-in-hebbal",
     "popularCourseLinks": [
       {
+        "courseName": "Python Training",
+        "route": "/python-training-in-hebbal"
+      },
+      {
         "courseName": "Microsoft Azure",
         "route": "/microsoft-azure-training-in-hebbal"
       },
@@ -259,10 +247,6 @@ export const allLocationsDirectory: LocationDirectoryItem[] = [
         "route": "/software-testing-training-in-hebbal"
       },
       {
-        "courseName": "Python Full Stack",
-        "route": "/python-full-stack-training-in-hebbal"
-      },
-      {
         "courseName": "Java Full Stack",
         "route": "/java-full-stack-training-in-hebbal"
       },
@@ -271,7 +255,7 @@ export const allLocationsDirectory: LocationDirectoryItem[] = [
         "route": "/java-training-in-hebbal"
       }
     ],
-    "totalCoursesCount": 11
+    "totalCoursesCount": 6
   },
   {
     "id": "whitefield",
@@ -285,16 +269,16 @@ export const allLocationsDirectory: LocationDirectoryItem[] = [
     "defaultRoute": "/generative-ai-course-in-whitefield",
     "popularCourseLinks": [
       {
+        "courseName": "Python Training",
+        "route": "/python-training-in-whitefield"
+      },
+      {
         "courseName": "generative ai",
         "route": "/generative-ai-course-in-whitefield"
       },
       {
         "courseName": "Agentic AI",
         "route": "/agentic-ai-course-in-whitefield"
-      },
-      {
-        "courseName": "Python Full Stack",
-        "route": "/best-python-full-stack-training-in-whitefield"
       },
       {
         "courseName": "Data Analytics",
@@ -309,7 +293,7 @@ export const allLocationsDirectory: LocationDirectoryItem[] = [
         "route": "/microsoft-azure-training-in-whitefield"
       }
     ],
-    "totalCoursesCount": 10
+    "totalCoursesCount": 6
   },
   {
     "id": "ahmedabad",
@@ -322,16 +306,16 @@ export const allLocationsDirectory: LocationDirectoryItem[] = [
     "defaultRoute": "/microsoft-azure-training-in-ahmedabad",
     "popularCourseLinks": [
       {
+        "courseName": "Python Training",
+        "route": "/python-training-in-ahmedabad"
+      },
+      {
         "courseName": "Microsoft Azure",
         "route": "/microsoft-azure-training-in-ahmedabad"
       },
       {
         "courseName": "Data Analytics",
         "route": "/data-analytics-training-in-ahmedabad"
-      },
-      {
-        "courseName": "Python Full Stack",
-        "route": "/python-full-stack-training-in-ahmedabad"
       },
       {
         "courseName": "Java Full Stack",
@@ -346,7 +330,7 @@ export const allLocationsDirectory: LocationDirectoryItem[] = [
         "route": "/power-bi-training-in-ahmedabad"
       }
     ],
-    "totalCoursesCount": 11
+    "totalCoursesCount": 6
   },
   {
     "id": "bangalore",
@@ -359,7 +343,7 @@ export const allLocationsDirectory: LocationDirectoryItem[] = [
     "defaultRoute": "/python-training-in-bangalore",
     "popularCourseLinks": [
       {
-        "courseName": "Python",
+        "courseName": "Python Training",
         "route": "/python-training-in-bangalore"
       },
       {
@@ -371,19 +355,11 @@ export const allLocationsDirectory: LocationDirectoryItem[] = [
         "route": "/agentic-ai-course-in-bangalore"
       },
       {
-        "courseName": "Python",
-        "route": "/python-course-training-in-bangalore"
-      },
-      {
-        "courseName": "Python Full Stack",
-        "route": "/top-python-full-stack-training-in-bangalore"
-      },
-      {
         "courseName": "Microsoft Azure",
         "route": "/microsoft-azure-training-in-bangalore"
       }
     ],
-    "totalCoursesCount": 15
+    "totalCoursesCount": 4
   },
   {
     "id": "chandigarh",
@@ -396,16 +372,16 @@ export const allLocationsDirectory: LocationDirectoryItem[] = [
     "defaultRoute": "/microsoft-azure-training-in-chandigarh",
     "popularCourseLinks": [
       {
+        "courseName": "Python Training",
+        "route": "/python-training-in-chandigarh"
+      },
+      {
         "courseName": "Microsoft Azure",
         "route": "/microsoft-azure-training-in-chandigarh"
       },
       {
         "courseName": "Data Analytics",
         "route": "/data-analytics-training-in-chandigarh"
-      },
-      {
-        "courseName": "Python Full Stack",
-        "route": "/python-full-stack-training-in-chandigarh"
       },
       {
         "courseName": "Java Full Stack",
@@ -420,7 +396,7 @@ export const allLocationsDirectory: LocationDirectoryItem[] = [
         "route": "/power-bi-training-in-chandigarh"
       }
     ],
-    "totalCoursesCount": 11
+    "totalCoursesCount": 6
   },
   {
     "id": "chennai",
@@ -433,16 +409,16 @@ export const allLocationsDirectory: LocationDirectoryItem[] = [
     "defaultRoute": "/microsoft-azure-training-in-chennai",
     "popularCourseLinks": [
       {
+        "courseName": "Python Training",
+        "route": "/python-training-in-chennai"
+      },
+      {
         "courseName": "Microsoft Azure",
         "route": "/microsoft-azure-training-in-chennai"
       },
       {
         "courseName": "Data Analytics",
         "route": "/data-analytics-training-in-chennai"
-      },
-      {
-        "courseName": "Python Full Stack",
-        "route": "/python-full-stack-training-in-chennai"
       },
       {
         "courseName": "Java Full Stack",
@@ -457,7 +433,7 @@ export const allLocationsDirectory: LocationDirectoryItem[] = [
         "route": "/power-bi-training-in-chennai"
       }
     ],
-    "totalCoursesCount": 12
+    "totalCoursesCount": 6
   },
   {
     "id": "cochin",
@@ -470,16 +446,16 @@ export const allLocationsDirectory: LocationDirectoryItem[] = [
     "defaultRoute": "/microsoft-azure-training-in-cochin",
     "popularCourseLinks": [
       {
+        "courseName": "Python Training",
+        "route": "/python-training-in-cochin"
+      },
+      {
         "courseName": "Microsoft Azure",
         "route": "/microsoft-azure-training-in-cochin"
       },
       {
         "courseName": "Data Analytics",
         "route": "/data-analytics-training-in-cochin"
-      },
-      {
-        "courseName": "Python Full Stack",
-        "route": "/python-full-stack-training-in-cochin"
       },
       {
         "courseName": "Java Full Stack",
@@ -494,7 +470,7 @@ export const allLocationsDirectory: LocationDirectoryItem[] = [
         "route": "/power-bi-training-in-cochin"
       }
     ],
-    "totalCoursesCount": 11
+    "totalCoursesCount": 6
   },
   {
     "id": "delhi",
@@ -507,16 +483,16 @@ export const allLocationsDirectory: LocationDirectoryItem[] = [
     "defaultRoute": "/microsoft-azure-training-in-delhi",
     "popularCourseLinks": [
       {
+        "courseName": "Python Training",
+        "route": "/python-training-in-delhi"
+      },
+      {
         "courseName": "Microsoft Azure",
         "route": "/microsoft-azure-training-in-delhi"
       },
       {
         "courseName": "Data Analytics",
         "route": "/data-analytics-training-in-delhi"
-      },
-      {
-        "courseName": "Python Full Stack",
-        "route": "/python-full-stack-training-in-delhi"
       },
       {
         "courseName": "Java Full Stack",
@@ -531,7 +507,7 @@ export const allLocationsDirectory: LocationDirectoryItem[] = [
         "route": "/data-science-training-in-delhi"
       }
     ],
-    "totalCoursesCount": 11
+    "totalCoursesCount": 6
   },
   {
     "id": "gurgaon",
@@ -544,16 +520,16 @@ export const allLocationsDirectory: LocationDirectoryItem[] = [
     "defaultRoute": "/microsoft-azure-training-in-gurgaon",
     "popularCourseLinks": [
       {
+        "courseName": "Python Training",
+        "route": "/python-training-in-gurgaon"
+      },
+      {
         "courseName": "Microsoft Azure",
         "route": "/microsoft-azure-training-in-gurgaon"
       },
       {
         "courseName": "Data Analytics",
         "route": "/data-analytics-training-in-gurgaon"
-      },
-      {
-        "courseName": "Python Full Stack",
-        "route": "/python-full-stack-training-in-gurgaon"
       },
       {
         "courseName": "Java Full Stack",
@@ -568,7 +544,7 @@ export const allLocationsDirectory: LocationDirectoryItem[] = [
         "route": "/power-bi-training-in-gurgaon"
       }
     ],
-    "totalCoursesCount": 11
+    "totalCoursesCount": 6
   },
   {
     "id": "hyderabad",
@@ -581,16 +557,16 @@ export const allLocationsDirectory: LocationDirectoryItem[] = [
     "defaultRoute": "/microsoft-azure-training-in-hyderabad",
     "popularCourseLinks": [
       {
+        "courseName": "Python Training",
+        "route": "/python-training-in-hyderabad"
+      },
+      {
         "courseName": "Microsoft Azure",
         "route": "/microsoft-azure-training-in-hyderabad"
       },
       {
         "courseName": "Data Analytics",
         "route": "/data-analytics-training-in-hyderabad"
-      },
-      {
-        "courseName": "Python Full Stack",
-        "route": "/python-full-stack-training-in-hyderabad"
       },
       {
         "courseName": "Java Full Stack",
@@ -605,7 +581,7 @@ export const allLocationsDirectory: LocationDirectoryItem[] = [
         "route": "/power-bi-training-in-hyderabad"
       }
     ],
-    "totalCoursesCount": 12
+    "totalCoursesCount": 6
   },
   {
     "id": "indore",
@@ -618,16 +594,16 @@ export const allLocationsDirectory: LocationDirectoryItem[] = [
     "defaultRoute": "/microsoft-azure-training-in-indore",
     "popularCourseLinks": [
       {
+        "courseName": "Python Training",
+        "route": "/python-training-in-indore"
+      },
+      {
         "courseName": "Microsoft Azure",
         "route": "/microsoft-azure-training-in-indore"
       },
       {
         "courseName": "Data Analytics",
         "route": "/data-analytics-training-in-indore"
-      },
-      {
-        "courseName": "Python Full Stack",
-        "route": "/python-full-stack-training-in-indore"
       },
       {
         "courseName": "Java Full Stack",
@@ -642,7 +618,7 @@ export const allLocationsDirectory: LocationDirectoryItem[] = [
         "route": "/power-bi-training-in-indore"
       }
     ],
-    "totalCoursesCount": 10
+    "totalCoursesCount": 6
   },
   {
     "id": "jaipur",
@@ -655,16 +631,16 @@ export const allLocationsDirectory: LocationDirectoryItem[] = [
     "defaultRoute": "/microsoft-azure-training-in-jaipur",
     "popularCourseLinks": [
       {
+        "courseName": "Python Training",
+        "route": "/python-training-in-jaipur"
+      },
+      {
         "courseName": "Microsoft Azure",
         "route": "/microsoft-azure-training-in-jaipur"
       },
       {
         "courseName": "Data Analytics",
         "route": "/data-analytics-training-in-jaipur"
-      },
-      {
-        "courseName": "Python Full Stack",
-        "route": "/python-full-stack-training-in-jaipur"
       },
       {
         "courseName": "Java Full Stack",
@@ -679,7 +655,7 @@ export const allLocationsDirectory: LocationDirectoryItem[] = [
         "route": "/power-bi-training-in-jaipur"
       }
     ],
-    "totalCoursesCount": 11
+    "totalCoursesCount": 6
   },
   {
     "id": "lucknow",
@@ -692,16 +668,16 @@ export const allLocationsDirectory: LocationDirectoryItem[] = [
     "defaultRoute": "/microsoft-azure-training-in-lucknow",
     "popularCourseLinks": [
       {
+        "courseName": "Python Training",
+        "route": "/python-training-in-lucknow"
+      },
+      {
         "courseName": "Microsoft Azure",
         "route": "/microsoft-azure-training-in-lucknow"
       },
       {
         "courseName": "Data Analytics",
         "route": "/data-analytics-training-in-lucknow"
-      },
-      {
-        "courseName": "Python Full Stack",
-        "route": "/python-full-stack-training-in-lucknow"
       },
       {
         "courseName": "Java Full Stack",
@@ -716,7 +692,7 @@ export const allLocationsDirectory: LocationDirectoryItem[] = [
         "route": "/power-bi-training-in-lucknow"
       }
     ],
-    "totalCoursesCount": 12
+    "totalCoursesCount": 6
   },
   {
     "id": "mumbai",
@@ -729,16 +705,16 @@ export const allLocationsDirectory: LocationDirectoryItem[] = [
     "defaultRoute": "/microsoft-azure-training-in-mumbai",
     "popularCourseLinks": [
       {
+        "courseName": "Python Training",
+        "route": "/python-training-in-mumbai"
+      },
+      {
         "courseName": "Microsoft Azure",
         "route": "/microsoft-azure-training-in-mumbai"
       },
       {
         "courseName": "Data Analytics",
         "route": "/data-analytics-training-in-mumbai"
-      },
-      {
-        "courseName": "Python Full Stack",
-        "route": "/python-full-stack-training-in-mumbai"
       },
       {
         "courseName": "Java Full Stack",
@@ -753,7 +729,7 @@ export const allLocationsDirectory: LocationDirectoryItem[] = [
         "route": "/power-bi-training-in-mumbai"
       }
     ],
-    "totalCoursesCount": 10
+    "totalCoursesCount": 6
   },
   {
     "id": "mysore",
@@ -766,16 +742,16 @@ export const allLocationsDirectory: LocationDirectoryItem[] = [
     "defaultRoute": "/microsoft-azure-training-in-mysore",
     "popularCourseLinks": [
       {
+        "courseName": "Python Training",
+        "route": "/python-training-in-mysore"
+      },
+      {
         "courseName": "Microsoft Azure",
         "route": "/microsoft-azure-training-in-mysore"
       },
       {
         "courseName": "Data Analytics",
         "route": "/data-analytics-training-in-mysore"
-      },
-      {
-        "courseName": "Python Full Stack",
-        "route": "/python-full-stack-training-in-mysore"
       },
       {
         "courseName": "Java Full Stack",
@@ -790,7 +766,7 @@ export const allLocationsDirectory: LocationDirectoryItem[] = [
         "route": "/power-bi-training-in-mysore"
       }
     ],
-    "totalCoursesCount": 11
+    "totalCoursesCount": 6
   },
   {
     "id": "noida",
@@ -803,16 +779,16 @@ export const allLocationsDirectory: LocationDirectoryItem[] = [
     "defaultRoute": "/microsoft-azure-training-in-noida",
     "popularCourseLinks": [
       {
+        "courseName": "Python Training",
+        "route": "/python-training-in-noida"
+      },
+      {
         "courseName": "Microsoft Azure",
         "route": "/microsoft-azure-training-in-noida"
       },
       {
         "courseName": "Data Analytics",
         "route": "/data-analytics-training-in-noida"
-      },
-      {
-        "courseName": "Python Full Stack",
-        "route": "/python-full-stack-training-in-noida"
       },
       {
         "courseName": "Java Full Stack",
@@ -827,7 +803,7 @@ export const allLocationsDirectory: LocationDirectoryItem[] = [
         "route": "/power-bi-training-in-noida"
       }
     ],
-    "totalCoursesCount": 11
+    "totalCoursesCount": 6
   },
   {
     "id": "patna",
@@ -840,16 +816,16 @@ export const allLocationsDirectory: LocationDirectoryItem[] = [
     "defaultRoute": "/microsoft-azure-training-in-patna",
     "popularCourseLinks": [
       {
+        "courseName": "Python Training",
+        "route": "/python-training-in-patna"
+      },
+      {
         "courseName": "Microsoft Azure",
         "route": "/microsoft-azure-training-in-patna"
       },
       {
         "courseName": "Data Analytics",
         "route": "/data-analytics-training-in-patna"
-      },
-      {
-        "courseName": "Python Full Stack",
-        "route": "/python-full-stack-training-in-patna"
       },
       {
         "courseName": "Java Full Stack",
@@ -864,7 +840,7 @@ export const allLocationsDirectory: LocationDirectoryItem[] = [
         "route": "/power-bi-training-in-patna"
       }
     ],
-    "totalCoursesCount": 11
+    "totalCoursesCount": 6
   },
   {
     "id": "pune",
@@ -877,8 +853,8 @@ export const allLocationsDirectory: LocationDirectoryItem[] = [
     "defaultRoute": "/python-course-training-in-pune",
     "popularCourseLinks": [
       {
-        "courseName": "Python",
-        "route": "/python-course-training-in-pune"
+        "courseName": "Python Training",
+        "route": "/python-training-in-pune"
       }
     ],
     "totalCoursesCount": 1
@@ -894,16 +870,16 @@ export const allLocationsDirectory: LocationDirectoryItem[] = [
     "defaultRoute": "/microsoft-azure-training-in-trichy",
     "popularCourseLinks": [
       {
+        "courseName": "Python Training",
+        "route": "/python-training-in-trichy"
+      },
+      {
         "courseName": "Microsoft Azure",
         "route": "/microsoft-azure-training-in-trichy"
       },
       {
         "courseName": "Data Analytics",
         "route": "/data-analytics-training-in-trichy"
-      },
-      {
-        "courseName": "Python Full Stack",
-        "route": "/python-full-stack-training-in-trichy"
       },
       {
         "courseName": "Java Full Stack Developer",
@@ -918,7 +894,7 @@ export const allLocationsDirectory: LocationDirectoryItem[] = [
         "route": "/power-bi-training-in-trichy"
       }
     ],
-    "totalCoursesCount": 11
+    "totalCoursesCount": 6
   },
   {
     "id": "trivandrum",
@@ -931,16 +907,16 @@ export const allLocationsDirectory: LocationDirectoryItem[] = [
     "defaultRoute": "/microsoft-azure-training-in-trivandrum",
     "popularCourseLinks": [
       {
+        "courseName": "Python Training",
+        "route": "/python-training-in-trivandrum"
+      },
+      {
         "courseName": "Microsoft Azure",
         "route": "/microsoft-azure-training-in-trivandrum"
       },
       {
         "courseName": "Data Analytics",
         "route": "/data-analytics-training-in-trivandrum"
-      },
-      {
-        "courseName": "Python Full Stack",
-        "route": "/python-full-stack-training-in-trivandrum"
       },
       {
         "courseName": "Java Full Stack",
@@ -955,7 +931,7 @@ export const allLocationsDirectory: LocationDirectoryItem[] = [
         "route": "/power-bi-training-in-trivandrum"
       }
     ],
-    "totalCoursesCount": 11
+    "totalCoursesCount": 6
   },
   {
     "id": "visakhapatnam",
@@ -968,16 +944,16 @@ export const allLocationsDirectory: LocationDirectoryItem[] = [
     "defaultRoute": "/microsoft-azure-training-in-visakhapatnam",
     "popularCourseLinks": [
       {
+        "courseName": "Python Training",
+        "route": "/python-training-in-visakhapatnam"
+      },
+      {
         "courseName": "Microsoft Azure",
         "route": "/microsoft-azure-training-in-visakhapatnam"
       },
       {
         "courseName": "Data Analytics",
         "route": "/data-analytics-training-in-visakhapatnam"
-      },
-      {
-        "courseName": "Python Full Stack",
-        "route": "/python-full-stack-training-in-visakhapatnam"
       },
       {
         "courseName": "Java Full Stack",
@@ -992,7 +968,7 @@ export const allLocationsDirectory: LocationDirectoryItem[] = [
         "route": "/power-bi-training-in-visakhapatnam"
       }
     ],
-    "totalCoursesCount": 11
+    "totalCoursesCount": 6
   },
   {
     "id": "warangal",
@@ -1005,16 +981,16 @@ export const allLocationsDirectory: LocationDirectoryItem[] = [
     "defaultRoute": "/microsoft-azure-training-in-warangal",
     "popularCourseLinks": [
       {
+        "courseName": "Python Training",
+        "route": "/python-training-in-warangal"
+      },
+      {
         "courseName": "Microsoft Azure",
         "route": "/microsoft-azure-training-in-warangal"
       },
       {
         "courseName": "Data Analytics",
         "route": "/data-analytics-training-in-warangal"
-      },
-      {
-        "courseName": "Python Full Stack",
-        "route": "/python-full-stack-training-in-warangal"
       },
       {
         "courseName": "Java Full Stack",
@@ -1029,7 +1005,7 @@ export const allLocationsDirectory: LocationDirectoryItem[] = [
         "route": "/power-bi-training-in-warangal"
       }
     ],
-    "totalCoursesCount": 11
+    "totalCoursesCount": 6
   },
   {
     "id": "australia",
@@ -1042,16 +1018,16 @@ export const allLocationsDirectory: LocationDirectoryItem[] = [
     "defaultRoute": "/microsoft-azure-training-in-australia",
     "popularCourseLinks": [
       {
+        "courseName": "Python Training",
+        "route": "/python-training-in-australia"
+      },
+      {
         "courseName": "Microsoft Azure",
         "route": "/microsoft-azure-training-in-australia"
       },
       {
         "courseName": "Data Analytics",
         "route": "/data-analytics-training-in-australia"
-      },
-      {
-        "courseName": "Python Full Stack",
-        "route": "/python-full-stack-training-in-australia"
       },
       {
         "courseName": "Java Full Stack",
@@ -1066,7 +1042,7 @@ export const allLocationsDirectory: LocationDirectoryItem[] = [
         "route": "/power-bi-training-in-australia"
       }
     ],
-    "totalCoursesCount": 11
+    "totalCoursesCount": 6
   },
   {
     "id": "austria",
@@ -1079,16 +1055,16 @@ export const allLocationsDirectory: LocationDirectoryItem[] = [
     "defaultRoute": "/microsoft-azure-training-in-austria",
     "popularCourseLinks": [
       {
+        "courseName": "Python Training",
+        "route": "/python-training-in-austria"
+      },
+      {
         "courseName": "Microsoft Azure",
         "route": "/microsoft-azure-training-in-austria"
       },
       {
         "courseName": "Data Analytics",
         "route": "/data-analytics-training-in-austria"
-      },
-      {
-        "courseName": "Python Full Stack",
-        "route": "/python-full-stack-training-in-austria"
       },
       {
         "courseName": "Java Full Stack",
@@ -1103,7 +1079,7 @@ export const allLocationsDirectory: LocationDirectoryItem[] = [
         "route": "/power-bi-training-in-austria"
       }
     ],
-    "totalCoursesCount": 11
+    "totalCoursesCount": 6
   },
   {
     "id": "belgium",
@@ -1116,16 +1092,16 @@ export const allLocationsDirectory: LocationDirectoryItem[] = [
     "defaultRoute": "/microsoft-azure-training-in-belgium",
     "popularCourseLinks": [
       {
+        "courseName": "Python Training",
+        "route": "/python-training-in-belgium"
+      },
+      {
         "courseName": "Microsoft Azure",
         "route": "/microsoft-azure-training-in-belgium"
       },
       {
         "courseName": "Data Analytics",
         "route": "/data-analytics-training-in-belgium"
-      },
-      {
-        "courseName": "Python Full Stack",
-        "route": "/python-full-stack-training-in-belgium"
       },
       {
         "courseName": "Java Full Stack",
@@ -1140,7 +1116,7 @@ export const allLocationsDirectory: LocationDirectoryItem[] = [
         "route": "/power-bi-training-in-belgium"
       }
     ],
-    "totalCoursesCount": 11
+    "totalCoursesCount": 6
   },
   {
     "id": "brunei",
@@ -1153,16 +1129,16 @@ export const allLocationsDirectory: LocationDirectoryItem[] = [
     "defaultRoute": "/microsoft-azure-training-in-brunei",
     "popularCourseLinks": [
       {
+        "courseName": "Python Training",
+        "route": "/python-training-in-brunei"
+      },
+      {
         "courseName": "Microsoft Azure",
         "route": "/microsoft-azure-training-in-brunei"
       },
       {
         "courseName": "Data Analytics",
         "route": "/data-analytics-training-in-brunei"
-      },
-      {
-        "courseName": "Python Full Stack",
-        "route": "/python-full-stack-training-in-brunei"
       },
       {
         "courseName": "Java Full Stack",
@@ -1177,7 +1153,7 @@ export const allLocationsDirectory: LocationDirectoryItem[] = [
         "route": "/power-bi-training-in-brunei"
       }
     ],
-    "totalCoursesCount": 11
+    "totalCoursesCount": 6
   },
   {
     "id": "denmark",
@@ -1190,16 +1166,16 @@ export const allLocationsDirectory: LocationDirectoryItem[] = [
     "defaultRoute": "/microsoft-azure-training-in-denmark",
     "popularCourseLinks": [
       {
+        "courseName": "Python Training",
+        "route": "/python-training-in-denmark"
+      },
+      {
         "courseName": "Microsoft Azure",
         "route": "/microsoft-azure-training-in-denmark"
       },
       {
         "courseName": "Data Analytics",
         "route": "/data-analytics-training-in-denmark"
-      },
-      {
-        "courseName": "Python Full Stack",
-        "route": "/python-full-stack-training-in-denmark"
       },
       {
         "courseName": "Java Full Stack",
@@ -1214,7 +1190,7 @@ export const allLocationsDirectory: LocationDirectoryItem[] = [
         "route": "/power-bi-training-in-denmark"
       }
     ],
-    "totalCoursesCount": 11
+    "totalCoursesCount": 6
   },
   {
     "id": "france",
@@ -1227,16 +1203,16 @@ export const allLocationsDirectory: LocationDirectoryItem[] = [
     "defaultRoute": "/microsoft-azure-training-in-france",
     "popularCourseLinks": [
       {
+        "courseName": "Python Training",
+        "route": "/python-training-in-france"
+      },
+      {
         "courseName": "Microsoft Azure",
         "route": "/microsoft-azure-training-in-france"
       },
       {
         "courseName": "Data Analytics",
         "route": "/data-analytics-training-in-france"
-      },
-      {
-        "courseName": "Python Full Stack",
-        "route": "/python-full-stack-training-in-france"
       },
       {
         "courseName": "Java Full Stack",
@@ -1251,7 +1227,7 @@ export const allLocationsDirectory: LocationDirectoryItem[] = [
         "route": "/power-bi-training-in-france"
       }
     ],
-    "totalCoursesCount": 11
+    "totalCoursesCount": 6
   },
   {
     "id": "germany",
@@ -1263,6 +1239,10 @@ export const allLocationsDirectory: LocationDirectoryItem[] = [
     "tag": "Europe (Global)",
     "defaultRoute": "/data-science-training-in-germany",
     "popularCourseLinks": [
+      {
+        "courseName": "Python Training",
+        "route": "/python-training-in-germany"
+      },
       {
         "courseName": "Data Science",
         "route": "/data-science-training-in-germany"
@@ -1276,10 +1256,6 @@ export const allLocationsDirectory: LocationDirectoryItem[] = [
         "route": "/data-analytics-training-in-germany"
       },
       {
-        "courseName": "Python Full Stack",
-        "route": "/python-full-stack-training-in-germany"
-      },
-      {
         "courseName": "Java Full Stack",
         "route": "/java-full-stack-training-in-germany"
       },
@@ -1288,7 +1264,7 @@ export const allLocationsDirectory: LocationDirectoryItem[] = [
         "route": "/java-training-in-germany"
       }
     ],
-    "totalCoursesCount": 11
+    "totalCoursesCount": 6
   },
   {
     "id": "guyana",
@@ -1301,16 +1277,16 @@ export const allLocationsDirectory: LocationDirectoryItem[] = [
     "defaultRoute": "/microsoft-azure-training-in-guyana",
     "popularCourseLinks": [
       {
+        "courseName": "Python Training",
+        "route": "/python-training-in-guyana"
+      },
+      {
         "courseName": "Microsoft Azure",
         "route": "/microsoft-azure-training-in-guyana"
       },
       {
         "courseName": "Data Analytics",
         "route": "/data-analytics-training-in-guyana"
-      },
-      {
-        "courseName": "Python Full Stack",
-        "route": "/python-full-stack-training-in-guyana"
       },
       {
         "courseName": "Java Full Stack",
@@ -1325,7 +1301,7 @@ export const allLocationsDirectory: LocationDirectoryItem[] = [
         "route": "/power-bi-training-in-guyana"
       }
     ],
-    "totalCoursesCount": 11
+    "totalCoursesCount": 6
   },
   {
     "id": "luxembourg",
@@ -1338,16 +1314,16 @@ export const allLocationsDirectory: LocationDirectoryItem[] = [
     "defaultRoute": "/microsoft-azure-training-in-luxembourg",
     "popularCourseLinks": [
       {
+        "courseName": "Python Training",
+        "route": "/python-training-in-luxembourg"
+      },
+      {
         "courseName": "Microsoft Azure",
         "route": "/microsoft-azure-training-in-luxembourg"
       },
       {
         "courseName": "Data Analytics",
         "route": "/data-analytics-training-in-luxembourg"
-      },
-      {
-        "courseName": "Python Full Stack",
-        "route": "/python-full-stack-training-in-luxembourg"
       },
       {
         "courseName": "Java Full Stack",
@@ -1362,7 +1338,7 @@ export const allLocationsDirectory: LocationDirectoryItem[] = [
         "route": "/power-bi-training-in-luxembourg"
       }
     ],
-    "totalCoursesCount": 11
+    "totalCoursesCount": 6
   },
   {
     "id": "macao-sar",
@@ -1375,16 +1351,16 @@ export const allLocationsDirectory: LocationDirectoryItem[] = [
     "defaultRoute": "/microsoft-azure-training-in-macao-sar",
     "popularCourseLinks": [
       {
+        "courseName": "Python Training",
+        "route": "/python-training-in-macao-sar"
+      },
+      {
         "courseName": "Microsoft Azure",
         "route": "/microsoft-azure-training-in-macao-sar"
       },
       {
         "courseName": "Data Analytics",
         "route": "/data-analytics-training-in-macao-sar"
-      },
-      {
-        "courseName": "Python Full Stack",
-        "route": "/python-full-stack-training-in-macao-sar"
       },
       {
         "courseName": "Java Full Stack",
@@ -1399,7 +1375,7 @@ export const allLocationsDirectory: LocationDirectoryItem[] = [
         "route": "/power-bi-training-in-macao-sar"
       }
     ],
-    "totalCoursesCount": 11
+    "totalCoursesCount": 6
   },
   {
     "id": "norway",
@@ -1412,16 +1388,16 @@ export const allLocationsDirectory: LocationDirectoryItem[] = [
     "defaultRoute": "/microsoft-azure-training-in-norway",
     "popularCourseLinks": [
       {
+        "courseName": "Python Training",
+        "route": "/python-training-in-norway"
+      },
+      {
         "courseName": "Microsoft Azure",
         "route": "/microsoft-azure-training-in-norway"
       },
       {
         "courseName": "Data Analytics",
         "route": "/data-analytics-training-in-norway"
-      },
-      {
-        "courseName": "Python Full Stack",
-        "route": "/python-full-stack-training-in-norway"
       },
       {
         "courseName": "Java Full Stack",
@@ -1436,7 +1412,7 @@ export const allLocationsDirectory: LocationDirectoryItem[] = [
         "route": "/power-bi-training-in-norway"
       }
     ],
-    "totalCoursesCount": 11
+    "totalCoursesCount": 6
   },
   {
     "id": "qatar",
@@ -1449,16 +1425,16 @@ export const allLocationsDirectory: LocationDirectoryItem[] = [
     "defaultRoute": "/microsoft-azure-training-in-qatar",
     "popularCourseLinks": [
       {
+        "courseName": "Python Training",
+        "route": "/python-training-in-qatar"
+      },
+      {
         "courseName": "Microsoft Azure",
         "route": "/microsoft-azure-training-in-qatar"
       },
       {
         "courseName": "Data Analytics",
         "route": "/data-analytics-training-in-qatar"
-      },
-      {
-        "courseName": "Python Full Stack",
-        "route": "/python-full-stack-training-in-qatar"
       },
       {
         "courseName": "Java Full Stack",
@@ -1473,7 +1449,7 @@ export const allLocationsDirectory: LocationDirectoryItem[] = [
         "route": "/power-bi-training-in-qatar"
       }
     ],
-    "totalCoursesCount": 11
+    "totalCoursesCount": 6
   },
   {
     "id": "singapore",
@@ -1486,16 +1462,16 @@ export const allLocationsDirectory: LocationDirectoryItem[] = [
     "defaultRoute": "/power-bi-training-in-singapore",
     "popularCourseLinks": [
       {
+        "courseName": "Python Training",
+        "route": "/python-training-in-singapore"
+      },
+      {
         "courseName": "Power BI",
         "route": "/power-bi-training-in-singapore"
       },
       {
         "courseName": "Java",
         "route": "/java-training-in-singapore"
-      },
-      {
-        "courseName": "Python Full Stack",
-        "route": "/python-full-stack-training-in-singapore"
       },
       {
         "courseName": "Data Analytics",
@@ -1510,7 +1486,7 @@ export const allLocationsDirectory: LocationDirectoryItem[] = [
         "route": "/data-science-training-in-singapore"
       }
     ],
-    "totalCoursesCount": 10
+    "totalCoursesCount": 6
   },
   {
     "id": "switzerland",
@@ -1523,16 +1499,16 @@ export const allLocationsDirectory: LocationDirectoryItem[] = [
     "defaultRoute": "/microsoft-azure-training-in-switzerland",
     "popularCourseLinks": [
       {
+        "courseName": "Python Training",
+        "route": "/python-training-in-switzerland"
+      },
+      {
         "courseName": "Microsoft Azure",
         "route": "/microsoft-azure-training-in-switzerland"
       },
       {
         "courseName": "Data Analytics",
         "route": "/data-analytics-training-in-switzerland"
-      },
-      {
-        "courseName": "Python Full Stack",
-        "route": "/python-full-stack-training-in-switzerland"
       },
       {
         "courseName": "Java Full Stack",
@@ -1547,7 +1523,7 @@ export const allLocationsDirectory: LocationDirectoryItem[] = [
         "route": "/power-bi-training-in-switzerland"
       }
     ],
-    "totalCoursesCount": 11
+    "totalCoursesCount": 6
   },
   {
     "id": "taiwan",
@@ -1560,16 +1536,16 @@ export const allLocationsDirectory: LocationDirectoryItem[] = [
     "defaultRoute": "/microsoft-azure-training-in-taiwan",
     "popularCourseLinks": [
       {
+        "courseName": "Python Training",
+        "route": "/python-training-in-taiwan"
+      },
+      {
         "courseName": "Microsoft Azure",
         "route": "/microsoft-azure-training-in-taiwan"
       },
       {
         "courseName": "Data Analytics",
         "route": "/data-analytics-training-in-taiwan"
-      },
-      {
-        "courseName": "Python Full Stack",
-        "route": "/python-full-stack-training-in-taiwan"
       },
       {
         "courseName": "Java Full Stack",
@@ -1584,7 +1560,7 @@ export const allLocationsDirectory: LocationDirectoryItem[] = [
         "route": "/power-bi-training-in-taiwan"
       }
     ],
-    "totalCoursesCount": 11
+    "totalCoursesCount": 6
   },
   {
     "id": "uae",
@@ -1597,16 +1573,16 @@ export const allLocationsDirectory: LocationDirectoryItem[] = [
     "defaultRoute": "/microsoft-azure-training-in-uae",
     "popularCourseLinks": [
       {
+        "courseName": "Python Training",
+        "route": "/python-training-in-uae"
+      },
+      {
         "courseName": "Microsoft Azure",
         "route": "/microsoft-azure-training-in-uae"
       },
       {
         "courseName": "Data Analytics",
         "route": "/data-analytics-training-in-uae"
-      },
-      {
-        "courseName": "Python Full Stack",
-        "route": "/python-full-stack-training-in-uae"
       },
       {
         "courseName": "Java Full Stack",
@@ -1621,7 +1597,7 @@ export const allLocationsDirectory: LocationDirectoryItem[] = [
         "route": "/power-bi-training-in-uae"
       }
     ],
-    "totalCoursesCount": 11
+    "totalCoursesCount": 6
   },
   {
     "id": "usa",
@@ -1634,16 +1610,16 @@ export const allLocationsDirectory: LocationDirectoryItem[] = [
     "defaultRoute": "/microsoft-azure-training-in-usa",
     "popularCourseLinks": [
       {
+        "courseName": "Python Training",
+        "route": "/python-training-in-usa"
+      },
+      {
         "courseName": "Microsoft Azure",
         "route": "/microsoft-azure-training-in-usa"
       },
       {
         "courseName": "Data Analytics",
         "route": "/data-analytics-training-in-usa"
-      },
-      {
-        "courseName": "Python Full Stack",
-        "route": "/python-full-stack-training-in-usa"
       },
       {
         "courseName": "Java Full Stack",
@@ -1658,6 +1634,6 @@ export const allLocationsDirectory: LocationDirectoryItem[] = [
         "route": "/power-bi-training-in-usa"
       }
     ],
-    "totalCoursesCount": 11
+    "totalCoursesCount": 6
   }
 ];

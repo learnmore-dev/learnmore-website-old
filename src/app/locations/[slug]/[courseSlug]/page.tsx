@@ -75,12 +75,10 @@ export async function generateMetadata({ params }: LocationCourseProps): Promise
   const title = `${course.title} in ${loc.name}, ${loc.city} | LearnMore Technologies`;
   const description = `Join ${course.title} classroom training at LearnMore Technologies ${loc.name} campus in ${loc.city}. 100% placement support, live hands-on labs, real-world projects & certified mentors.`;
   const canonicalUrl = `https://learnmoretechnologies.in/locations/${loc.slug}/${course.slug}`;
-  const keywords = generateCourseLocationKeywords(course.title, loc.name, course.categoryName);
 
   return {
     title,
     description,
-    keywords,
     alternates: {
       canonical: canonicalUrl,
     },

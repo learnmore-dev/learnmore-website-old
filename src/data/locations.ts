@@ -62,8 +62,8 @@ export const locations: LocationHub[] = [
       "Placement Cell Counseling Desks",
     ],
     popularCourses: [
-      "data-science-course",
       "python-full-stack-course",
+      "data-science-course",
       "software-testing-course",
       "power-bi-course",
       "snowflake-training",

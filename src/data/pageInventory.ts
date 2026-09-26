@@ -34,93 +34,93 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Karnataka, India",
     "targetRoute": "/python-training-in-bangalore",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Python Training in Bangalore | LearnMore Technologies",
+    "seoTitle": "Python Training in Bangalore",
     "metaDescription": "Enroll in Python Training in Bangalore at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "45141",
-    "postTitle": "generative ai Course in Whitefield",
+    "postTitle": "Generative AI Course in Whitefield",
     "postName": "generative-ai-course-in-whitefield",
-    "originalUrl": "https://learnmoretechnologies.in/generative-ai-course-in-whitefield/",
+    "originalUrl": "https://learnmoretechnologies.in/generative-ai-course-i/n-whitefield/",
     "slug": "generative-ai-course-in-whitefield",
     "pageType": "COURSE_LOCATION",
-    "courseName": "generative ai",
+    "courseName": "Generative AI",
     "courseSlug": "generative-ai-course",
     "locationSlug": "whitefield",
     "locationName": "Whitefield",
     "countryOrRegion": "East Bangalore, Karnataka",
     "targetRoute": "/generative-ai-course-in-whitefield",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "generative ai Course in Whitefield | LearnMore Technologies",
-    "metaDescription": "Enroll in generative ai Course in Whitefield at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
+    "seoTitle": "Generative AI Course in Whitefield",
+    "metaDescription": "Enroll in Generative AI Course in Whitefield at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "45136",
-    "postTitle": "generative ai Course in BTM",
+    "postTitle": "Generative AI Course in Btm",
     "postName": "generative-ai-course-in-btm",
     "originalUrl": "https://learnmoretechnologies.in/generative-ai-course-in-btm/",
     "slug": "generative-ai-course-in-btm",
     "pageType": "COURSE_LOCATION",
-    "courseName": "generative ai",
+    "courseName": "Generative AI",
     "courseSlug": "generative-ai-course",
     "locationSlug": "btm",
-    "locationName": "BTM Layout",
+    "locationName": "Btm",
     "countryOrRegion": "Bangalore, Karnataka",
     "targetRoute": "/generative-ai-course-in-btm",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "generative ai Course in BTM | LearnMore Technologies",
-    "metaDescription": "Enroll in generative ai Course in BTM at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
+    "seoTitle": "Generative AI Course in Btm",
+    "metaDescription": "Enroll in Generative AI Course in Btm at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "45130",
-    "postTitle": "generative ai Course in Marathahalli",
+    "postTitle": "Generative AI Course in Marathahalli",
     "postName": "generative-ai-course-in-marathahalli",
     "originalUrl": "https://learnmoretechnologies.in/generative-ai-course-in-marathahalli/",
     "slug": "generative-ai-course-in-marathahalli",
     "pageType": "COURSE_LOCATION",
-    "courseName": "generative ai",
+    "courseName": "Generative AI",
     "courseSlug": "generative-ai-course",
     "locationSlug": "marathahalli",
-    "locationName": "Marathahalli (HQ)",
+    "locationName": "Marathahalli",
     "countryOrRegion": "Bangalore, Karnataka",
     "targetRoute": "/generative-ai-course-in-marathahalli",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "generative ai Course in Marathahalli | LearnMore Technologies",
-    "metaDescription": "Enroll in generative ai Course in Marathahalli at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
+    "seoTitle": "Generative AI Course in Marathahalli",
+    "metaDescription": "Enroll in Generative AI Course in Marathahalli at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "45124",
-    "postTitle": "generative ai Course in Kalyan Nagar",
+    "postTitle": "Generative AI Course in Kalyan Nagar",
     "postName": "generative-ai-course-in-kalyan-nagar",
     "originalUrl": "https://learnmoretechnologies.in/generative-ai-course-in-kalyan-nagar/",
     "slug": "generative-ai-course-in-kalyan-nagar",
     "pageType": "COURSE_LOCATION",
-    "courseName": "generative ai",
+    "courseName": "Generative AI",
     "courseSlug": "generative-ai-course",
     "locationSlug": "kalyan-nagar",
     "locationName": "Kalyan Nagar",
     "countryOrRegion": "Bangalore, Karnataka",
     "targetRoute": "/generative-ai-course-in-kalyan-nagar",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "generative ai Course in Kalyan Nagar | LearnMore Technologies",
-    "metaDescription": "Enroll in generative ai Course in Kalyan Nagar at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
+    "seoTitle": "Generative AI Course in Kalyan Nagar",
+    "metaDescription": "Enroll in Generative AI Course in Kalyan Nagar at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "45118",
-    "postTitle": "generative ai Course in bangalore",
+    "postTitle": "Generative AI Course in Bangalore",
     "postName": "generative-ai-course-in-bangalore",
     "originalUrl": "https://learnmoretechnologies.in/generative-ai-course-in-bangalore/",
     "slug": "generative-ai-course-in-bangalore",
     "pageType": "COURSE_LOCATION",
-    "courseName": "generative ai",
+    "courseName": "Generative AI",
     "courseSlug": "generative-ai-course",
     "locationSlug": "bangalore",
     "locationName": "Bangalore",
     "countryOrRegion": "Karnataka, India",
     "targetRoute": "/generative-ai-course-in-bangalore",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "generative ai Course in bangalore | LearnMore Technologies",
-    "metaDescription": "Enroll in generative ai Course in bangalore at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
+    "seoTitle": "Generative AI Course in Bangalore",
+    "metaDescription": "Enroll in Generative AI Course in Bangalore at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "45113",
@@ -136,12 +136,12 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "East Bangalore, Karnataka",
     "targetRoute": "/agentic-ai-course-in-whitefield",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Agentic AI Course in Whitefield | LearnMore Technologies",
+    "seoTitle": "Agentic AI Course in Whitefield",
     "metaDescription": "Enroll in Agentic AI Course in Whitefield at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "45108",
-    "postTitle": "Agentic AI Course in BTM",
+    "postTitle": "Agentic AI Course in Btm",
     "postName": "agentic-ai-course-in-btm",
     "originalUrl": "https://learnmoretechnologies.in/agentic-ai-course-in-btm/",
     "slug": "agentic-ai-course-in-btm",
@@ -149,12 +149,12 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "courseName": "Agentic AI",
     "courseSlug": "agentic-ai-course",
     "locationSlug": "btm",
-    "locationName": "BTM Layout",
+    "locationName": "Btm",
     "countryOrRegion": "Bangalore, Karnataka",
     "targetRoute": "/agentic-ai-course-in-btm",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Agentic AI Course in BTM | LearnMore Technologies",
-    "metaDescription": "Enroll in Agentic AI Course in BTM at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
+    "seoTitle": "Agentic AI Course in Btm",
+    "metaDescription": "Enroll in Agentic AI Course in Btm at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "45103",
@@ -166,11 +166,11 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "courseName": "Agentic AI",
     "courseSlug": "agentic-ai-course",
     "locationSlug": "marathahalli",
-    "locationName": "Marathahalli (HQ)",
+    "locationName": "Marathahalli",
     "countryOrRegion": "Bangalore, Karnataka",
     "targetRoute": "/agentic-ai-course-in-marathahalli",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Agentic AI Course in Marathahalli | LearnMore Technologies",
+    "seoTitle": "Agentic AI Course in Marathahalli",
     "metaDescription": "Enroll in Agentic AI Course in Marathahalli at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -187,7 +187,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Bangalore, Karnataka",
     "targetRoute": "/agentic-ai-course-in-kalyan-nagar",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Agentic AI Course in Kalyan Nagar | LearnMore Technologies",
+    "seoTitle": "Agentic AI Course in Kalyan Nagar",
     "metaDescription": "Enroll in Agentic AI Course in Kalyan Nagar at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -204,7 +204,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Karnataka, India",
     "targetRoute": "/agentic-ai-course-in-bangalore",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Agentic AI Course in Bangalore | LearnMore Technologies",
+    "seoTitle": "Agentic AI Course in Bangalore",
     "metaDescription": "Enroll in Agentic AI Course in Bangalore at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -221,7 +221,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "",
     "targetRoute": "/corporate-training",
     "migrationAction": "REDIRECT",
-    "seoTitle": "Corporate Trainings | LearnMore Technologies",
+    "seoTitle": "Corporate Trainings",
     "metaDescription": "Enroll in Corporate Trainings at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -238,7 +238,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Europe (Global)",
     "targetRoute": "/data-science-training-in-germany",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Data Science Training in Germany | LearnMore Technologies",
+    "seoTitle": "Data Science Training in Germany",
     "metaDescription": "Enroll in Data Science Training in Germany at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -255,7 +255,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Europe (Global)",
     "targetRoute": "/microsoft-azure-training-in-france",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Microsoft Azure Training in France | LearnMore Technologies",
+    "seoTitle": "Microsoft Azure Training in France",
     "metaDescription": "Enroll in Microsoft Azure Training in France at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -272,7 +272,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Europe (Global)",
     "targetRoute": "/data-analytics-training-in-france",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Data Analytics Training in France | LearnMore Technologies",
+    "seoTitle": "Data Analytics Training in France",
     "metaDescription": "Enroll in Data Analytics Training in France at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -289,7 +289,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Europe (Global)",
     "targetRoute": "/python-full-stack-training-in-france",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Python Full Stack Training in France | LearnMore Technologies",
+    "seoTitle": "Python Full Stack Training in France",
     "metaDescription": "Enroll in Python Full Stack Training in France at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -306,7 +306,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Europe (Global)",
     "targetRoute": "/java-full-stack-training-in-france",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Java Full Stack Training in France | LearnMore Technologies",
+    "seoTitle": "Java Full Stack Training in France",
     "metaDescription": "Enroll in Java Full Stack Training in France at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -323,7 +323,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Europe (Global)",
     "targetRoute": "/java-training-in-france",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Java Training in France | LearnMore Technologies",
+    "seoTitle": "Java Training in France",
     "metaDescription": "Enroll in Java Training in France at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -340,7 +340,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Europe (Global)",
     "targetRoute": "/power-bi-training-in-france",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Power BI Training in France | LearnMore Technologies",
+    "seoTitle": "Power BI Training in France",
     "metaDescription": "Enroll in Power BI Training in France at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -357,7 +357,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Europe (Global)",
     "targetRoute": "/data-science-training-in-france",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Data Science Training in France | LearnMore Technologies",
+    "seoTitle": "Data Science Training in France",
     "metaDescription": "Enroll in Data Science Training in France at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -374,7 +374,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Europe (Global)",
     "targetRoute": "/software-testing-training-in-france",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Software Testing Training in France | LearnMore Technologies",
+    "seoTitle": "Software Testing Training in France",
     "metaDescription": "Enroll in Software Testing Training in France at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -391,7 +391,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Europe (Global)",
     "targetRoute": "/devops-training-in-france",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "DevOps Training in France | LearnMore Technologies",
+    "seoTitle": "DevOps Training in France",
     "metaDescription": "Enroll in DevOps Training in France at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -408,25 +408,25 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Europe (Global)",
     "targetRoute": "/python-training-in-france",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Python Training in France | LearnMore Technologies",
+    "seoTitle": "Python Training in France",
     "metaDescription": "Enroll in Python Training in France at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "43942",
-    "postTitle": "AWS Training in France",
+    "postTitle": "AWS Cloud Training in France",
     "postName": "aws-training-in-france",
     "originalUrl": "https://learnmoretechnologies.in/aws-training-in-france/",
     "slug": "aws-training-in-france",
     "pageType": "COURSE_LOCATION",
-    "courseName": "AWS",
+    "courseName": "AWS Cloud",
     "courseSlug": "aws-training",
     "locationSlug": "france",
     "locationName": "France",
     "countryOrRegion": "Europe (Global)",
     "targetRoute": "/aws-training-in-france",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "AWS Training in France | LearnMore Technologies",
-    "metaDescription": "Enroll in AWS Training in France at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
+    "seoTitle": "AWS Cloud Training in France",
+    "metaDescription": "Enroll in AWS Cloud Training in France at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "43936",
@@ -442,7 +442,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Europe (Global)",
     "targetRoute": "/microsoft-azure-training-in-germany",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Microsoft Azure Training in Germany | LearnMore Technologies",
+    "seoTitle": "Microsoft Azure Training in Germany",
     "metaDescription": "Enroll in Microsoft Azure Training in Germany at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -459,7 +459,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Europe (Global)",
     "targetRoute": "/data-analytics-training-in-germany",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Data Analytics Training in Germany | LearnMore Technologies",
+    "seoTitle": "Data Analytics Training in Germany",
     "metaDescription": "Enroll in Data Analytics Training in Germany at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -476,7 +476,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Europe (Global)",
     "targetRoute": "/python-full-stack-training-in-germany",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Python Full Stack Training in Germany | LearnMore Technologies",
+    "seoTitle": "Python Full Stack Training in Germany",
     "metaDescription": "Enroll in Python Full Stack Training in Germany at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -493,7 +493,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Europe (Global)",
     "targetRoute": "/java-full-stack-training-in-germany",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Java Full Stack Training in Germany | LearnMore Technologies",
+    "seoTitle": "Java Full Stack Training in Germany",
     "metaDescription": "Enroll in Java Full Stack Training in Germany at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -510,7 +510,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Europe (Global)",
     "targetRoute": "/java-training-in-germany",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Java Training in Germany | LearnMore Technologies",
+    "seoTitle": "Java Training in Germany",
     "metaDescription": "Enroll in Java Training in Germany at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -527,7 +527,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Europe (Global)",
     "targetRoute": "/power-bi-training-in-germany",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Power BI Training in Germany | LearnMore Technologies",
+    "seoTitle": "Power BI Training in Germany",
     "metaDescription": "Enroll in Power BI Training in Germany at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -544,7 +544,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Kerala, India",
     "targetRoute": "/microsoft-azure-training-in-cochin",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Microsoft Azure Training in Cochin | LearnMore Technologies",
+    "seoTitle": "Microsoft Azure Training in Cochin",
     "metaDescription": "Enroll in Microsoft Azure Training in Cochin at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -561,7 +561,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Kerala, India",
     "targetRoute": "/data-analytics-training-in-cochin",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Data Analytics Training in Cochin | LearnMore Technologies",
+    "seoTitle": "Data Analytics Training in Cochin",
     "metaDescription": "Enroll in Data Analytics Training in Cochin at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -578,7 +578,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Kerala, India",
     "targetRoute": "/python-full-stack-training-in-cochin",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Python Full Stack Training in Cochin | LearnMore Technologies",
+    "seoTitle": "Python Full Stack Training in Cochin",
     "metaDescription": "Enroll in Python Full Stack Training in Cochin at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -595,7 +595,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Kerala, India",
     "targetRoute": "/java-full-stack-training-in-cochin",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Java Full Stack Training in Cochin | LearnMore Technologies",
+    "seoTitle": "Java Full Stack Training in Cochin",
     "metaDescription": "Enroll in Java Full Stack Training in Cochin at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -612,7 +612,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Kerala, India",
     "targetRoute": "/java-training-in-cochin",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Java Training in Cochin | LearnMore Technologies",
+    "seoTitle": "Java Training in Cochin",
     "metaDescription": "Enroll in Java Training in Cochin at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -629,7 +629,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Kerala, India",
     "targetRoute": "/power-bi-training-in-cochin",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Power BI Training in Cochin | LearnMore Technologies",
+    "seoTitle": "Power BI Training in Cochin",
     "metaDescription": "Enroll in Power BI Training in Cochin at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -646,7 +646,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Kerala, India",
     "targetRoute": "/data-science-training-in-cochin",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Data Science Training in Cochin | LearnMore Technologies",
+    "seoTitle": "Data Science Training in Cochin",
     "metaDescription": "Enroll in Data Science Training in Cochin at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -663,7 +663,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Kerala, India",
     "targetRoute": "/software-testing-training-in-cochin",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Software Testing Training in Cochin | LearnMore Technologies",
+    "seoTitle": "Software Testing Training in Cochin",
     "metaDescription": "Enroll in Software Testing Training in Cochin at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -680,7 +680,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Kerala, India",
     "targetRoute": "/devops-training-in-cochin",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "DevOps Training in Cochin | LearnMore Technologies",
+    "seoTitle": "DevOps Training in Cochin",
     "metaDescription": "Enroll in DevOps Training in Cochin at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -697,25 +697,25 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Kerala, India",
     "targetRoute": "/python-training-in-cochin",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Python Training in Cochin | LearnMore Technologies",
+    "seoTitle": "Python Training in Cochin",
     "metaDescription": "Enroll in Python Training in Cochin at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "43844",
-    "postTitle": "AWS Training in Cochin",
+    "postTitle": "AWS Cloud Training in Cochin",
     "postName": "aws-training-in-cochin",
     "originalUrl": "https://learnmoretechnologies.in/aws-training-in-cochin/",
     "slug": "aws-training-in-cochin",
     "pageType": "COURSE_LOCATION",
-    "courseName": "AWS",
+    "courseName": "AWS Cloud",
     "courseSlug": "aws-training",
     "locationSlug": "cochin",
     "locationName": "Cochin",
     "countryOrRegion": "Kerala, India",
     "targetRoute": "/aws-training-in-cochin",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "AWS Training in Cochin | LearnMore Technologies",
-    "metaDescription": "Enroll in AWS Training in Cochin at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
+    "seoTitle": "AWS Cloud Training in Cochin",
+    "metaDescription": "Enroll in AWS Cloud Training in Cochin at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "43839",
@@ -731,7 +731,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Uttar Pradesh, India",
     "targetRoute": "/microsoft-azure-training-in-lucknow",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Microsoft Azure Training in Lucknow | LearnMore Technologies",
+    "seoTitle": "Microsoft Azure Training in Lucknow",
     "metaDescription": "Enroll in Microsoft Azure Training in Lucknow at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -748,7 +748,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Uttar Pradesh, India",
     "targetRoute": "/data-analytics-training-in-lucknow",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Data Analytics Training in Lucknow | LearnMore Technologies",
+    "seoTitle": "Data Analytics Training in Lucknow",
     "metaDescription": "Enroll in Data Analytics Training in Lucknow at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -765,7 +765,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Uttar Pradesh, India",
     "targetRoute": "/python-full-stack-training-in-lucknow",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Python Full Stack Training in Lucknow | LearnMore Technologies",
+    "seoTitle": "Python Full Stack Training in Lucknow",
     "metaDescription": "Enroll in Python Full Stack Training in Lucknow at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -782,7 +782,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Uttar Pradesh, India",
     "targetRoute": "/java-full-stack-training-in-lucknow",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Java Full Stack Training in Lucknow | LearnMore Technologies",
+    "seoTitle": "Java Full Stack Training in Lucknow",
     "metaDescription": "Enroll in Java Full Stack Training in Lucknow at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -799,7 +799,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Uttar Pradesh, India",
     "targetRoute": "/java-training-in-lucknow",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Java Training in Lucknow | LearnMore Technologies",
+    "seoTitle": "Java Training in Lucknow",
     "metaDescription": "Enroll in Java Training in Lucknow at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -816,7 +816,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Uttar Pradesh, India",
     "targetRoute": "/power-bi-training-in-lucknow",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Power BI Training in Lucknow | LearnMore Technologies",
+    "seoTitle": "Power BI Training in Lucknow",
     "metaDescription": "Enroll in Power BI Training in Lucknow at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -833,7 +833,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Uttar Pradesh, India",
     "targetRoute": "/data-science-training-in-lucknow",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Data Science Training in Lucknow | LearnMore Technologies",
+    "seoTitle": "Data Science Training in Lucknow",
     "metaDescription": "Enroll in Data Science Training in Lucknow at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -850,7 +850,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Uttar Pradesh, India",
     "targetRoute": "/software-testing-training-in-lucknow",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Software Testing Training in Lucknow | LearnMore Technologies",
+    "seoTitle": "Software Testing Training in Lucknow",
     "metaDescription": "Enroll in Software Testing Training in Lucknow at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -867,7 +867,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Uttar Pradesh, India",
     "targetRoute": "/devops-training-in-lucknow",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "DevOps Training in Lucknow | LearnMore Technologies",
+    "seoTitle": "DevOps Training in Lucknow",
     "metaDescription": "Enroll in DevOps Training in Lucknow at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -884,29 +884,29 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Uttar Pradesh, India",
     "targetRoute": "/python-training-in-lucknow",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Python Training in Lucknow | LearnMore Technologies",
+    "seoTitle": "Python Training in Lucknow",
     "metaDescription": "Enroll in Python Training in Lucknow at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "43784",
-    "postTitle": "AWS Training in Lucknow",
+    "postTitle": "AWS Cloud Training in Lucknow",
     "postName": "aws-training-in-lucknow",
     "originalUrl": "https://learnmoretechnologies.in/aws-training-in-lucknow/",
     "slug": "aws-training-in-lucknow",
     "pageType": "COURSE_LOCATION",
-    "courseName": "AWS",
+    "courseName": "AWS Cloud",
     "courseSlug": "aws-training",
     "locationSlug": "lucknow",
     "locationName": "Lucknow",
     "countryOrRegion": "Uttar Pradesh, India",
     "targetRoute": "/aws-training-in-lucknow",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "AWS Training in Lucknow | LearnMore Technologies",
-    "metaDescription": "Enroll in AWS Training in Lucknow at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
+    "seoTitle": "AWS Cloud Training in Lucknow",
+    "metaDescription": "Enroll in AWS Cloud Training in Lucknow at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "43778",
-    "postTitle": "Microsoft Azure training in Warangal",
+    "postTitle": "Microsoft Azure Training in Warangal",
     "postName": "microsoft-azure-training-in-warangal",
     "originalUrl": "https://learnmoretechnologies.in/microsoft-azure-training-in-warangal/",
     "slug": "microsoft-azure-training-in-warangal",
@@ -918,12 +918,12 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Telangana, India",
     "targetRoute": "/microsoft-azure-training-in-warangal",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Microsoft Azure training in Warangal | LearnMore Technologies",
-    "metaDescription": "Enroll in Microsoft Azure training in Warangal at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
+    "seoTitle": "Microsoft Azure Training in Warangal",
+    "metaDescription": "Enroll in Microsoft Azure Training in Warangal at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "43773",
-    "postTitle": "Data Analytics training in Warangal",
+    "postTitle": "Data Analytics Training in Warangal",
     "postName": "data-analytics-training-in-warangal",
     "originalUrl": "https://learnmoretechnologies.in/data-analytics-training-in-warangal/",
     "slug": "data-analytics-training-in-warangal",
@@ -935,8 +935,8 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Telangana, India",
     "targetRoute": "/data-analytics-training-in-warangal",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Data Analytics training in Warangal | LearnMore Technologies",
-    "metaDescription": "Enroll in Data Analytics training in Warangal at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
+    "seoTitle": "Data Analytics Training in Warangal",
+    "metaDescription": "Enroll in Data Analytics Training in Warangal at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "43768",
@@ -952,7 +952,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Telangana, India",
     "targetRoute": "/python-full-stack-training-in-warangal",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Python Full Stack Training in Warangal | LearnMore Technologies",
+    "seoTitle": "Python Full Stack Training in Warangal",
     "metaDescription": "Enroll in Python Full Stack Training in Warangal at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -969,7 +969,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Telangana, India",
     "targetRoute": "/java-full-stack-training-in-warangal",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Java Full Stack Training in Warangal | LearnMore Technologies",
+    "seoTitle": "Java Full Stack Training in Warangal",
     "metaDescription": "Enroll in Java Full Stack Training in Warangal at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -986,7 +986,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Telangana, India",
     "targetRoute": "/java-training-in-warangal",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Java Training in Warangal | LearnMore Technologies",
+    "seoTitle": "Java Training in Warangal",
     "metaDescription": "Enroll in Java Training in Warangal at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -1003,7 +1003,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Telangana, India",
     "targetRoute": "/power-bi-training-in-warangal",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Power BI Training in Warangal | LearnMore Technologies",
+    "seoTitle": "Power BI Training in Warangal",
     "metaDescription": "Enroll in Power BI Training in Warangal at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -1020,12 +1020,12 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Telangana, India",
     "targetRoute": "/data-science-training-in-warangal",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Data Science Training in Warangal | LearnMore Technologies",
+    "seoTitle": "Data Science Training in Warangal",
     "metaDescription": "Enroll in Data Science Training in Warangal at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "43739",
-    "postTitle": "Software Testing training in Warangal",
+    "postTitle": "Software Testing Training in Warangal",
     "postName": "software-testing-training-in-warangal",
     "originalUrl": "https://learnmoretechnologies.in/software-testing-training-in-warangal/",
     "slug": "software-testing-training-in-warangal",
@@ -1037,12 +1037,12 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Telangana, India",
     "targetRoute": "/software-testing-training-in-warangal",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Software Testing training in Warangal | LearnMore Technologies",
-    "metaDescription": "Enroll in Software Testing training in Warangal at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
+    "seoTitle": "Software Testing Training in Warangal",
+    "metaDescription": "Enroll in Software Testing Training in Warangal at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "43734",
-    "postTitle": "DevOps training in Warangal",
+    "postTitle": "DevOps Training in Warangal",
     "postName": "devops-training-in-warangal",
     "originalUrl": "https://learnmoretechnologies.in/devops-training-in-warangal/",
     "slug": "devops-training-in-warangal",
@@ -1054,8 +1054,8 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Telangana, India",
     "targetRoute": "/devops-training-in-warangal",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "DevOps training in Warangal | LearnMore Technologies",
-    "metaDescription": "Enroll in DevOps training in Warangal at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
+    "seoTitle": "DevOps Training in Warangal",
+    "metaDescription": "Enroll in DevOps Training in Warangal at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "43727",
@@ -1071,29 +1071,29 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Telangana, India",
     "targetRoute": "/python-training-in-warangal",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Python Training in Warangal | LearnMore Technologies",
+    "seoTitle": "Python Training in Warangal",
     "metaDescription": "Enroll in Python Training in Warangal at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "43721",
-    "postTitle": "AWS Training in Warangal",
+    "postTitle": "AWS Cloud Training in Warangal",
     "postName": "aws-training-in-warangal",
     "originalUrl": "https://learnmoretechnologies.in/aws-training-in-warangal/",
     "slug": "aws-training-in-warangal",
     "pageType": "COURSE_LOCATION",
-    "courseName": "AWS",
+    "courseName": "AWS Cloud",
     "courseSlug": "aws-training",
     "locationSlug": "warangal",
     "locationName": "Warangal",
     "countryOrRegion": "Telangana, India",
     "targetRoute": "/aws-training-in-warangal",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "AWS Training in Warangal | LearnMore Technologies",
-    "metaDescription": "Enroll in AWS Training in Warangal at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
+    "seoTitle": "AWS Cloud Training in Warangal",
+    "metaDescription": "Enroll in AWS Cloud Training in Warangal at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "43715",
-    "postTitle": "Microsoft Azure training in Trichy",
+    "postTitle": "Microsoft Azure Training in Trichy",
     "postName": "microsoft-azure-training-in-trichy",
     "originalUrl": "https://learnmoretechnologies.in/microsoft-azure-training-in-trichy/",
     "slug": "microsoft-azure-training-in-trichy",
@@ -1105,12 +1105,12 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Tamil Nadu, India",
     "targetRoute": "/microsoft-azure-training-in-trichy",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Microsoft Azure training in Trichy | LearnMore Technologies",
-    "metaDescription": "Enroll in Microsoft Azure training in Trichy at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
+    "seoTitle": "Microsoft Azure Training in Trichy",
+    "metaDescription": "Enroll in Microsoft Azure Training in Trichy at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "43709",
-    "postTitle": "Data Analytics training in Trichy",
+    "postTitle": "Data Analytics Training in Trichy",
     "postName": "data-analytics-training-in-trichy",
     "originalUrl": "https://learnmoretechnologies.in/data-analytics-training-in-trichy/",
     "slug": "data-analytics-training-in-trichy",
@@ -1122,8 +1122,8 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Tamil Nadu, India",
     "targetRoute": "/data-analytics-training-in-trichy",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Data Analytics training in Trichy | LearnMore Technologies",
-    "metaDescription": "Enroll in Data Analytics training in Trichy at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
+    "seoTitle": "Data Analytics Training in Trichy",
+    "metaDescription": "Enroll in Data Analytics Training in Trichy at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "43703",
@@ -1139,25 +1139,25 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Tamil Nadu, India",
     "targetRoute": "/python-full-stack-training-in-trichy",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Python Full Stack Training in Trichy | LearnMore Technologies",
+    "seoTitle": "Python Full Stack Training in Trichy",
     "metaDescription": "Enroll in Python Full Stack Training in Trichy at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "43697",
-    "postTitle": "Java Full Stack Developer in Trichy",
+    "postTitle": "Java Full Stack Training in Trichy",
     "postName": "java-full-stack-developer-in-trichy",
     "originalUrl": "https://learnmoretechnologies.in/java-full-stack-developer-in-trichy/",
     "slug": "java-full-stack-developer-in-trichy",
     "pageType": "COURSE_LOCATION",
-    "courseName": "Java Full Stack Developer",
+    "courseName": "Java Full Stack",
     "courseSlug": "java-full-stack-developer",
     "locationSlug": "trichy",
     "locationName": "Trichy",
     "countryOrRegion": "Tamil Nadu, India",
     "targetRoute": "/java-full-stack-developer-in-trichy",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Java Full Stack Developer in Trichy | LearnMore Technologies",
-    "metaDescription": "Enroll in Java Full Stack Developer in Trichy at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
+    "seoTitle": "Java Full Stack Training in Trichy",
+    "metaDescription": "Enroll in Java Full Stack Training in Trichy at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "43691",
@@ -1173,7 +1173,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Tamil Nadu, India",
     "targetRoute": "/java-training-in-trichy",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Java Training in Trichy | LearnMore Technologies",
+    "seoTitle": "Java Training in Trichy",
     "metaDescription": "Enroll in Java Training in Trichy at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -1190,7 +1190,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Tamil Nadu, India",
     "targetRoute": "/power-bi-training-in-trichy",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Power BI Training in Trichy | LearnMore Technologies",
+    "seoTitle": "Power BI Training in Trichy",
     "metaDescription": "Enroll in Power BI Training in Trichy at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -1207,7 +1207,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Tamil Nadu, India",
     "targetRoute": "/data-science-training-in-trichy",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Data Science Training in Trichy | LearnMore Technologies",
+    "seoTitle": "Data Science Training in Trichy",
     "metaDescription": "Enroll in Data Science Training in Trichy at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -1224,7 +1224,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Tamil Nadu, India",
     "targetRoute": "/software-testing-training-in-trichy",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Software Testing Training in Trichy | LearnMore Technologies",
+    "seoTitle": "Software Testing Training in Trichy",
     "metaDescription": "Enroll in Software Testing Training in Trichy at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -1241,7 +1241,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Tamil Nadu, India",
     "targetRoute": "/devops-training-in-trichy",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "DevOps Training in Trichy | LearnMore Technologies",
+    "seoTitle": "DevOps Training in Trichy",
     "metaDescription": "Enroll in DevOps Training in Trichy at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -1258,25 +1258,25 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Tamil Nadu, India",
     "targetRoute": "/python-training-in-trichy",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Python Training in Trichy | LearnMore Technologies",
+    "seoTitle": "Python Training in Trichy",
     "metaDescription": "Enroll in Python Training in Trichy at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "43659",
-    "postTitle": "AWS Training in Trichy",
+    "postTitle": "AWS Cloud Training in Trichy",
     "postName": "aws-training-in-trichy",
     "originalUrl": "https://learnmoretechnologies.in/aws-training-in-trichy/",
     "slug": "aws-training-in-trichy",
     "pageType": "COURSE_LOCATION",
-    "courseName": "AWS",
+    "courseName": "AWS Cloud",
     "courseSlug": "aws-training",
     "locationSlug": "trichy",
     "locationName": "Trichy",
     "countryOrRegion": "Tamil Nadu, India",
     "targetRoute": "/aws-training-in-trichy",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "AWS Training in Trichy | LearnMore Technologies",
-    "metaDescription": "Enroll in AWS Training in Trichy at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
+    "seoTitle": "AWS Cloud Training in Trichy",
+    "metaDescription": "Enroll in AWS Cloud Training in Trichy at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "43654",
@@ -1292,7 +1292,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Karnataka, India",
     "targetRoute": "/microsoft-azure-training-in-mysore",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Microsoft Azure Training in Mysore | LearnMore Technologies",
+    "seoTitle": "Microsoft Azure Training in Mysore",
     "metaDescription": "Enroll in Microsoft Azure Training in Mysore at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -1309,7 +1309,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Karnataka, India",
     "targetRoute": "/data-analytics-training-in-mysore",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Data Analytics Training in Mysore | LearnMore Technologies",
+    "seoTitle": "Data Analytics Training in Mysore",
     "metaDescription": "Enroll in Data Analytics Training in Mysore at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -1326,7 +1326,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Karnataka, India",
     "targetRoute": "/python-full-stack-training-in-mysore",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Python Full Stack Training in Mysore | LearnMore Technologies",
+    "seoTitle": "Python Full Stack Training in Mysore",
     "metaDescription": "Enroll in Python Full Stack Training in Mysore at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -1343,7 +1343,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Karnataka, India",
     "targetRoute": "/java-full-stack-training-in-mysore",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Java Full Stack Training in Mysore | LearnMore Technologies",
+    "seoTitle": "Java Full Stack Training in Mysore",
     "metaDescription": "Enroll in Java Full Stack Training in Mysore at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -1360,7 +1360,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Karnataka, India",
     "targetRoute": "/java-training-in-mysore",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Java Training in Mysore | LearnMore Technologies",
+    "seoTitle": "Java Training in Mysore",
     "metaDescription": "Enroll in Java Training in Mysore at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -1377,7 +1377,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Karnataka, India",
     "targetRoute": "/power-bi-training-in-mysore",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Power BI Training in Mysore | LearnMore Technologies",
+    "seoTitle": "Power BI Training in Mysore",
     "metaDescription": "Enroll in Power BI Training in Mysore at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -1394,7 +1394,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Karnataka, India",
     "targetRoute": "/data-science-training-in-mysore",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Data Science Training in Mysore | LearnMore Technologies",
+    "seoTitle": "Data Science Training in Mysore",
     "metaDescription": "Enroll in Data Science Training in Mysore at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -1411,7 +1411,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Karnataka, India",
     "targetRoute": "/software-testing-training-in-mysore",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Software Testing Training in Mysore | LearnMore Technologies",
+    "seoTitle": "Software Testing Training in Mysore",
     "metaDescription": "Enroll in Software Testing Training in Mysore at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -1428,7 +1428,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Karnataka, India",
     "targetRoute": "/devops-training-in-mysore",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "DevOps Training in Mysore | LearnMore Technologies",
+    "seoTitle": "DevOps Training in Mysore",
     "metaDescription": "Enroll in DevOps Training in Mysore at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -1445,29 +1445,29 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Karnataka, India",
     "targetRoute": "/python-training-in-mysore",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Python Training in Mysore | LearnMore Technologies",
+    "seoTitle": "Python Training in Mysore",
     "metaDescription": "Enroll in Python Training in Mysore at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "43598",
-    "postTitle": "AWS Training in Mysore",
+    "postTitle": "AWS Cloud Training in Mysore",
     "postName": "aws-training-in-mysore",
     "originalUrl": "https://learnmoretechnologies.in/aws-training-in-mysore/",
     "slug": "aws-training-in-mysore",
     "pageType": "COURSE_LOCATION",
-    "courseName": "AWS",
+    "courseName": "AWS Cloud",
     "courseSlug": "aws-training",
     "locationSlug": "mysore",
     "locationName": "Mysore",
     "countryOrRegion": "Karnataka, India",
     "targetRoute": "/aws-training-in-mysore",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "AWS Training in Mysore | LearnMore Technologies",
-    "metaDescription": "Enroll in AWS Training in Mysore at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
+    "seoTitle": "AWS Cloud Training in Mysore",
+    "metaDescription": "Enroll in AWS Cloud Training in Mysore at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "43592",
-    "postTitle": "Microsoft Azure training in Noida",
+    "postTitle": "Microsoft Azure Training in Noida",
     "postName": "microsoft-azure-training-in-noida",
     "originalUrl": "https://learnmoretechnologies.in/microsoft-azure-training-in-noida/",
     "slug": "microsoft-azure-training-in-noida",
@@ -1479,12 +1479,12 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Uttar Pradesh, India",
     "targetRoute": "/microsoft-azure-training-in-noida",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Microsoft Azure training in Noida | LearnMore Technologies",
-    "metaDescription": "Enroll in Microsoft Azure training in Noida at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
+    "seoTitle": "Microsoft Azure Training in Noida",
+    "metaDescription": "Enroll in Microsoft Azure Training in Noida at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "43587",
-    "postTitle": "Data Analytics training in Noida",
+    "postTitle": "Data Analytics Training in Noida",
     "postName": "data-analytics-training-in-noida",
     "originalUrl": "https://learnmoretechnologies.in/data-analytics-training-in-noida/",
     "slug": "data-analytics-training-in-noida",
@@ -1496,8 +1496,8 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Uttar Pradesh, India",
     "targetRoute": "/data-analytics-training-in-noida",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Data Analytics training in Noida | LearnMore Technologies",
-    "metaDescription": "Enroll in Data Analytics training in Noida at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
+    "seoTitle": "Data Analytics Training in Noida",
+    "metaDescription": "Enroll in Data Analytics Training in Noida at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "43580",
@@ -1513,7 +1513,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Uttar Pradesh, India",
     "targetRoute": "/python-full-stack-training-in-noida",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Python Full Stack Training in Noida | LearnMore Technologies",
+    "seoTitle": "Python Full Stack Training in Noida",
     "metaDescription": "Enroll in Python Full Stack Training in Noida at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -1530,7 +1530,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Uttar Pradesh, India",
     "targetRoute": "/java-full-stack-training-in-noida",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Java Full Stack Training in Noida | LearnMore Technologies",
+    "seoTitle": "Java Full Stack Training in Noida",
     "metaDescription": "Enroll in Java Full Stack Training in Noida at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -1547,7 +1547,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Uttar Pradesh, India",
     "targetRoute": "/java-training-in-noida",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Java Training in Noida | LearnMore Technologies",
+    "seoTitle": "Java Training in Noida",
     "metaDescription": "Enroll in Java Training in Noida at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -1564,7 +1564,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Uttar Pradesh, India",
     "targetRoute": "/power-bi-training-in-noida",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Power BI Training in Noida | LearnMore Technologies",
+    "seoTitle": "Power BI Training in Noida",
     "metaDescription": "Enroll in Power BI Training in Noida at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -1581,7 +1581,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Uttar Pradesh, India",
     "targetRoute": "/data-science-training-in-noida",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Data Science Training in Noida | LearnMore Technologies",
+    "seoTitle": "Data Science Training in Noida",
     "metaDescription": "Enroll in Data Science Training in Noida at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -1598,7 +1598,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Uttar Pradesh, India",
     "targetRoute": "/software-testing-training-in-noida",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Software Testing Training in Noida | LearnMore Technologies",
+    "seoTitle": "Software Testing Training in Noida",
     "metaDescription": "Enroll in Software Testing Training in Noida at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -1615,7 +1615,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Uttar Pradesh, India",
     "targetRoute": "/devops-training-in-noida",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "DevOps Training in Noida | LearnMore Technologies",
+    "seoTitle": "DevOps Training in Noida",
     "metaDescription": "Enroll in DevOps Training in Noida at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -1632,25 +1632,25 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Uttar Pradesh, India",
     "targetRoute": "/python-training-in-noida",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Python Training in Noida | LearnMore Technologies",
+    "seoTitle": "Python Training in Noida",
     "metaDescription": "Enroll in Python Training in Noida at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "43532",
-    "postTitle": "AWS Training in Noida",
+    "postTitle": "AWS Cloud Training in Noida",
     "postName": "aws-training-in-noida",
     "originalUrl": "https://learnmoretechnologies.in/aws-training-in-noida/",
     "slug": "aws-training-in-noida",
     "pageType": "COURSE_LOCATION",
-    "courseName": "AWS",
+    "courseName": "AWS Cloud",
     "courseSlug": "aws-training",
     "locationSlug": "noida",
     "locationName": "Noida",
     "countryOrRegion": "Uttar Pradesh, India",
     "targetRoute": "/aws-training-in-noida",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "AWS Training in Noida | LearnMore Technologies",
-    "metaDescription": "Enroll in AWS Training in Noida at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
+    "seoTitle": "AWS Cloud Training in Noida",
+    "metaDescription": "Enroll in AWS Cloud Training in Noida at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "43526",
@@ -1666,7 +1666,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Andhra Pradesh, India",
     "targetRoute": "/microsoft-azure-training-in-visakhapatnam",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Microsoft Azure Training in Visakhapatnam | LearnMore Technologies",
+    "seoTitle": "Microsoft Azure Training in Visakhapatnam",
     "metaDescription": "Enroll in Microsoft Azure Training in Visakhapatnam at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -1683,7 +1683,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Andhra Pradesh, India",
     "targetRoute": "/data-analytics-training-in-visakhapatnam",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Data Analytics Training in Visakhapatnam | LearnMore Technologies",
+    "seoTitle": "Data Analytics Training in Visakhapatnam",
     "metaDescription": "Enroll in Data Analytics Training in Visakhapatnam at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -1700,7 +1700,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Andhra Pradesh, India",
     "targetRoute": "/python-full-stack-training-in-visakhapatnam",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Python Full Stack Training in Visakhapatnam | LearnMore Technologies",
+    "seoTitle": "Python Full Stack Training in Visakhapatnam",
     "metaDescription": "Enroll in Python Full Stack Training in Visakhapatnam at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -1717,7 +1717,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Andhra Pradesh, India",
     "targetRoute": "/java-full-stack-training-in-visakhapatnam",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Java Full Stack Training in Visakhapatnam | LearnMore Technologies",
+    "seoTitle": "Java Full Stack Training in Visakhapatnam",
     "metaDescription": "Enroll in Java Full Stack Training in Visakhapatnam at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -1734,7 +1734,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Andhra Pradesh, India",
     "targetRoute": "/java-training-in-visakhapatnam",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Java Training in Visakhapatnam | LearnMore Technologies",
+    "seoTitle": "Java Training in Visakhapatnam",
     "metaDescription": "Enroll in Java Training in Visakhapatnam at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -1751,7 +1751,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Andhra Pradesh, India",
     "targetRoute": "/power-bi-training-in-visakhapatnam",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Power BI Training in Visakhapatnam | LearnMore Technologies",
+    "seoTitle": "Power BI Training in Visakhapatnam",
     "metaDescription": "Enroll in Power BI Training in Visakhapatnam at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -1768,7 +1768,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Andhra Pradesh, India",
     "targetRoute": "/data-science-training-in-visakhapatnam",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Data Science Training in Visakhapatnam | LearnMore Technologies",
+    "seoTitle": "Data Science Training in Visakhapatnam",
     "metaDescription": "Enroll in Data Science Training in Visakhapatnam at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -1785,7 +1785,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Andhra Pradesh, India",
     "targetRoute": "/software-testing-training-in-visakhapatnam",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Software Testing Training in Visakhapatnam | LearnMore Technologies",
+    "seoTitle": "Software Testing Training in Visakhapatnam",
     "metaDescription": "Enroll in Software Testing Training in Visakhapatnam at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -1802,7 +1802,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Andhra Pradesh, India",
     "targetRoute": "/devops-training-in-visakhapatnam",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "DevOps Training in Visakhapatnam | LearnMore Technologies",
+    "seoTitle": "DevOps Training in Visakhapatnam",
     "metaDescription": "Enroll in DevOps Training in Visakhapatnam at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -1819,25 +1819,25 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Andhra Pradesh, India",
     "targetRoute": "/python-training-in-visakhapatnam",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Python Training in Visakhapatnam | LearnMore Technologies",
+    "seoTitle": "Python Training in Visakhapatnam",
     "metaDescription": "Enroll in Python Training in Visakhapatnam at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "43459",
-    "postTitle": "AWS Training in Visakhapatnam",
+    "postTitle": "AWS Cloud Training in Visakhapatnam",
     "postName": "aws-training-in-visakhapatnam",
     "originalUrl": "https://learnmoretechnologies.in/aws-training-in-visakhapatnam/",
     "slug": "aws-training-in-visakhapatnam",
     "pageType": "COURSE_LOCATION",
-    "courseName": "AWS",
+    "courseName": "AWS Cloud",
     "courseSlug": "aws-training",
     "locationSlug": "visakhapatnam",
     "locationName": "Visakhapatnam",
     "countryOrRegion": "Andhra Pradesh, India",
     "targetRoute": "/aws-training-in-visakhapatnam",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "AWS Training in Visakhapatnam | LearnMore Technologies",
-    "metaDescription": "Enroll in AWS Training in Visakhapatnam at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
+    "seoTitle": "AWS Cloud Training in Visakhapatnam",
+    "metaDescription": "Enroll in AWS Cloud Training in Visakhapatnam at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "43454",
@@ -1853,7 +1853,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Haryana, India",
     "targetRoute": "/microsoft-azure-training-in-gurgaon",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Microsoft Azure Training in Gurgaon | LearnMore Technologies",
+    "seoTitle": "Microsoft Azure Training in Gurgaon",
     "metaDescription": "Enroll in Microsoft Azure Training in Gurgaon at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -1870,7 +1870,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Haryana, India",
     "targetRoute": "/data-analytics-training-in-gurgaon",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Data Analytics Training in Gurgaon | LearnMore Technologies",
+    "seoTitle": "Data Analytics Training in Gurgaon",
     "metaDescription": "Enroll in Data Analytics Training in Gurgaon at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -1887,7 +1887,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Haryana, India",
     "targetRoute": "/python-full-stack-training-in-gurgaon",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Python Full Stack Training in Gurgaon | LearnMore Technologies",
+    "seoTitle": "Python Full Stack Training in Gurgaon",
     "metaDescription": "Enroll in Python Full Stack Training in Gurgaon at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -1904,7 +1904,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Haryana, India",
     "targetRoute": "/java-full-stack-training-in-gurgaon",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Java Full Stack Training in Gurgaon | LearnMore Technologies",
+    "seoTitle": "Java Full Stack Training in Gurgaon",
     "metaDescription": "Enroll in Java Full Stack Training in Gurgaon at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -1921,7 +1921,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Haryana, India",
     "targetRoute": "/java-training-in-gurgaon",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Java Training in Gurgaon | LearnMore Technologies",
+    "seoTitle": "Java Training in Gurgaon",
     "metaDescription": "Enroll in Java Training in Gurgaon at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -1938,7 +1938,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Haryana, India",
     "targetRoute": "/power-bi-training-in-gurgaon",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Power BI Training in Gurgaon | LearnMore Technologies",
+    "seoTitle": "Power BI Training in Gurgaon",
     "metaDescription": "Enroll in Power BI Training in Gurgaon at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -1955,7 +1955,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Haryana, India",
     "targetRoute": "/data-science-training-in-gurgaon",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Data Science Training in Gurgaon | LearnMore Technologies",
+    "seoTitle": "Data Science Training in Gurgaon",
     "metaDescription": "Enroll in Data Science Training in Gurgaon at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -1972,7 +1972,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Haryana, India",
     "targetRoute": "/software-testing-training-in-gurgaon",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Software Testing Training in Gurgaon | LearnMore Technologies",
+    "seoTitle": "Software Testing Training in Gurgaon",
     "metaDescription": "Enroll in Software Testing Training in Gurgaon at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -1989,7 +1989,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Haryana, India",
     "targetRoute": "/devops-training-in-gurgaon",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "DevOps Training in Gurgaon | LearnMore Technologies",
+    "seoTitle": "DevOps Training in Gurgaon",
     "metaDescription": "Enroll in DevOps Training in Gurgaon at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -2006,25 +2006,25 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Haryana, India",
     "targetRoute": "/python-training-in-gurgaon",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Python Training in Gurgaon | LearnMore Technologies",
+    "seoTitle": "Python Training in Gurgaon",
     "metaDescription": "Enroll in Python Training in Gurgaon at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "43393",
-    "postTitle": "AWS Training in Gurgaon",
+    "postTitle": "AWS Cloud Training in Gurgaon",
     "postName": "aws-training-in-gurgaon",
     "originalUrl": "https://learnmoretechnologies.in/aws-training-in-gurgaon/",
     "slug": "aws-training-in-gurgaon",
     "pageType": "COURSE_LOCATION",
-    "courseName": "AWS",
+    "courseName": "AWS Cloud",
     "courseSlug": "aws-training",
     "locationSlug": "gurgaon",
     "locationName": "Gurgaon",
     "countryOrRegion": "Haryana, India",
     "targetRoute": "/aws-training-in-gurgaon",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "AWS Training in Gurgaon | LearnMore Technologies",
-    "metaDescription": "Enroll in AWS Training in Gurgaon at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
+    "seoTitle": "AWS Cloud Training in Gurgaon",
+    "metaDescription": "Enroll in AWS Cloud Training in Gurgaon at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "43387",
@@ -2040,7 +2040,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Telangana, India",
     "targetRoute": "/microsoft-azure-training-in-hyderabad",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Microsoft Azure Training in Hyderabad | LearnMore Technologies",
+    "seoTitle": "Microsoft Azure Training in Hyderabad",
     "metaDescription": "Enroll in Microsoft Azure Training in Hyderabad at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -2057,7 +2057,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Telangana, India",
     "targetRoute": "/data-analytics-training-in-hyderabad",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Data Analytics Training in Hyderabad | LearnMore Technologies",
+    "seoTitle": "Data Analytics Training in Hyderabad",
     "metaDescription": "Enroll in Data Analytics Training in Hyderabad at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -2074,7 +2074,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Telangana, India",
     "targetRoute": "/python-full-stack-training-in-hyderabad",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Python Full Stack Training in Hyderabad | LearnMore Technologies",
+    "seoTitle": "Python Full Stack Training in Hyderabad",
     "metaDescription": "Enroll in Python Full Stack Training in Hyderabad at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -2091,7 +2091,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Telangana, India",
     "targetRoute": "/java-full-stack-training-in-hyderabad",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Java Full Stack Training in Hyderabad | LearnMore Technologies",
+    "seoTitle": "Java Full Stack Training in Hyderabad",
     "metaDescription": "Enroll in Java Full Stack Training in Hyderabad at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -2108,7 +2108,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Telangana, India",
     "targetRoute": "/java-training-in-hyderabad",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Java Training in Hyderabad | LearnMore Technologies",
+    "seoTitle": "Java Training in Hyderabad",
     "metaDescription": "Enroll in Java Training in Hyderabad at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -2125,7 +2125,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Telangana, India",
     "targetRoute": "/power-bi-training-in-hyderabad",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Power BI Training in Hyderabad | LearnMore Technologies",
+    "seoTitle": "Power BI Training in Hyderabad",
     "metaDescription": "Enroll in Power BI Training in Hyderabad at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -2142,7 +2142,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Telangana, India",
     "targetRoute": "/data-science-training-in-hyderabad",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Data Science Training in Hyderabad | LearnMore Technologies",
+    "seoTitle": "Data Science Training in Hyderabad",
     "metaDescription": "Enroll in Data Science Training in Hyderabad at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -2159,7 +2159,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Telangana, India",
     "targetRoute": "/software-testing-training-in-hyderabad",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Software Testing Training in Hyderabad | LearnMore Technologies",
+    "seoTitle": "Software Testing Training in Hyderabad",
     "metaDescription": "Enroll in Software Testing Training in Hyderabad at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -2176,7 +2176,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Telangana, India",
     "targetRoute": "/devops-training-in-hyderabad",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "DevOps Training in Hyderabad | LearnMore Technologies",
+    "seoTitle": "DevOps Training in Hyderabad",
     "metaDescription": "Enroll in DevOps Training in Hyderabad at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -2193,25 +2193,25 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Telangana, India",
     "targetRoute": "/python-training-in-hyderabad",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Python Training in Hyderabad | LearnMore Technologies",
+    "seoTitle": "Python Training in Hyderabad",
     "metaDescription": "Enroll in Python Training in Hyderabad at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "43331",
-    "postTitle": "AWS Training in Hyderabad",
+    "postTitle": "AWS Cloud Training in Hyderabad",
     "postName": "aws-training-in-hyderabad",
     "originalUrl": "https://learnmoretechnologies.in/aws-training-in-hyderabad/",
     "slug": "aws-training-in-hyderabad",
     "pageType": "COURSE_LOCATION",
-    "courseName": "AWS",
+    "courseName": "AWS Cloud",
     "courseSlug": "aws-training",
     "locationSlug": "hyderabad",
     "locationName": "Hyderabad",
     "countryOrRegion": "Telangana, India",
     "targetRoute": "/aws-training-in-hyderabad",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "AWS Training in Hyderabad | LearnMore Technologies",
-    "metaDescription": "Enroll in AWS Training in Hyderabad at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
+    "seoTitle": "AWS Cloud Training in Hyderabad",
+    "metaDescription": "Enroll in AWS Cloud Training in Hyderabad at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "43326",
@@ -2223,11 +2223,11 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "courseName": "Microsoft Azure",
     "courseSlug": "microsoft-azure-training",
     "locationSlug": "delhi",
-    "locationName": "Delhi NCR",
+    "locationName": "Delhi",
     "countryOrRegion": "Delhi, India",
     "targetRoute": "/microsoft-azure-training-in-delhi",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Microsoft Azure Training in Delhi | LearnMore Technologies",
+    "seoTitle": "Microsoft Azure Training in Delhi",
     "metaDescription": "Enroll in Microsoft Azure Training in Delhi at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -2240,11 +2240,11 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "courseName": "Data Analytics",
     "courseSlug": "data-analytics-training",
     "locationSlug": "delhi",
-    "locationName": "Delhi NCR",
+    "locationName": "Delhi",
     "countryOrRegion": "Delhi, India",
     "targetRoute": "/data-analytics-training-in-delhi",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Data Analytics Training in Delhi | LearnMore Technologies",
+    "seoTitle": "Data Analytics Training in Delhi",
     "metaDescription": "Enroll in Data Analytics Training in Delhi at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -2257,11 +2257,11 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "courseName": "Python Full Stack",
     "courseSlug": "python-full-stack-training",
     "locationSlug": "delhi",
-    "locationName": "Delhi NCR",
+    "locationName": "Delhi",
     "countryOrRegion": "Delhi, India",
     "targetRoute": "/python-full-stack-training-in-delhi",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Python Full Stack Training in Delhi | LearnMore Technologies",
+    "seoTitle": "Python Full Stack Training in Delhi",
     "metaDescription": "Enroll in Python Full Stack Training in Delhi at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -2274,11 +2274,11 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "courseName": "Java Full Stack",
     "courseSlug": "java-full-stack-training",
     "locationSlug": "delhi",
-    "locationName": "Delhi NCR",
+    "locationName": "Delhi",
     "countryOrRegion": "Delhi, India",
     "targetRoute": "/java-full-stack-training-in-delhi",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Java Full Stack Training in Delhi | LearnMore Technologies",
+    "seoTitle": "Java Full Stack Training in Delhi",
     "metaDescription": "Enroll in Java Full Stack Training in Delhi at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -2291,11 +2291,11 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "courseName": "Java",
     "courseSlug": "java-training",
     "locationSlug": "delhi",
-    "locationName": "Delhi NCR",
+    "locationName": "Delhi",
     "countryOrRegion": "Delhi, India",
     "targetRoute": "/java-training-in-delhi",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Java Training in Delhi | LearnMore Technologies",
+    "seoTitle": "Java Training in Delhi",
     "metaDescription": "Enroll in Java Training in Delhi at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -2308,11 +2308,11 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "courseName": "Data Science",
     "courseSlug": "data-science-training",
     "locationSlug": "delhi",
-    "locationName": "Delhi NCR",
+    "locationName": "Delhi",
     "countryOrRegion": "Delhi, India",
     "targetRoute": "/data-science-training-in-delhi",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Data Science Training in Delhi | LearnMore Technologies",
+    "seoTitle": "Data Science Training in Delhi",
     "metaDescription": "Enroll in Data Science Training in Delhi at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -2325,11 +2325,11 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "courseName": "Software Testing",
     "courseSlug": "software-testing-training",
     "locationSlug": "delhi",
-    "locationName": "Delhi NCR",
+    "locationName": "Delhi",
     "countryOrRegion": "Delhi, India",
     "targetRoute": "/software-testing-training-in-delhi",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Software Testing Training in Delhi | LearnMore Technologies",
+    "seoTitle": "Software Testing Training in Delhi",
     "metaDescription": "Enroll in Software Testing Training in Delhi at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -2342,11 +2342,11 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "courseName": "DevOps",
     "courseSlug": "devops-training",
     "locationSlug": "delhi",
-    "locationName": "Delhi NCR",
+    "locationName": "Delhi",
     "countryOrRegion": "Delhi, India",
     "targetRoute": "/devops-training-in-delhi",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "DevOps Training in Delhi | LearnMore Technologies",
+    "seoTitle": "DevOps Training in Delhi",
     "metaDescription": "Enroll in DevOps Training in Delhi at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -2359,29 +2359,29 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "courseName": "Python",
     "courseSlug": "python-training",
     "locationSlug": "delhi",
-    "locationName": "Delhi NCR",
+    "locationName": "Delhi",
     "countryOrRegion": "Delhi, India",
     "targetRoute": "/python-training-in-delhi",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Python Training in Delhi | LearnMore Technologies",
+    "seoTitle": "Python Training in Delhi",
     "metaDescription": "Enroll in Python Training in Delhi at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "43267",
-    "postTitle": "AWS Training in Delhi",
+    "postTitle": "AWS Cloud Training in Delhi",
     "postName": "aws-training-in-delhi",
     "originalUrl": "https://learnmoretechnologies.in/aws-training-in-delhi/",
     "slug": "aws-training-in-delhi",
     "pageType": "COURSE_LOCATION",
-    "courseName": "AWS",
+    "courseName": "AWS Cloud",
     "courseSlug": "aws-training",
     "locationSlug": "delhi",
-    "locationName": "Delhi NCR",
+    "locationName": "Delhi",
     "countryOrRegion": "Delhi, India",
     "targetRoute": "/aws-training-in-delhi",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "AWS Training in Delhi | LearnMore Technologies",
-    "metaDescription": "Enroll in AWS Training in Delhi at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
+    "seoTitle": "AWS Cloud Training in Delhi",
+    "metaDescription": "Enroll in AWS Cloud Training in Delhi at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "43259",
@@ -2397,7 +2397,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Madhya Pradesh, India",
     "targetRoute": "/microsoft-azure-training-in-indore",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Microsoft Azure Training in Indore | LearnMore Technologies",
+    "seoTitle": "Microsoft Azure Training in Indore",
     "metaDescription": "Enroll in Microsoft Azure Training in Indore at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -2414,7 +2414,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Madhya Pradesh, India",
     "targetRoute": "/data-analytics-training-in-indore",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Data Analytics Training in Indore | LearnMore Technologies",
+    "seoTitle": "Data Analytics Training in Indore",
     "metaDescription": "Enroll in Data Analytics Training in Indore at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -2431,7 +2431,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Madhya Pradesh, India",
     "targetRoute": "/python-full-stack-training-in-indore",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Python Full Stack Training in Indore | LearnMore Technologies",
+    "seoTitle": "Python Full Stack Training in Indore",
     "metaDescription": "Enroll in Python Full Stack Training in Indore at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -2448,7 +2448,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Madhya Pradesh, India",
     "targetRoute": "/java-full-stack-training-in-indore",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Java Full Stack Training in Indore | LearnMore Technologies",
+    "seoTitle": "Java Full Stack Training in Indore",
     "metaDescription": "Enroll in Java Full Stack Training in Indore at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -2465,7 +2465,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Madhya Pradesh, India",
     "targetRoute": "/java-training-in-indore",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Java Training in Indore | LearnMore Technologies",
+    "seoTitle": "Java Training in Indore",
     "metaDescription": "Enroll in Java Training in Indore at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -2482,7 +2482,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Madhya Pradesh, India",
     "targetRoute": "/power-bi-training-in-indore",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Power BI Training in Indore | LearnMore Technologies",
+    "seoTitle": "Power BI Training in Indore",
     "metaDescription": "Enroll in Power BI Training in Indore at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -2499,7 +2499,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Madhya Pradesh, India",
     "targetRoute": "/data-science-training-in-indore",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Data Science Training in Indore | LearnMore Technologies",
+    "seoTitle": "Data Science Training in Indore",
     "metaDescription": "Enroll in Data Science Training in Indore at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -2516,7 +2516,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Madhya Pradesh, India",
     "targetRoute": "/software-testing-training-in-indore",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Software Testing Training in Indore | LearnMore Technologies",
+    "seoTitle": "Software Testing Training in Indore",
     "metaDescription": "Enroll in Software Testing Training in Indore at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -2533,29 +2533,29 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Madhya Pradesh, India",
     "targetRoute": "/devops-training-in-indore",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "DevOps Training in Indore | LearnMore Technologies",
+    "seoTitle": "DevOps Training in Indore",
     "metaDescription": "Enroll in DevOps Training in Indore at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "43205",
-    "postTitle": "AWS Training in Indore",
+    "postTitle": "AWS Cloud Training in Indore",
     "postName": "aws-training-in-indore",
     "originalUrl": "https://learnmoretechnologies.in/aws-training-in-indore/",
     "slug": "aws-training-in-indore",
     "pageType": "COURSE_LOCATION",
-    "courseName": "AWS",
+    "courseName": "AWS Cloud",
     "courseSlug": "aws-training",
     "locationSlug": "indore",
     "locationName": "Indore",
     "countryOrRegion": "Madhya Pradesh, India",
     "targetRoute": "/aws-training-in-indore",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "AWS Training in Indore | LearnMore Technologies",
-    "metaDescription": "Enroll in AWS Training in Indore at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
+    "seoTitle": "AWS Cloud Training in Indore",
+    "metaDescription": "Enroll in AWS Cloud Training in Indore at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "43200",
-    "postTitle": "Microsoft Azure training in Trivandrum",
+    "postTitle": "Microsoft Azure Training in Trivandrum",
     "postName": "microsoft-azure-training-in-trivandrum",
     "originalUrl": "https://learnmoretechnologies.in/microsoft-azure-training-in-trivandrum/",
     "slug": "microsoft-azure-training-in-trivandrum",
@@ -2567,12 +2567,12 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Kerala, India",
     "targetRoute": "/microsoft-azure-training-in-trivandrum",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Microsoft Azure training in Trivandrum | LearnMore Technologies",
-    "metaDescription": "Enroll in Microsoft Azure training in Trivandrum at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
+    "seoTitle": "Microsoft Azure Training in Trivandrum",
+    "metaDescription": "Enroll in Microsoft Azure Training in Trivandrum at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "43194",
-    "postTitle": "Data Analytics training in Trivandrum",
+    "postTitle": "Data Analytics Training in Trivandrum",
     "postName": "data-analytics-training-in-trivandrum",
     "originalUrl": "https://learnmoretechnologies.in/data-analytics-training-in-trivandrum/",
     "slug": "data-analytics-training-in-trivandrum",
@@ -2584,8 +2584,8 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Kerala, India",
     "targetRoute": "/data-analytics-training-in-trivandrum",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Data Analytics training in Trivandrum | LearnMore Technologies",
-    "metaDescription": "Enroll in Data Analytics training in Trivandrum at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
+    "seoTitle": "Data Analytics Training in Trivandrum",
+    "metaDescription": "Enroll in Data Analytics Training in Trivandrum at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "43189",
@@ -2601,7 +2601,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Kerala, India",
     "targetRoute": "/python-full-stack-training-in-trivandrum",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Python Full Stack Training in Trivandrum | LearnMore Technologies",
+    "seoTitle": "Python Full Stack Training in Trivandrum",
     "metaDescription": "Enroll in Python Full Stack Training in Trivandrum at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -2618,7 +2618,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Kerala, India",
     "targetRoute": "/java-full-stack-training-in-trivandrum",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Java Full Stack Training in Trivandrum | LearnMore Technologies",
+    "seoTitle": "Java Full Stack Training in Trivandrum",
     "metaDescription": "Enroll in Java Full Stack Training in Trivandrum at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -2635,7 +2635,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Kerala, India",
     "targetRoute": "/java-training-in-trivandrum",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Java Training in Trivandrum | LearnMore Technologies",
+    "seoTitle": "Java Training in Trivandrum",
     "metaDescription": "Enroll in Java Training in Trivandrum at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -2652,7 +2652,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Kerala, India",
     "targetRoute": "/power-bi-training-in-trivandrum",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Power BI Training in Trivandrum | LearnMore Technologies",
+    "seoTitle": "Power BI Training in Trivandrum",
     "metaDescription": "Enroll in Power BI Training in Trivandrum at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -2669,7 +2669,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Kerala, India",
     "targetRoute": "/data-science-training-in-trivandrum",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Data Science Training in Trivandrum | LearnMore Technologies",
+    "seoTitle": "Data Science Training in Trivandrum",
     "metaDescription": "Enroll in Data Science Training in Trivandrum at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -2686,7 +2686,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Kerala, India",
     "targetRoute": "/software-testing-training-in-trivandrum",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Software Testing Training in Trivandrum | LearnMore Technologies",
+    "seoTitle": "Software Testing Training in Trivandrum",
     "metaDescription": "Enroll in Software Testing Training in Trivandrum at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -2703,7 +2703,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Kerala, India",
     "targetRoute": "/devops-training-in-trivandrum",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "DevOps Training in Trivandrum | LearnMore Technologies",
+    "seoTitle": "DevOps Training in Trivandrum",
     "metaDescription": "Enroll in DevOps Training in Trivandrum at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -2720,25 +2720,25 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Kerala, India",
     "targetRoute": "/python-training-in-trivandrum",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Python Training in Trivandrum | LearnMore Technologies",
+    "seoTitle": "Python Training in Trivandrum",
     "metaDescription": "Enroll in Python Training in Trivandrum at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "43137",
-    "postTitle": "AWS Training in Trivandrum",
+    "postTitle": "AWS Cloud Training in Trivandrum",
     "postName": "aws-training-in-trivandrum",
     "originalUrl": "https://learnmoretechnologies.in/aws-training-in-trivandrum/",
     "slug": "aws-training-in-trivandrum",
     "pageType": "COURSE_LOCATION",
-    "courseName": "AWS",
+    "courseName": "AWS Cloud",
     "courseSlug": "aws-training",
     "locationSlug": "trivandrum",
     "locationName": "Trivandrum",
     "countryOrRegion": "Kerala, India",
     "targetRoute": "/aws-training-in-trivandrum",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "AWS Training in Trivandrum | LearnMore Technologies",
-    "metaDescription": "Enroll in AWS Training in Trivandrum at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
+    "seoTitle": "AWS Cloud Training in Trivandrum",
+    "metaDescription": "Enroll in AWS Cloud Training in Trivandrum at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "43129",
@@ -2754,12 +2754,12 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Punjab / Haryana, India",
     "targetRoute": "/microsoft-azure-training-in-chandigarh",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Microsoft Azure Training in Chandigarh | LearnMore Technologies",
+    "seoTitle": "Microsoft Azure Training in Chandigarh",
     "metaDescription": "Enroll in Microsoft Azure Training in Chandigarh at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "43120",
-    "postTitle": "Data Analytics training in Chandigarh",
+    "postTitle": "Data Analytics Training in Chandigarh",
     "postName": "data-analytics-training-in-chandigarh",
     "originalUrl": "https://learnmoretechnologies.in/data-analytics-training-in-chandigarh/",
     "slug": "data-analytics-training-in-chandigarh",
@@ -2771,8 +2771,8 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Punjab / Haryana, India",
     "targetRoute": "/data-analytics-training-in-chandigarh",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Data Analytics training in Chandigarh | LearnMore Technologies",
-    "metaDescription": "Enroll in Data Analytics training in Chandigarh at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
+    "seoTitle": "Data Analytics Training in Chandigarh",
+    "metaDescription": "Enroll in Data Analytics Training in Chandigarh at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "43111",
@@ -2788,7 +2788,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Punjab / Haryana, India",
     "targetRoute": "/python-full-stack-training-in-chandigarh",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Python Full Stack Training in Chandigarh | LearnMore Technologies",
+    "seoTitle": "Python Full Stack Training in Chandigarh",
     "metaDescription": "Enroll in Python Full Stack Training in Chandigarh at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -2805,7 +2805,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Punjab / Haryana, India",
     "targetRoute": "/java-full-stack-training-in-chandigarh",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Java Full Stack Training in Chandigarh | LearnMore Technologies",
+    "seoTitle": "Java Full Stack Training in Chandigarh",
     "metaDescription": "Enroll in Java Full Stack Training in Chandigarh at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -2822,7 +2822,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Punjab / Haryana, India",
     "targetRoute": "/java-training-in-chandigarh",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Java Training in Chandigarh | LearnMore Technologies",
+    "seoTitle": "Java Training in Chandigarh",
     "metaDescription": "Enroll in Java Training in Chandigarh at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -2839,7 +2839,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Punjab / Haryana, India",
     "targetRoute": "/power-bi-training-in-chandigarh",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Power BI Training in Chandigarh | LearnMore Technologies",
+    "seoTitle": "Power BI Training in Chandigarh",
     "metaDescription": "Enroll in Power BI Training in Chandigarh at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -2856,7 +2856,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Punjab / Haryana, India",
     "targetRoute": "/data-science-training-in-chandigarh",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Data Science Training in Chandigarh | LearnMore Technologies",
+    "seoTitle": "Data Science Training in Chandigarh",
     "metaDescription": "Enroll in Data Science Training in Chandigarh at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -2873,7 +2873,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Punjab / Haryana, India",
     "targetRoute": "/software-testing-training-in-chandigarh",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Software Testing Training in Chandigarh | LearnMore Technologies",
+    "seoTitle": "Software Testing Training in Chandigarh",
     "metaDescription": "Enroll in Software Testing Training in Chandigarh at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -2890,7 +2890,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Punjab / Haryana, India",
     "targetRoute": "/devops-training-in-chandigarh",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "DevOps Training in Chandigarh | LearnMore Technologies",
+    "seoTitle": "DevOps Training in Chandigarh",
     "metaDescription": "Enroll in DevOps Training in Chandigarh at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -2907,25 +2907,25 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Punjab / Haryana, India",
     "targetRoute": "/python-training-in-chandigarh",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Python Training in Chandigarh | LearnMore Technologies",
+    "seoTitle": "Python Training in Chandigarh",
     "metaDescription": "Enroll in Python Training in Chandigarh at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "43066",
-    "postTitle": "AWS Training in Chandigarh",
+    "postTitle": "AWS Cloud Training in Chandigarh",
     "postName": "aws-training-in-chandigarh",
     "originalUrl": "https://learnmoretechnologies.in/aws-training-in-chandigarh/",
     "slug": "aws-training-in-chandigarh",
     "pageType": "COURSE_LOCATION",
-    "courseName": "AWS",
+    "courseName": "AWS Cloud",
     "courseSlug": "aws-training",
     "locationSlug": "chandigarh",
     "locationName": "Chandigarh",
     "countryOrRegion": "Punjab / Haryana, India",
     "targetRoute": "/aws-training-in-chandigarh",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "AWS Training in Chandigarh | LearnMore Technologies",
-    "metaDescription": "Enroll in AWS Training in Chandigarh at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
+    "seoTitle": "AWS Cloud Training in Chandigarh",
+    "metaDescription": "Enroll in AWS Cloud Training in Chandigarh at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "43059",
@@ -2941,7 +2941,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Bihar, India",
     "targetRoute": "/microsoft-azure-training-in-patna",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Microsoft Azure Training in Patna | LearnMore Technologies",
+    "seoTitle": "Microsoft Azure Training in Patna",
     "metaDescription": "Enroll in Microsoft Azure Training in Patna at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -2958,7 +2958,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Bihar, India",
     "targetRoute": "/data-analytics-training-in-patna",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Data Analytics Training in Patna | LearnMore Technologies",
+    "seoTitle": "Data Analytics Training in Patna",
     "metaDescription": "Enroll in Data Analytics Training in Patna at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -2975,7 +2975,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Bihar, India",
     "targetRoute": "/python-full-stack-training-in-patna",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Python Full Stack Training in Patna | LearnMore Technologies",
+    "seoTitle": "Python Full Stack Training in Patna",
     "metaDescription": "Enroll in Python Full Stack Training in Patna at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -2992,7 +2992,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Bihar, India",
     "targetRoute": "/java-full-stack-training-in-patna",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Java Full Stack Training in Patna | LearnMore Technologies",
+    "seoTitle": "Java Full Stack Training in Patna",
     "metaDescription": "Enroll in Java Full Stack Training in Patna at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -3009,7 +3009,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Bihar, India",
     "targetRoute": "/java-training-in-patna",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Java Training in Patna | LearnMore Technologies",
+    "seoTitle": "Java Training in Patna",
     "metaDescription": "Enroll in Java Training in Patna at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -3026,7 +3026,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Bihar, India",
     "targetRoute": "/power-bi-training-in-patna",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Power BI Training in Patna | LearnMore Technologies",
+    "seoTitle": "Power BI Training in Patna",
     "metaDescription": "Enroll in Power BI Training in Patna at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -3043,7 +3043,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Bihar, India",
     "targetRoute": "/data-science-training-in-patna",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Data Science Training in Patna | LearnMore Technologies",
+    "seoTitle": "Data Science Training in Patna",
     "metaDescription": "Enroll in Data Science Training in Patna at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -3060,7 +3060,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Bihar, India",
     "targetRoute": "/software-testing-training-in-patna",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Software Testing Training in Patna | LearnMore Technologies",
+    "seoTitle": "Software Testing Training in Patna",
     "metaDescription": "Enroll in Software Testing Training in Patna at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -3077,12 +3077,12 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Bihar, India",
     "targetRoute": "/devops-training-in-patna",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "DevOps Training in Patna | LearnMore Technologies",
+    "seoTitle": "DevOps Training in Patna",
     "metaDescription": "Enroll in DevOps Training in Patna at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "43000",
-    "postTitle": "Python training in Patna",
+    "postTitle": "Python Training in Patna",
     "postName": "python-training-in-patna",
     "originalUrl": "https://learnmoretechnologies.in/python-training-in-patna/",
     "slug": "python-training-in-patna",
@@ -3094,25 +3094,25 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Bihar, India",
     "targetRoute": "/python-training-in-patna",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Python training in Patna | LearnMore Technologies",
-    "metaDescription": "Enroll in Python training in Patna at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
+    "seoTitle": "Python Training in Patna",
+    "metaDescription": "Enroll in Python Training in Patna at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "42994",
-    "postTitle": "AWS Training in Patna",
+    "postTitle": "AWS Cloud Training in Patna",
     "postName": "aws-training-in-patna",
     "originalUrl": "https://learnmoretechnologies.in/aws-training-in-patna/",
     "slug": "aws-training-in-patna",
     "pageType": "COURSE_LOCATION",
-    "courseName": "AWS",
+    "courseName": "AWS Cloud",
     "courseSlug": "aws-training",
     "locationSlug": "patna",
     "locationName": "Patna",
     "countryOrRegion": "Bihar, India",
     "targetRoute": "/aws-training-in-patna",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "AWS Training in Patna | LearnMore Technologies",
-    "metaDescription": "Enroll in AWS Training in Patna at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
+    "seoTitle": "AWS Cloud Training in Patna",
+    "metaDescription": "Enroll in AWS Cloud Training in Patna at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "42944",
@@ -3128,7 +3128,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Europe (Global)",
     "targetRoute": "/software-testing-training-in-germany",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Software Testing Training in Germany | LearnMore Technologies",
+    "seoTitle": "Software Testing Training in Germany",
     "metaDescription": "Enroll in Software Testing Training in Germany at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -3145,12 +3145,12 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Europe (Global)",
     "targetRoute": "/devops-training-in-germany",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "DevOps Training in Germany | LearnMore Technologies",
+    "seoTitle": "DevOps Training in Germany",
     "metaDescription": "Enroll in DevOps Training in Germany at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "42888",
-    "postTitle": "Python training in Germany",
+    "postTitle": "Python Training in Germany",
     "postName": "python-training-in-germany",
     "originalUrl": "https://learnmoretechnologies.in/python-training-in-germany/",
     "slug": "python-training-in-germany",
@@ -3162,29 +3162,29 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Europe (Global)",
     "targetRoute": "/python-training-in-germany",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Python training in Germany | LearnMore Technologies",
-    "metaDescription": "Enroll in Python training in Germany at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
+    "seoTitle": "Python Training in Germany",
+    "metaDescription": "Enroll in Python Training in Germany at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "42862",
-    "postTitle": "AWS training in Germany",
+    "postTitle": "AWS Cloud Training in Germany",
     "postName": "aws-training-in-germany",
     "originalUrl": "https://learnmoretechnologies.in/aws-training-in-germany/",
     "slug": "aws-training-in-germany",
     "pageType": "COURSE_LOCATION",
-    "courseName": "AWS",
+    "courseName": "AWS Cloud",
     "courseSlug": "aws-training",
     "locationSlug": "germany",
     "locationName": "Germany",
     "countryOrRegion": "Europe (Global)",
     "targetRoute": "/aws-training-in-germany",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "AWS training in Germany | LearnMore Technologies",
-    "metaDescription": "Enroll in AWS training in Germany at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
+    "seoTitle": "AWS Cloud Training in Germany",
+    "metaDescription": "Enroll in AWS Cloud Training in Germany at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "42836",
-    "postTitle": "Microsoft Azure training in Australia",
+    "postTitle": "Microsoft Azure Training in Australia",
     "postName": "microsoft-azure-training-in-australia",
     "originalUrl": "https://learnmoretechnologies.in/microsoft-azure-training-in-australia/",
     "slug": "microsoft-azure-training-in-australia",
@@ -3196,8 +3196,8 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Oceania (Global)",
     "targetRoute": "/microsoft-azure-training-in-australia",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Microsoft Azure training in Australia | LearnMore Technologies",
-    "metaDescription": "Enroll in Microsoft Azure training in Australia at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
+    "seoTitle": "Microsoft Azure Training in Australia",
+    "metaDescription": "Enroll in Microsoft Azure Training in Australia at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "42804",
@@ -3213,7 +3213,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Oceania (Global)",
     "targetRoute": "/data-analytics-training-in-australia",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Data Analytics Training in Australia | LearnMore Technologies",
+    "seoTitle": "Data Analytics Training in Australia",
     "metaDescription": "Enroll in Data Analytics Training in Australia at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -3230,7 +3230,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Oceania (Global)",
     "targetRoute": "/python-full-stack-training-in-australia",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Python Full Stack Training in Australia | LearnMore Technologies",
+    "seoTitle": "Python Full Stack Training in Australia",
     "metaDescription": "Enroll in Python Full Stack Training in Australia at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -3247,7 +3247,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Oceania (Global)",
     "targetRoute": "/java-full-stack-training-in-australia",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Java Full Stack Training in Australia | LearnMore Technologies",
+    "seoTitle": "Java Full Stack Training in Australia",
     "metaDescription": "Enroll in Java Full Stack Training in Australia at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -3264,7 +3264,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Oceania (Global)",
     "targetRoute": "/java-training-in-australia",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Java Training in Australia | LearnMore Technologies",
+    "seoTitle": "Java Training in Australia",
     "metaDescription": "Enroll in Java Training in Australia at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -3281,7 +3281,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Oceania (Global)",
     "targetRoute": "/power-bi-training-in-australia",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Power BI Training in Australia | LearnMore Technologies",
+    "seoTitle": "Power BI Training in Australia",
     "metaDescription": "Enroll in Power BI Training in Australia at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -3298,7 +3298,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Oceania (Global)",
     "targetRoute": "/data-science-training-in-australia",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Data Science Training in Australia | LearnMore Technologies",
+    "seoTitle": "Data Science Training in Australia",
     "metaDescription": "Enroll in Data Science Training in Australia at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -3315,7 +3315,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Oceania (Global)",
     "targetRoute": "/software-testing-training-in-australia",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Software Testing Training in Australia | LearnMore Technologies",
+    "seoTitle": "Software Testing Training in Australia",
     "metaDescription": "Enroll in Software Testing Training in Australia at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -3332,7 +3332,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Oceania (Global)",
     "targetRoute": "/devops-training-in-australia",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "DevOps Training in Australia | LearnMore Technologies",
+    "seoTitle": "DevOps Training in Australia",
     "metaDescription": "Enroll in DevOps Training in Australia at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -3349,25 +3349,25 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Oceania (Global)",
     "targetRoute": "/python-training-in-australia",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Python Training in Australia | LearnMore Technologies",
+    "seoTitle": "Python Training in Australia",
     "metaDescription": "Enroll in Python Training in Australia at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "42445",
-    "postTitle": "AWS Training in Australia",
+    "postTitle": "AWS Cloud Training in Australia",
     "postName": "aws-training-in-australia",
     "originalUrl": "https://learnmoretechnologies.in/aws-training-in-australia/",
     "slug": "aws-training-in-australia",
     "pageType": "COURSE_LOCATION",
-    "courseName": "AWS",
+    "courseName": "AWS Cloud",
     "courseSlug": "aws-training",
     "locationSlug": "australia",
     "locationName": "Australia",
     "countryOrRegion": "Oceania (Global)",
     "targetRoute": "/aws-training-in-australia",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "AWS Training in Australia | LearnMore Technologies",
-    "metaDescription": "Enroll in AWS Training in Australia at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
+    "seoTitle": "AWS Cloud Training in Australia",
+    "metaDescription": "Enroll in AWS Cloud Training in Australia at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "42409",
@@ -3383,7 +3383,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "South America (Global)",
     "targetRoute": "/microsoft-azure-training-in-guyana",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Microsoft Azure Training in Guyana | LearnMore Technologies",
+    "seoTitle": "Microsoft Azure Training in Guyana",
     "metaDescription": "Enroll in Microsoft Azure Training in Guyana at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -3400,7 +3400,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "South America (Global)",
     "targetRoute": "/data-analytics-training-in-guyana",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Data Analytics Training in Guyana | LearnMore Technologies",
+    "seoTitle": "Data Analytics Training in Guyana",
     "metaDescription": "Enroll in Data Analytics Training in Guyana at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -3417,7 +3417,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "South America (Global)",
     "targetRoute": "/python-full-stack-training-in-guyana",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Python Full Stack Training in Guyana | LearnMore Technologies",
+    "seoTitle": "Python Full Stack Training in Guyana",
     "metaDescription": "Enroll in Python Full Stack Training in Guyana at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -3434,7 +3434,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "South America (Global)",
     "targetRoute": "/java-full-stack-training-in-guyana",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Java Full Stack Training in Guyana | LearnMore Technologies",
+    "seoTitle": "Java Full Stack Training in Guyana",
     "metaDescription": "Enroll in Java Full Stack Training in Guyana at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -3451,7 +3451,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "South America (Global)",
     "targetRoute": "/java-training-in-guyana",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Java Training in Guyana | LearnMore Technologies",
+    "seoTitle": "Java Training in Guyana",
     "metaDescription": "Enroll in Java Training in Guyana at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -3468,7 +3468,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "South America (Global)",
     "targetRoute": "/power-bi-training-in-guyana",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Power BI Training in Guyana | LearnMore Technologies",
+    "seoTitle": "Power BI Training in Guyana",
     "metaDescription": "Enroll in Power BI Training in Guyana at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -3485,7 +3485,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "South America (Global)",
     "targetRoute": "/data-science-training-in-guyana",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Data Science Training in Guyana | LearnMore Technologies",
+    "seoTitle": "Data Science Training in Guyana",
     "metaDescription": "Enroll in Data Science Training in Guyana at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -3502,7 +3502,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "South America (Global)",
     "targetRoute": "/software-testing-training-in-guyana",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Software Testing Training in Guyana | LearnMore Technologies",
+    "seoTitle": "Software Testing Training in Guyana",
     "metaDescription": "Enroll in Software Testing Training in Guyana at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -3519,12 +3519,12 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "South America (Global)",
     "targetRoute": "/devops-training-in-guyana",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "DevOps Training in Guyana | LearnMore Technologies",
+    "seoTitle": "DevOps Training in Guyana",
     "metaDescription": "Enroll in DevOps Training in Guyana at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "42143",
-    "postTitle": "Python training in Guyana",
+    "postTitle": "Python Training in Guyana",
     "postName": "python-training-in-guyana",
     "originalUrl": "https://learnmoretechnologies.in/python-training-in-guyana/",
     "slug": "python-training-in-guyana",
@@ -3536,25 +3536,25 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "South America (Global)",
     "targetRoute": "/python-training-in-guyana",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Python training in Guyana | LearnMore Technologies",
-    "metaDescription": "Enroll in Python training in Guyana at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
+    "seoTitle": "Python Training in Guyana",
+    "metaDescription": "Enroll in Python Training in Guyana at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "42114",
-    "postTitle": "AWS Training in Guyana",
+    "postTitle": "AWS Cloud Training in Guyana",
     "postName": "aws-training-in-guyana",
     "originalUrl": "https://learnmoretechnologies.in/aws-training-in-guyana/",
     "slug": "aws-training-in-guyana",
     "pageType": "COURSE_LOCATION",
-    "courseName": "AWS",
+    "courseName": "AWS Cloud",
     "courseSlug": "aws-training",
     "locationSlug": "guyana",
     "locationName": "Guyana",
     "countryOrRegion": "South America (Global)",
     "targetRoute": "/aws-training-in-guyana",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "AWS Training in Guyana | LearnMore Technologies",
-    "metaDescription": "Enroll in AWS Training in Guyana at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
+    "seoTitle": "AWS Cloud Training in Guyana",
+    "metaDescription": "Enroll in AWS Cloud Training in Guyana at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "42085",
@@ -3570,7 +3570,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Southeast Asia (Global)",
     "targetRoute": "/microsoft-azure-training-in-brunei",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Microsoft Azure Training in Brunei | LearnMore Technologies",
+    "seoTitle": "Microsoft Azure Training in Brunei",
     "metaDescription": "Enroll in Microsoft Azure Training in Brunei at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -3587,7 +3587,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Southeast Asia (Global)",
     "targetRoute": "/data-analytics-training-in-brunei",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Data Analytics Training in Brunei | LearnMore Technologies",
+    "seoTitle": "Data Analytics Training in Brunei",
     "metaDescription": "Enroll in Data Analytics Training in Brunei at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -3604,7 +3604,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Southeast Asia (Global)",
     "targetRoute": "/python-full-stack-training-in-brunei",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Python Full Stack Training in Brunei | LearnMore Technologies",
+    "seoTitle": "Python Full Stack Training in Brunei",
     "metaDescription": "Enroll in Python Full Stack Training in Brunei at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -3621,7 +3621,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Southeast Asia (Global)",
     "targetRoute": "/java-full-stack-training-in-brunei",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Java Full Stack Training in Brunei | LearnMore Technologies",
+    "seoTitle": "Java Full Stack Training in Brunei",
     "metaDescription": "Enroll in Java Full Stack Training in Brunei at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -3638,7 +3638,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Southeast Asia (Global)",
     "targetRoute": "/java-training-in-brunei",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Java Training in Brunei | LearnMore Technologies",
+    "seoTitle": "Java Training in Brunei",
     "metaDescription": "Enroll in Java Training in Brunei at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -3655,7 +3655,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Southeast Asia (Global)",
     "targetRoute": "/power-bi-training-in-brunei",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Power BI Training in Brunei | LearnMore Technologies",
+    "seoTitle": "Power BI Training in Brunei",
     "metaDescription": "Enroll in Power BI Training in Brunei at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -3672,7 +3672,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Southeast Asia (Global)",
     "targetRoute": "/data-science-training-in-brunei",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Data Science Training in Brunei | LearnMore Technologies",
+    "seoTitle": "Data Science Training in Brunei",
     "metaDescription": "Enroll in Data Science Training in Brunei at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -3689,7 +3689,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Southeast Asia (Global)",
     "targetRoute": "/software-testing-training-in-brunei",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Software Testing Training in Brunei | LearnMore Technologies",
+    "seoTitle": "Software Testing Training in Brunei",
     "metaDescription": "Enroll in Software Testing Training in Brunei at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -3706,7 +3706,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Southeast Asia (Global)",
     "targetRoute": "/devops-training-in-brunei",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "DevOps Training in Brunei | LearnMore Technologies",
+    "seoTitle": "DevOps Training in Brunei",
     "metaDescription": "Enroll in DevOps Training in Brunei at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -3723,25 +3723,25 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Southeast Asia (Global)",
     "targetRoute": "/python-training-in-brunei",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Python Training in Brunei | LearnMore Technologies",
+    "seoTitle": "Python Training in Brunei",
     "metaDescription": "Enroll in Python Training in Brunei at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "41771",
-    "postTitle": "AWS Training in Brunei",
+    "postTitle": "AWS Cloud Training in Brunei",
     "postName": "aws-training-in-brunei",
     "originalUrl": "https://learnmoretechnologies.in/aws-training-in-brunei/",
     "slug": "aws-training-in-brunei",
     "pageType": "COURSE_LOCATION",
-    "courseName": "AWS",
+    "courseName": "AWS Cloud",
     "courseSlug": "aws-training",
     "locationSlug": "brunei",
     "locationName": "Brunei",
     "countryOrRegion": "Southeast Asia (Global)",
     "targetRoute": "/aws-training-in-brunei",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "AWS Training in Brunei | LearnMore Technologies",
-    "metaDescription": "Enroll in AWS Training in Brunei at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
+    "seoTitle": "AWS Cloud Training in Brunei",
+    "metaDescription": "Enroll in AWS Cloud Training in Brunei at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "41741",
@@ -3757,7 +3757,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Maharashtra, India",
     "targetRoute": "/microsoft-azure-training-in-mumbai",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Microsoft Azure Training in Mumbai | LearnMore Technologies",
+    "seoTitle": "Microsoft Azure Training in Mumbai",
     "metaDescription": "Enroll in Microsoft Azure Training in Mumbai at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -3774,7 +3774,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Maharashtra, India",
     "targetRoute": "/data-analytics-training-in-mumbai",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Data Analytics Training in Mumbai | LearnMore Technologies",
+    "seoTitle": "Data Analytics Training in Mumbai",
     "metaDescription": "Enroll in Data Analytics Training in Mumbai at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -3791,7 +3791,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Maharashtra, India",
     "targetRoute": "/python-full-stack-training-in-mumbai",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Python Full Stack Training in Mumbai | LearnMore Technologies",
+    "seoTitle": "Python Full Stack Training in Mumbai",
     "metaDescription": "Enroll in Python Full Stack Training in Mumbai at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -3808,7 +3808,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Maharashtra, India",
     "targetRoute": "/java-full-stack-training-in-mumbai",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Java Full Stack Training in Mumbai | LearnMore Technologies",
+    "seoTitle": "Java Full Stack Training in Mumbai",
     "metaDescription": "Enroll in Java Full Stack Training in Mumbai at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -3825,7 +3825,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Maharashtra, India",
     "targetRoute": "/java-training-in-mumbai",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Java Training in Mumbai | LearnMore Technologies",
+    "seoTitle": "Java Training in Mumbai",
     "metaDescription": "Enroll in Java Training in Mumbai at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -3842,7 +3842,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Maharashtra, India",
     "targetRoute": "/power-bi-training-in-mumbai",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Power BI Training in Mumbai | LearnMore Technologies",
+    "seoTitle": "Power BI Training in Mumbai",
     "metaDescription": "Enroll in Power BI Training in Mumbai at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -3859,7 +3859,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Maharashtra, India",
     "targetRoute": "/data-science-training-in-mumbai",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Data Science Training in Mumbai | LearnMore Technologies",
+    "seoTitle": "Data Science Training in Mumbai",
     "metaDescription": "Enroll in Data Science Training in Mumbai at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -3876,7 +3876,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Maharashtra, India",
     "targetRoute": "/devops-training-in-mumbai",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "DevOps Training in Mumbai | LearnMore Technologies",
+    "seoTitle": "DevOps Training in Mumbai",
     "metaDescription": "Enroll in DevOps Training in Mumbai at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -3893,25 +3893,25 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Maharashtra, India",
     "targetRoute": "/python-training-in-mumbai",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Python Training in Mumbai | LearnMore Technologies",
+    "seoTitle": "Python Training in Mumbai",
     "metaDescription": "Enroll in Python Training in Mumbai at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "41426",
-    "postTitle": "AWS Training in Mumbai",
+    "postTitle": "AWS Cloud Training in Mumbai",
     "postName": "aws-training-in-mumbai",
     "originalUrl": "https://learnmoretechnologies.in/aws-training-in-mumbai/",
     "slug": "aws-training-in-mumbai",
     "pageType": "COURSE_LOCATION",
-    "courseName": "AWS",
+    "courseName": "AWS Cloud",
     "courseSlug": "aws-training",
     "locationSlug": "mumbai",
     "locationName": "Mumbai",
     "countryOrRegion": "Maharashtra, India",
     "targetRoute": "/aws-training-in-mumbai",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "AWS Training in Mumbai | LearnMore Technologies",
-    "metaDescription": "Enroll in AWS Training in Mumbai at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
+    "seoTitle": "AWS Cloud Training in Mumbai",
+    "metaDescription": "Enroll in AWS Cloud Training in Mumbai at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "41394",
@@ -3927,12 +3927,12 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Rajasthan, India",
     "targetRoute": "/microsoft-azure-training-in-jaipur",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Microsoft Azure Training in Jaipur | LearnMore Technologies",
+    "seoTitle": "Microsoft Azure Training in Jaipur",
     "metaDescription": "Enroll in Microsoft Azure Training in Jaipur at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "41365",
-    "postTitle": "Data Analytics training in Jaipur",
+    "postTitle": "Data Analytics Training in Jaipur",
     "postName": "data-analytics-training-in-jaipur",
     "originalUrl": "https://learnmoretechnologies.in/data-analytics-training-in-jaipur/",
     "slug": "data-analytics-training-in-jaipur",
@@ -3944,8 +3944,8 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Rajasthan, India",
     "targetRoute": "/data-analytics-training-in-jaipur",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Data Analytics training in Jaipur | LearnMore Technologies",
-    "metaDescription": "Enroll in Data Analytics training in Jaipur at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
+    "seoTitle": "Data Analytics Training in Jaipur",
+    "metaDescription": "Enroll in Data Analytics Training in Jaipur at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "41333",
@@ -3961,7 +3961,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Rajasthan, India",
     "targetRoute": "/python-full-stack-training-in-jaipur",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Python Full Stack Training in Jaipur | LearnMore Technologies",
+    "seoTitle": "Python Full Stack Training in Jaipur",
     "metaDescription": "Enroll in Python Full Stack Training in Jaipur at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -3978,7 +3978,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Rajasthan, India",
     "targetRoute": "/java-full-stack-training-in-jaipur",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Java Full Stack Training in Jaipur | LearnMore Technologies",
+    "seoTitle": "Java Full Stack Training in Jaipur",
     "metaDescription": "Enroll in Java Full Stack Training in Jaipur at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -3995,7 +3995,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Europe (Global)",
     "targetRoute": "/microsoft-azure-training-in-austria",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Microsoft Azure Training in Austria | LearnMore Technologies",
+    "seoTitle": "Microsoft Azure Training in Austria",
     "metaDescription": "Enroll in Microsoft Azure Training in Austria at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -4012,7 +4012,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Europe (Global)",
     "targetRoute": "/data-analytics-training-in-austria",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Data Analytics Training in Austria | LearnMore Technologies",
+    "seoTitle": "Data Analytics Training in Austria",
     "metaDescription": "Enroll in Data Analytics Training in Austria at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -4029,7 +4029,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Europe (Global)",
     "targetRoute": "/python-full-stack-training-in-austria",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Python Full Stack Training in Austria | LearnMore Technologies",
+    "seoTitle": "Python Full Stack Training in Austria",
     "metaDescription": "Enroll in Python Full Stack Training in Austria at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -4046,7 +4046,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Europe (Global)",
     "targetRoute": "/java-full-stack-training-in-austria",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Java Full Stack Training in Austria | LearnMore Technologies",
+    "seoTitle": "Java Full Stack Training in Austria",
     "metaDescription": "Enroll in Java Full Stack Training in Austria at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -4063,7 +4063,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Europe (Global)",
     "targetRoute": "/java-training-in-austria",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Java Training in Austria | LearnMore Technologies",
+    "seoTitle": "Java Training in Austria",
     "metaDescription": "Enroll in Java Training in Austria at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -4080,7 +4080,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Europe (Global)",
     "targetRoute": "/power-bi-training-in-austria",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Power BI Training in Austria | LearnMore Technologies",
+    "seoTitle": "Power BI Training in Austria",
     "metaDescription": "Enroll in Power BI Training in Austria at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -4097,7 +4097,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Europe (Global)",
     "targetRoute": "/data-science-training-in-austria",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Data Science Training in Austria | LearnMore Technologies",
+    "seoTitle": "Data Science Training in Austria",
     "metaDescription": "Enroll in Data Science Training in Austria at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -4114,7 +4114,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Europe (Global)",
     "targetRoute": "/software-testing-training-in-austria",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Software Testing Training in Austria | LearnMore Technologies",
+    "seoTitle": "Software Testing Training in Austria",
     "metaDescription": "Enroll in Software Testing Training in Austria at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -4131,7 +4131,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Europe (Global)",
     "targetRoute": "/devops-training-in-austria",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "DevOps Training in Austria | LearnMore Technologies",
+    "seoTitle": "DevOps Training in Austria",
     "metaDescription": "Enroll in DevOps Training in Austria at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -4148,29 +4148,29 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Europe (Global)",
     "targetRoute": "/python-training-in-austria",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Python Training in Austria | LearnMore Technologies",
+    "seoTitle": "Python Training in Austria",
     "metaDescription": "Enroll in Python Training in Austria at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "40884",
-    "postTitle": "AWS Training in Austria",
+    "postTitle": "AWS Cloud Training in Austria",
     "postName": "aws-training-in-austria",
     "originalUrl": "https://learnmoretechnologies.in/aws-training-in-austria/",
     "slug": "aws-training-in-austria",
     "pageType": "COURSE_LOCATION",
-    "courseName": "AWS",
+    "courseName": "AWS Cloud",
     "courseSlug": "aws-training",
     "locationSlug": "austria",
     "locationName": "Austria",
     "countryOrRegion": "Europe (Global)",
     "targetRoute": "/aws-training-in-austria",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "AWS Training in Austria | LearnMore Technologies",
-    "metaDescription": "Enroll in AWS Training in Austria at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
+    "seoTitle": "AWS Cloud Training in Austria",
+    "metaDescription": "Enroll in AWS Cloud Training in Austria at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "40853",
-    "postTitle": "Microsoft Azure training in Chennai",
+    "postTitle": "Microsoft Azure Training in Chennai",
     "postName": "microsoft-azure-training-in-chennai",
     "originalUrl": "https://learnmoretechnologies.in/microsoft-azure-training-in-chennai/",
     "slug": "microsoft-azure-training-in-chennai",
@@ -4182,12 +4182,12 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Tamil Nadu, India",
     "targetRoute": "/microsoft-azure-training-in-chennai",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Microsoft Azure training in Chennai | LearnMore Technologies",
-    "metaDescription": "Enroll in Microsoft Azure training in Chennai at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
+    "seoTitle": "Microsoft Azure Training in Chennai",
+    "metaDescription": "Enroll in Microsoft Azure Training in Chennai at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "40827",
-    "postTitle": "Data Analytics training in Chennai",
+    "postTitle": "Data Analytics Training in Chennai",
     "postName": "data-analytics-training-in-chennai",
     "originalUrl": "https://learnmoretechnologies.in/data-analytics-training-in-chennai/",
     "slug": "data-analytics-training-in-chennai",
@@ -4199,8 +4199,8 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Tamil Nadu, India",
     "targetRoute": "/data-analytics-training-in-chennai",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Data Analytics training in Chennai | LearnMore Technologies",
-    "metaDescription": "Enroll in Data Analytics training in Chennai at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
+    "seoTitle": "Data Analytics Training in Chennai",
+    "metaDescription": "Enroll in Data Analytics Training in Chennai at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "40798",
@@ -4216,7 +4216,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Tamil Nadu, India",
     "targetRoute": "/python-full-stack-training-in-chennai",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Python Full Stack Training in Chennai | LearnMore Technologies",
+    "seoTitle": "Python Full Stack Training in Chennai",
     "metaDescription": "Enroll in Python Full Stack Training in Chennai at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -4233,7 +4233,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Tamil Nadu, India",
     "targetRoute": "/java-full-stack-training-in-chennai",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Java Full Stack Training in Chennai | LearnMore Technologies",
+    "seoTitle": "Java Full Stack Training in Chennai",
     "metaDescription": "Enroll in Java Full Stack Training in Chennai at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -4250,7 +4250,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Tamil Nadu, India",
     "targetRoute": "/java-training-in-chennai",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Java Training in Chennai | LearnMore Technologies",
+    "seoTitle": "Java Training in Chennai",
     "metaDescription": "Enroll in Java Training in Chennai at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -4267,7 +4267,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Tamil Nadu, India",
     "targetRoute": "/power-bi-training-in-chennai",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Power BI Training in Chennai | LearnMore Technologies",
+    "seoTitle": "Power BI Training in Chennai",
     "metaDescription": "Enroll in Power BI Training in Chennai at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -4284,7 +4284,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Tamil Nadu, India",
     "targetRoute": "/data-science-training-in-chennai",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Data Science Training in Chennai | LearnMore Technologies",
+    "seoTitle": "Data Science Training in Chennai",
     "metaDescription": "Enroll in Data Science Training in Chennai at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -4301,7 +4301,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Tamil Nadu, India",
     "targetRoute": "/software-testing-training-in-chennai",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Software Testing Training in Chennai | LearnMore Technologies",
+    "seoTitle": "Software Testing Training in Chennai",
     "metaDescription": "Enroll in Software Testing Training in Chennai at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -4318,7 +4318,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Tamil Nadu, India",
     "targetRoute": "/devops-training-in-chennai",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "DevOps Training in Chennai | LearnMore Technologies",
+    "seoTitle": "DevOps Training in Chennai",
     "metaDescription": "Enroll in DevOps Training in Chennai at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -4335,25 +4335,25 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Tamil Nadu, India",
     "targetRoute": "/python-training-in-chennai",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Python Training in Chennai | LearnMore Technologies",
+    "seoTitle": "Python Training in Chennai",
     "metaDescription": "Enroll in Python Training in Chennai at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "40535",
-    "postTitle": "AWS Training in Chennai",
+    "postTitle": "AWS Cloud Training in Chennai",
     "postName": "aws-training-in-chennai",
     "originalUrl": "https://learnmoretechnologies.in/aws-training-in-chennai/",
     "slug": "aws-training-in-chennai",
     "pageType": "COURSE_LOCATION",
-    "courseName": "AWS",
+    "courseName": "AWS Cloud",
     "courseSlug": "aws-training",
     "locationSlug": "chennai",
     "locationName": "Chennai",
     "countryOrRegion": "Tamil Nadu, India",
     "targetRoute": "/aws-training-in-chennai",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "AWS Training in Chennai | LearnMore Technologies",
-    "metaDescription": "Enroll in AWS Training in Chennai at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
+    "seoTitle": "AWS Cloud Training in Chennai",
+    "metaDescription": "Enroll in AWS Cloud Training in Chennai at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "40421",
@@ -4369,7 +4369,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Rajasthan, India",
     "targetRoute": "/java-training-in-jaipur",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Java Training in Jaipur | LearnMore Technologies",
+    "seoTitle": "Java Training in Jaipur",
     "metaDescription": "Enroll in Java Training in Jaipur at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -4386,7 +4386,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Rajasthan, India",
     "targetRoute": "/power-bi-training-in-jaipur",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Power BI Training in Jaipur | LearnMore Technologies",
+    "seoTitle": "Power BI Training in Jaipur",
     "metaDescription": "Enroll in Power BI Training in Jaipur at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -4403,7 +4403,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Rajasthan, India",
     "targetRoute": "/data-science-training-in-jaipur",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Data Science Training in Jaipur | LearnMore Technologies",
+    "seoTitle": "Data Science Training in Jaipur",
     "metaDescription": "Enroll in Data Science Training in Jaipur at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -4420,7 +4420,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Rajasthan, India",
     "targetRoute": "/software-testing-training-in-jaipur",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Software Testing Training in Jaipur | LearnMore Technologies",
+    "seoTitle": "Software Testing Training in Jaipur",
     "metaDescription": "Enroll in Software Testing Training in Jaipur at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -4437,12 +4437,12 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Rajasthan, India",
     "targetRoute": "/devops-training-in-jaipur",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "DevOps Training in Jaipur | LearnMore Technologies",
+    "seoTitle": "DevOps Training in Jaipur",
     "metaDescription": "Enroll in DevOps Training in Jaipur at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "40250",
-    "postTitle": "Python training in Jaipur",
+    "postTitle": "Python Training in Jaipur",
     "postName": "python-training-in-jaipur",
     "originalUrl": "https://learnmoretechnologies.in/python-training-in-jaipur/",
     "slug": "python-training-in-jaipur",
@@ -4454,29 +4454,29 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Rajasthan, India",
     "targetRoute": "/python-training-in-jaipur",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Python training in Jaipur | LearnMore Technologies",
-    "metaDescription": "Enroll in Python training in Jaipur at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
+    "seoTitle": "Python Training in Jaipur",
+    "metaDescription": "Enroll in Python Training in Jaipur at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "40214",
-    "postTitle": "AWS Training in Jaipur",
+    "postTitle": "AWS Cloud Training in Jaipur",
     "postName": "aws-training-in-jaipur",
     "originalUrl": "https://learnmoretechnologies.in/aws-training-in-jaipur/",
     "slug": "aws-training-in-jaipur",
     "pageType": "COURSE_LOCATION",
-    "courseName": "AWS",
+    "courseName": "AWS Cloud",
     "courseSlug": "aws-training",
     "locationSlug": "jaipur",
     "locationName": "Jaipur",
     "countryOrRegion": "Rajasthan, India",
     "targetRoute": "/aws-training-in-jaipur",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "AWS Training in Jaipur | LearnMore Technologies",
-    "metaDescription": "Enroll in AWS Training in Jaipur at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
+    "seoTitle": "AWS Cloud Training in Jaipur",
+    "metaDescription": "Enroll in AWS Cloud Training in Jaipur at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "40182",
-    "postTitle": "Microsoft Azure training in Switzerland",
+    "postTitle": "Microsoft Azure Training in Switzerland",
     "postName": "microsoft-azure-training-in-switzerland",
     "originalUrl": "https://learnmoretechnologies.in/microsoft-azure-training-in-switzerland/",
     "slug": "microsoft-azure-training-in-switzerland",
@@ -4488,12 +4488,12 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Europe (Global)",
     "targetRoute": "/microsoft-azure-training-in-switzerland",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Microsoft Azure training in Switzerland | LearnMore Technologies",
-    "metaDescription": "Enroll in Microsoft Azure training in Switzerland at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
+    "seoTitle": "Microsoft Azure Training in Switzerland",
+    "metaDescription": "Enroll in Microsoft Azure Training in Switzerland at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "40146",
-    "postTitle": "Data Analytics training in Switzerland",
+    "postTitle": "Data Analytics Training in Switzerland",
     "postName": "data-analytics-training-in-switzerland",
     "originalUrl": "https://learnmoretechnologies.in/data-analytics-training-in-switzerland/",
     "slug": "data-analytics-training-in-switzerland",
@@ -4505,8 +4505,8 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Europe (Global)",
     "targetRoute": "/data-analytics-training-in-switzerland",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Data Analytics training in Switzerland | LearnMore Technologies",
-    "metaDescription": "Enroll in Data Analytics training in Switzerland at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
+    "seoTitle": "Data Analytics Training in Switzerland",
+    "metaDescription": "Enroll in Data Analytics Training in Switzerland at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "40114",
@@ -4522,7 +4522,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Europe (Global)",
     "targetRoute": "/python-full-stack-training-in-switzerland",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Python Full Stack Training in Switzerland | LearnMore Technologies",
+    "seoTitle": "Python Full Stack Training in Switzerland",
     "metaDescription": "Enroll in Python Full Stack Training in Switzerland at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -4539,7 +4539,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Europe (Global)",
     "targetRoute": "/java-full-stack-training-in-switzerland",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Java Full Stack Training in Switzerland | LearnMore Technologies",
+    "seoTitle": "Java Full Stack Training in Switzerland",
     "metaDescription": "Enroll in Java Full Stack Training in Switzerland at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -4556,7 +4556,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Europe (Global)",
     "targetRoute": "/java-training-in-switzerland",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Java Training in Switzerland | LearnMore Technologies",
+    "seoTitle": "Java Training in Switzerland",
     "metaDescription": "Enroll in Java Training in Switzerland at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -4573,7 +4573,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Europe (Global)",
     "targetRoute": "/power-bi-training-in-switzerland",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Power BI Training in Switzerland | LearnMore Technologies",
+    "seoTitle": "Power BI Training in Switzerland",
     "metaDescription": "Enroll in Power BI Training in Switzerland at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -4590,12 +4590,12 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Europe (Global)",
     "targetRoute": "/data-science-training-in-switzerland",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Data Science Training in Switzerland | LearnMore Technologies",
+    "seoTitle": "Data Science Training in Switzerland",
     "metaDescription": "Enroll in Data Science Training in Switzerland at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "39953",
-    "postTitle": "Microsoft Azure training in Ahmedabad",
+    "postTitle": "Microsoft Azure Training in Ahmedabad",
     "postName": "microsoft-azure-training-in-ahmedabad",
     "originalUrl": "https://learnmoretechnologies.in/microsoft-azure-training-in-ahmedabad/",
     "slug": "microsoft-azure-training-in-ahmedabad",
@@ -4607,12 +4607,12 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Gujarat, India",
     "targetRoute": "/microsoft-azure-training-in-ahmedabad",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Microsoft Azure training in Ahmedabad | LearnMore Technologies",
-    "metaDescription": "Enroll in Microsoft Azure training in Ahmedabad at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
+    "seoTitle": "Microsoft Azure Training in Ahmedabad",
+    "metaDescription": "Enroll in Microsoft Azure Training in Ahmedabad at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "39921",
-    "postTitle": "Data Analytics training in Ahmedabad",
+    "postTitle": "Data Analytics Training in Ahmedabad",
     "postName": "data-analytics-training-in-ahmedabad",
     "originalUrl": "https://learnmoretechnologies.in/data-analytics-training-in-ahmedabad/",
     "slug": "data-analytics-training-in-ahmedabad",
@@ -4624,8 +4624,8 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Gujarat, India",
     "targetRoute": "/data-analytics-training-in-ahmedabad",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Data Analytics training in Ahmedabad | LearnMore Technologies",
-    "metaDescription": "Enroll in Data Analytics training in Ahmedabad at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
+    "seoTitle": "Data Analytics Training in Ahmedabad",
+    "metaDescription": "Enroll in Data Analytics Training in Ahmedabad at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "39886",
@@ -4641,7 +4641,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Gujarat, India",
     "targetRoute": "/python-full-stack-training-in-ahmedabad",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Python Full Stack Training in Ahmedabad | LearnMore Technologies",
+    "seoTitle": "Python Full Stack Training in Ahmedabad",
     "metaDescription": "Enroll in Python Full Stack Training in Ahmedabad at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -4658,7 +4658,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Gujarat, India",
     "targetRoute": "/java-full-stack-training-in-ahmedabad",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Java Full Stack Training in Ahmedabad | LearnMore Technologies",
+    "seoTitle": "Java Full Stack Training in Ahmedabad",
     "metaDescription": "Enroll in Java Full Stack Training in Ahmedabad at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -4675,7 +4675,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Gujarat, India",
     "targetRoute": "/java-training-in-ahmedabad",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Java Training in Ahmedabad | LearnMore Technologies",
+    "seoTitle": "Java Training in Ahmedabad",
     "metaDescription": "Enroll in Java Training in Ahmedabad at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -4692,7 +4692,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Gujarat, India",
     "targetRoute": "/power-bi-training-in-ahmedabad",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Power BI Training in Ahmedabad | LearnMore Technologies",
+    "seoTitle": "Power BI Training in Ahmedabad",
     "metaDescription": "Enroll in Power BI Training in Ahmedabad at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -4709,7 +4709,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Gujarat, India",
     "targetRoute": "/data-science-training-in-ahmedabad",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Data Science Training in Ahmedabad | LearnMore Technologies",
+    "seoTitle": "Data Science Training in Ahmedabad",
     "metaDescription": "Enroll in Data Science Training in Ahmedabad at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -4726,7 +4726,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Gujarat, India",
     "targetRoute": "/software-testing-training-in-ahmedabad",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Software Testing Training in Ahmedabad | LearnMore Technologies",
+    "seoTitle": "Software Testing Training in Ahmedabad",
     "metaDescription": "Enroll in Software Testing Training in Ahmedabad at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -4743,12 +4743,12 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Gujarat, India",
     "targetRoute": "/devops-training-in-ahmedabad",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "DevOps Training in Ahmedabad | LearnMore Technologies",
+    "seoTitle": "DevOps Training in Ahmedabad",
     "metaDescription": "Enroll in DevOps Training in Ahmedabad at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "39660",
-    "postTitle": "Python training in Ahmedabad",
+    "postTitle": "Python Training in Ahmedabad",
     "postName": "python-training-in-ahmedabad",
     "originalUrl": "https://learnmoretechnologies.in/python-training-in-ahmedabad/",
     "slug": "python-training-in-ahmedabad",
@@ -4760,25 +4760,25 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Gujarat, India",
     "targetRoute": "/python-training-in-ahmedabad",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Python training in Ahmedabad | LearnMore Technologies",
-    "metaDescription": "Enroll in Python training in Ahmedabad at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
+    "seoTitle": "Python Training in Ahmedabad",
+    "metaDescription": "Enroll in Python Training in Ahmedabad at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "39627",
-    "postTitle": "AWS Training in Ahmedabad",
+    "postTitle": "AWS Cloud Training in Ahmedabad",
     "postName": "aws-training-in-ahmedabad",
     "originalUrl": "https://learnmoretechnologies.in/aws-training-in-ahmedabad/",
     "slug": "aws-training-in-ahmedabad",
     "pageType": "COURSE_LOCATION",
-    "courseName": "AWS",
+    "courseName": "AWS Cloud",
     "courseSlug": "aws-training",
     "locationSlug": "ahmedabad",
     "locationName": "Ahmedabad",
     "countryOrRegion": "Gujarat, India",
     "targetRoute": "/aws-training-in-ahmedabad",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "AWS Training in Ahmedabad | LearnMore Technologies",
-    "metaDescription": "Enroll in AWS Training in Ahmedabad at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
+    "seoTitle": "AWS Cloud Training in Ahmedabad",
+    "metaDescription": "Enroll in AWS Cloud Training in Ahmedabad at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "39595",
@@ -4794,7 +4794,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Europe (Global)",
     "targetRoute": "/software-testing-training-in-switzerland",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Software Testing Training in Switzerland | LearnMore Technologies",
+    "seoTitle": "Software Testing Training in Switzerland",
     "metaDescription": "Enroll in Software Testing Training in Switzerland at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -4811,12 +4811,12 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Europe (Global)",
     "targetRoute": "/devops-training-in-switzerland",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "DevOps Training in Switzerland | LearnMore Technologies",
+    "seoTitle": "DevOps Training in Switzerland",
     "metaDescription": "Enroll in DevOps Training in Switzerland at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "39534",
-    "postTitle": "Python training in Switzerland",
+    "postTitle": "Python Training in Switzerland",
     "postName": "python-training-in-switzerland",
     "originalUrl": "https://learnmoretechnologies.in/python-training-in-switzerland/",
     "slug": "python-training-in-switzerland",
@@ -4828,29 +4828,29 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Europe (Global)",
     "targetRoute": "/python-training-in-switzerland",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Python training in Switzerland | LearnMore Technologies",
-    "metaDescription": "Enroll in Python training in Switzerland at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
+    "seoTitle": "Python Training in Switzerland",
+    "metaDescription": "Enroll in Python Training in Switzerland at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "39499",
-    "postTitle": "AWS training in Switzerland",
+    "postTitle": "AWS Cloud Training in Switzerland",
     "postName": "aws-training-in-switzerland",
     "originalUrl": "https://learnmoretechnologies.in/aws-training-in-switzerland/",
     "slug": "aws-training-in-switzerland",
     "pageType": "COURSE_LOCATION",
-    "courseName": "AWS",
+    "courseName": "AWS Cloud",
     "courseSlug": "aws-training",
     "locationSlug": "switzerland",
     "locationName": "Switzerland",
     "countryOrRegion": "Europe (Global)",
     "targetRoute": "/aws-training-in-switzerland",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "AWS training in Switzerland | LearnMore Technologies",
-    "metaDescription": "Enroll in AWS training in Switzerland at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
+    "seoTitle": "AWS Cloud Training in Switzerland",
+    "metaDescription": "Enroll in AWS Cloud Training in Switzerland at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "39470",
-    "postTitle": "Microsoft Azure training in Belgium",
+    "postTitle": "Microsoft Azure Training in Belgium",
     "postName": "microsoft-azure-training-in-belgium",
     "originalUrl": "https://learnmoretechnologies.in/microsoft-azure-training-in-belgium/",
     "slug": "microsoft-azure-training-in-belgium",
@@ -4862,12 +4862,12 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Europe (Global)",
     "targetRoute": "/microsoft-azure-training-in-belgium",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Microsoft Azure training in Belgium | LearnMore Technologies",
-    "metaDescription": "Enroll in Microsoft Azure training in Belgium at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
+    "seoTitle": "Microsoft Azure Training in Belgium",
+    "metaDescription": "Enroll in Microsoft Azure Training in Belgium at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "39438",
-    "postTitle": "Data Analytics training in Belgium",
+    "postTitle": "Data Analytics Training in Belgium",
     "postName": "data-analytics-training-in-belgium",
     "originalUrl": "https://learnmoretechnologies.in/data-analytics-training-in-belgium/",
     "slug": "data-analytics-training-in-belgium",
@@ -4879,8 +4879,8 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Europe (Global)",
     "targetRoute": "/data-analytics-training-in-belgium",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Data Analytics training in Belgium | LearnMore Technologies",
-    "metaDescription": "Enroll in Data Analytics training in Belgium at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
+    "seoTitle": "Data Analytics Training in Belgium",
+    "metaDescription": "Enroll in Data Analytics Training in Belgium at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "39405",
@@ -4896,7 +4896,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Europe (Global)",
     "targetRoute": "/python-full-stack-training-in-belgium",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Python Full Stack Training in Belgium | LearnMore Technologies",
+    "seoTitle": "Python Full Stack Training in Belgium",
     "metaDescription": "Enroll in Python Full Stack Training in Belgium at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -4913,7 +4913,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Europe (Global)",
     "targetRoute": "/java-full-stack-training-in-belgium",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Java Full Stack Training in Belgium | LearnMore Technologies",
+    "seoTitle": "Java Full Stack Training in Belgium",
     "metaDescription": "Enroll in Java Full Stack Training in Belgium at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -4930,7 +4930,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Europe (Global)",
     "targetRoute": "/java-training-in-belgium",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Java Training in Belgium | LearnMore Technologies",
+    "seoTitle": "Java Training in Belgium",
     "metaDescription": "Enroll in Java Training in Belgium at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -4947,7 +4947,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Europe (Global)",
     "targetRoute": "/power-bi-training-in-belgium",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Power BI Training in Belgium | LearnMore Technologies",
+    "seoTitle": "Power BI Training in Belgium",
     "metaDescription": "Enroll in Power BI Training in Belgium at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -4964,7 +4964,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Europe (Global)",
     "targetRoute": "/data-science-training-in-belgium",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Data Science Training in Belgium | LearnMore Technologies",
+    "seoTitle": "Data Science Training in Belgium",
     "metaDescription": "Enroll in Data Science Training in Belgium at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -4981,7 +4981,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Europe (Global)",
     "targetRoute": "/software-testing-training-in-belgium",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Software Testing Training in Belgium | LearnMore Technologies",
+    "seoTitle": "Software Testing Training in Belgium",
     "metaDescription": "Enroll in Software Testing Training in Belgium at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -4998,12 +4998,12 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Europe (Global)",
     "targetRoute": "/devops-training-in-belgium",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "DevOps Training in Belgium | LearnMore Technologies",
+    "seoTitle": "DevOps Training in Belgium",
     "metaDescription": "Enroll in DevOps Training in Belgium at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "39094",
-    "postTitle": "Python training in Belgium",
+    "postTitle": "Python Training in Belgium",
     "postName": "python-training-in-belgium",
     "originalUrl": "https://learnmoretechnologies.in/python-training-in-belgium/",
     "slug": "python-training-in-belgium",
@@ -5015,29 +5015,29 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Europe (Global)",
     "targetRoute": "/python-training-in-belgium",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Python training in Belgium | LearnMore Technologies",
-    "metaDescription": "Enroll in Python training in Belgium at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
+    "seoTitle": "Python Training in Belgium",
+    "metaDescription": "Enroll in Python Training in Belgium at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "39068",
-    "postTitle": "AWS training in Belgium",
+    "postTitle": "AWS Cloud Training in Belgium",
     "postName": "aws-training-in-belgium",
     "originalUrl": "https://learnmoretechnologies.in/aws-training-in-belgium/",
     "slug": "aws-training-in-belgium",
     "pageType": "COURSE_LOCATION",
-    "courseName": "AWS",
+    "courseName": "AWS Cloud",
     "courseSlug": "aws-training",
     "locationSlug": "belgium",
     "locationName": "Belgium",
     "countryOrRegion": "Europe (Global)",
     "targetRoute": "/aws-training-in-belgium",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "AWS training in Belgium | LearnMore Technologies",
-    "metaDescription": "Enroll in AWS training in Belgium at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
+    "seoTitle": "AWS Cloud Training in Belgium",
+    "metaDescription": "Enroll in AWS Cloud Training in Belgium at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "39038",
-    "postTitle": "Microsoft Azure training in UAE",
+    "postTitle": "Microsoft Azure Training in Uae",
     "postName": "microsoft-azure-training-in-uae",
     "originalUrl": "https://learnmoretechnologies.in/microsoft-azure-training-in-uae/",
     "slug": "microsoft-azure-training-in-uae",
@@ -5045,16 +5045,16 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "courseName": "Microsoft Azure",
     "courseSlug": "microsoft-azure-training",
     "locationSlug": "uae",
-    "locationName": "UAE (Dubai / Abu Dhabi)",
+    "locationName": "Uae",
     "countryOrRegion": "Middle East (Global)",
     "targetRoute": "/microsoft-azure-training-in-uae",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Microsoft Azure training in UAE | LearnMore Technologies",
-    "metaDescription": "Enroll in Microsoft Azure training in UAE at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
+    "seoTitle": "Microsoft Azure Training in Uae",
+    "metaDescription": "Enroll in Microsoft Azure Training in Uae at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "39002",
-    "postTitle": "Data Analytics training in UAE",
+    "postTitle": "Data Analytics Training in Uae",
     "postName": "data-analytics-training-in-uae",
     "originalUrl": "https://learnmoretechnologies.in/data-analytics-training-in-uae/",
     "slug": "data-analytics-training-in-uae",
@@ -5062,16 +5062,16 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "courseName": "Data Analytics",
     "courseSlug": "data-analytics-training",
     "locationSlug": "uae",
-    "locationName": "UAE (Dubai / Abu Dhabi)",
+    "locationName": "Uae",
     "countryOrRegion": "Middle East (Global)",
     "targetRoute": "/data-analytics-training-in-uae",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Data Analytics training in UAE | LearnMore Technologies",
-    "metaDescription": "Enroll in Data Analytics training in UAE at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
+    "seoTitle": "Data Analytics Training in Uae",
+    "metaDescription": "Enroll in Data Analytics Training in Uae at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "38972",
-    "postTitle": "Python Full Stack Training in UAE",
+    "postTitle": "Python Full Stack Training in Uae",
     "postName": "python-full-stack-training-in-uae",
     "originalUrl": "https://learnmoretechnologies.in/python-full-stack-training-in-uae/",
     "slug": "python-full-stack-training-in-uae",
@@ -5079,16 +5079,16 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "courseName": "Python Full Stack",
     "courseSlug": "python-full-stack-training",
     "locationSlug": "uae",
-    "locationName": "UAE (Dubai / Abu Dhabi)",
+    "locationName": "Uae",
     "countryOrRegion": "Middle East (Global)",
     "targetRoute": "/python-full-stack-training-in-uae",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Python Full Stack Training in UAE | LearnMore Technologies",
-    "metaDescription": "Enroll in Python Full Stack Training in UAE at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
+    "seoTitle": "Python Full Stack Training in Uae",
+    "metaDescription": "Enroll in Python Full Stack Training in Uae at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "38936",
-    "postTitle": "Java Full Stack Training in UAE",
+    "postTitle": "Java Full Stack Training in Uae",
     "postName": "java-full-stack-training-in-uae",
     "originalUrl": "https://learnmoretechnologies.in/java-full-stack-training-in-uae/",
     "slug": "java-full-stack-training-in-uae",
@@ -5096,16 +5096,16 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "courseName": "Java Full Stack",
     "courseSlug": "java-full-stack-training",
     "locationSlug": "uae",
-    "locationName": "UAE (Dubai / Abu Dhabi)",
+    "locationName": "Uae",
     "countryOrRegion": "Middle East (Global)",
     "targetRoute": "/java-full-stack-training-in-uae",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Java Full Stack Training in UAE | LearnMore Technologies",
-    "metaDescription": "Enroll in Java Full Stack Training in UAE at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
+    "seoTitle": "Java Full Stack Training in Uae",
+    "metaDescription": "Enroll in Java Full Stack Training in Uae at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "38907",
-    "postTitle": "Java Training in UAE",
+    "postTitle": "Java Training in Uae",
     "postName": "java-training-in-uae",
     "originalUrl": "https://learnmoretechnologies.in/java-training-in-uae/",
     "slug": "java-training-in-uae",
@@ -5113,16 +5113,16 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "courseName": "Java",
     "courseSlug": "java-training",
     "locationSlug": "uae",
-    "locationName": "UAE (Dubai / Abu Dhabi)",
+    "locationName": "Uae",
     "countryOrRegion": "Middle East (Global)",
     "targetRoute": "/java-training-in-uae",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Java Training in UAE | LearnMore Technologies",
-    "metaDescription": "Enroll in Java Training in UAE at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
+    "seoTitle": "Java Training in Uae",
+    "metaDescription": "Enroll in Java Training in Uae at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "38877",
-    "postTitle": "Power BI Training in UAE",
+    "postTitle": "Power BI Training in Uae",
     "postName": "power-bi-training-in-uae",
     "originalUrl": "https://learnmoretechnologies.in/power-bi-training-in-uae/",
     "slug": "power-bi-training-in-uae",
@@ -5130,16 +5130,16 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "courseName": "Power BI",
     "courseSlug": "power-bi-training",
     "locationSlug": "uae",
-    "locationName": "UAE (Dubai / Abu Dhabi)",
+    "locationName": "Uae",
     "countryOrRegion": "Middle East (Global)",
     "targetRoute": "/power-bi-training-in-uae",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Power BI Training in UAE | LearnMore Technologies",
-    "metaDescription": "Enroll in Power BI Training in UAE at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
+    "seoTitle": "Power BI Training in Uae",
+    "metaDescription": "Enroll in Power BI Training in Uae at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "38850",
-    "postTitle": "Data Science Training in UAE",
+    "postTitle": "Data Science Training in Uae",
     "postName": "data-science-training-in-uae",
     "originalUrl": "https://learnmoretechnologies.in/data-science-training-in-uae/",
     "slug": "data-science-training-in-uae",
@@ -5147,16 +5147,16 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "courseName": "Data Science",
     "courseSlug": "data-science-training",
     "locationSlug": "uae",
-    "locationName": "UAE (Dubai / Abu Dhabi)",
+    "locationName": "Uae",
     "countryOrRegion": "Middle East (Global)",
     "targetRoute": "/data-science-training-in-uae",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Data Science Training in UAE | LearnMore Technologies",
-    "metaDescription": "Enroll in Data Science Training in UAE at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
+    "seoTitle": "Data Science Training in Uae",
+    "metaDescription": "Enroll in Data Science Training in Uae at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "38830",
-    "postTitle": "Software Testing Training in UAE",
+    "postTitle": "Software Testing Training in Uae",
     "postName": "software-testing-training-in-uae",
     "originalUrl": "https://learnmoretechnologies.in/software-testing-training-in-uae/",
     "slug": "software-testing-training-in-uae",
@@ -5164,16 +5164,16 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "courseName": "Software Testing",
     "courseSlug": "software-testing-training",
     "locationSlug": "uae",
-    "locationName": "UAE (Dubai / Abu Dhabi)",
+    "locationName": "Uae",
     "countryOrRegion": "Middle East (Global)",
     "targetRoute": "/software-testing-training-in-uae",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Software Testing Training in UAE | LearnMore Technologies",
-    "metaDescription": "Enroll in Software Testing Training in UAE at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
+    "seoTitle": "Software Testing Training in Uae",
+    "metaDescription": "Enroll in Software Testing Training in Uae at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "38793",
-    "postTitle": "DevOps Training in UAE",
+    "postTitle": "DevOps Training in Uae",
     "postName": "devops-training-in-uae",
     "originalUrl": "https://learnmoretechnologies.in/devops-training-in-uae/",
     "slug": "devops-training-in-uae",
@@ -5181,16 +5181,16 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "courseName": "DevOps",
     "courseSlug": "devops-training",
     "locationSlug": "uae",
-    "locationName": "UAE (Dubai / Abu Dhabi)",
+    "locationName": "Uae",
     "countryOrRegion": "Middle East (Global)",
     "targetRoute": "/devops-training-in-uae",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "DevOps Training in UAE | LearnMore Technologies",
-    "metaDescription": "Enroll in DevOps Training in UAE at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
+    "seoTitle": "DevOps Training in Uae",
+    "metaDescription": "Enroll in DevOps Training in Uae at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "38763",
-    "postTitle": "Python training in UAE",
+    "postTitle": "Python Training in Uae",
     "postName": "python-training-in-uae",
     "originalUrl": "https://learnmoretechnologies.in/python-training-in-uae/",
     "slug": "python-training-in-uae",
@@ -5198,33 +5198,33 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "courseName": "Python",
     "courseSlug": "python-training",
     "locationSlug": "uae",
-    "locationName": "UAE (Dubai / Abu Dhabi)",
+    "locationName": "Uae",
     "countryOrRegion": "Middle East (Global)",
     "targetRoute": "/python-training-in-uae",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Python training in UAE | LearnMore Technologies",
-    "metaDescription": "Enroll in Python training in UAE at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
+    "seoTitle": "Python Training in Uae",
+    "metaDescription": "Enroll in Python Training in Uae at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "38729",
-    "postTitle": "AWS training in UAE",
+    "postTitle": "AWS Cloud Training in Uae",
     "postName": "aws-training-in-uae",
     "originalUrl": "https://learnmoretechnologies.in/aws-training-in-uae/",
     "slug": "aws-training-in-uae",
     "pageType": "COURSE_LOCATION",
-    "courseName": "AWS",
+    "courseName": "AWS Cloud",
     "courseSlug": "aws-training",
     "locationSlug": "uae",
-    "locationName": "UAE (Dubai / Abu Dhabi)",
+    "locationName": "Uae",
     "countryOrRegion": "Middle East (Global)",
     "targetRoute": "/aws-training-in-uae",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "AWS training in UAE | LearnMore Technologies",
-    "metaDescription": "Enroll in AWS training in UAE at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
+    "seoTitle": "AWS Cloud Training in Uae",
+    "metaDescription": "Enroll in AWS Cloud Training in Uae at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "38697",
-    "postTitle": "Microsoft Azure training in Norway",
+    "postTitle": "Microsoft Azure Training in Norway",
     "postName": "microsoft-azure-training-in-norway",
     "originalUrl": "https://learnmoretechnologies.in/microsoft-azure-training-in-norway/",
     "slug": "microsoft-azure-training-in-norway",
@@ -5236,12 +5236,12 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Europe (Global)",
     "targetRoute": "/microsoft-azure-training-in-norway",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Microsoft Azure training in Norway | LearnMore Technologies",
-    "metaDescription": "Enroll in Microsoft Azure training in Norway at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
+    "seoTitle": "Microsoft Azure Training in Norway",
+    "metaDescription": "Enroll in Microsoft Azure Training in Norway at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "38670",
-    "postTitle": "Data Analytics training in Norway",
+    "postTitle": "Data Analytics Training in Norway",
     "postName": "data-analytics-training-in-norway",
     "originalUrl": "https://learnmoretechnologies.in/data-analytics-training-in-norway/",
     "slug": "data-analytics-training-in-norway",
@@ -5253,8 +5253,8 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Europe (Global)",
     "targetRoute": "/data-analytics-training-in-norway",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Data Analytics training in Norway | LearnMore Technologies",
-    "metaDescription": "Enroll in Data Analytics training in Norway at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
+    "seoTitle": "Data Analytics Training in Norway",
+    "metaDescription": "Enroll in Data Analytics Training in Norway at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "38638",
@@ -5270,7 +5270,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Europe (Global)",
     "targetRoute": "/python-full-stack-training-in-norway",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Python Full Stack Training in Norway | LearnMore Technologies",
+    "seoTitle": "Python Full Stack Training in Norway",
     "metaDescription": "Enroll in Python Full Stack Training in Norway at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -5287,7 +5287,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Europe (Global)",
     "targetRoute": "/java-full-stack-training-in-norway",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Java Full Stack Training in Norway | LearnMore Technologies",
+    "seoTitle": "Java Full Stack Training in Norway",
     "metaDescription": "Enroll in Java Full Stack Training in Norway at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -5304,7 +5304,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Europe (Global)",
     "targetRoute": "/java-training-in-norway",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Java Training in Norway | LearnMore Technologies",
+    "seoTitle": "Java Training in Norway",
     "metaDescription": "Enroll in Java Training in Norway at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -5321,7 +5321,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Europe (Global)",
     "targetRoute": "/power-bi-training-in-norway",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Power BI Training in Norway | LearnMore Technologies",
+    "seoTitle": "Power BI Training in Norway",
     "metaDescription": "Enroll in Power BI Training in Norway at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -5338,7 +5338,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Europe (Global)",
     "targetRoute": "/data-science-training-in-norway",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Data Science Training in Norway | LearnMore Technologies",
+    "seoTitle": "Data Science Training in Norway",
     "metaDescription": "Enroll in Data Science Training in Norway at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -5355,7 +5355,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Europe (Global)",
     "targetRoute": "/software-testing-training-in-norway",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Software Testing Training in Norway | LearnMore Technologies",
+    "seoTitle": "Software Testing Training in Norway",
     "metaDescription": "Enroll in Software Testing Training in Norway at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -5372,12 +5372,12 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Europe (Global)",
     "targetRoute": "/devops-training-in-norway",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "DevOps Training in Norway | LearnMore Technologies",
+    "seoTitle": "DevOps Training in Norway",
     "metaDescription": "Enroll in DevOps Training in Norway at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "38455",
-    "postTitle": "Python training in Norway",
+    "postTitle": "Python Training in Norway",
     "postName": "python-training-in-norway",
     "originalUrl": "https://learnmoretechnologies.in/python-training-in-norway/",
     "slug": "python-training-in-norway",
@@ -5389,29 +5389,29 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Europe (Global)",
     "targetRoute": "/python-training-in-norway",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Python training in Norway | LearnMore Technologies",
-    "metaDescription": "Enroll in Python training in Norway at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
+    "seoTitle": "Python Training in Norway",
+    "metaDescription": "Enroll in Python Training in Norway at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "38426",
-    "postTitle": "AWS training in Norway",
+    "postTitle": "AWS Cloud Training in Norway",
     "postName": "aws-training-in-norway",
     "originalUrl": "https://learnmoretechnologies.in/aws-training-in-norway/",
     "slug": "aws-training-in-norway",
     "pageType": "COURSE_LOCATION",
-    "courseName": "AWS",
+    "courseName": "AWS Cloud",
     "courseSlug": "aws-training",
     "locationSlug": "norway",
     "locationName": "Norway",
     "countryOrRegion": "Europe (Global)",
     "targetRoute": "/aws-training-in-norway",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "AWS training in Norway | LearnMore Technologies",
-    "metaDescription": "Enroll in AWS training in Norway at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
+    "seoTitle": "AWS Cloud Training in Norway",
+    "metaDescription": "Enroll in AWS Cloud Training in Norway at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "38387",
-    "postTitle": "Microsoft Azure training in Qatar",
+    "postTitle": "Microsoft Azure Training in Qatar",
     "postName": "microsoft-azure-training-in-qatar",
     "originalUrl": "https://learnmoretechnologies.in/microsoft-azure-training-in-qatar/",
     "slug": "microsoft-azure-training-in-qatar",
@@ -5423,12 +5423,12 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Middle East (Global)",
     "targetRoute": "/microsoft-azure-training-in-qatar",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Microsoft Azure training in Qatar | LearnMore Technologies",
-    "metaDescription": "Enroll in Microsoft Azure training in Qatar at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
+    "seoTitle": "Microsoft Azure Training in Qatar",
+    "metaDescription": "Enroll in Microsoft Azure Training in Qatar at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "38348",
-    "postTitle": "Data Analytics training in Qatar",
+    "postTitle": "Data Analytics Training in Qatar",
     "postName": "data-analytics-training-in-qatar",
     "originalUrl": "https://learnmoretechnologies.in/data-analytics-training-in-qatar/",
     "slug": "data-analytics-training-in-qatar",
@@ -5440,8 +5440,8 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Middle East (Global)",
     "targetRoute": "/data-analytics-training-in-qatar",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Data Analytics training in Qatar | LearnMore Technologies",
-    "metaDescription": "Enroll in Data Analytics training in Qatar at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
+    "seoTitle": "Data Analytics Training in Qatar",
+    "metaDescription": "Enroll in Data Analytics Training in Qatar at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "38315",
@@ -5457,7 +5457,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Middle East (Global)",
     "targetRoute": "/python-full-stack-training-in-qatar",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Python Full Stack Training in Qatar | LearnMore Technologies",
+    "seoTitle": "Python Full Stack Training in Qatar",
     "metaDescription": "Enroll in Python Full Stack Training in Qatar at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -5474,7 +5474,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Middle East (Global)",
     "targetRoute": "/java-full-stack-training-in-qatar",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Java Full Stack Training in Qatar | LearnMore Technologies",
+    "seoTitle": "Java Full Stack Training in Qatar",
     "metaDescription": "Enroll in Java Full Stack Training in Qatar at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -5491,7 +5491,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Middle East (Global)",
     "targetRoute": "/java-training-in-qatar",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Java Training in Qatar | LearnMore Technologies",
+    "seoTitle": "Java Training in Qatar",
     "metaDescription": "Enroll in Java Training in Qatar at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -5508,7 +5508,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Middle East (Global)",
     "targetRoute": "/power-bi-training-in-qatar",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Power BI Training in Qatar | LearnMore Technologies",
+    "seoTitle": "Power BI Training in Qatar",
     "metaDescription": "Enroll in Power BI Training in Qatar at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -5525,7 +5525,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Middle East (Global)",
     "targetRoute": "/data-science-training-in-qatar",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Data Science Training in Qatar | LearnMore Technologies",
+    "seoTitle": "Data Science Training in Qatar",
     "metaDescription": "Enroll in Data Science Training in Qatar at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -5542,7 +5542,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Middle East (Global)",
     "targetRoute": "/software-testing-training-in-qatar",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Software Testing Training in Qatar | LearnMore Technologies",
+    "seoTitle": "Software Testing Training in Qatar",
     "metaDescription": "Enroll in Software Testing Training in Qatar at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -5559,12 +5559,12 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Middle East (Global)",
     "targetRoute": "/devops-training-in-qatar",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "DevOps Training in Qatar | LearnMore Technologies",
+    "seoTitle": "DevOps Training in Qatar",
     "metaDescription": "Enroll in DevOps Training in Qatar at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "38093",
-    "postTitle": "Python training in Qatar",
+    "postTitle": "Python Training in Qatar",
     "postName": "python-training-in-qatar",
     "originalUrl": "https://learnmoretechnologies.in/python-training-in-qatar/",
     "slug": "python-training-in-qatar",
@@ -5576,29 +5576,29 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Middle East (Global)",
     "targetRoute": "/python-training-in-qatar",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Python training in Qatar | LearnMore Technologies",
-    "metaDescription": "Enroll in Python training in Qatar at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
+    "seoTitle": "Python Training in Qatar",
+    "metaDescription": "Enroll in Python Training in Qatar at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "38059",
-    "postTitle": "AWS training in Qatar",
+    "postTitle": "AWS Cloud Training in Qatar",
     "postName": "aws-training-in-qatar",
     "originalUrl": "https://learnmoretechnologies.in/aws-training-in-qatar/",
     "slug": "aws-training-in-qatar",
     "pageType": "COURSE_LOCATION",
-    "courseName": "AWS",
+    "courseName": "AWS Cloud",
     "courseSlug": "aws-training",
     "locationSlug": "qatar",
     "locationName": "Qatar",
     "countryOrRegion": "Middle East (Global)",
     "targetRoute": "/aws-training-in-qatar",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "AWS training in Qatar | LearnMore Technologies",
-    "metaDescription": "Enroll in AWS training in Qatar at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
+    "seoTitle": "AWS Cloud Training in Qatar",
+    "metaDescription": "Enroll in AWS Cloud Training in Qatar at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "38017",
-    "postTitle": "Microsoft Azure training in Taiwan",
+    "postTitle": "Microsoft Azure Training in Taiwan",
     "postName": "microsoft-azure-training-in-taiwan",
     "originalUrl": "https://learnmoretechnologies.in/microsoft-azure-training-in-taiwan/",
     "slug": "microsoft-azure-training-in-taiwan",
@@ -5610,12 +5610,12 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "East Asia (Global)",
     "targetRoute": "/microsoft-azure-training-in-taiwan",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Microsoft Azure training in Taiwan | LearnMore Technologies",
-    "metaDescription": "Enroll in Microsoft Azure training in Taiwan at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
+    "seoTitle": "Microsoft Azure Training in Taiwan",
+    "metaDescription": "Enroll in Microsoft Azure Training in Taiwan at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "37998",
-    "postTitle": "Data Analytics training in Taiwan",
+    "postTitle": "Data Analytics Training in Taiwan",
     "postName": "data-analytics-training-in-taiwan",
     "originalUrl": "https://learnmoretechnologies.in/data-analytics-training-in-taiwan/",
     "slug": "data-analytics-training-in-taiwan",
@@ -5627,8 +5627,8 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "East Asia (Global)",
     "targetRoute": "/data-analytics-training-in-taiwan",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Data Analytics training in Taiwan | LearnMore Technologies",
-    "metaDescription": "Enroll in Data Analytics training in Taiwan at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
+    "seoTitle": "Data Analytics Training in Taiwan",
+    "metaDescription": "Enroll in Data Analytics Training in Taiwan at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "37966",
@@ -5644,7 +5644,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "East Asia (Global)",
     "targetRoute": "/python-full-stack-training-in-taiwan",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Python Full Stack Training in Taiwan | LearnMore Technologies",
+    "seoTitle": "Python Full Stack Training in Taiwan",
     "metaDescription": "Enroll in Python Full Stack Training in Taiwan at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -5661,7 +5661,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "East Asia (Global)",
     "targetRoute": "/java-full-stack-training-in-taiwan",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Java Full Stack Training in Taiwan | LearnMore Technologies",
+    "seoTitle": "Java Full Stack Training in Taiwan",
     "metaDescription": "Enroll in Java Full Stack Training in Taiwan at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -5678,7 +5678,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "East Asia (Global)",
     "targetRoute": "/java-training-in-taiwan",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Java Training in Taiwan | LearnMore Technologies",
+    "seoTitle": "Java Training in Taiwan",
     "metaDescription": "Enroll in Java Training in Taiwan at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -5695,7 +5695,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "East Asia (Global)",
     "targetRoute": "/power-bi-training-in-taiwan",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Power BI Training in Taiwan | LearnMore Technologies",
+    "seoTitle": "Power BI Training in Taiwan",
     "metaDescription": "Enroll in Power BI Training in Taiwan at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -5712,7 +5712,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "East Asia (Global)",
     "targetRoute": "/data-science-training-in-taiwan",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Data Science Training in Taiwan | LearnMore Technologies",
+    "seoTitle": "Data Science Training in Taiwan",
     "metaDescription": "Enroll in Data Science Training in Taiwan at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -5729,7 +5729,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "East Asia (Global)",
     "targetRoute": "/software-testing-training-in-taiwan",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Software Testing Training in Taiwan | LearnMore Technologies",
+    "seoTitle": "Software Testing Training in Taiwan",
     "metaDescription": "Enroll in Software Testing Training in Taiwan at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -5746,12 +5746,12 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "East Asia (Global)",
     "targetRoute": "/devops-training-in-taiwan",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "DevOps Training in Taiwan | LearnMore Technologies",
+    "seoTitle": "DevOps Training in Taiwan",
     "metaDescription": "Enroll in DevOps Training in Taiwan at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "37683",
-    "postTitle": "Python training in Taiwan",
+    "postTitle": "Python Training in Taiwan",
     "postName": "python-training-in-taiwan",
     "originalUrl": "https://learnmoretechnologies.in/python-training-in-taiwan/",
     "slug": "python-training-in-taiwan",
@@ -5763,29 +5763,29 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "East Asia (Global)",
     "targetRoute": "/python-training-in-taiwan",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Python training in Taiwan | LearnMore Technologies",
-    "metaDescription": "Enroll in Python training in Taiwan at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
+    "seoTitle": "Python Training in Taiwan",
+    "metaDescription": "Enroll in Python Training in Taiwan at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "37635",
-    "postTitle": "AWS training in Taiwan",
+    "postTitle": "AWS Cloud Training in Taiwan",
     "postName": "aws-training-in-taiwan",
     "originalUrl": "https://learnmoretechnologies.in/aws-training-in-taiwan/",
     "slug": "aws-training-in-taiwan",
     "pageType": "COURSE_LOCATION",
-    "courseName": "AWS",
+    "courseName": "AWS Cloud",
     "courseSlug": "aws-training",
     "locationSlug": "taiwan",
     "locationName": "Taiwan",
     "countryOrRegion": "East Asia (Global)",
     "targetRoute": "/aws-training-in-taiwan",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "AWS training in Taiwan | LearnMore Technologies",
-    "metaDescription": "Enroll in AWS training in Taiwan at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
+    "seoTitle": "AWS Cloud Training in Taiwan",
+    "metaDescription": "Enroll in AWS Cloud Training in Taiwan at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "37577",
-    "postTitle": "Microsoft Azure training in Denmark",
+    "postTitle": "Microsoft Azure Training in Denmark",
     "postName": "microsoft-azure-training-in-denmark",
     "originalUrl": "https://learnmoretechnologies.in/microsoft-azure-training-in-denmark/",
     "slug": "microsoft-azure-training-in-denmark",
@@ -5797,12 +5797,12 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Europe (Global)",
     "targetRoute": "/microsoft-azure-training-in-denmark",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Microsoft Azure training in Denmark | LearnMore Technologies",
-    "metaDescription": "Enroll in Microsoft Azure training in Denmark at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
+    "seoTitle": "Microsoft Azure Training in Denmark",
+    "metaDescription": "Enroll in Microsoft Azure Training in Denmark at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "37524",
-    "postTitle": "Data Analytics training in Denmark",
+    "postTitle": "Data Analytics Training in Denmark",
     "postName": "data-analytics-training-in-denmark",
     "originalUrl": "https://learnmoretechnologies.in/data-analytics-training-in-denmark/",
     "slug": "data-analytics-training-in-denmark",
@@ -5814,8 +5814,8 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Europe (Global)",
     "targetRoute": "/data-analytics-training-in-denmark",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Data Analytics training in Denmark | LearnMore Technologies",
-    "metaDescription": "Enroll in Data Analytics training in Denmark at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
+    "seoTitle": "Data Analytics Training in Denmark",
+    "metaDescription": "Enroll in Data Analytics Training in Denmark at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "37464",
@@ -5831,7 +5831,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Europe (Global)",
     "targetRoute": "/python-full-stack-training-in-denmark",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Python Full Stack Training in Denmark | LearnMore Technologies",
+    "seoTitle": "Python Full Stack Training in Denmark",
     "metaDescription": "Enroll in Python Full Stack Training in Denmark at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -5848,7 +5848,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Europe (Global)",
     "targetRoute": "/java-full-stack-training-in-denmark",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Java Full Stack Training in Denmark | LearnMore Technologies",
+    "seoTitle": "Java Full Stack Training in Denmark",
     "metaDescription": "Enroll in Java Full Stack Training in Denmark at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -5865,7 +5865,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Europe (Global)",
     "targetRoute": "/java-training-in-denmark",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Java Training in Denmark | LearnMore Technologies",
+    "seoTitle": "Java Training in Denmark",
     "metaDescription": "Enroll in Java Training in Denmark at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -5882,7 +5882,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Europe (Global)",
     "targetRoute": "/power-bi-training-in-denmark",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Power BI Training in Denmark | LearnMore Technologies",
+    "seoTitle": "Power BI Training in Denmark",
     "metaDescription": "Enroll in Power BI Training in Denmark at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -5899,7 +5899,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Europe (Global)",
     "targetRoute": "/data-science-training-in-denmark",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Data Science Training in Denmark | LearnMore Technologies",
+    "seoTitle": "Data Science Training in Denmark",
     "metaDescription": "Enroll in Data Science Training in Denmark at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -5916,7 +5916,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Europe (Global)",
     "targetRoute": "/software-testing-training-in-denmark",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Software Testing Training in Denmark | LearnMore Technologies",
+    "seoTitle": "Software Testing Training in Denmark",
     "metaDescription": "Enroll in Software Testing Training in Denmark at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -5933,12 +5933,12 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Europe (Global)",
     "targetRoute": "/devops-training-in-denmark",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "DevOps Training in Denmark | LearnMore Technologies",
+    "seoTitle": "DevOps Training in Denmark",
     "metaDescription": "Enroll in DevOps Training in Denmark at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "37164",
-    "postTitle": "Python training in Denmark",
+    "postTitle": "Python Training in Denmark",
     "postName": "python-training-in-denmark",
     "originalUrl": "https://learnmoretechnologies.in/python-training-in-denmark/",
     "slug": "python-training-in-denmark",
@@ -5950,25 +5950,25 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Europe (Global)",
     "targetRoute": "/python-training-in-denmark",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Python training in Denmark | LearnMore Technologies",
-    "metaDescription": "Enroll in Python training in Denmark at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
+    "seoTitle": "Python Training in Denmark",
+    "metaDescription": "Enroll in Python Training in Denmark at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "37122",
-    "postTitle": "AWS training in Denmark",
+    "postTitle": "AWS Cloud Training in Denmark",
     "postName": "aws-training-in-denmark",
     "originalUrl": "https://learnmoretechnologies.in/aws-training-in-denmark/",
     "slug": "aws-training-in-denmark",
     "pageType": "COURSE_LOCATION",
-    "courseName": "AWS",
+    "courseName": "AWS Cloud",
     "courseSlug": "aws-training",
     "locationSlug": "denmark",
     "locationName": "Denmark",
     "countryOrRegion": "Europe (Global)",
     "targetRoute": "/aws-training-in-denmark",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "AWS training in Denmark | LearnMore Technologies",
-    "metaDescription": "Enroll in AWS training in Denmark at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
+    "seoTitle": "AWS Cloud Training in Denmark",
+    "metaDescription": "Enroll in AWS Cloud Training in Denmark at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "37091",
@@ -5984,12 +5984,12 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Europe (Global)",
     "targetRoute": "/microsoft-azure-training-in-luxembourg",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Microsoft Azure Training in Luxembourg | LearnMore Technologies",
+    "seoTitle": "Microsoft Azure Training in Luxembourg",
     "metaDescription": "Enroll in Microsoft Azure Training in Luxembourg at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "37067",
-    "postTitle": "Data Analytics training in Luxembourg",
+    "postTitle": "Data Analytics Training in Luxembourg",
     "postName": "data-analytics-training-in-luxembourg",
     "originalUrl": "https://learnmoretechnologies.in/data-analytics-training-in-luxembourg/",
     "slug": "data-analytics-training-in-luxembourg",
@@ -6001,8 +6001,8 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Europe (Global)",
     "targetRoute": "/data-analytics-training-in-luxembourg",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Data Analytics training in Luxembourg | LearnMore Technologies",
-    "metaDescription": "Enroll in Data Analytics training in Luxembourg at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
+    "seoTitle": "Data Analytics Training in Luxembourg",
+    "metaDescription": "Enroll in Data Analytics Training in Luxembourg at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "37036",
@@ -6018,7 +6018,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Europe (Global)",
     "targetRoute": "/python-full-stack-training-in-luxembourg",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Python Full Stack Training in Luxembourg | LearnMore Technologies",
+    "seoTitle": "Python Full Stack Training in Luxembourg",
     "metaDescription": "Enroll in Python Full Stack Training in Luxembourg at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -6035,7 +6035,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Europe (Global)",
     "targetRoute": "/java-full-stack-training-in-luxembourg",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Java Full Stack Training in Luxembourg | LearnMore Technologies",
+    "seoTitle": "Java Full Stack Training in Luxembourg",
     "metaDescription": "Enroll in Java Full Stack Training in Luxembourg at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -6052,7 +6052,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Europe (Global)",
     "targetRoute": "/java-training-in-luxembourg",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Java Training in Luxembourg | LearnMore Technologies",
+    "seoTitle": "Java Training in Luxembourg",
     "metaDescription": "Enroll in Java Training in Luxembourg at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -6069,7 +6069,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Europe (Global)",
     "targetRoute": "/power-bi-training-in-luxembourg",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Power BI Training in Luxembourg | LearnMore Technologies",
+    "seoTitle": "Power BI Training in Luxembourg",
     "metaDescription": "Enroll in Power BI Training in Luxembourg at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -6086,7 +6086,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Europe (Global)",
     "targetRoute": "/data-science-training-in-luxembourg",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Data Science Training in Luxembourg | LearnMore Technologies",
+    "seoTitle": "Data Science Training in Luxembourg",
     "metaDescription": "Enroll in Data Science Training in Luxembourg at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -6103,7 +6103,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Europe (Global)",
     "targetRoute": "/software-testing-training-in-luxembourg",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Software Testing Training in Luxembourg | LearnMore Technologies",
+    "seoTitle": "Software Testing Training in Luxembourg",
     "metaDescription": "Enroll in Software Testing Training in Luxembourg at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -6120,7 +6120,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Europe (Global)",
     "targetRoute": "/devops-training-in-luxembourg",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "DevOps Training in Luxembourg | LearnMore Technologies",
+    "seoTitle": "DevOps Training in Luxembourg",
     "metaDescription": "Enroll in DevOps Training in Luxembourg at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -6137,29 +6137,29 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Europe (Global)",
     "targetRoute": "/python-training-in-luxembourg",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Python Training in Luxembourg | LearnMore Technologies",
+    "seoTitle": "Python Training in Luxembourg",
     "metaDescription": "Enroll in Python Training in Luxembourg at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "36844",
-    "postTitle": "AWS training in Luxembourg",
+    "postTitle": "AWS Cloud Training in Luxembourg",
     "postName": "aws-training-in-luxembourg",
     "originalUrl": "https://learnmoretechnologies.in/aws-training-in-luxembourg/",
     "slug": "aws-training-in-luxembourg",
     "pageType": "COURSE_LOCATION",
-    "courseName": "AWS",
+    "courseName": "AWS Cloud",
     "courseSlug": "aws-training",
     "locationSlug": "luxembourg",
     "locationName": "Luxembourg",
     "countryOrRegion": "Europe (Global)",
     "targetRoute": "/aws-training-in-luxembourg",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "AWS training in Luxembourg | LearnMore Technologies",
-    "metaDescription": "Enroll in AWS training in Luxembourg at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
+    "seoTitle": "AWS Cloud Training in Luxembourg",
+    "metaDescription": "Enroll in AWS Cloud Training in Luxembourg at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "36837",
-    "postTitle": "Microsoft Azure training in Macao SAR",
+    "postTitle": "Microsoft Azure Training in Macao Sar",
     "postName": "microsoft-azure-training-in-macao-sar",
     "originalUrl": "https://learnmoretechnologies.in/microsoft-azure-training-in-macao-sar/",
     "slug": "microsoft-azure-training-in-macao-sar",
@@ -6167,16 +6167,16 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "courseName": "Microsoft Azure",
     "courseSlug": "microsoft-azure-training",
     "locationSlug": "macao-sar",
-    "locationName": "Macao SAR",
+    "locationName": "Macao Sar",
     "countryOrRegion": "East Asia (Global)",
     "targetRoute": "/microsoft-azure-training-in-macao-sar",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Microsoft Azure training in Macao SAR | LearnMore Technologies",
-    "metaDescription": "Enroll in Microsoft Azure training in Macao SAR at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
+    "seoTitle": "Microsoft Azure Training in Macao Sar",
+    "metaDescription": "Enroll in Microsoft Azure Training in Macao Sar at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "36824",
-    "postTitle": "Data Analytics training in Macao SAR",
+    "postTitle": "Data Analytics Training in Macao Sar",
     "postName": "data-analytics-training-in-macao-sar",
     "originalUrl": "https://learnmoretechnologies.in/data-analytics-training-in-macao-sar/",
     "slug": "data-analytics-training-in-macao-sar",
@@ -6184,16 +6184,16 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "courseName": "Data Analytics",
     "courseSlug": "data-analytics-training",
     "locationSlug": "macao-sar",
-    "locationName": "Macao SAR",
+    "locationName": "Macao Sar",
     "countryOrRegion": "East Asia (Global)",
     "targetRoute": "/data-analytics-training-in-macao-sar",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Data Analytics training in Macao SAR | LearnMore Technologies",
-    "metaDescription": "Enroll in Data Analytics training in Macao SAR at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
+    "seoTitle": "Data Analytics Training in Macao Sar",
+    "metaDescription": "Enroll in Data Analytics Training in Macao Sar at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "36808",
-    "postTitle": "Python Full Stack Training in Macao SAR",
+    "postTitle": "Python Full Stack Training in Macao Sar",
     "postName": "python-full-stack-training-in-macao-sar",
     "originalUrl": "https://learnmoretechnologies.in/python-full-stack-training-in-macao-sar/",
     "slug": "python-full-stack-training-in-macao-sar",
@@ -6201,16 +6201,16 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "courseName": "Python Full Stack",
     "courseSlug": "python-full-stack-training",
     "locationSlug": "macao-sar",
-    "locationName": "Macao SAR",
+    "locationName": "Macao Sar",
     "countryOrRegion": "East Asia (Global)",
     "targetRoute": "/python-full-stack-training-in-macao-sar",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Python Full Stack Training in Macao SAR | LearnMore Technologies",
-    "metaDescription": "Enroll in Python Full Stack Training in Macao SAR at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
+    "seoTitle": "Python Full Stack Training in Macao Sar",
+    "metaDescription": "Enroll in Python Full Stack Training in Macao Sar at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "36788",
-    "postTitle": "Java Full Stack Training in Macao SAR",
+    "postTitle": "Java Full Stack Training in Macao Sar",
     "postName": "java-full-stack-training-in-macao-sar",
     "originalUrl": "https://learnmoretechnologies.in/java-full-stack-training-in-macao-sar/",
     "slug": "java-full-stack-training-in-macao-sar",
@@ -6218,16 +6218,16 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "courseName": "Java Full Stack",
     "courseSlug": "java-full-stack-training",
     "locationSlug": "macao-sar",
-    "locationName": "Macao SAR",
+    "locationName": "Macao Sar",
     "countryOrRegion": "East Asia (Global)",
     "targetRoute": "/java-full-stack-training-in-macao-sar",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Java Full Stack Training in Macao SAR | LearnMore Technologies",
-    "metaDescription": "Enroll in Java Full Stack Training in Macao SAR at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
+    "seoTitle": "Java Full Stack Training in Macao Sar",
+    "metaDescription": "Enroll in Java Full Stack Training in Macao Sar at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "36778",
-    "postTitle": "Java Training in Macao SAR",
+    "postTitle": "Java Training in Macao Sar",
     "postName": "java-training-in-macao-sar",
     "originalUrl": "https://learnmoretechnologies.in/java-training-in-macao-sar/",
     "slug": "java-training-in-macao-sar",
@@ -6235,16 +6235,16 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "courseName": "Java",
     "courseSlug": "java-training",
     "locationSlug": "macao-sar",
-    "locationName": "Macao SAR",
+    "locationName": "Macao Sar",
     "countryOrRegion": "East Asia (Global)",
     "targetRoute": "/java-training-in-macao-sar",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Java Training in Macao SAR | LearnMore Technologies",
-    "metaDescription": "Enroll in Java Training in Macao SAR at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
+    "seoTitle": "Java Training in Macao Sar",
+    "metaDescription": "Enroll in Java Training in Macao Sar at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "36765",
-    "postTitle": "Power BI Training in Macao SAR",
+    "postTitle": "Power BI Training in Macao Sar",
     "postName": "power-bi-training-in-macao-sar",
     "originalUrl": "https://learnmoretechnologies.in/power-bi-training-in-macao-sar/",
     "slug": "power-bi-training-in-macao-sar",
@@ -6252,16 +6252,16 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "courseName": "Power BI",
     "courseSlug": "power-bi-training",
     "locationSlug": "macao-sar",
-    "locationName": "Macao SAR",
+    "locationName": "Macao Sar",
     "countryOrRegion": "East Asia (Global)",
     "targetRoute": "/power-bi-training-in-macao-sar",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Power BI Training in Macao SAR | LearnMore Technologies",
-    "metaDescription": "Enroll in Power BI Training in Macao SAR at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
+    "seoTitle": "Power BI Training in Macao Sar",
+    "metaDescription": "Enroll in Power BI Training in Macao Sar at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "36760",
-    "postTitle": "Data Science Training in Macao SAR",
+    "postTitle": "Data Science Training in Macao Sar",
     "postName": "data-science-training-in-macao-sar",
     "originalUrl": "https://learnmoretechnologies.in/data-science-training-in-macao-sar/",
     "slug": "data-science-training-in-macao-sar",
@@ -6269,16 +6269,16 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "courseName": "Data Science",
     "courseSlug": "data-science-training",
     "locationSlug": "macao-sar",
-    "locationName": "Macao SAR",
+    "locationName": "Macao Sar",
     "countryOrRegion": "East Asia (Global)",
     "targetRoute": "/data-science-training-in-macao-sar",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Data Science Training in Macao SAR | LearnMore Technologies",
-    "metaDescription": "Enroll in Data Science Training in Macao SAR at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
+    "seoTitle": "Data Science Training in Macao Sar",
+    "metaDescription": "Enroll in Data Science Training in Macao Sar at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "36744",
-    "postTitle": "Software Testing Training in Macao SAR",
+    "postTitle": "Software Testing Training in Macao Sar",
     "postName": "software-testing-training-in-macao-sar",
     "originalUrl": "https://learnmoretechnologies.in/software-testing-training-in-macao-sar/",
     "slug": "software-testing-training-in-macao-sar",
@@ -6286,16 +6286,16 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "courseName": "Software Testing",
     "courseSlug": "software-testing-training",
     "locationSlug": "macao-sar",
-    "locationName": "Macao SAR",
+    "locationName": "Macao Sar",
     "countryOrRegion": "East Asia (Global)",
     "targetRoute": "/software-testing-training-in-macao-sar",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Software Testing Training in Macao SAR | LearnMore Technologies",
-    "metaDescription": "Enroll in Software Testing Training in Macao SAR at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
+    "seoTitle": "Software Testing Training in Macao Sar",
+    "metaDescription": "Enroll in Software Testing Training in Macao Sar at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "36737",
-    "postTitle": "DevOps Training in Macao SAR",
+    "postTitle": "DevOps Training in Macao Sar",
     "postName": "devops-training-in-macao-sar",
     "originalUrl": "https://learnmoretechnologies.in/devops-training-in-macao-sar/",
     "slug": "devops-training-in-macao-sar",
@@ -6303,16 +6303,16 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "courseName": "DevOps",
     "courseSlug": "devops-training",
     "locationSlug": "macao-sar",
-    "locationName": "Macao SAR",
+    "locationName": "Macao Sar",
     "countryOrRegion": "East Asia (Global)",
     "targetRoute": "/devops-training-in-macao-sar",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "DevOps Training in Macao SAR | LearnMore Technologies",
-    "metaDescription": "Enroll in DevOps Training in Macao SAR at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
+    "seoTitle": "DevOps Training in Macao Sar",
+    "metaDescription": "Enroll in DevOps Training in Macao Sar at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "36727",
-    "postTitle": "Python training in Macao SAR",
+    "postTitle": "Python Training in Macao Sar",
     "postName": "python-training-in-macao-sar",
     "originalUrl": "https://learnmoretechnologies.in/python-training-in-macao-sar/",
     "slug": "python-training-in-macao-sar",
@@ -6320,29 +6320,29 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "courseName": "Python",
     "courseSlug": "python-training",
     "locationSlug": "macao-sar",
-    "locationName": "Macao SAR",
+    "locationName": "Macao Sar",
     "countryOrRegion": "East Asia (Global)",
     "targetRoute": "/python-training-in-macao-sar",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Python training in Macao SAR | LearnMore Technologies",
-    "metaDescription": "Enroll in Python training in Macao SAR at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
+    "seoTitle": "Python Training in Macao Sar",
+    "metaDescription": "Enroll in Python Training in Macao Sar at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "36709",
-    "postTitle": "AWS training in Macao SAR",
+    "postTitle": "AWS Cloud Training in Macao Sar",
     "postName": "aws-training-in-macao-sar",
     "originalUrl": "https://learnmoretechnologies.in/aws-training-in-macao-sar/",
     "slug": "aws-training-in-macao-sar",
     "pageType": "COURSE_LOCATION",
-    "courseName": "AWS",
+    "courseName": "AWS Cloud",
     "courseSlug": "aws-training",
     "locationSlug": "macao-sar",
-    "locationName": "Macao SAR",
+    "locationName": "Macao Sar",
     "countryOrRegion": "East Asia (Global)",
     "targetRoute": "/aws-training-in-macao-sar",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "AWS training in Macao SAR | LearnMore Technologies",
-    "metaDescription": "Enroll in AWS training in Macao SAR at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
+    "seoTitle": "AWS Cloud Training in Macao Sar",
+    "metaDescription": "Enroll in AWS Cloud Training in Macao Sar at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "36664",
@@ -6358,7 +6358,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Southeast Asia (Global)",
     "targetRoute": "/power-bi-training-in-singapore",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Power BI Training in Singapore | LearnMore Technologies",
+    "seoTitle": "Power BI Training in Singapore",
     "metaDescription": "Enroll in Power BI Training in Singapore at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -6375,7 +6375,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Southeast Asia (Global)",
     "targetRoute": "/java-training-in-singapore",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Java Training in Singapore | LearnMore Technologies",
+    "seoTitle": "Java Training in Singapore",
     "metaDescription": "Enroll in Java Training in Singapore at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -6392,12 +6392,12 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Southeast Asia (Global)",
     "targetRoute": "/python-full-stack-training-in-singapore",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Python Full Stack Training in Singapore | LearnMore Technologies",
+    "seoTitle": "Python Full Stack Training in Singapore",
     "metaDescription": "Enroll in Python Full Stack Training in Singapore at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "36618",
-    "postTitle": "Data Analytics training in Singapore",
+    "postTitle": "Data Analytics Training in Singapore",
     "postName": "data-analytics-training-in-singapore",
     "originalUrl": "https://learnmoretechnologies.in/data-analytics-training-in-singapore/",
     "slug": "data-analytics-training-in-singapore",
@@ -6409,12 +6409,12 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Southeast Asia (Global)",
     "targetRoute": "/data-analytics-training-in-singapore",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Data Analytics training in Singapore | LearnMore Technologies",
-    "metaDescription": "Enroll in Data Analytics training in Singapore at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
+    "seoTitle": "Data Analytics Training in Singapore",
+    "metaDescription": "Enroll in Data Analytics Training in Singapore at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "36608",
-    "postTitle": "Microsoft Azure training in Singapore",
+    "postTitle": "Microsoft Azure Training in Singapore",
     "postName": "microsoft-azure-training-in-singapore",
     "originalUrl": "https://learnmoretechnologies.in/microsoft-azure-training-in-singapore/",
     "slug": "microsoft-azure-training-in-singapore",
@@ -6426,8 +6426,8 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Southeast Asia (Global)",
     "targetRoute": "/microsoft-azure-training-in-singapore",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Microsoft Azure training in Singapore | LearnMore Technologies",
-    "metaDescription": "Enroll in Microsoft Azure training in Singapore at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
+    "seoTitle": "Microsoft Azure Training in Singapore",
+    "metaDescription": "Enroll in Microsoft Azure Training in Singapore at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "36599",
@@ -6443,7 +6443,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Southeast Asia (Global)",
     "targetRoute": "/data-science-training-in-singapore",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Data Science Training in Singapore | LearnMore Technologies",
+    "seoTitle": "Data Science Training in Singapore",
     "metaDescription": "Enroll in Data Science Training in Singapore at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -6460,7 +6460,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Southeast Asia (Global)",
     "targetRoute": "/software-testing-training-in-singapore",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Software Testing Training in Singapore | LearnMore Technologies",
+    "seoTitle": "Software Testing Training in Singapore",
     "metaDescription": "Enroll in Software Testing Training in Singapore at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -6477,29 +6477,29 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Southeast Asia (Global)",
     "targetRoute": "/devops-training-in-singapore",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "DevOps Training in Singapore | LearnMore Technologies",
+    "seoTitle": "DevOps Training in Singapore",
     "metaDescription": "Enroll in DevOps Training in Singapore at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "36409",
-    "postTitle": "AWS training in Singapore",
+    "postTitle": "AWS Cloud Training in Singapore",
     "postName": "aws-training-in-singapore",
     "originalUrl": "https://learnmoretechnologies.in/aws-training-in-singapore/",
     "slug": "aws-training-in-singapore",
     "pageType": "COURSE_LOCATION",
-    "courseName": "AWS",
+    "courseName": "AWS Cloud",
     "courseSlug": "aws-training",
     "locationSlug": "singapore",
     "locationName": "Singapore",
     "countryOrRegion": "Southeast Asia (Global)",
     "targetRoute": "/aws-training-in-singapore",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "AWS training in Singapore | LearnMore Technologies",
-    "metaDescription": "Enroll in AWS training in Singapore at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
+    "seoTitle": "AWS Cloud Training in Singapore",
+    "metaDescription": "Enroll in AWS Cloud Training in Singapore at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "36308",
-    "postTitle": "Python training in Singapore",
+    "postTitle": "Python Training in Singapore",
     "postName": "python-training-in-singapore",
     "originalUrl": "https://learnmoretechnologies.in/python-training-in-singapore/",
     "slug": "python-training-in-singapore",
@@ -6511,12 +6511,12 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Southeast Asia (Global)",
     "targetRoute": "/python-training-in-singapore",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Python training in Singapore | LearnMore Technologies",
-    "metaDescription": "Enroll in Python training in Singapore at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
+    "seoTitle": "Python Training in Singapore",
+    "metaDescription": "Enroll in Python Training in Singapore at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "35973",
-    "postTitle": "Microsoft Azure training in USA",
+    "postTitle": "Microsoft Azure Training in Usa",
     "postName": "microsoft-azure-training-in-usa",
     "originalUrl": "https://learnmoretechnologies.in/microsoft-azure-training-in-usa/",
     "slug": "microsoft-azure-training-in-usa",
@@ -6524,16 +6524,16 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "courseName": "Microsoft Azure",
     "courseSlug": "microsoft-azure-training",
     "locationSlug": "usa",
-    "locationName": "USA",
+    "locationName": "Usa",
     "countryOrRegion": "North America (Global)",
     "targetRoute": "/microsoft-azure-training-in-usa",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Microsoft Azure training in USA | LearnMore Technologies",
-    "metaDescription": "Enroll in Microsoft Azure training in USA at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
+    "seoTitle": "Microsoft Azure Training in Usa",
+    "metaDescription": "Enroll in Microsoft Azure Training in Usa at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "35965",
-    "postTitle": "Data Analytics training in USA",
+    "postTitle": "Data Analytics Training in Usa",
     "postName": "data-analytics-training-in-usa",
     "originalUrl": "https://learnmoretechnologies.in/data-analytics-training-in-usa/",
     "slug": "data-analytics-training-in-usa",
@@ -6541,16 +6541,16 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "courseName": "Data Analytics",
     "courseSlug": "data-analytics-training",
     "locationSlug": "usa",
-    "locationName": "USA",
+    "locationName": "Usa",
     "countryOrRegion": "North America (Global)",
     "targetRoute": "/data-analytics-training-in-usa",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Data Analytics training in USA | LearnMore Technologies",
-    "metaDescription": "Enroll in Data Analytics training in USA at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
+    "seoTitle": "Data Analytics Training in Usa",
+    "metaDescription": "Enroll in Data Analytics Training in Usa at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "35953",
-    "postTitle": "Python Full Stack Training in USA",
+    "postTitle": "Python Full Stack Training in Usa",
     "postName": "python-full-stack-training-in-usa",
     "originalUrl": "https://learnmoretechnologies.in/python-full-stack-training-in-usa/",
     "slug": "python-full-stack-training-in-usa",
@@ -6558,16 +6558,16 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "courseName": "Python Full Stack",
     "courseSlug": "python-full-stack-training",
     "locationSlug": "usa",
-    "locationName": "USA",
+    "locationName": "Usa",
     "countryOrRegion": "North America (Global)",
     "targetRoute": "/python-full-stack-training-in-usa",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Python Full Stack Training in USA | LearnMore Technologies",
-    "metaDescription": "Enroll in Python Full Stack Training in USA at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
+    "seoTitle": "Python Full Stack Training in Usa",
+    "metaDescription": "Enroll in Python Full Stack Training in Usa at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "35945",
-    "postTitle": "Java Full Stack Training in USA",
+    "postTitle": "Java Full Stack Training in Usa",
     "postName": "java-full-stack-training-in-usa",
     "originalUrl": "https://learnmoretechnologies.in/java-full-stack-training-in-usa/",
     "slug": "java-full-stack-training-in-usa",
@@ -6575,16 +6575,16 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "courseName": "Java Full Stack",
     "courseSlug": "java-full-stack-training",
     "locationSlug": "usa",
-    "locationName": "USA",
+    "locationName": "Usa",
     "countryOrRegion": "North America (Global)",
     "targetRoute": "/java-full-stack-training-in-usa",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Java Full Stack Training in USA | LearnMore Technologies",
-    "metaDescription": "Enroll in Java Full Stack Training in USA at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
+    "seoTitle": "Java Full Stack Training in Usa",
+    "metaDescription": "Enroll in Java Full Stack Training in Usa at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "35919",
-    "postTitle": "Java Training in USA",
+    "postTitle": "Java Training in Usa",
     "postName": "java-training-in-usa",
     "originalUrl": "https://learnmoretechnologies.in/java-training-in-usa/",
     "slug": "java-training-in-usa",
@@ -6592,16 +6592,16 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "courseName": "Java",
     "courseSlug": "java-training",
     "locationSlug": "usa",
-    "locationName": "USA",
+    "locationName": "Usa",
     "countryOrRegion": "North America (Global)",
     "targetRoute": "/java-training-in-usa",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Java Training in USA | LearnMore Technologies",
-    "metaDescription": "Enroll in Java Training in USA at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
+    "seoTitle": "Java Training in Usa",
+    "metaDescription": "Enroll in Java Training in Usa at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "35900",
-    "postTitle": "Power BI Training in USA",
+    "postTitle": "Power BI Training in Usa",
     "postName": "power-bi-training-in-usa",
     "originalUrl": "https://learnmoretechnologies.in/power-bi-training-in-usa/",
     "slug": "power-bi-training-in-usa",
@@ -6609,16 +6609,16 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "courseName": "Power BI",
     "courseSlug": "power-bi-training",
     "locationSlug": "usa",
-    "locationName": "USA",
+    "locationName": "Usa",
     "countryOrRegion": "North America (Global)",
     "targetRoute": "/power-bi-training-in-usa",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Power BI Training in USA | LearnMore Technologies",
-    "metaDescription": "Enroll in Power BI Training in USA at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
+    "seoTitle": "Power BI Training in Usa",
+    "metaDescription": "Enroll in Power BI Training in Usa at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "35875",
-    "postTitle": "Data Science Training in USA",
+    "postTitle": "Data Science Training in Usa",
     "postName": "data-science-training-in-usa",
     "originalUrl": "https://learnmoretechnologies.in/data-science-training-in-usa/",
     "slug": "data-science-training-in-usa",
@@ -6626,16 +6626,16 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "courseName": "Data Science",
     "courseSlug": "data-science-training",
     "locationSlug": "usa",
-    "locationName": "USA",
+    "locationName": "Usa",
     "countryOrRegion": "North America (Global)",
     "targetRoute": "/data-science-training-in-usa",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Data Science Training in USA | LearnMore Technologies",
-    "metaDescription": "Enroll in Data Science Training in USA at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
+    "seoTitle": "Data Science Training in Usa",
+    "metaDescription": "Enroll in Data Science Training in Usa at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "35767",
-    "postTitle": "Software Testing Training in USA",
+    "postTitle": "Software Testing Training in Usa",
     "postName": "software-testing-training-in-usa",
     "originalUrl": "https://learnmoretechnologies.in/software-testing-training-in-usa/",
     "slug": "software-testing-training-in-usa",
@@ -6643,16 +6643,16 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "courseName": "Software Testing",
     "courseSlug": "software-testing-training",
     "locationSlug": "usa",
-    "locationName": "USA",
+    "locationName": "Usa",
     "countryOrRegion": "North America (Global)",
     "targetRoute": "/software-testing-training-in-usa",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Software Testing Training in USA | LearnMore Technologies",
-    "metaDescription": "Enroll in Software Testing Training in USA at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
+    "seoTitle": "Software Testing Training in Usa",
+    "metaDescription": "Enroll in Software Testing Training in Usa at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "35746",
-    "postTitle": "DevOps Training in USA",
+    "postTitle": "DevOps Training in Usa",
     "postName": "devops-training-in-usa",
     "originalUrl": "https://learnmoretechnologies.in/devops-training-in-usa/",
     "slug": "devops-training-in-usa",
@@ -6660,16 +6660,16 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "courseName": "DevOps",
     "courseSlug": "devops-training",
     "locationSlug": "usa",
-    "locationName": "USA",
+    "locationName": "Usa",
     "countryOrRegion": "North America (Global)",
     "targetRoute": "/devops-training-in-usa",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "DevOps Training in USA | LearnMore Technologies",
-    "metaDescription": "Enroll in DevOps Training in USA at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
+    "seoTitle": "DevOps Training in Usa",
+    "metaDescription": "Enroll in DevOps Training in Usa at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "35735",
-    "postTitle": "Python Training in USA",
+    "postTitle": "Python Training in Usa",
     "postName": "python-training-in-usa",
     "originalUrl": "https://learnmoretechnologies.in/python-training-in-usa/",
     "slug": "python-training-in-usa",
@@ -6677,29 +6677,29 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "courseName": "Python",
     "courseSlug": "python-training",
     "locationSlug": "usa",
-    "locationName": "USA",
+    "locationName": "Usa",
     "countryOrRegion": "North America (Global)",
     "targetRoute": "/python-training-in-usa",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Python Training in USA | LearnMore Technologies",
-    "metaDescription": "Enroll in Python Training in USA at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
+    "seoTitle": "Python Training in Usa",
+    "metaDescription": "Enroll in Python Training in Usa at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "35557",
-    "postTitle": "AWS Training in USA",
+    "postTitle": "AWS Cloud Training in Usa",
     "postName": "aws-training-in-usa",
     "originalUrl": "https://learnmoretechnologies.in/aws-training-in-usa/",
     "slug": "aws-training-in-usa",
     "pageType": "COURSE_LOCATION",
-    "courseName": "AWS",
+    "courseName": "AWS Cloud",
     "courseSlug": "aws-training",
     "locationSlug": "usa",
-    "locationName": "USA",
+    "locationName": "Usa",
     "countryOrRegion": "North America (Global)",
     "targetRoute": "/aws-training-in-usa",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "AWS Training in USA | LearnMore Technologies",
-    "metaDescription": "Enroll in AWS Training in USA at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
+    "seoTitle": "AWS Cloud Training in Usa",
+    "metaDescription": "Enroll in AWS Cloud Training in Usa at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "34990",
@@ -6715,12 +6715,12 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "North Bangalore, Karnataka",
     "targetRoute": "/microsoft-azure-training-in-hebbal",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Microsoft Azure Training in Hebbal | LearnMore Technologies",
+    "seoTitle": "Microsoft Azure Training in Hebbal",
     "metaDescription": "Enroll in Microsoft Azure Training in Hebbal at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "34979",
-    "postTitle": "Data Analytics training in Hebbal",
+    "postTitle": "Data Analytics Training in Hebbal",
     "postName": "data-analytics-training-in-hebbal",
     "originalUrl": "https://learnmoretechnologies.in/data-analytics-training-in-hebbal/",
     "slug": "data-analytics-training-in-hebbal",
@@ -6732,8 +6732,8 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "North Bangalore, Karnataka",
     "targetRoute": "/data-analytics-training-in-hebbal",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Data Analytics training in Hebbal | LearnMore Technologies",
-    "metaDescription": "Enroll in Data Analytics training in Hebbal at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
+    "seoTitle": "Data Analytics Training in Hebbal",
+    "metaDescription": "Enroll in Data Analytics Training in Hebbal at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "34959",
@@ -6749,7 +6749,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "North Bangalore, Karnataka",
     "targetRoute": "/software-testing-training-in-hebbal",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Software Testing Training in Hebbal | LearnMore Technologies",
+    "seoTitle": "Software Testing Training in Hebbal",
     "metaDescription": "Enroll in Software Testing Training in Hebbal at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -6766,7 +6766,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "North Bangalore, Karnataka",
     "targetRoute": "/python-full-stack-training-in-hebbal",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Python Full Stack Training in Hebbal | LearnMore Technologies",
+    "seoTitle": "Python Full Stack Training in Hebbal",
     "metaDescription": "Enroll in Python Full Stack Training in Hebbal at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -6783,12 +6783,12 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "North Bangalore, Karnataka",
     "targetRoute": "/java-full-stack-training-in-hebbal",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Java Full Stack Training in Hebbal | LearnMore Technologies",
+    "seoTitle": "Java Full Stack Training in Hebbal",
     "metaDescription": "Enroll in Java Full Stack Training in Hebbal at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "34908",
-    "postTitle": "Java Training in hebbal",
+    "postTitle": "Java Training in Hebbal",
     "postName": "java-training-in-hebbal",
     "originalUrl": "https://learnmoretechnologies.in/java-training-in-hebbal/",
     "slug": "java-training-in-hebbal",
@@ -6800,12 +6800,12 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "North Bangalore, Karnataka",
     "targetRoute": "/java-training-in-hebbal",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Java Training in hebbal | LearnMore Technologies",
-    "metaDescription": "Enroll in Java Training in hebbal at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
+    "seoTitle": "Java Training in Hebbal",
+    "metaDescription": "Enroll in Java Training in Hebbal at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "34894",
-    "postTitle": "Power BI Training in hebbal",
+    "postTitle": "Power BI Training in Hebbal",
     "postName": "power-bi-training-in-hebbal",
     "originalUrl": "https://learnmoretechnologies.in/power-bi-training-in-hebbal/",
     "slug": "power-bi-training-in-hebbal",
@@ -6817,12 +6817,12 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "North Bangalore, Karnataka",
     "targetRoute": "/power-bi-training-in-hebbal",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Power BI Training in hebbal | LearnMore Technologies",
-    "metaDescription": "Enroll in Power BI Training in hebbal at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
+    "seoTitle": "Power BI Training in Hebbal",
+    "metaDescription": "Enroll in Power BI Training in Hebbal at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "34884",
-    "postTitle": "Data Science Training in hebbal",
+    "postTitle": "Data Science Training in Hebbal",
     "postName": "data-science-training-in-hebbal",
     "originalUrl": "https://learnmoretechnologies.in/data-science-training-in-hebbal/",
     "slug": "data-science-training-in-hebbal",
@@ -6834,12 +6834,12 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "North Bangalore, Karnataka",
     "targetRoute": "/data-science-training-in-hebbal",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Data Science Training in hebbal | LearnMore Technologies",
-    "metaDescription": "Enroll in Data Science Training in hebbal at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
+    "seoTitle": "Data Science Training in Hebbal",
+    "metaDescription": "Enroll in Data Science Training in Hebbal at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "34859",
-    "postTitle": "DevOps Training in hebbal",
+    "postTitle": "DevOps Training in Hebbal",
     "postName": "devops-training-in-hebbal",
     "originalUrl": "https://learnmoretechnologies.in/devops-training-in-hebbal/",
     "slug": "devops-training-in-hebbal",
@@ -6851,29 +6851,29 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "North Bangalore, Karnataka",
     "targetRoute": "/devops-training-in-hebbal",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "DevOps Training in hebbal | LearnMore Technologies",
-    "metaDescription": "Enroll in DevOps Training in hebbal at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
+    "seoTitle": "DevOps Training in Hebbal",
+    "metaDescription": "Enroll in DevOps Training in Hebbal at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "34804",
-    "postTitle": "AWS training in hebbal",
+    "postTitle": "AWS Cloud Training in Hebbal",
     "postName": "aws-training-in-hebbal",
     "originalUrl": "https://learnmoretechnologies.in/aws-training-in-hebbal/",
     "slug": "aws-training-in-hebbal",
     "pageType": "COURSE_LOCATION",
-    "courseName": "AWS",
+    "courseName": "AWS Cloud",
     "courseSlug": "aws-training",
     "locationSlug": "hebbal",
     "locationName": "Hebbal",
     "countryOrRegion": "North Bangalore, Karnataka",
     "targetRoute": "/aws-training-in-hebbal",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "AWS training in hebbal | LearnMore Technologies",
-    "metaDescription": "Enroll in AWS training in hebbal at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
+    "seoTitle": "AWS Cloud Training in Hebbal",
+    "metaDescription": "Enroll in AWS Cloud Training in Hebbal at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "34744",
-    "postTitle": "Python Training in hebbal",
+    "postTitle": "Python Training in Hebbal",
     "postName": "python-training-in-hebbal",
     "originalUrl": "https://learnmoretechnologies.in/python-training-in-hebbal/",
     "slug": "python-training-in-hebbal",
@@ -6885,12 +6885,12 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "North Bangalore, Karnataka",
     "targetRoute": "/python-training-in-hebbal",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Python Training in hebbal | LearnMore Technologies",
-    "metaDescription": "Enroll in Python Training in hebbal at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
+    "seoTitle": "Python Training in Hebbal",
+    "metaDescription": "Enroll in Python Training in Hebbal at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "33803",
-    "postTitle": "Python Course Training in Hyderabad",
+    "postTitle": "Python Course in Hyderabad",
     "postName": "python-course-training-in-hyderabad",
     "originalUrl": "https://learnmoretechnologies.in/python-course-training-in-hyderabad/",
     "slug": "python-course-training-in-hyderabad",
@@ -6902,12 +6902,12 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Telangana, India",
     "targetRoute": "/python-course-training-in-hyderabad",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Python Course Training in Hyderabad | LearnMore Technologies",
-    "metaDescription": "Enroll in Python Course Training in Hyderabad at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
+    "seoTitle": "Python Course in Hyderabad",
+    "metaDescription": "Enroll in Python Course in Hyderabad at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "33823",
-    "postTitle": "Python Course Training in Lucknow",
+    "postTitle": "Python Course in Lucknow",
     "postName": "python-course-training-in-lucknow",
     "originalUrl": "https://learnmoretechnologies.in/python-course-training-in-lucknow/",
     "slug": "python-course-training-in-lucknow",
@@ -6919,12 +6919,12 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Uttar Pradesh, India",
     "targetRoute": "/python-course-training-in-lucknow",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Python Course Training in Lucknow | LearnMore Technologies",
-    "metaDescription": "Enroll in Python Course Training in Lucknow at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
+    "seoTitle": "Python Course in Lucknow",
+    "metaDescription": "Enroll in Python Course in Lucknow at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "33801",
-    "postTitle": "Python Course Training in Pune",
+    "postTitle": "Python Course in Pune",
     "postName": "python-course-training-in-pune",
     "originalUrl": "https://learnmoretechnologies.in/python-course-training-in-pune/",
     "slug": "python-course-training-in-pune",
@@ -6936,12 +6936,12 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Maharashtra, India",
     "targetRoute": "/python-course-training-in-pune",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Python Course Training in Pune | LearnMore Technologies",
-    "metaDescription": "Enroll in Python Course Training in Pune at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
+    "seoTitle": "Python Course in Pune",
+    "metaDescription": "Enroll in Python Course in Pune at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "33796",
-    "postTitle": "Python Course Training in Delhi",
+    "postTitle": "Python Course in Delhi",
     "postName": "python-course-training-in-delhi",
     "originalUrl": "https://learnmoretechnologies.in/python-course-training-in-delhi/",
     "slug": "python-course-training-in-delhi",
@@ -6949,16 +6949,16 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "courseName": "Python",
     "courseSlug": "python-course-training",
     "locationSlug": "delhi",
-    "locationName": "Delhi NCR",
+    "locationName": "Delhi",
     "countryOrRegion": "Delhi, India",
     "targetRoute": "/python-course-training-in-delhi",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Python Course Training in Delhi | LearnMore Technologies",
-    "metaDescription": "Enroll in Python Course Training in Delhi at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
+    "seoTitle": "Python Course in Delhi",
+    "metaDescription": "Enroll in Python Course in Delhi at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "33769",
-    "postTitle": "Python Course Training in Chennai",
+    "postTitle": "Python Course in Chennai",
     "postName": "python-course-training-in-chennai",
     "originalUrl": "https://learnmoretechnologies.in/python-course-training-in-chennai/",
     "slug": "python-course-training-in-chennai",
@@ -6970,12 +6970,12 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Tamil Nadu, India",
     "targetRoute": "/python-course-training-in-chennai",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Python Course Training in Chennai | LearnMore Technologies",
-    "metaDescription": "Enroll in Python Course Training in Chennai at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
+    "seoTitle": "Python Course in Chennai",
+    "metaDescription": "Enroll in Python Course in Chennai at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "33675",
-    "postTitle": "Python Course Training in Bangalore",
+    "postTitle": "Python Course in Bangalore",
     "postName": "python-course-training-in-bangalore",
     "originalUrl": "https://learnmoretechnologies.in/python-course-training-in-bangalore/",
     "slug": "python-course-training-in-bangalore",
@@ -6987,8 +6987,8 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Karnataka, India",
     "targetRoute": "/python-course-training-in-bangalore",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Python Course Training in Bangalore | LearnMore Technologies",
-    "metaDescription": "Enroll in Python Course Training in Bangalore at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
+    "seoTitle": "Python Course in Bangalore",
+    "metaDescription": "Enroll in Python Course in Bangalore at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "33101",
@@ -7004,12 +7004,12 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "",
     "targetRoute": "/p",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "P | LearnMore Technologies",
+    "seoTitle": "P",
     "metaDescription": "Enroll in P at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "31559",
-    "postTitle": "full-stack Training Course",
+    "postTitle": "full-stack",
     "postName": "full-stack-training-course",
     "originalUrl": "https://learnmoretechnologies.in/full-stack-training-course/",
     "slug": "full-stack-training-course",
@@ -7021,8 +7021,8 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "",
     "targetRoute": "/full-stack-training-course",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "full-stack Training Course | LearnMore Technologies",
-    "metaDescription": "Enroll in full-stack Training Course at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
+    "seoTitle": "full-stack Training in Bangalore",
+    "metaDescription": "Enroll in full-stack Training at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "30159",
@@ -7038,12 +7038,12 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "",
     "targetRoute": "/thank-you",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Thank You | LearnMore Technologies",
+    "seoTitle": "Thank You",
     "metaDescription": "Enroll in Thank You at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "30073",
-    "postTitle": "Java Full Stack Training In Marathahalli",
+    "postTitle": "Java Full Stack Training in Marathahalli",
     "postName": "java-full-stack-training-in-marathahalli",
     "originalUrl": "https://learnmoretechnologies.in/java-full-stack-training-in-marathahalli/",
     "slug": "java-full-stack-training-in-marathahalli",
@@ -7051,12 +7051,12 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "courseName": "Java Full Stack",
     "courseSlug": "java-full-stack-training",
     "locationSlug": "marathahalli",
-    "locationName": "Marathahalli (HQ)",
+    "locationName": "Marathahalli",
     "countryOrRegion": "Bangalore, Karnataka",
     "targetRoute": "/java-full-stack-training-in-marathahalli",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Java Full Stack Training In Marathahalli | LearnMore Technologies",
-    "metaDescription": "Enroll in Java Full Stack Training In Marathahalli at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
+    "seoTitle": "Java Full Stack Training in Marathahalli",
+    "metaDescription": "Enroll in Java Full Stack Training in Marathahalli at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "29462",
@@ -7072,7 +7072,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "",
     "targetRoute": "/c",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "c | LearnMore Technologies",
+    "seoTitle": "c",
     "metaDescription": "Enroll in c at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -7089,7 +7089,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "",
     "targetRoute": "/contact-us",
     "migrationAction": "REDIRECT",
-    "seoTitle": "Contact | LearnMore Technologies",
+    "seoTitle": "Contact",
     "metaDescription": "Enroll in Contact at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -7106,7 +7106,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "",
     "targetRoute": "/trainers",
     "migrationAction": "REDIRECT",
-    "seoTitle": "Instructor | LearnMore Technologies",
+    "seoTitle": "Instructor",
     "metaDescription": "Enroll in Instructor at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -7123,7 +7123,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "",
     "targetRoute": "/trainers",
     "migrationAction": "REDIRECT",
-    "seoTitle": "Instructors | LearnMore Technologies",
+    "seoTitle": "Instructors",
     "metaDescription": "Enroll in Instructors at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -7140,7 +7140,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "",
     "targetRoute": "/lp-profile",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Profile | LearnMore Technologies",
+    "seoTitle": "Profile",
     "metaDescription": "Enroll in Profile at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -7157,29 +7157,29 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "",
     "targetRoute": "/testimonials",
     "migrationAction": "REDIRECT",
-    "seoTitle": "Testimonial | LearnMore Technologies",
+    "seoTitle": "Testimonial",
     "metaDescription": "Enroll in Testimonial at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "27715",
-    "postTitle": "PYTHON FULL STACK TRAINING IN BTM",
+    "postTitle": "Python Full Stack Training in Btm",
     "postName": "python-full-stack-training-in-btm",
     "originalUrl": "https://learnmoretechnologies.in/python-full-stack-training-in-btm/",
     "slug": "python-full-stack-training-in-btm",
     "pageType": "COURSE_LOCATION",
-    "courseName": "PYTHON FULL STACK",
+    "courseName": "Python Full Stack",
     "courseSlug": "python-full-stack-training",
     "locationSlug": "btm",
-    "locationName": "BTM Layout",
+    "locationName": "Btm",
     "countryOrRegion": "Bangalore, Karnataka",
     "targetRoute": "/python-full-stack-training-in-btm",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "PYTHON FULL STACK TRAINING IN BTM | LearnMore Technologies",
-    "metaDescription": "Enroll in PYTHON FULL STACK TRAINING IN BTM at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
+    "seoTitle": "Python Full Stack Training in Btm",
+    "metaDescription": "Enroll in Python Full Stack Training in Btm at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "27705",
-    "postTitle": "Python Full Stack Training In Whitefield",
+    "postTitle": "Python Full Stack Training in Whitefield",
     "postName": "best-python-full-stack-training-in-whitefield",
     "originalUrl": "https://learnmoretechnologies.in/best-python-full-stack-training-in-whitefield/",
     "slug": "best-python-full-stack-training-in-whitefield",
@@ -7191,8 +7191,8 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "East Bangalore, Karnataka",
     "targetRoute": "/best-python-full-stack-training-in-whitefield",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Python Full Stack Training In Whitefield | LearnMore Technologies",
-    "metaDescription": "Enroll in Python Full Stack Training In Whitefield at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
+    "seoTitle": "Python Full Stack Training in Whitefield",
+    "metaDescription": "Enroll in Python Full Stack Training in Whitefield at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "27344",
@@ -7208,12 +7208,12 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "",
     "targetRoute": "/syallabus",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Syallabus | LearnMore Technologies",
+    "seoTitle": "Syallabus",
     "metaDescription": "Enroll in Syallabus at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "25469",
-    "postTitle": "Microsoft Azure Course",
+    "postTitle": "Microsoft Azure",
     "postName": "microsoft-azure-course",
     "originalUrl": "https://learnmoretechnologies.in/microsoft-azure-course/",
     "slug": "microsoft-azure-course",
@@ -7225,12 +7225,12 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "",
     "targetRoute": "/microsoft-azure-course",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Microsoft Azure Course | LearnMore Technologies",
-    "metaDescription": "Enroll in Microsoft Azure Course at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
+    "seoTitle": "Microsoft Azure Training in Bangalore",
+    "metaDescription": "Enroll in Microsoft Azure Training at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "25377",
-    "postTitle": "Data Analytics Course",
+    "postTitle": "Data Analytics",
     "postName": "data-analytics-course",
     "originalUrl": "https://learnmoretechnologies.in/data-analytics-course/",
     "slug": "data-analytics-course",
@@ -7242,12 +7242,12 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "",
     "targetRoute": "/data-analytics-course",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Data Analytics Course | LearnMore Technologies",
-    "metaDescription": "Enroll in Data Analytics Course at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
+    "seoTitle": "Data Analytics Training in Bangalore",
+    "metaDescription": "Enroll in Data Analytics Training at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "25294",
-    "postTitle": "Python Full Stack Course",
+    "postTitle": "Python Full Stack",
     "postName": "python-full-stack-course",
     "originalUrl": "https://learnmoretechnologies.in/python-full-stack-course/",
     "slug": "python-full-stack-course",
@@ -7259,12 +7259,12 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "",
     "targetRoute": "/python-full-stack-course",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Python Full Stack Course | LearnMore Technologies",
-    "metaDescription": "Enroll in Python Full Stack Course at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
+    "seoTitle": "Python Full Stack Training in Bangalore",
+    "metaDescription": "Enroll in Python Full Stack Training at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "25223",
-    "postTitle": "Java Full Stack Course",
+    "postTitle": "Java Full Stack",
     "postName": "java-full-stack-course",
     "originalUrl": "https://learnmoretechnologies.in/java-full-stack-course/",
     "slug": "java-full-stack-course",
@@ -7276,12 +7276,12 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "",
     "targetRoute": "/java-full-stack-course",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Java Full Stack Course | LearnMore Technologies",
-    "metaDescription": "Enroll in Java Full Stack Course at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
+    "seoTitle": "Java Full Stack Training in Bangalore",
+    "metaDescription": "Enroll in Java Full Stack Training at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "24925",
-    "postTitle": "Java Course",
+    "postTitle": "Java",
     "postName": "java-course",
     "originalUrl": "https://learnmoretechnologies.in/java-course/",
     "slug": "java-course",
@@ -7293,12 +7293,12 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "",
     "targetRoute": "/java-course",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Java Course | LearnMore Technologies",
-    "metaDescription": "Enroll in Java Course at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
+    "seoTitle": "Java Training in Bangalore",
+    "metaDescription": "Enroll in Java Training at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "24831",
-    "postTitle": "Power BI Course",
+    "postTitle": "Power BI",
     "postName": "power-bi-course",
     "originalUrl": "https://learnmoretechnologies.in/power-bi-course/",
     "slug": "power-bi-course",
@@ -7310,12 +7310,12 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "",
     "targetRoute": "/power-bi-course",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Power BI Course | LearnMore Technologies",
-    "metaDescription": "Enroll in Power BI Course at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
+    "seoTitle": "Power BI Training in Bangalore",
+    "metaDescription": "Enroll in Power BI Training at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "24765",
-    "postTitle": "Data Science Course",
+    "postTitle": "Data Science",
     "postName": "data-science-course",
     "originalUrl": "https://learnmoretechnologies.in/data-science-course/",
     "slug": "data-science-course",
@@ -7327,12 +7327,12 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "",
     "targetRoute": "/data-science-course",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Data Science Course | LearnMore Technologies",
-    "metaDescription": "Enroll in Data Science Course at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
+    "seoTitle": "Data Science Training in Bangalore",
+    "metaDescription": "Enroll in Data Science Training at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "24690",
-    "postTitle": "DevOps Training",
+    "postTitle": "DevOps",
     "postName": "devops-training",
     "originalUrl": "https://learnmoretechnologies.in/devops-training/",
     "slug": "devops-training",
@@ -7344,12 +7344,12 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "",
     "targetRoute": "/devops-training",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "DevOps Training | LearnMore Technologies",
+    "seoTitle": "DevOps Training in Bangalore",
     "metaDescription": "Enroll in DevOps Training at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "24621",
-    "postTitle": "python course",
+    "postTitle": "Python",
     "postName": "python-course",
     "originalUrl": "https://learnmoretechnologies.in/python-course/",
     "slug": "python-course",
@@ -7361,12 +7361,12 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "",
     "targetRoute": "/python-course",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "python course | LearnMore Technologies",
-    "metaDescription": "Enroll in python course at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
+    "seoTitle": "Python Training in Bangalore",
+    "metaDescription": "Enroll in Python Training at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "24454",
-    "postTitle": "AWS Course",
+    "postTitle": "AWS Cloud",
     "postName": "aws-course",
     "originalUrl": "https://learnmoretechnologies.in/aws-course/",
     "slug": "aws-course",
@@ -7378,12 +7378,12 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "",
     "targetRoute": "/aws-course",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "AWS Course | LearnMore Technologies",
-    "metaDescription": "Enroll in AWS Course at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
+    "seoTitle": "AWS Cloud Training in Bangalore",
+    "metaDescription": "Enroll in AWS Cloud Training at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "24404",
-    "postTitle": "Software Testing Course",
+    "postTitle": "Software Testing",
     "postName": "software-testing-course",
     "originalUrl": "https://learnmoretechnologies.in/software-testing-course/",
     "slug": "software-testing-course",
@@ -7395,8 +7395,8 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "",
     "targetRoute": "/software-testing-course",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Software Testing Course | LearnMore Technologies",
-    "metaDescription": "Enroll in Software Testing Course at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
+    "seoTitle": "Software Testing Training in Bangalore",
+    "metaDescription": "Enroll in Software Testing Training at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "24380",
@@ -7412,7 +7412,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Karnataka, India",
     "targetRoute": "/top-python-full-stack-training-in-bangalore",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Python Full Stack Training in Bangalore | LearnMore Technologies",
+    "seoTitle": "Python Full Stack Training in Bangalore",
     "metaDescription": "Enroll in Python Full Stack Training in Bangalore at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -7429,7 +7429,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Bangalore, Karnataka",
     "targetRoute": "/software-testing-training-in-kalyan-nagar",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Software Testing Training in Kalyan Nagar | LearnMore Technologies",
+    "seoTitle": "Software Testing Training in Kalyan Nagar",
     "metaDescription": "Enroll in Software Testing Training in Kalyan Nagar at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -7446,7 +7446,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Bangalore, Karnataka",
     "targetRoute": "/python-training-in-kalyan-nagar",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Python Training in Kalyan Nagar | LearnMore Technologies",
+    "seoTitle": "Python Training in Kalyan Nagar",
     "metaDescription": "Enroll in Python Training in Kalyan Nagar at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -7463,7 +7463,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Bangalore, Karnataka",
     "targetRoute": "/python-full-stack-training-in-kalyan-nagar",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Python Full Stack Training in Kalyan Nagar | LearnMore Technologies",
+    "seoTitle": "Python Full Stack Training in Kalyan Nagar",
     "metaDescription": "Enroll in Python Full Stack Training in Kalyan Nagar at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -7480,12 +7480,12 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Bangalore, Karnataka",
     "targetRoute": "/power-bi-training-in-kalyan-nagar",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Power BI Training in Kalyan Nagar | LearnMore Technologies",
+    "seoTitle": "Power BI Training in Kalyan Nagar",
     "metaDescription": "Enroll in Power BI Training in Kalyan Nagar at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "24192",
-    "postTitle": "Microsoft Azure Training In Kalyan Nagar",
+    "postTitle": "Microsoft Azure Training in Kalyan Nagar",
     "postName": "microsoft-azure-training-in-kalyan-nagar",
     "originalUrl": "https://learnmoretechnologies.in/microsoft-azure-training-in-kalyan-nagar/",
     "slug": "microsoft-azure-training-in-kalyan-nagar",
@@ -7497,8 +7497,8 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Bangalore, Karnataka",
     "targetRoute": "/microsoft-azure-training-in-kalyan-nagar",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Microsoft Azure Training In Kalyan Nagar | LearnMore Technologies",
-    "metaDescription": "Enroll in Microsoft Azure Training In Kalyan Nagar at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
+    "seoTitle": "Microsoft Azure Training in Kalyan Nagar",
+    "metaDescription": "Enroll in Microsoft Azure Training in Kalyan Nagar at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "24176",
@@ -7514,7 +7514,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Bangalore, Karnataka",
     "targetRoute": "/java-training-in-kalyan-nagar",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Java Training in Kalyan Nagar | LearnMore Technologies",
+    "seoTitle": "Java Training in Kalyan Nagar",
     "metaDescription": "Enroll in Java Training in Kalyan Nagar at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -7531,7 +7531,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Bangalore, Karnataka",
     "targetRoute": "/java-full-stack-training-in-kalyan-nagar",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Java Full Stack Training in Kalyan Nagar | LearnMore Technologies",
+    "seoTitle": "Java Full Stack Training in Kalyan Nagar",
     "metaDescription": "Enroll in Java Full Stack Training in Kalyan Nagar at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -7548,12 +7548,12 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Bangalore, Karnataka",
     "targetRoute": "/devops-training-in-kalyan-nagar",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "DevOps Training in Kalyan Nagar | LearnMore Technologies",
+    "seoTitle": "DevOps Training in Kalyan Nagar",
     "metaDescription": "Enroll in DevOps Training in Kalyan Nagar at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "24101",
-    "postTitle": "Data Science Training In Kalyan Nagar",
+    "postTitle": "Data Science Training in Kalyan Nagar",
     "postName": "data-science-training-in-kalyan-nagar",
     "originalUrl": "https://learnmoretechnologies.in/data-science-training-in-kalyan-nagar/",
     "slug": "data-science-training-in-kalyan-nagar",
@@ -7565,8 +7565,8 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Bangalore, Karnataka",
     "targetRoute": "/data-science-training-in-kalyan-nagar",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Data Science Training In Kalyan Nagar | LearnMore Technologies",
-    "metaDescription": "Enroll in Data Science Training In Kalyan Nagar at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
+    "seoTitle": "Data Science Training in Kalyan Nagar",
+    "metaDescription": "Enroll in Data Science Training in Kalyan Nagar at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "24053",
@@ -7582,25 +7582,25 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Bangalore, Karnataka",
     "targetRoute": "/data-analytics-training-in-kalyan-nagar",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Data Analytics Training in Kalyan Nagar | LearnMore Technologies",
+    "seoTitle": "Data Analytics Training in Kalyan Nagar",
     "metaDescription": "Enroll in Data Analytics Training in Kalyan Nagar at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "23990",
-    "postTitle": "AWS Training in Kalyan Nagar",
+    "postTitle": "AWS Cloud Training in Kalyan Nagar",
     "postName": "aws-training-in-kalyan-nagar",
     "originalUrl": "https://learnmoretechnologies.in/aws-training-in-kalyan-nagar/",
     "slug": "aws-training-in-kalyan-nagar",
     "pageType": "COURSE_LOCATION",
-    "courseName": "AWS",
+    "courseName": "AWS Cloud",
     "courseSlug": "aws-training",
     "locationSlug": "kalyan-nagar",
     "locationName": "Kalyan Nagar",
     "countryOrRegion": "Bangalore, Karnataka",
     "targetRoute": "/aws-training-in-kalyan-nagar",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "AWS Training in Kalyan Nagar | LearnMore Technologies",
-    "metaDescription": "Enroll in AWS Training in Kalyan Nagar at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
+    "seoTitle": "AWS Cloud Training in Kalyan Nagar",
+    "metaDescription": "Enroll in AWS Cloud Training in Kalyan Nagar at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "22009",
@@ -7616,12 +7616,12 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "",
     "targetRoute": "/new",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "new | LearnMore Technologies",
+    "seoTitle": "new",
     "metaDescription": "Enroll in new at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "20686",
-    "postTitle": "Microsoft Azure training in Bangalore",
+    "postTitle": "Microsoft Azure Training in Bangalore",
     "postName": "microsoft-azure-training-in-bangalore",
     "originalUrl": "https://learnmoretechnologies.in/microsoft-azure-training-in-bangalore/",
     "slug": "microsoft-azure-training-in-bangalore",
@@ -7633,12 +7633,12 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Karnataka, India",
     "targetRoute": "/microsoft-azure-training-in-bangalore",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Microsoft Azure training in Bangalore | LearnMore Technologies",
-    "metaDescription": "Enroll in Microsoft Azure training in Bangalore at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
+    "seoTitle": "Microsoft Azure Training in Bangalore",
+    "metaDescription": "Enroll in Microsoft Azure Training in Bangalore at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "20680",
-    "postTitle": "Best Python Full Stack Training in Bangalore",
+    "postTitle": "Python Full Stack Training in Bangalore",
     "postName": "python-full-stack-training-in-bangalore",
     "originalUrl": "https://learnmoretechnologies.in/python-full-stack-training-in-bangalore/",
     "slug": "python-full-stack-training-in-bangalore",
@@ -7650,8 +7650,8 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Karnataka, India",
     "targetRoute": "/python-full-stack-training-in-bangalore",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Best Python Full Stack Training in Bangalore | LearnMore Technologies",
-    "metaDescription": "Enroll in Best Python Full Stack Training in Bangalore at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
+    "seoTitle": "Python Full Stack Training in Bangalore",
+    "metaDescription": "Enroll in Python Full Stack Training in Bangalore at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "20580",
@@ -7667,12 +7667,12 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Karnataka, India",
     "targetRoute": "/best-java-full-stack-training-in-bangalore",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Java Full Stack Training in Bangalore | LearnMore Technologies",
+    "seoTitle": "Java Full Stack Training in Bangalore",
     "metaDescription": "Enroll in Java Full Stack Training in Bangalore at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "16832",
-    "postTitle": "Best Data Analytics Training In BTM",
+    "postTitle": "Data Analytics Training in Btm",
     "postName": "data-analytics-training-in-btm",
     "originalUrl": "https://learnmoretechnologies.in/data-analytics-training-in-btm/",
     "slug": "data-analytics-training-in-btm",
@@ -7680,16 +7680,16 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "courseName": "Data Analytics",
     "courseSlug": "data-analytics-training",
     "locationSlug": "btm",
-    "locationName": "BTM Layout",
+    "locationName": "Btm",
     "countryOrRegion": "Bangalore, Karnataka",
     "targetRoute": "/data-analytics-training-in-btm",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Best Data Analytics Training In BTM | LearnMore Technologies",
-    "metaDescription": "Enroll in Best Data Analytics Training In BTM at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
+    "seoTitle": "Data Analytics Training in Btm",
+    "metaDescription": "Enroll in Data Analytics Training in Btm at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "16820",
-    "postTitle": "Best Data Analytics Training In Whitefield",
+    "postTitle": "Data Analytics Training in Whitefield",
     "postName": "data-analytics-training-in-whitefield",
     "originalUrl": "https://learnmoretechnologies.in/data-analytics-training-in-whitefield/",
     "slug": "data-analytics-training-in-whitefield",
@@ -7701,12 +7701,12 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "East Bangalore, Karnataka",
     "targetRoute": "/data-analytics-training-in-whitefield",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Best Data Analytics Training In Whitefield | LearnMore Technologies",
-    "metaDescription": "Enroll in Best Data Analytics Training In Whitefield at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
+    "seoTitle": "Data Analytics Training in Whitefield",
+    "metaDescription": "Enroll in Data Analytics Training in Whitefield at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "16804",
-    "postTitle": "Java Full Stack Training In BTM",
+    "postTitle": "Java Full Stack Training in Btm",
     "postName": "the-best-java-full-stack-training-in-btm",
     "originalUrl": "https://learnmoretechnologies.in/the-best-java-full-stack-training-in-btm/",
     "slug": "the-best-java-full-stack-training-in-btm",
@@ -7714,16 +7714,16 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "courseName": "Java Full Stack",
     "courseSlug": "java-full-stack-training",
     "locationSlug": "btm",
-    "locationName": "BTM Layout",
+    "locationName": "Btm",
     "countryOrRegion": "Bangalore, Karnataka",
     "targetRoute": "/the-best-java-full-stack-training-in-btm",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Java Full Stack Training In BTM | LearnMore Technologies",
-    "metaDescription": "Enroll in Java Full Stack Training In BTM at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
+    "seoTitle": "Java Full Stack Training in Btm",
+    "metaDescription": "Enroll in Java Full Stack Training in Btm at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "16796",
-    "postTitle": "Java Full Stack Training In Whitefield",
+    "postTitle": "Java Full Stack Training in Whitefield",
     "postName": "best-java-full-stack-training-in-whitefield",
     "originalUrl": "https://learnmoretechnologies.in/best-java-full-stack-training-in-whitefield/",
     "slug": "best-java-full-stack-training-in-whitefield",
@@ -7735,8 +7735,8 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "East Bangalore, Karnataka",
     "targetRoute": "/best-java-full-stack-training-in-whitefield",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Java Full Stack Training In Whitefield | LearnMore Technologies",
-    "metaDescription": "Enroll in Java Full Stack Training In Whitefield at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
+    "seoTitle": "Java Full Stack Training in Whitefield",
+    "metaDescription": "Enroll in Java Full Stack Training in Whitefield at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "16310",
@@ -7752,8 +7752,8 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "",
     "targetRoute": "/certified-data-management-professional-cdmp",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Certified Data Management Professional (CDMP) | LearnMore Technologies",
-    "metaDescription": "Enroll in Certified Data Management Professional (CDMP) at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
+    "seoTitle": "Certified Data Management Professional (CDMP) Training in Bangalore",
+    "metaDescription": "Enroll in Certified Data Management Professional (CDMP) Training at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "16295",
@@ -7769,8 +7769,8 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "",
     "targetRoute": "/ibm-certified-database-administrator-db2",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "IBM Certified Database Administrator-DB2 | LearnMore Technologies",
-    "metaDescription": "Enroll in IBM Certified Database Administrator-DB2 at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
+    "seoTitle": "IBM Certified Database Administrator-DB2 Training in Bangalore",
+    "metaDescription": "Enroll in IBM Certified Database Administrator-DB2 Training at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "16268",
@@ -7786,8 +7786,8 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "",
     "targetRoute": "/cloudera-certified-associate-cca-data-analyst",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Cloudera Certified Associate (CCA): Data Analyst | LearnMore Technologies",
-    "metaDescription": "Enroll in Cloudera Certified Associate (CCA): Data Analyst at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
+    "seoTitle": "Cloudera Certified Associate (CCA): Data Analyst Training in Bangalore",
+    "metaDescription": "Enroll in Cloudera Certified Associate (CCA): Data Analyst Training at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "16227",
@@ -7803,12 +7803,12 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "",
     "targetRoute": "/datastax-apache-cassandra",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "DataStax Apache Cassandra | LearnMore Technologies",
-    "metaDescription": "Enroll in DataStax Apache Cassandra at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
+    "seoTitle": "DataStax Apache Cassandra Training in Bangalore",
+    "metaDescription": "Enroll in DataStax Apache Cassandra Training at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "11141",
-    "postTitle": "Best Data Analytics training in Bangalore",
+    "postTitle": "Data Analytics Training in Bangalore",
     "postName": "best-data-analytics-training-in-bangalore",
     "originalUrl": "https://learnmoretechnologies.in/best-data-analytics-training-in-bangalore/",
     "slug": "best-data-analytics-training-in-bangalore",
@@ -7820,12 +7820,12 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Karnataka, India",
     "targetRoute": "/best-data-analytics-training-in-bangalore",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Best Data Analytics training in Bangalore | LearnMore Technologies",
-    "metaDescription": "Enroll in Best Data Analytics training in Bangalore at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
+    "seoTitle": "Data Analytics Training in Bangalore",
+    "metaDescription": "Enroll in Data Analytics Training in Bangalore at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "11136",
-    "postTitle": "Best Java Training In Bangalore",
+    "postTitle": "Java Training in Bangalore",
     "postName": "java-training-in-bangalore",
     "originalUrl": "https://learnmoretechnologies.in/java-training-in-bangalore/",
     "slug": "java-training-in-bangalore",
@@ -7837,12 +7837,12 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Karnataka, India",
     "targetRoute": "/java-training-in-bangalore",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Best Java Training In Bangalore | LearnMore Technologies",
-    "metaDescription": "Enroll in Best Java Training In Bangalore at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
+    "seoTitle": "Java Training in Bangalore",
+    "metaDescription": "Enroll in Java Training in Bangalore at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "11134",
-    "postTitle": "Best Power BI Training In Bangalore",
+    "postTitle": "Power BI Training in Bangalore",
     "postName": "power-bi-training-in-bangalore",
     "originalUrl": "https://learnmoretechnologies.in/power-bi-training-in-bangalore/",
     "slug": "power-bi-training-in-bangalore",
@@ -7854,12 +7854,12 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Karnataka, India",
     "targetRoute": "/power-bi-training-in-bangalore",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Best Power BI Training In Bangalore | LearnMore Technologies",
-    "metaDescription": "Enroll in Best Power BI Training In Bangalore at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
+    "seoTitle": "Power BI Training in Bangalore",
+    "metaDescription": "Enroll in Power BI Training in Bangalore at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "11132",
-    "postTitle": "Data Science Training In Bangalore",
+    "postTitle": "Data Science Training in Bangalore",
     "postName": "data-science-training-in-bangalore",
     "originalUrl": "https://learnmoretechnologies.in/data-science-training-in-bangalore/",
     "slug": "data-science-training-in-bangalore",
@@ -7871,8 +7871,8 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Karnataka, India",
     "targetRoute": "/data-science-training-in-bangalore",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Data Science Training In Bangalore | LearnMore Technologies",
-    "metaDescription": "Enroll in Data Science Training In Bangalore at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
+    "seoTitle": "Data Science Training in Bangalore",
+    "metaDescription": "Enroll in Data Science Training in Bangalore at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "11130",
@@ -7888,25 +7888,25 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Karnataka, India",
     "targetRoute": "/software-testing-training-in-bangalore",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Software Testing Training in Bangalore | LearnMore Technologies",
+    "seoTitle": "Software Testing Training in Bangalore",
     "metaDescription": "Enroll in Software Testing Training in Bangalore at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "11122",
-    "postTitle": "AWS Training in Bangalore",
+    "postTitle": "AWS Cloud Training in Bangalore",
     "postName": "aws-training-in-bangalore",
     "originalUrl": "https://learnmoretechnologies.in/aws-training-in-bangalore/",
     "slug": "aws-training-in-bangalore",
     "pageType": "COURSE_LOCATION",
-    "courseName": "AWS",
+    "courseName": "AWS Cloud",
     "courseSlug": "aws-training",
     "locationSlug": "bangalore",
     "locationName": "Bangalore",
     "countryOrRegion": "Karnataka, India",
     "targetRoute": "/aws-training-in-bangalore",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "AWS Training in Bangalore | LearnMore Technologies",
-    "metaDescription": "Enroll in AWS Training in Bangalore at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
+    "seoTitle": "AWS Cloud Training in Bangalore",
+    "metaDescription": "Enroll in AWS Cloud Training in Bangalore at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "11125",
@@ -7922,7 +7922,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "Karnataka, India",
     "targetRoute": "/devops-training-in-bangalore",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "DevOps Training in Bangalore | LearnMore Technologies",
+    "seoTitle": "DevOps Training in Bangalore",
     "metaDescription": "Enroll in DevOps Training in Bangalore at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -7939,7 +7939,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "",
     "targetRoute": "/terms-and-conditions",
     "migrationAction": "REDIRECT",
-    "seoTitle": "Term Conditions | LearnMore Technologies",
+    "seoTitle": "Term Conditions",
     "metaDescription": "Enroll in Term Conditions at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -7956,7 +7956,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "",
     "targetRoute": "/become-a-teacher",
     "migrationAction": "STATIC_PAGE",
-    "seoTitle": "Become A Teacher | LearnMore Technologies",
+    "seoTitle": "Become A Teacher",
     "metaDescription": "Enroll in Become A Teacher at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -7973,7 +7973,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "",
     "targetRoute": "/courses",
     "migrationAction": "STATIC_PAGE",
-    "seoTitle": "All Courses | LearnMore Technologies",
+    "seoTitle": "All Courses",
     "metaDescription": "Enroll in All Courses at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -7990,7 +7990,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "",
     "targetRoute": "/lp-checkout",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Checkout | LearnMore Technologies",
+    "seoTitle": "Checkout",
     "metaDescription": "Enroll in Checkout at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -8007,7 +8007,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "",
     "targetRoute": "/trainers",
     "migrationAction": "STATIC_PAGE",
-    "seoTitle": "Trainers | LearnMore Technologies",
+    "seoTitle": "Trainers",
     "metaDescription": "Enroll in Trainers at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -8024,7 +8024,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "",
     "targetRoute": "/sap-fico-syllabus",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "SAP FICO Syllabus | LearnMore Technologies",
+    "seoTitle": "SAP FICO Syllabus",
     "metaDescription": "Enroll in SAP FICO Syllabus at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -8041,8 +8041,8 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "",
     "targetRoute": "/snowflake",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Snowflake | LearnMore Technologies",
-    "metaDescription": "Enroll in Snowflake at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
+    "seoTitle": "Snowflake Training in Bangalore",
+    "metaDescription": "Enroll in Snowflake Training at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "10341",
@@ -8058,8 +8058,8 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "",
     "targetRoute": "/windows-powershell",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Windows Powershell | LearnMore Technologies",
-    "metaDescription": "Enroll in Windows Powershell at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
+    "seoTitle": "Windows Powershell Training in Bangalore",
+    "metaDescription": "Enroll in Windows Powershell Training at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "10248",
@@ -8075,8 +8075,8 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "",
     "targetRoute": "/intelligence-masters-program",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Intelligence Masters Program | LearnMore Technologies",
-    "metaDescription": "Enroll in Intelligence Masters Program at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
+    "seoTitle": "Intelligence Masters Program Training in Bangalore",
+    "metaDescription": "Enroll in Intelligence Masters Program Training at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "10280",
@@ -8092,12 +8092,12 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "",
     "targetRoute": "/oracle-dba",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Oracle DBA | LearnMore Technologies",
-    "metaDescription": "Enroll in Oracle DBA at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
+    "seoTitle": "Oracle DBA Training in Bangalore",
+    "metaDescription": "Enroll in Oracle DBA Training at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "10252",
-    "postTitle": "Advance Excel Training Content",
+    "postTitle": "Advance Excel  Content",
     "postName": "advance-excel-training-content",
     "originalUrl": "https://learnmoretechnologies.in/advance-excel-training-content/",
     "slug": "advance-excel-training-content",
@@ -8109,12 +8109,12 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "",
     "targetRoute": "/advance-excel-training-content",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Advance Excel Training Content | LearnMore Technologies",
-    "metaDescription": "Enroll in Advance Excel Training Content at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
+    "seoTitle": "Advance Excel  Content Training in Bangalore",
+    "metaDescription": "Enroll in Advance Excel  Content Training at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "10211",
-    "postTitle": "Business Analyst Masters Course",
+    "postTitle": "Business Analyst Masters",
     "postName": "business-analyst-masters-course",
     "originalUrl": "https://learnmoretechnologies.in/business-analyst-masters-course/",
     "slug": "business-analyst-masters-course",
@@ -8126,12 +8126,12 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "",
     "targetRoute": "/business-analyst-masters-course",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Business Analyst Masters Course | LearnMore Technologies",
-    "metaDescription": "Enroll in Business Analyst Masters Course at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
+    "seoTitle": "Business Analyst Masters Training in Bangalore",
+    "metaDescription": "Enroll in Business Analyst Masters Training at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "10108",
-    "postTitle": "Microsoft Azure training in Whitefield",
+    "postTitle": "Microsoft Azure Training in Whitefield",
     "postName": "microsoft-azure-training-in-whitefield",
     "originalUrl": "https://learnmoretechnologies.in/microsoft-azure-training-in-whitefield/",
     "slug": "microsoft-azure-training-in-whitefield",
@@ -8143,12 +8143,12 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "East Bangalore, Karnataka",
     "targetRoute": "/microsoft-azure-training-in-whitefield",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Microsoft Azure training in Whitefield | LearnMore Technologies",
-    "metaDescription": "Enroll in Microsoft Azure training in Whitefield at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
+    "seoTitle": "Microsoft Azure Training in Whitefield",
+    "metaDescription": "Enroll in Microsoft Azure Training in Whitefield at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "10096",
-    "postTitle": "Microsoft Azure training in BTM",
+    "postTitle": "Microsoft Azure Training in Btm",
     "postName": "microsoft-azure-training-in-btm",
     "originalUrl": "https://learnmoretechnologies.in/microsoft-azure-training-in-btm/",
     "slug": "microsoft-azure-training-in-btm",
@@ -8156,16 +8156,16 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "courseName": "Microsoft Azure",
     "courseSlug": "microsoft-azure-training",
     "locationSlug": "btm",
-    "locationName": "BTM Layout",
+    "locationName": "Btm",
     "countryOrRegion": "Bangalore, Karnataka",
     "targetRoute": "/microsoft-azure-training-in-btm",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Microsoft Azure training in BTM | LearnMore Technologies",
-    "metaDescription": "Enroll in Microsoft Azure training in BTM at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
+    "seoTitle": "Microsoft Azure Training in Btm",
+    "metaDescription": "Enroll in Microsoft Azure Training in Btm at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "9921",
-    "postTitle": "Software Testing Training In BTM",
+    "postTitle": "Software Testing Training in Btm",
     "postName": "software-testing-training-in-btm",
     "originalUrl": "https://learnmoretechnologies.in/software-testing-training-in-btm/",
     "slug": "software-testing-training-in-btm",
@@ -8173,16 +8173,16 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "courseName": "Software Testing",
     "courseSlug": "software-testing-training",
     "locationSlug": "btm",
-    "locationName": "BTM Layout",
+    "locationName": "Btm",
     "countryOrRegion": "Bangalore, Karnataka",
     "targetRoute": "/software-testing-training-in-btm",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Software Testing Training In BTM | LearnMore Technologies",
-    "metaDescription": "Enroll in Software Testing Training In BTM at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
+    "seoTitle": "Software Testing Training in Btm",
+    "metaDescription": "Enroll in Software Testing Training in Btm at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "9922",
-    "postTitle": "DevOps Training In BTM",
+    "postTitle": "DevOps Training in Btm",
     "postName": "devops-training-in-btm",
     "originalUrl": "https://learnmoretechnologies.in/devops-training-in-btm/",
     "slug": "devops-training-in-btm",
@@ -8190,16 +8190,16 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "courseName": "DevOps",
     "courseSlug": "devops-training",
     "locationSlug": "btm",
-    "locationName": "BTM Layout",
+    "locationName": "Btm",
     "countryOrRegion": "Bangalore, Karnataka",
     "targetRoute": "/devops-training-in-btm",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "DevOps Training In BTM | LearnMore Technologies",
-    "metaDescription": "Enroll in DevOps Training In BTM at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
+    "seoTitle": "DevOps Training in Btm",
+    "metaDescription": "Enroll in DevOps Training in Btm at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "9906",
-    "postTitle": "Python Training in BTM",
+    "postTitle": "Python Training in Btm",
     "postName": "python-training-in-btm",
     "originalUrl": "https://learnmoretechnologies.in/python-training-in-btm/",
     "slug": "python-training-in-btm",
@@ -8207,29 +8207,29 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "courseName": "Python",
     "courseSlug": "python-training",
     "locationSlug": "btm",
-    "locationName": "BTM Layout",
+    "locationName": "Btm",
     "countryOrRegion": "Bangalore, Karnataka",
     "targetRoute": "/python-training-in-btm",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Python Training in BTM | LearnMore Technologies",
-    "metaDescription": "Enroll in Python Training in BTM at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
+    "seoTitle": "Python Training in Btm",
+    "metaDescription": "Enroll in Python Training in Btm at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "9897",
-    "postTitle": "AWS Training In BTM",
+    "postTitle": "AWS Cloud Training in Btm",
     "postName": "aws-training-in-btm",
     "originalUrl": "https://learnmoretechnologies.in/aws-training-in-btm/",
     "slug": "aws-training-in-btm",
     "pageType": "COURSE_LOCATION",
-    "courseName": "AWS",
+    "courseName": "AWS Cloud",
     "courseSlug": "aws-training",
     "locationSlug": "btm",
-    "locationName": "BTM Layout",
+    "locationName": "Btm",
     "countryOrRegion": "Bangalore, Karnataka",
     "targetRoute": "/aws-training-in-btm",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "AWS Training In BTM | LearnMore Technologies",
-    "metaDescription": "Enroll in AWS Training In BTM at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
+    "seoTitle": "AWS Cloud Training in Btm",
+    "metaDescription": "Enroll in AWS Cloud Training in Btm at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "9872",
@@ -8245,7 +8245,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "",
     "targetRoute": "/artificial-intelligence-syllabus",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Artificial Intelligence Syllabus | LearnMore Technologies",
+    "seoTitle": "Artificial Intelligence Syllabus",
     "metaDescription": "Enroll in Artificial Intelligence Syllabus at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -8262,29 +8262,29 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "",
     "targetRoute": "/microsoft-azure",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Microsoft Azure | LearnMore Technologies",
-    "metaDescription": "Enroll in Microsoft Azure at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
+    "seoTitle": "Microsoft Azure Training in Bangalore",
+    "metaDescription": "Enroll in Microsoft Azure Training at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "8966",
-    "postTitle": "C &amp; C++ Training Marathahalli",
+    "postTitle": "C & C++ Training in Marathahalli",
     "postName": "c-training-in-marathahalli",
     "originalUrl": "https://learnmoretechnologies.in/c-training-in-marathahalli/",
     "slug": "c-training-in-marathahalli",
     "pageType": "COURSE_LOCATION",
-    "courseName": "C &amp; C++  Marathahalli",
+    "courseName": "C & C++",
     "courseSlug": "c-training",
     "locationSlug": "marathahalli",
-    "locationName": "Marathahalli (HQ)",
+    "locationName": "Marathahalli",
     "countryOrRegion": "Bangalore, Karnataka",
     "targetRoute": "/c-training-in-marathahalli",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "C &amp; C++ Training Marathahalli | LearnMore Technologies",
-    "metaDescription": "Enroll in C &amp; C++ Training Marathahalli at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
+    "seoTitle": "C & C++ Training in Marathahalli",
+    "metaDescription": "Enroll in C & C++ Training in Marathahalli at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "8923",
-    "postTitle": "Microsoft Azure Training In Marathahalli",
+    "postTitle": "Microsoft Azure Training in Marathahalli",
     "postName": "microsoft-azure-training-in-marathahalli",
     "originalUrl": "https://learnmoretechnologies.in/microsoft-azure-training-in-marathahalli/",
     "slug": "microsoft-azure-training-in-marathahalli",
@@ -8292,16 +8292,16 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "courseName": "Microsoft Azure",
     "courseSlug": "microsoft-azure-training",
     "locationSlug": "marathahalli",
-    "locationName": "Marathahalli (HQ)",
+    "locationName": "Marathahalli",
     "countryOrRegion": "Bangalore, Karnataka",
     "targetRoute": "/microsoft-azure-training-in-marathahalli",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Microsoft Azure Training In Marathahalli | LearnMore Technologies",
-    "metaDescription": "Enroll in Microsoft Azure Training In Marathahalli at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
+    "seoTitle": "Microsoft Azure Training in Marathahalli",
+    "metaDescription": "Enroll in Microsoft Azure Training in Marathahalli at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "8876",
-    "postTitle": "Best Python Training in Whitefield",
+    "postTitle": "Python Training in Whitefield",
     "postName": "python-training-in-whitefield",
     "originalUrl": "https://learnmoretechnologies.in/python-training-in-whitefield/",
     "slug": "python-training-in-whitefield",
@@ -8313,8 +8313,8 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "East Bangalore, Karnataka",
     "targetRoute": "/python-training-in-whitefield",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Best Python Training in Whitefield | LearnMore Technologies",
-    "metaDescription": "Enroll in Best Python Training in Whitefield at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
+    "seoTitle": "Python Training in Whitefield",
+    "metaDescription": "Enroll in Python Training in Whitefield at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "8832",
@@ -8330,8 +8330,8 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "",
     "targetRoute": "/html",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "HTML | LearnMore Technologies",
-    "metaDescription": "Enroll in HTML at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
+    "seoTitle": "HTML Training in Bangalore",
+    "metaDescription": "Enroll in HTML Training at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "8775",
@@ -8347,12 +8347,12 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "",
     "targetRoute": "/linux",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Linux | LearnMore Technologies",
-    "metaDescription": "Enroll in Linux at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
+    "seoTitle": "Linux Training in Bangalore",
+    "metaDescription": "Enroll in Linux Training at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "8704",
-    "postTitle": "Best Java Training in Marathahalli",
+    "postTitle": "Java Training in Marathahalli",
     "postName": "java-training-in-marathahalli",
     "originalUrl": "https://learnmoretechnologies.in/java-training-in-marathahalli/",
     "slug": "java-training-in-marathahalli",
@@ -8360,46 +8360,46 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "courseName": "Java",
     "courseSlug": "java-training",
     "locationSlug": "marathahalli",
-    "locationName": "Marathahalli (HQ)",
+    "locationName": "Marathahalli",
     "countryOrRegion": "Bangalore, Karnataka",
     "targetRoute": "/java-training-in-marathahalli",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Best Java Training in Marathahalli | LearnMore Technologies",
-    "metaDescription": "Enroll in Best Java Training in Marathahalli at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
+    "seoTitle": "Java Training in Marathahalli",
+    "metaDescription": "Enroll in Java Training in Marathahalli at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "8428",
-    "postTitle": "Best Devops Training in Whitefield",
+    "postTitle": "DevOps Training in Whitefield",
     "postName": "devops-training-in-whitefield",
     "originalUrl": "https://learnmoretechnologies.in/devops-training-in-whitefield/",
     "slug": "devops-training-in-whitefield",
     "pageType": "COURSE_LOCATION",
-    "courseName": "Devops",
+    "courseName": "DevOps",
     "courseSlug": "devops-training",
     "locationSlug": "whitefield",
     "locationName": "Whitefield",
     "countryOrRegion": "East Bangalore, Karnataka",
     "targetRoute": "/devops-training-in-whitefield",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Best Devops Training in Whitefield | LearnMore Technologies",
-    "metaDescription": "Enroll in Best Devops Training in Whitefield at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
+    "seoTitle": "DevOps Training in Whitefield",
+    "metaDescription": "Enroll in DevOps Training in Whitefield at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "8393",
-    "postTitle": "Best Aws Training in Whitefield",
+    "postTitle": "AWS Cloud Training in Whitefield",
     "postName": "aws-training-in-whitefield",
     "originalUrl": "https://learnmoretechnologies.in/aws-training-in-whitefield/",
     "slug": "aws-training-in-whitefield",
     "pageType": "COURSE_LOCATION",
-    "courseName": "Aws",
+    "courseName": "AWS Cloud",
     "courseSlug": "aws-training",
     "locationSlug": "whitefield",
     "locationName": "Whitefield",
     "countryOrRegion": "East Bangalore, Karnataka",
     "targetRoute": "/aws-training-in-whitefield",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Best Aws Training in Whitefield | LearnMore Technologies",
-    "metaDescription": "Enroll in Best Aws Training in Whitefield at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
+    "seoTitle": "AWS Cloud Training in Whitefield",
+    "metaDescription": "Enroll in AWS Cloud Training in Whitefield at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "8324",
@@ -8411,16 +8411,16 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "courseName": "Software Testing",
     "courseSlug": "software-testing-training",
     "locationSlug": "marathahalli",
-    "locationName": "Marathahalli (HQ)",
+    "locationName": "Marathahalli",
     "countryOrRegion": "Bangalore, Karnataka",
     "targetRoute": "/software-testing-training-in-marathahalli",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Software Testing Training in Marathahalli | LearnMore Technologies",
+    "seoTitle": "Software Testing Training in Marathahalli",
     "metaDescription": "Enroll in Software Testing Training in Marathahalli at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "8173",
-    "postTitle": "Salesforce",
+    "postTitle": "Salesforce Training in Marathahalli",
     "postName": "salesforce-training-in-marathahalli",
     "originalUrl": "https://learnmoretechnologies.in/salesforce-training-in-marathahalli/",
     "slug": "salesforce-training-in-marathahalli",
@@ -8428,33 +8428,33 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "courseName": "Salesforce",
     "courseSlug": "salesforce-training",
     "locationSlug": "marathahalli",
-    "locationName": "Marathahalli (HQ)",
+    "locationName": "Marathahalli",
     "countryOrRegion": "Bangalore, Karnataka",
     "targetRoute": "/salesforce-training-in-marathahalli",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Salesforce | LearnMore Technologies",
-    "metaDescription": "Enroll in Salesforce at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
+    "seoTitle": "Salesforce Training in Marathahalli",
+    "metaDescription": "Enroll in Salesforce Training in Marathahalli at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "7919",
-    "postTitle": "AWS Training In Marathahalli",
+    "postTitle": "AWS Cloud Training in Marathahalli",
     "postName": "aws-training-in-marathahalli",
     "originalUrl": "https://learnmoretechnologies.in/aws-training-in-marathahalli/",
     "slug": "aws-training-in-marathahalli",
     "pageType": "COURSE_LOCATION",
-    "courseName": "AWS",
+    "courseName": "AWS Cloud",
     "courseSlug": "aws-training",
     "locationSlug": "marathahalli",
-    "locationName": "Marathahalli (HQ)",
+    "locationName": "Marathahalli",
     "countryOrRegion": "Bangalore, Karnataka",
     "targetRoute": "/aws-training-in-marathahalli",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "AWS Training In Marathahalli | LearnMore Technologies",
-    "metaDescription": "Enroll in AWS Training In Marathahalli at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
+    "seoTitle": "AWS Cloud Training in Marathahalli",
+    "metaDescription": "Enroll in AWS Cloud Training in Marathahalli at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "7882",
-    "postTitle": "Python Course",
+    "postTitle": "Python",
     "postName": "python-trending-course",
     "originalUrl": "https://learnmoretechnologies.in/python-trending-course/",
     "slug": "python-trending-course",
@@ -8466,12 +8466,12 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "",
     "targetRoute": "/python-trending-course",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Python Course | LearnMore Technologies",
-    "metaDescription": "Enroll in Python Course at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
+    "seoTitle": "Python Training in Bangalore",
+    "metaDescription": "Enroll in Python Training at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "7609",
-    "postTitle": "Python Full Stack Training In Marathahalli",
+    "postTitle": "Python Full Stack Training in Marathahalli",
     "postName": "python-full-stack-training-in-marathahalli",
     "originalUrl": "https://learnmoretechnologies.in/python-full-stack-training-in-marathahalli/",
     "slug": "python-full-stack-training-in-marathahalli",
@@ -8479,16 +8479,16 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "courseName": "Python Full Stack",
     "courseSlug": "python-full-stack-training",
     "locationSlug": "marathahalli",
-    "locationName": "Marathahalli (HQ)",
+    "locationName": "Marathahalli",
     "countryOrRegion": "Bangalore, Karnataka",
     "targetRoute": "/python-full-stack-training-in-marathahalli",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Python Full Stack Training In Marathahalli | LearnMore Technologies",
-    "metaDescription": "Enroll in Python Full Stack Training In Marathahalli at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
+    "seoTitle": "Python Full Stack Training in Marathahalli",
+    "metaDescription": "Enroll in Python Full Stack Training in Marathahalli at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "7495",
-    "postTitle": "Best Data Analytics training in Marathahalli",
+    "postTitle": "Data Analytics Training in Marathahalli",
     "postName": "best-data-analytics-training-in-marathahalli",
     "originalUrl": "https://learnmoretechnologies.in/best-data-analytics-training-in-marathahalli/",
     "slug": "best-data-analytics-training-in-marathahalli",
@@ -8496,33 +8496,33 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "courseName": "Data Analytics",
     "courseSlug": "data-analytics-training",
     "locationSlug": "marathahalli",
-    "locationName": "Marathahalli (HQ)",
+    "locationName": "Marathahalli",
     "countryOrRegion": "Bangalore, Karnataka",
     "targetRoute": "/best-data-analytics-training-in-marathahalli",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Best Data Analytics training in Marathahalli | LearnMore Technologies",
-    "metaDescription": "Enroll in Best Data Analytics training in Marathahalli at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
+    "seoTitle": "Data Analytics Training in Marathahalli",
+    "metaDescription": "Enroll in Data Analytics Training in Marathahalli at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "7405",
-    "postTitle": "React Js training in Marathahalli",
+    "postTitle": "React JS Training in Marathahalli",
     "postName": "react-js-training-in-marathahalli",
     "originalUrl": "https://learnmoretechnologies.in/react-js-training-in-marathahalli/",
     "slug": "react-js-training-in-marathahalli",
     "pageType": "COURSE_LOCATION",
-    "courseName": "React Js",
+    "courseName": "React JS",
     "courseSlug": "react-js-training",
     "locationSlug": "marathahalli",
-    "locationName": "Marathahalli (HQ)",
+    "locationName": "Marathahalli",
     "countryOrRegion": "Bangalore, Karnataka",
     "targetRoute": "/react-js-training-in-marathahalli",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "React Js training in Marathahalli | LearnMore Technologies",
-    "metaDescription": "Enroll in React Js training in Marathahalli at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
+    "seoTitle": "React JS Training in Marathahalli",
+    "metaDescription": "Enroll in React JS Training in Marathahalli at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "7327",
-    "postTitle": "SQL",
+    "postTitle": "SQL Training in Marathahalli",
     "postName": "sql-training-in-marathahalli",
     "originalUrl": "https://learnmoretechnologies.in/sql-training-in-marathahalli/",
     "slug": "sql-training-in-marathahalli",
@@ -8530,33 +8530,33 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "courseName": "SQL",
     "courseSlug": "sql-training",
     "locationSlug": "marathahalli",
-    "locationName": "Marathahalli (HQ)",
+    "locationName": "Marathahalli",
     "countryOrRegion": "Bangalore, Karnataka",
     "targetRoute": "/sql-training-in-marathahalli",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "SQL | LearnMore Technologies",
-    "metaDescription": "Enroll in SQL at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
+    "seoTitle": "SQL Training in Marathahalli",
+    "metaDescription": "Enroll in SQL Training in Marathahalli at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "7231",
-    "postTitle": "Javascript  training in Marathahalli",
+    "postTitle": "Java Training in Marathahalli",
     "postName": "javascript-training-in-marathahalli",
     "originalUrl": "https://learnmoretechnologies.in/javascript-training-in-marathahalli/",
     "slug": "javascript-training-in-marathahalli",
     "pageType": "COURSE_LOCATION",
-    "courseName": "Javascript",
+    "courseName": "Java",
     "courseSlug": "javascript-training",
     "locationSlug": "marathahalli",
-    "locationName": "Marathahalli (HQ)",
+    "locationName": "Marathahalli",
     "countryOrRegion": "Bangalore, Karnataka",
     "targetRoute": "/javascript-training-in-marathahalli",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Javascript  training in Marathahalli | LearnMore Technologies",
-    "metaDescription": "Enroll in Javascript  training in Marathahalli at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
+    "seoTitle": "Java Training in Marathahalli",
+    "metaDescription": "Enroll in Java Training in Marathahalli at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "7160",
-    "postTitle": "Best Software Testing Training in whitefield",
+    "postTitle": "Software Testing Training in Whitefield",
     "postName": "software-testing-training-in-whitefield",
     "originalUrl": "https://learnmoretechnologies.in/software-testing-training-in-whitefield/",
     "slug": "software-testing-training-in-whitefield",
@@ -8568,12 +8568,12 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "East Bangalore, Karnataka",
     "targetRoute": "/software-testing-training-in-whitefield",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Best Software Testing Training in whitefield | LearnMore Technologies",
-    "metaDescription": "Enroll in Best Software Testing Training in whitefield at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
+    "seoTitle": "Software Testing Training in Whitefield",
+    "metaDescription": "Enroll in Software Testing Training in Whitefield at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "7141",
-    "postTitle": "Data Science Training In Marathahalli",
+    "postTitle": "Data Science Training in Marathahalli",
     "postName": "data-science-python-training-in-marathahalli",
     "originalUrl": "https://learnmoretechnologies.in/data-science-python-training-in-marathahalli/",
     "slug": "data-science-python-training-in-marathahalli",
@@ -8581,33 +8581,33 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "courseName": "Data Science",
     "courseSlug": "data-science-python-training",
     "locationSlug": "marathahalli",
-    "locationName": "Marathahalli (HQ)",
+    "locationName": "Marathahalli",
     "countryOrRegion": "Bangalore, Karnataka",
     "targetRoute": "/data-science-python-training-in-marathahalli",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Data Science Training In Marathahalli | LearnMore Technologies",
-    "metaDescription": "Enroll in Data Science Training In Marathahalli at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
+    "seoTitle": "Data Science Training in Marathahalli",
+    "metaDescription": "Enroll in Data Science Training in Marathahalli at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "7076",
-    "postTitle": "Android Training in Bangalore",
+    "postTitle": "Android Development Training in Marathahalli",
     "postName": "android-training-in-marathahalli",
     "originalUrl": "https://learnmoretechnologies.in/android-training-in-marathahalli/",
     "slug": "android-training-in-marathahalli",
     "pageType": "COURSE_LOCATION",
-    "courseName": "Android",
+    "courseName": "Android Development",
     "courseSlug": "android-training",
     "locationSlug": "marathahalli",
-    "locationName": "Marathahalli (HQ)",
+    "locationName": "Marathahalli",
     "countryOrRegion": "Bangalore, Karnataka",
     "targetRoute": "/android-training-in-marathahalli",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Android Training in Bangalore | LearnMore Technologies",
-    "metaDescription": "Enroll in Android Training in Bangalore at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
+    "seoTitle": "Android Development Training in Marathahalli",
+    "metaDescription": "Enroll in Android Development Training in Marathahalli at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "6958",
-    "postTitle": "Best Power BI Training in Marathahalli",
+    "postTitle": "Power BI Training in Marathahalli",
     "postName": "power-bi-training-in-marathahalli",
     "originalUrl": "https://learnmoretechnologies.in/power-bi-training-in-marathahalli/",
     "slug": "power-bi-training-in-marathahalli",
@@ -8615,16 +8615,16 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "courseName": "Power BI",
     "courseSlug": "power-bi-training",
     "locationSlug": "marathahalli",
-    "locationName": "Marathahalli (HQ)",
+    "locationName": "Marathahalli",
     "countryOrRegion": "Bangalore, Karnataka",
     "targetRoute": "/power-bi-training-in-marathahalli",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Best Power BI Training in Marathahalli | LearnMore Technologies",
-    "metaDescription": "Enroll in Best Power BI Training in Marathahalli at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
+    "seoTitle": "Power BI Training in Marathahalli",
+    "metaDescription": "Enroll in Power BI Training in Marathahalli at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "6883",
-    "postTitle": "Best Tableau Training in Bangalore",
+    "postTitle": "Tableau Training in Marathahalli",
     "postName": "tableau-training-in-marathahalli",
     "originalUrl": "https://learnmoretechnologies.in/tableau-training-in-marathahalli/",
     "slug": "tableau-training-in-marathahalli",
@@ -8632,12 +8632,12 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "courseName": "Tableau",
     "courseSlug": "tableau-training",
     "locationSlug": "marathahalli",
-    "locationName": "Marathahalli (HQ)",
+    "locationName": "Marathahalli",
     "countryOrRegion": "Bangalore, Karnataka",
     "targetRoute": "/tableau-training-in-marathahalli",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Best Tableau Training in Bangalore | LearnMore Technologies",
-    "metaDescription": "Enroll in Best Tableau Training in Bangalore at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
+    "seoTitle": "Tableau Training in Marathahalli",
+    "metaDescription": "Enroll in Tableau Training in Marathahalli at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "6823",
@@ -8649,16 +8649,16 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "courseName": "Python",
     "courseSlug": "python-training",
     "locationSlug": "marathahalli",
-    "locationName": "Marathahalli (HQ)",
+    "locationName": "Marathahalli",
     "countryOrRegion": "Bangalore, Karnataka",
     "targetRoute": "/python-training-in-marathahalli",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Python Training in Marathahalli | LearnMore Technologies",
+    "seoTitle": "Python Training in Marathahalli",
     "metaDescription": "Enroll in Python Training in Marathahalli at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "6579",
-    "postTitle": "AWS Trending Course",
+    "postTitle": "AWS Cloud",
     "postName": "aws-trending-course",
     "originalUrl": "https://learnmoretechnologies.in/aws-trending-course/",
     "slug": "aws-trending-course",
@@ -8670,42 +8670,42 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "",
     "targetRoute": "/aws-trending-course",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "AWS Trending Course | LearnMore Technologies",
-    "metaDescription": "Enroll in AWS Trending Course at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
+    "seoTitle": "AWS Cloud Training in Bangalore",
+    "metaDescription": "Enroll in AWS Cloud Training at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "6350",
-    "postTitle": "Devops Training In Marathahalli",
+    "postTitle": "DevOps Training in Marathahalli",
     "postName": "devops-training-in-marathahalli",
     "originalUrl": "https://learnmoretechnologies.in/devops-training-in-marathahalli/",
     "slug": "devops-training-in-marathahalli",
     "pageType": "COURSE_LOCATION",
-    "courseName": "Devops",
+    "courseName": "DevOps",
     "courseSlug": "devops-training",
     "locationSlug": "marathahalli",
-    "locationName": "Marathahalli (HQ)",
+    "locationName": "Marathahalli",
     "countryOrRegion": "Bangalore, Karnataka",
     "targetRoute": "/devops-training-in-marathahalli",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Devops Training In Marathahalli | LearnMore Technologies",
-    "metaDescription": "Enroll in Devops Training In Marathahalli at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
+    "seoTitle": "DevOps Training in Marathahalli",
+    "metaDescription": "Enroll in DevOps Training in Marathahalli at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "6199",
-    "postTitle": "Big Data Master Program",
+    "postTitle": "Big Data Training in Marathahalli",
     "postName": "big-data-master-program-training-in-marathahalli",
     "originalUrl": "https://learnmoretechnologies.in/big-data-master-program-training-in-marathahalli/",
     "slug": "big-data-master-program-training-in-marathahalli",
     "pageType": "COURSE_LOCATION",
-    "courseName": "Big Data Master Program",
+    "courseName": "Big Data",
     "courseSlug": "big-data-master-program-training",
     "locationSlug": "marathahalli",
-    "locationName": "Marathahalli (HQ)",
+    "locationName": "Marathahalli",
     "countryOrRegion": "Bangalore, Karnataka",
     "targetRoute": "/big-data-master-program-training-in-marathahalli",
     "migrationAction": "DYNAMIC_RENDER",
-    "seoTitle": "Big Data Master Program | LearnMore Technologies",
-    "metaDescription": "Enroll in Big Data Master Program at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
+    "seoTitle": "Big Data Training in Marathahalli",
+    "metaDescription": "Enroll in Big Data Training in Marathahalli at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
     "id": "392",
@@ -8721,7 +8721,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "",
     "targetRoute": "/blog",
     "migrationAction": "STATIC_PAGE",
-    "seoTitle": "Blog | LearnMore Technologies",
+    "seoTitle": "Blog",
     "metaDescription": "Enroll in Blog at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -8738,7 +8738,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "",
     "targetRoute": "/contact-us",
     "migrationAction": "STATIC_PAGE",
-    "seoTitle": "Contact Us | LearnMore Technologies",
+    "seoTitle": "Contact Us",
     "metaDescription": "Enroll in Contact Us at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -8755,7 +8755,7 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "",
     "targetRoute": "/about-us",
     "migrationAction": "STATIC_PAGE",
-    "seoTitle": "About Us | LearnMore Technologies",
+    "seoTitle": "About Us",
     "metaDescription": "Enroll in About Us at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   },
   {
@@ -8772,20 +8772,15 @@ export const wordPressPagesInventory: WordPressPageRecord[] = [
     "countryOrRegion": "",
     "targetRoute": "/",
     "migrationAction": "STATIC_PAGE",
-    "seoTitle": "IT Courses | LearnMore Technologies",
+    "seoTitle": "IT Courses",
     "metaDescription": "Enroll in IT Courses at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance."
   }
 ];
 
 export function getPageBySlug(slug: string): WordPressPageRecord | undefined {
-  const clean = slug.toLowerCase().replace(/^\/|\/$/g, '');
-  return wordPressPagesInventory.find((p) => p.slug.toLowerCase() === clean);
+  return wordPressPagesInventory.find((p) => p.slug === slug);
 }
 
 export function getAllPageSlugs(): string[] {
   return wordPressPagesInventory.map((p) => p.slug);
-}
-
-export function getPagesByType(type: WordPressPageRecord["pageType"]): WordPressPageRecord[] {
-  return wordPressPagesInventory.filter((p) => p.pageType === type);
 }

@@ -383,7 +383,7 @@ export const courses: Course[] = [
     ],
     seo: {
       metaTitle: "Python Full Stack Training in Bangalore | 100% Placement - LearnMore",
-      metaDescription: "Best Python Full Stack Developer Course in Bangalore with Django, React, PostgreSQL & AWS. Join Marathahalli & Online batches with 100% placement assistance.",
+      metaDescription: "Python Full Stack Developer Course in Bangalore with Django, React, PostgreSQL & AWS. Join Marathahalli & Online batches with 100% placement assistance.",
       keywords: ["python full stack training in bangalore", "python course in marathahalli", "python full stack developer course", "django training bangalore"],
     },
   },
