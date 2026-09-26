@@ -1,0 +1,1938 @@
+import { Course } from "@/types";
+
+export const courses: Course[] = [
+  {
+    id: "course-aws-solutions",
+    slug: "aws-certified-solutions-architect",
+    title: "AWS Certified Solutions Architect & Cloud Practitioner Training",
+    categorySlug: "cloud-computing",
+    categoryName: "Cloud Computing & DevOps",
+    badge: "Bestseller",
+    rating: {
+      score: 4.9,
+      reviewCount: 3420,
+    },
+    duration: {
+      hours: 60,
+      weeks: 8,
+      modes: ["Classroom", "Live Online", "Weekend Batches"],
+    },
+    overview: "Master AWS cloud infrastructure, architecture design patterns, IAM security, VPC networking, EC2 compute, S3 storage, RDS databases, Lambda serverless, and cloud cost optimization. Prepare for the official AWS Certified Solutions Architect - Associate (SAA-C03) exam with 100% placement support in Bangalore.",
+    highlights: [
+      "Official AWS SAA-C03 Exam Preparation & Real Exam Mock Dumps",
+      "50+ Hands-on Architecture Labs on Live AWS Cloud Console",
+      "100% Placement Assistance with 500+ Hiring Partners",
+      "Real-World Production VPC & Microservices Architecture Design",
+      "Instructor-Led Interactive Sessions by Ex-AWS Senior Architects",
+      "Lifetime LMS Access with Recorded Class Videos & Architecture Diagrams",
+    ],
+    skillsGained: [
+      "Multi-tier High-Availability Architecture",
+      "AWS VPC, Subnets, Route Tables & NAT Gateways",
+      "IAM Policies, Roles & Zero-Trust Cloud Security",
+      "EC2 Auto Scaling, Elastic Load Balancing (ALB/NLB)",
+      "Serverless with AWS Lambda, API Gateway & DynamoDB",
+      "CloudWatch, CloudTrail & Infrastructure Monitoring",
+      "Disaster Recovery & Well-Architected Framework",
+    ],
+    toolsAndTechnologies: [
+      { name: "AWS EC2", category: "Compute" },
+      { name: "AWS S3", category: "Storage" },
+      { name: "AWS VPC", category: "Networking" },
+      { name: "AWS Lambda", category: "Serverless" },
+      { name: "AWS RDS", category: "Database" },
+      { name: "CloudFormation", category: "IaC" },
+      { name: "AWS IAM", category: "Security" },
+      { name: "Amazon CloudWatch", category: "Observability" },
+    ],
+    curriculum: [
+      {
+        moduleNumber: 1,
+        title: "Introduction to Cloud Computing & AWS Global Infrastructure",
+        durationHours: 6,
+        topics: [
+          "Cloud Service Models: IaaS, PaaS, SaaS",
+          "AWS Regions, Availability Zones & Edge Locations",
+          "AWS Management Console & AWS CLI Configuration",
+          "AWS Billing Dashboard & Free Tier Management",
+        ],
+        handsOnLab: "Setting up root MFA, AWS IAM admin users, and configuring AWS CLI via security access keys.",
+      },
+      {
+        moduleNumber: 2,
+        title: "AWS Identity & Access Management (IAM) & Cloud Security",
+        durationHours: 8,
+        topics: [
+          "IAM Users, Groups, Policies (JSON format), and Roles",
+          "Principle of Least Privilege and Multi-Factor Authentication",
+          "Cross-Account Access & Temporary Security Credentials (STS)",
+          "AWS KMS (Key Management Service) & Secrets Manager",
+        ],
+        handsOnLab: "Building granular IAM policies and role-based EC2 access without hardcoded credentials.",
+      },
+      {
+        moduleNumber: 3,
+        title: "Amazon Virtual Private Cloud (VPC) & Advanced Networking",
+        durationHours: 12,
+        topics: [
+          "Custom VPC Architecture: CIDR blocks & IP Subnetting",
+          "Public & Private Subnets, Internet Gateways (IGW), NAT Gateways",
+          "Route Tables, Network ACLs (NACL), and Security Groups",
+          "VPC Peering, Transit Gateway, and Direct Connect overview",
+        ],
+        handsOnLab: "Building a multi-tier production-grade secure VPC with public bastions and private database subnets.",
+      },
+      {
+        moduleNumber: 4,
+        title: "Elastic Compute Cloud (EC2), ELB & Auto Scaling",
+        durationHours: 12,
+        topics: [
+          "EC2 Instance Types, AMIs, and EBS Volume Types",
+          "Application Load Balancer (ALB) vs Network Load Balancer (NLB)",
+          "Auto Scaling Groups (ASG) with Dynamic Scaling Policies",
+          "Elastic File System (EFS) and Storage Gateway",
+        ],
+        handsOnLab: "Deploying an auto-scaling Node.js web app across 3 Availability Zones with ALB health checks.",
+      },
+      {
+        moduleNumber: 5,
+        title: "AWS Storage Services & Relational/NoSQL Databases",
+        durationHours: 10,
+        topics: [
+          "Amazon S3 Storage Classes, Lifecycle Policies & Cross-Region Replication",
+          "Amazon RDS (Multi-AZ, Read Replicas) for MySQL and PostgreSQL",
+          "Amazon DynamoDB Global Tables and DAX Accelerator",
+          "Amazon Aurora High-Performance Distributed Database",
+        ],
+        handsOnLab: "Setting up Multi-AZ RDS Failover cluster and configuring S3 static site hosting with CloudFront CDN.",
+      },
+      {
+        moduleNumber: 6,
+        title: "Serverless Computing, Containers & Cloud Monitoring",
+        durationHours: 12,
+        topics: [
+          "AWS Lambda Event-Driven Architecture & API Gateway REST APIs",
+          "Amazon ECS, ECR, and Elastic Kubernetes Service (EKS) introduction",
+          "Amazon CloudWatch Metrics, Alarms, and Logs Insights",
+          "AWS CloudTrail Governance and AWS Config Compliance",
+        ],
+        handsOnLab: "Building a full serverless image-processing pipeline using S3, Lambda, and DynamoDB.",
+      },
+    ],
+    projects: [
+      {
+        title: "Enterprise E-Commerce Multi-Tier High Availability Architecture",
+        description: "Architect and deploy an enterprise-grade e-commerce application on AWS utilizing ALB, Auto Scaling EC2 fleet across multiple AZs, Multi-AZ Aurora DB, and S3 asset delivery via CloudFront.",
+        technologies: ["AWS VPC", "ALB", "EC2", "Amazon Aurora", "CloudFront", "Route 53"],
+        keyOutcome: "Achieved 99.99% uptime with automated self-healing and zero-downtime rolling updates.",
+      },
+      {
+        title: "Automated Serverless Video Transcoding & Metadata Pipeline",
+        description: "Create an event-driven media processing workflow where uploaded MP4 files automatically trigger Lambda workers to transcode resolutions and persist video metadata into DynamoDB.",
+        technologies: ["AWS Lambda", "S3 Events", "DynamoDB", "Amazon SNS", "AWS Step Functions"],
+        keyOutcome: "Reduced infrastructure costs by 75% compared to dedicated media server instances.",
+      },
+    ],
+    certifications: [
+      {
+        title: "AWS Certified Solutions Architect – Associate",
+        organization: "Amazon Web Services",
+        examCode: "SAA-C03",
+        description: "Validates technical expertise in designing and deploying secure, robust, and cost-effective cloud architectures on AWS.",
+      },
+    ],
+    trainers: [
+      {
+        name: "Suresh Kumar",
+        designation: "Principal Cloud Solutions Architect",
+        experienceYears: 14,
+        companies: ["Ex-Amazon", "Wipro Cloud Practice"],
+        bio: "Over 14 years of enterprise cloud engineering experience. Trained 8,000+ engineers across Bangalore and global online cohorts.",
+      },
+    ],
+    upcomingBatches: [
+      {
+        id: "batch-aws-wkday-am",
+        startDate: "Next Monday",
+        scheduleType: "Weekdays",
+        timeSlot: "07:30 AM - 09:30 AM IST",
+        mode: "Classroom",
+        seatsLeft: 4,
+      },
+      {
+        id: "batch-aws-wkday-pm",
+        startDate: "Next Monday",
+        scheduleType: "Weekdays",
+        timeSlot: "07:00 PM - 09:00 PM IST",
+        mode: "Live Online",
+        seatsLeft: 5,
+      },
+      {
+        id: "batch-aws-wkend",
+        startDate: "Next Saturday",
+        scheduleType: "Weekends",
+        timeSlot: "10:00 AM - 02:00 PM IST",
+        mode: "Hybrid",
+        seatsLeft: 6,
+      }
+    ],
+    faqs: [
+      {
+        question: "Is coding required to learn AWS Solutions Architect?",
+        answer: "No, AWS Solutions Architect focuses primarily on infrastructure, architecture, networking, security, and cloud service configuration. Basic scripting knowledge is helpful but not mandatory.",
+      },
+      {
+        question: "Do you provide AWS Free Tier account assistance?",
+        answer: "Yes! In the very first lab session, our instructor guides you step-by-step to create and configure your AWS Free Tier account with budget alerts to avoid unexpected costs.",
+      },
+      {
+        question: "What placement support is provided after course completion?",
+        answer: "We provide 100% placement support including resume review, 1-on-1 mock technical interviews with cloud architects, LinkedIn optimization, and direct interview scheduling with our 500+ corporate hiring partners.",
+      },
+    ],
+    relatedCourseSlugs: [
+      "devops-training",
+      "microsoft-azure-training",
+      "python-full-stack-course",
+    ],
+    seo: {
+      metaTitle: "AWS Training in Bangalore | AWS Solutions Architect Course - LearnMore",
+      metaDescription: "Top AWS Training Institute in Bangalore with 100% Placement. Master AWS SAA-C03, VPC, EC2, IAM, Lambda & Cloud Architecture with real projects.",
+      keywords: ["aws training in bangalore", "aws course marathahalli", "aws certified solutions architect training", "aws certification bangalore"],
+    },
+  },
+  {
+    id: "course-python-fullstack",
+    slug: "python-full-stack-course",
+    title: "Python Full Stack Developer Master Program",
+    categorySlug: "programming-and-development",
+    categoryName: "Programming & Full Stack",
+    badge: "Bestseller",
+    rating: {
+      score: 4.9,
+      reviewCount: 4120,
+    },
+    duration: {
+      hours: 90,
+      weeks: 12,
+      modes: ["Classroom", "Live Online", "Weekend Batches"],
+    },
+    overview: "Become an industry-ready Full Stack Python Developer. Master Core Python, Advanced Object-Oriented Programming, Django & FastAPI backend frameworks, React.js frontend, PostgreSQL databases, Docker containerization, REST APIs, and production deployment on AWS.",
+    highlights: [
+      "100% Job Placement Assistance with Direct Tech Hiring Drives",
+      "Complete Frontend (React 18, Tailwind, HTML5) & Backend (Django / FastAPI)",
+      "4 Enterprise Real-Time Capstone Projects with GitHub Portfolio Building",
+      "Daily Practical Lab Coding Exercises & Weekly Hackathons",
+      "Trained by Senior Tech Leads with 12+ Years Industry Experience",
+      "Classroom Lab Facility at Marathahalli, BTM & Kalyan Nagar",
+    ],
+    skillsGained: [
+      "Python 3.x OOPS, Decorators, Generators & Metaclasses",
+      "Django Web Framework & Django REST Framework (DRF)",
+      "FastAPI Async APIs & Microservices Design",
+      "React.js, Hooks, State Management & Tailwind CSS",
+      "PostgreSQL, MySQL, Redis Caching & MongoDB",
+      "Git, GitHub, CI/CD Actions & Docker Deployment",
+    ],
+    toolsAndTechnologies: [
+      { name: "Python", category: "Language" },
+      { name: "Django", category: "Backend" },
+      { name: "FastAPI", category: "Backend" },
+      { name: "React.js", category: "Frontend" },
+      { name: "PostgreSQL", category: "Database" },
+      { name: "Docker", category: "DevOps" },
+      { name: "Git / GitHub", category: "VCS" },
+      { name: "Postman", category: "API Testing" },
+    ],
+    curriculum: [
+      {
+        moduleNumber: 1,
+        title: "Core & Advanced Python 3.x Deep Dive",
+        durationHours: 20,
+        topics: [
+          "Data Structures: Lists, Tuples, Dictionaries, Sets & Comprehensions",
+          "Object-Oriented Programming (OOPS): Classes, Inheritance, Polymorphism, Encapsulation",
+          "Advanced Python: Decorators, Generators, Iterators, Context Managers",
+          "Exception Handling, File I/O, Regular Expressions (Regex) & Unit Testing",
+        ],
+        handsOnLab: "Building a CLI Banking Transaction Engine with custom exceptions and OOP architecture.",
+      },
+      {
+        moduleNumber: 2,
+        title: "Frontend Engineering with React.js & Modern UI",
+        durationHours: 22,
+        topics: [
+          "HTML5 Semantic Markup, CSS3 Flexbox/Grid, and Tailwind CSS",
+          "Modern JavaScript ES6+ (Promises, Async/Await, Destructuring)",
+          "React Component Architecture, Props, State, and Custom Hooks",
+          "React Router v6, Global State Management (Zustand/Context), and Axios integration",
+        ],
+        handsOnLab: "Developing a responsive Dashboard UI connecting to external REST APIs.",
+      },
+      {
+        moduleNumber: 3,
+        title: "Backend Development with Django & Django REST Framework",
+        durationHours: 25,
+        topics: [
+          "Django MVT Architecture, Models, ORM Queries & Migrations",
+          "Django Admin, Forms, Authentication & Role-Based Permissions",
+          "Building Production REST APIs with Django REST Framework (DRF)",
+          "JWT Authentication, Rate Limiting, API Versioning & Swagger Docs",
+        ],
+        handsOnLab: "Building a multi-vendor E-commerce Backend with JWT Auth and Stripe payment webhook endpoints.",
+      },
+      {
+        moduleNumber: 4,
+        title: "High-Performance APIs with FastAPI & Databases",
+        durationHours: 13,
+        topics: [
+          "FastAPI Asynchronous Endpoints, Pydantic Schema Validation",
+          "SQLAlchemy ORM, PostgreSQL database connection pooling",
+          "Redis In-Memory Caching & Celery Background Tasks",
+          "Relational DB Normalization, Indexing & Query Optimization",
+        ],
+        handsOnLab: "Constructing a real-time notification microservice with FastAPI and Redis pub/sub.",
+      },
+      {
+        moduleNumber: 5,
+        title: "Docker Containerization, CI/CD & Cloud Deployment",
+        durationHours: 10,
+        topics: [
+          "Containerizing Python & React applications using Docker and Docker Compose",
+          "GitHub Actions CI/CD Pipeline Automation",
+          "Deploying Full Stack Applications to AWS EC2, S3, and CloudFront",
+          "Production Logging, Security Best Practices & SSL Configuration",
+        ],
+        handsOnLab: "End-to-end deployment of capstone project with automated GitHub Actions pipeline.",
+      },
+    ],
+    projects: [
+      {
+        title: "Enterprise Learning Management System (LMS) with Live Video & Quizzes",
+        description: "Full-featured LMS built with React 18 frontend, Django REST API backend, PostgreSQL, and AWS S3 media storage. Supports course enrollment, progress tracking, and certificate generation.",
+        technologies: ["React", "Django REST Framework", "PostgreSQL", "AWS S3", "Docker"],
+        keyOutcome: "Production-ready codebase deployed live on AWS with complete CI/CD automation.",
+      },
+      {
+        title: "AI-Powered Real Estate Property Discovery & Valuation Platform",
+        description: "Interactive real estate portal with FastAPI backend, geospatial queries, Redis caching, and dynamic filter UI in React with interactive map integration.",
+        technologies: ["FastAPI", "Python", "React", "Redis", "PostgreSQL", "Tailwind CSS"],
+        keyOutcome: "Optimized API response time under 40ms with 10,000+ cached property records.",
+      },
+    ],
+    certifications: [
+      {
+        title: "Certified Python Full Stack Software Engineer",
+        organization: "LearnMore Technologies",
+        description: "Industry-recognized credential validating end-to-end full-stack development competencies, certified by senior hiring partners.",
+      },
+    ],
+    trainers: [
+      {
+        name: "Raghavendra Rao",
+        designation: "Lead Full Stack Architect",
+        experienceYears: 12,
+        companies: ["Ex-Infosys", "Tech Mahindra"],
+        bio: "Specialist in Python, Django, microservices, and React. Passionate educator who has mentored over 6,500 software developers.",
+      },
+    ],
+    upcomingBatches: [
+      {
+        id: "batch-python-wkday-am",
+        startDate: "Next Monday",
+        scheduleType: "Weekdays",
+        timeSlot: "08:00 AM - 10:00 AM IST",
+        mode: "Classroom",
+        seatsLeft: 3,
+      },
+      {
+        id: "batch-python-wkday-pm",
+        startDate: "Next Monday",
+        scheduleType: "Weekdays",
+        timeSlot: "07:30 PM - 09:30 PM IST",
+        mode: "Live Online",
+        seatsLeft: 5,
+      },
+      {
+        id: "batch-python-wkend",
+        startDate: "Next Saturday",
+        scheduleType: "Weekends",
+        timeSlot: "09:30 AM - 01:30 PM IST",
+        mode: "Hybrid",
+        seatsLeft: 4,
+      }
+    ],
+    faqs: [
+      {
+        question: "Is this course suitable for complete beginners in programming?",
+        answer: "Yes! We start from fundamental logic building and Core Python syntax before advancing into object-oriented programming, frameworks, and frontend development. No prior coding background is required.",
+      },
+      {
+        question: "Will I receive 100% job placement support?",
+        answer: "Absolutely. Our dedicated placement cell provides continuous resume building, technical mock interviews, behavioral rounds, and direct interviews with over 500+ partnered IT companies in Bangalore and across India.",
+      },
+      {
+        question: "Are offline classroom batches available in Bangalore?",
+        answer: "Yes, we run regular offline classroom batches with hands-on lab access at our Marathahalli, BTM Layout, and Kalyan Nagar branches.",
+      },
+    ],
+    relatedCourseSlugs: [
+      "java-full-stack-course",
+      "data-science-course",
+      "aws-certified-solutions-architect",
+    ],
+    seo: {
+      metaTitle: "Python Full Stack Training in Bangalore | 100% Placement - LearnMore",
+      metaDescription: "Best Python Full Stack Developer Course in Bangalore with Django, React, PostgreSQL & AWS. Join Marathahalli & Online batches with 100% placement assistance.",
+      keywords: ["python full stack training in bangalore", "python course in marathahalli", "python full stack developer course", "django training bangalore"],
+    },
+  },
+  {
+    id: "course-data-science",
+    slug: "data-science-course",
+    title: "Data Science & Artificial Intelligence Master Program",
+    categorySlug: "data-science-and-analytics",
+    categoryName: "Data Science & AI",
+    badge: "Trending",
+    rating: {
+      score: 4.8,
+      reviewCount: 2890,
+    },
+    duration: {
+      hours: 80,
+      weeks: 10,
+      modes: ["Classroom", "Live Online", "Weekend Batches"],
+    },
+    overview: "Master Data Science, Machine Learning algorithms, Deep Learning with TensorFlow/PyTorch, NLP, Generative AI models, Exploratory Data Analysis (EDA), SQL, and statistical modeling with real enterprise datasets and 100% job placement assistance.",
+    highlights: [
+      "Master Python for Data Science (NumPy, Pandas, Matplotlib, Seaborn)",
+      "Comprehensive Machine Learning (Supervised, Unsupervised, Ensemble Models)",
+      "Deep Learning, Computer Vision & Natural Language Processing (NLP)",
+      "Generative AI, Large Language Models (LLMs) & LangChain fundamentals",
+      "10+ Real-World Data Science Projects with Kaggle Competitions",
+      "1-on-1 Mentorship from Senior Data Scientists at Tier-1 MNCs",
+    ],
+    skillsGained: [
+      "Statistical Hypothesis Testing & Probability Distributions",
+      "Data Cleaning, Feature Engineering & Pipeline Construction",
+      "Scikit-Learn Regression, Classification, Clustering & XGBoost",
+      "Neural Networks with TensorFlow / Keras & PyTorch",
+      "NLP Sentiment Analysis, Transformers & Hugging Face",
+      "Model Deployment with Streamlit, FastAPI & Docker",
+    ],
+    toolsAndTechnologies: [
+      { name: "Python", category: "Language" },
+      { name: "Pandas / NumPy", category: "Data Wrangling" },
+      { name: "Scikit-Learn", category: "Machine Learning" },
+      { name: "TensorFlow", category: "Deep Learning" },
+      { name: "PyTorch", category: "Deep Learning" },
+      { name: "LangChain", category: "Generative AI" },
+      { name: "SQL", category: "Database" },
+      { name: "Tableau / Power BI", category: "Visualization" },
+    ],
+    curriculum: [
+      {
+        moduleNumber: 1,
+        title: "Python for Data Analysis & Mathematical Foundations",
+        durationHours: 16,
+        topics: [
+          "Python Syntax, Vectorized Operations with NumPy arrays",
+          "Data Wrangling & Manipulation with Pandas DataFrames",
+          "Data Visualization: Matplotlib, Seaborn & Plotly charts",
+          "Descriptive & Inferential Statistics, Normal Distribution, Central Limit Theorem",
+        ],
+        handsOnLab: "Performing Exploratory Data Analysis (EDA) on a 1M+ row customer churn dataset.",
+      },
+      {
+        moduleNumber: 2,
+        title: "Machine Learning Algorithms & Predictive Modeling",
+        durationHours: 24,
+        topics: [
+          "Supervised Learning: Linear Regression, Logistic Regression, Decision Trees, Random Forests",
+          "Advanced Ensembles: Gradient Boosting, AdaBoost, XGBoost, LightGBM",
+          "Unsupervised Learning: K-Means Clustering, Hierarchical Clustering, PCA Dimensionality Reduction",
+          "Model Evaluation Metrics: Precision, Recall, F1-Score, ROC-AUC curves, Cross-Validation",
+        ],
+        handsOnLab: "Building a Credit Card Fraud Detection Classifier with hyperparameter tuning.",
+      },
+      {
+        moduleNumber: 3,
+        title: "Deep Learning & Neural Networks",
+        durationHours: 20,
+        topics: [
+          "Artificial Neural Networks (ANN), Activation Functions, Backpropagation, Gradient Descent",
+          "Convolutional Neural Networks (CNN) for Image Classification with TensorFlow/Keras",
+          "Recurrent Neural Networks (RNN) and LSTMs for Time-Series Forecasting",
+          "Transfer Learning with ResNet and VGG architectures",
+        ],
+        handsOnLab: "Medical Imaging Pneumonia Detection classifier with CNN and Transfer Learning.",
+      },
+      {
+        moduleNumber: 4,
+        title: "Natural Language Processing (NLP) & Generative AI",
+        durationHours: 20,
+        topics: [
+          "Text Preprocessing: Tokenization, Stemming, Lemmatization, TF-IDF, Word2Vec",
+          "Transformers Architecture, Self-Attention mechanism, BERT fine-tuning",
+          "Generative AI & LLMs: Prompt Engineering, OpenAI APIs, LangChain RAG pipelines",
+          "Model Deployment via FastAPI and Streamlit Cloud",
+        ],
+        handsOnLab: "Building an enterprise Document Q&A AI Assistant using LangChain, ChromaDB, and OpenAI LLM.",
+      },
+    ],
+    projects: [
+      {
+        title: "Healthcare Diagnostic Predictive AI & Disease Risk Classifier",
+        description: "End-to-end Machine Learning pipeline analyzing patient electronic health records to predict early-stage cardiovascular risks with 94.2% accuracy.",
+        technologies: ["Python", "XGBoost", "Scikit-Learn", "FastAPI", "Streamlit"],
+        keyOutcome: "Deployed interactive doctor diagnostic web portal with explainable AI (SHAP values).",
+      },
+      {
+        title: "Enterprise RAG-Powered Intelligent Financial Document Search",
+        description: "Retrieval-Augmented Generation (RAG) system capable of querying thousands of SEC 10-K financial reports with source-grounded answers.",
+        technologies: ["LangChain", "OpenAI", "ChromaDB", "Python", "Docker"],
+        keyOutcome: "Reduced financial analyst research query time by 80%.",
+      },
+    ],
+    certifications: [
+      {
+        title: "Certified Professional Data Scientist & AI Specialist",
+        organization: "LearnMore Technologies",
+        description: "Comprehensive industry certificate recognizing mastery of machine learning, deep learning, statistical modeling, and GenAI system development.",
+      },
+    ],
+    trainers: [
+      {
+        name: "Dr. Arvind Swamy",
+        designation: "Lead Data Scientist",
+        experienceYears: 15,
+        companies: ["Ex-Mu Sigma", "Target Data Labs"],
+        bio: "Published AI researcher with 15+ years of data science consulting experience for Fortune 500 enterprises.",
+      },
+    ],
+    upcomingBatches: [
+      {
+        id: "batch-ds-wkday-am",
+        startDate: "Next Monday",
+        scheduleType: "Weekdays",
+        timeSlot: "07:30 AM - 09:30 AM IST",
+        mode: "Classroom",
+        seatsLeft: 5,
+      },
+      {
+        id: "batch-ds-wkend",
+        startDate: "Next Saturday",
+        scheduleType: "Weekends",
+        timeSlot: "10:00 AM - 02:00 PM IST",
+        mode: "Live Online",
+        seatsLeft: 4,
+      }
+    ],
+    faqs: [
+      {
+        question: "Do I need a mathematics or statistics background?",
+        answer: "No specialized math degree is required. We teach all necessary statistics, probability, and linear algebra concepts from scratch during the first module.",
+      },
+      {
+        question: "How do you help freshers crack Data Science interviews?",
+        answer: "We focus on building strong GitHub portfolios with real-world Kaggle datasets, conducting live mock interviews, solving take-home data challenges, and offering direct interview referrals.",
+      },
+    ],
+    relatedCourseSlugs: [
+      "data-analytics-course",
+      "power-bi-course",
+      "agentic-ai-course",
+    ],
+    seo: {
+      metaTitle: "Data Science Training in Bangalore | AI & ML Course - LearnMore",
+      metaDescription: "Best Data Science Course in Bangalore with Python, Machine Learning, Deep Learning & GenAI. 100% Placement Support at Marathahalli & Online.",
+      keywords: ["data science training in bangalore", "data science course marathahalli", "ai and machine learning course", "data science with python"],
+    },
+  },
+  {
+    id: "course-devops",
+    slug: "devops-training",
+    title: "DevOps & Cloud Native Engineering Master Program",
+    categorySlug: "cloud-computing",
+    categoryName: "Cloud Computing & DevOps",
+    badge: "Hot Tech",
+    rating: {
+      score: 4.9,
+      reviewCount: 3100,
+    },
+    duration: {
+      hours: 70,
+      weeks: 9,
+      modes: ["Classroom", "Live Online", "Weekend Batches"],
+    },
+    overview: "Master modern DevOps practices: CI/CD automation with Jenkins & GitHub Actions, Docker containerization, Kubernetes cluster orchestration, Terraform Infrastructure as Code (IaC), Ansible configuration management, Prometheus/Grafana observability, and AWS Cloud DevOps.",
+    highlights: [
+      "End-to-End Enterprise CI/CD Pipeline Automation",
+      "Certified Kubernetes Administrator (CKA) Hands-On Lab Prep",
+      "Infrastructure as Code with Terraform & Multi-Cloud Provisioning",
+      "GitOps with ArgoCD & Production Kubernetes Helm Charts",
+      "100% Placement Support with Top IT Companies and Startups",
+      "24/7 Dedicated Cloud Lab Access for Practice",
+    ],
+    skillsGained: [
+      "Linux Administration, Shell Scripting & Git Workflows",
+      "Jenkins Declarative Pipelines & Shared Libraries",
+      "Docker Multi-Stage Builds, Security Scanning & Compose",
+      "Kubernetes Pods, Deployments, Services, Ingress & RBAC",
+      "Terraform Modules, State Management & Cloud Automation",
+      "Ansible Playbooks, Roles & Inventory Automation",
+      "Prometheus Metrics, Grafana Dashboards & Alertmanager",
+    ],
+    toolsAndTechnologies: [
+      { name: "Git", category: "VCS" },
+      { name: "Jenkins", category: "CI/CD" },
+      { name: "Docker", category: "Containers" },
+      { name: "Kubernetes", category: "Orchestration" },
+      { name: "Terraform", category: "IaC" },
+      { name: "Ansible", category: "Config Management" },
+      { name: "Prometheus", category: "Monitoring" },
+      { name: "Grafana", category: "Visualization" },
+    ],
+    curriculum: [
+      {
+        moduleNumber: 1,
+        title: "Linux Server Administration, Bash Scripting & Git",
+        durationHours: 10,
+        topics: [
+          "Linux File Systems, Permissions, Process Management, and Networking",
+          "Advanced Bash Shell Scripting for Automated System Tasks",
+          "Git Version Control, Branching Strategies (GitFlow), and Pull Request Reviews",
+        ],
+        handsOnLab: "Writing automated backup and system health monitoring scripts in Bash.",
+      },
+      {
+        moduleNumber: 2,
+        title: "Continuous Integration & Automated Delivery with Jenkins",
+        durationHours: 14,
+        topics: [
+          "Jenkins Architecture: Controller and Dynamic Agent Nodes",
+          "Declarative Pipeline syntax (Jenkinsfile), Stages, Steps, Post Actions",
+          "Integrating SonarQube Code Quality Analysis and OWASP Dependency Check",
+          "Automated Unit Testing, Artifact Archiving, and Webhook Triggers",
+        ],
+        handsOnLab: "Building a multi-branch CI pipeline triggered automatically by GitHub pull requests.",
+      },
+      {
+        moduleNumber: 3,
+        title: "Docker Containerization & Image Security",
+        durationHours: 12,
+        topics: [
+          "Container Internals: Namespaces, Cgroups, Layered Storage",
+          "Dockerfile Optimization: Multi-stage builds and minimal base images (Alpine)",
+          "Docker Networking, Storage Volumes, and Docker Compose multi-container stacks",
+          "Trivy vulnerability scanning and Docker Hub / AWS ECR registries",
+        ],
+        handsOnLab: "Containerizing a full-stack microservices application with Docker Compose.",
+      },
+      {
+        moduleNumber: 4,
+        title: "Kubernetes Cluster Orchestration & Helm",
+        durationHours: 18,
+        topics: [
+          "Kubernetes Control Plane Architecture: API Server, etcd, Kubelet, Kube-Proxy",
+          "Core Objects: Pods, ReplicaSets, Deployments, DaemonSets, StatefulSets",
+          "Networking: Services (ClusterIP, NodePort, LoadBalancer), Ingress NGINX",
+          "Configuration: ConfigMaps, Secrets, RBAC, Namespaces, StorageClasses",
+          "Package Management with Helm Charts and GitOps deployments with ArgoCD",
+        ],
+        handsOnLab: "Deploying a highly available microservices cluster with Helm and Ingress SSL termination.",
+      },
+      {
+        moduleNumber: 5,
+        title: "Infrastructure as Code (Terraform) & Configuration Management (Ansible)",
+        durationHours: 16,
+        topics: [
+          "Terraform HCL Syntax, Providers, Resources, Variables, and Outputs",
+          "Remote State Management with S3 and DynamoDB State Locking",
+          "Creating Reusable Infrastructure Modules for AWS VPC and EKS",
+          "Ansible Architecture: Playbooks, Tasks, Handlers, Templates (Jinja2), Roles",
+          "Monitoring & Observability: Prometheus scrape configs and Grafana dashboards",
+        ],
+        handsOnLab: "Automating complete AWS VPC and EKS cluster provisioning with Terraform and configuring nodes via Ansible.",
+      },
+    ],
+    projects: [
+      {
+        title: "Zero-Downtime GitOps Production Deployment with ArgoCD & Kubernetes",
+        description: "Complete automated software lifecycle: developers push code to GitHub -> Jenkins runs test suite and builds Docker container -> ArgoCD synchronizes GitOps repository to Kubernetes cluster with Blue/Green deployment strategy.",
+        technologies: ["Jenkins", "Docker", "Kubernetes", "ArgoCD", "AWS EKS", "GitHub Actions"],
+        keyOutcome: "Achieved 100% automated release pipeline with instant zero-downtime rollback capabilities.",
+      },
+      {
+        title: "Multi-Cloud Infrastructure Automation with Terraform & Prometheus Monitoring",
+        description: "Provision full cloud network infrastructure on AWS using modular Terraform scripts, and configure self-hosted Prometheus/Grafana observability dashboards with automated Slack alerts.",
+        technologies: ["Terraform", "AWS", "Ansible", "Prometheus", "Grafana", "Alertmanager"],
+        keyOutcome: "Reduced cloud infrastructure provisioning time from 2 days to under 8 minutes.",
+      },
+    ],
+    certifications: [
+      {
+        title: "Certified DevOps & Cloud Infrastructure Engineer",
+        organization: "LearnMore Technologies",
+        description: "Validates comprehensive mastery of CI/CD, Containerization, Kubernetes, Terraform IaC, and Cloud Operations.",
+      },
+    ],
+    trainers: [
+      {
+        name: "Vikram Reddy",
+        designation: "Staff DevOps & SRE Architect",
+        experienceYears: 13,
+        companies: ["Ex-Cisco", "Oracle Cloud"],
+        bio: "Specialist in Kubernetes, Terraform, and Site Reliability Engineering with 13+ years architecting enterprise pipelines.",
+      },
+    ],
+    upcomingBatches: [
+      {
+        id: "batch-devops-wkday-am",
+        startDate: "Next Monday",
+        scheduleType: "Weekdays",
+        timeSlot: "08:00 AM - 10:00 AM IST",
+        mode: "Classroom",
+        seatsLeft: 4,
+      },
+      {
+        id: "batch-devops-wkday-pm",
+        startDate: "Next Monday",
+        scheduleType: "Weekdays",
+        timeSlot: "07:00 PM - 09:00 PM IST",
+        mode: "Live Online",
+        seatsLeft: 6,
+      },
+      {
+        id: "batch-devops-wkend",
+        startDate: "Next Saturday",
+        scheduleType: "Weekends",
+        timeSlot: "10:30 AM - 02:30 PM IST",
+        mode: "Hybrid",
+        seatsLeft: 3,
+      }
+    ],
+    faqs: [
+      {
+        question: "Is DevOps a high-demand career for freshers and experienced developers?",
+        answer: "Yes, DevOps engineers and SREs are among the highest paid IT professionals globally. Companies actively recruit both freshers with strong project portfolios and software engineers transitioning from development/sysadmin roles.",
+      },
+      {
+        question: "Do you prepare students for the CKA (Certified Kubernetes Administrator) exam?",
+        answer: "Yes, our Kubernetes curriculum directly aligns with the official CNCF CKA exam curriculum, including extensive hands-on terminal command scenarios and troubleshooting labs.",
+      },
+    ],
+    relatedCourseSlugs: [
+      "aws-certified-solutions-architect",
+      "python-full-stack-course",
+      "microsoft-azure-training",
+    ],
+    seo: {
+      metaTitle: "DevOps Training in Bangalore | CKA & Docker Course - LearnMore",
+      metaDescription: "Master DevOps, Kubernetes, Docker, Jenkins & Terraform in Bangalore. 100% Placement Support, Real AWS Infrastructure Labs & Live Online Batches.",
+      keywords: ["devops training in bangalore", "devops course marathahalli", "kubernetes training bangalore", "terraform course bangalore"],
+    },
+  },
+  {
+    id: "course-software-testing",
+    slug: "software-testing-course",
+    title: "Software Testing Master Program (Manual + Automation Selenium)",
+    categorySlug: "software-testing",
+    categoryName: "Software Testing & QA",
+    badge: "Bestseller",
+    rating: {
+      score: 4.8,
+      reviewCount: 3850,
+    },
+    duration: {
+      hours: 60,
+      weeks: 8,
+      modes: ["Classroom", "Live Online", "Weekend Batches"],
+    },
+    overview: "Complete Software Quality Assurance (QA) training covering Manual Testing methodologies (STLC, Test Cases, Bug Tracking in Jira), Automation Testing with Selenium WebDriver (Java & Python), TestNG framework, Cucumber BDD, API Testing with Postman, and CI/CD integration.",
+    highlights: [
+      "100% Placement Assistance with QA Specialization Mock Interviews",
+      "Both Manual QA (Jira, STLC) and Automation Testing (Selenium, TestNG, BDD)",
+      "API Testing with Postman, RestAssured & Performance Testing basics with JMeter",
+      "Live Testing on Real Banking, E-Commerce and Healthcare Web Applications",
+      "ISTQB Certification Guidance & Exam Sample Paper Solutions",
+      "Classroom Lab Training at Marathahalli, BTM, Kalyan Nagar, and Online",
+    ],
+    skillsGained: [
+      "Software Testing Life Cycle (STLC), Agile Scrum QA Workflows",
+      "Test Case Design Techniques, Bug Life Cycle & Jira Defect Management",
+      "Selenium WebDriver, Locators (XPath, CSS), Dynamic Web Elements",
+      "TestNG Annotations, Data Providers, Parallel Execution & Assertions",
+      "Behavior-Driven Development (BDD) with Cucumber & Gherkin syntax",
+      "REST API Testing with Postman & Automated API Assertions",
+    ],
+    toolsAndTechnologies: [
+      { name: "Selenium WebDriver", category: "Automation" },
+      { name: "Java / Python", category: "Language" },
+      { name: "TestNG", category: "Framework" },
+      { name: "Cucumber BDD", category: "Framework" },
+      { name: "Jira", category: "Bug Tracking" },
+      { name: "Postman", category: "API Testing" },
+      { name: "Git", category: "VCS" },
+      { name: "Jenkins", category: "CI/CD" },
+    ],
+    curriculum: [
+      {
+        moduleNumber: 1,
+        title: "Manual Testing Methodologies & Agile QA",
+        durationHours: 15,
+        topics: [
+          "SDLC Models (Waterfall vs Agile Scrum), Sprint Ceremonies",
+          "STLC Phases: Requirement Analysis, Test Planning, Test Execution, Closure",
+          "Writing Effective Test Scenarios, Test Cases, and Traceability Matrix (RTM)",
+          "Defect Management in Jira: Defect Severity vs Priority, Bug Reporting",
+        ],
+        handsOnLab: "Authoring comprehensive test suites and logging defects in Jira for an active e-commerce application.",
+      },
+      {
+        moduleNumber: 2,
+        title: "Core Java / Python Programming for Automation",
+        durationHours: 15,
+        topics: [
+          "Variables, Operators, Control Flow Statements, Loops",
+          "Object-Oriented Programming (OOPS): Classes, Inheritance, Polymorphism",
+          "Collections Framework (List, Set, Map), Exception Handling, File I/O",
+        ],
+        handsOnLab: "Building logic algorithms and handling test data files in Java/Python.",
+      },
+      {
+        moduleNumber: 3,
+        title: "Selenium WebDriver & Framework Architecture",
+        durationHours: 20,
+        topics: [
+          "Selenium WebDriver Architecture, Browser Drivers initialization",
+          "Element Identification: ID, Name, LinkText, CSS Selectors, Complex Dynamic XPaths",
+          "Handling Dropdowns, Web Tables, Frames, Windows, Alerts, Actions class (Drag & Drop)",
+          "Explicit, Implicit, and Fluent Waits for AJAX synchronization",
+          "Page Object Model (POM) Design Pattern and Page Factory",
+        ],
+        handsOnLab: "Building a modular Page Object Model automation suite for end-to-end user checkout flows.",
+      },
+      {
+        moduleNumber: 4,
+        title: "TestNG, Cucumber BDD & API Testing",
+        durationHours: 10,
+        topics: [
+          "TestNG Suite configuration (testng.xml), Grouping, Prioritization, Parameters",
+          "Cucumber BDD Feature files, Step Definitions, Scenario Outlines with Examples",
+          "REST API Testing using Postman: GET, POST, PUT, DELETE, Status Codes, JSON assertions",
+          "Executing Automation Suites in Jenkins CI/CD with Extent Reports generation",
+        ],
+        handsOnLab: "Executing automated regression test suites via Jenkins pipeline and generating rich HTML reports.",
+      },
+    ],
+    projects: [
+      {
+        title: "Banking Domain Hybrid Automation Framework with Selenium & TestNG",
+        description: "Enterprise-grade automation testing framework implementing Data-Driven and Page Object Model patterns to execute 150+ automated banking regression tests with parallel browser execution.",
+        technologies: ["Selenium", "Java", "TestNG", "Maven", "Apache POI", "ExtentReports"],
+        keyOutcome: "Reduced manual testing regression cycle time from 3 days to 45 minutes.",
+      },
+      {
+        title: "E-Commerce Cucumber BDD API & UI Cross-Browser Automation",
+        description: "Behavior-Driven Development test automation suite covering both frontend user journeys and backend payment verification APIs using Postman and RestAssured.",
+        technologies: ["Cucumber", "Selenium", "Postman", "Git", "Jenkins"],
+        keyOutcome: "Achieved 98% test coverage for critical business user paths.",
+      },
+    ],
+    certifications: [
+      {
+        title: "Certified Software Quality Assurance & Automation Engineer",
+        organization: "LearnMore Technologies",
+        description: "Demonstrates complete competency in Manual QA, Selenium Automation, API Testing, and Framework Design.",
+      },
+    ],
+    trainers: [
+      {
+        name: "Pooja Sharma",
+        designation: "Senior QA Automation Architect",
+        experienceYears: 11,
+        companies: ["Ex-Cognizant", "Societe Generale"],
+        bio: "Specialist in Selenium, Cucumber, and API test automation frameworks with 11+ years leading QA teams.",
+      },
+    ],
+    upcomingBatches: [
+      {
+        id: "batch-testing-wkday-am",
+        startDate: "Next Monday",
+        scheduleType: "Weekdays",
+        timeSlot: "09:00 AM - 11:00 AM IST",
+        mode: "Classroom",
+        seatsLeft: 5,
+      },
+      {
+        id: "batch-testing-wkend",
+        startDate: "Next Saturday",
+        scheduleType: "Weekends",
+        timeSlot: "10:00 AM - 02:00 PM IST",
+        mode: "Live Online",
+        seatsLeft: 7,
+      }
+    ],
+    faqs: [
+      {
+        question: "Is software testing a good career for non-technical or fresh graduates?",
+        answer: "Yes, software testing offers an excellent entry point into the IT industry with very steep career growth into automation engineering, SDET, performance testing, and QA management.",
+      },
+      {
+        question: "Do you teach API testing and Postman as part of this course?",
+        answer: "Yes! API testing with Postman is fully integrated into the curriculum alongside manual testing and Selenium automation.",
+      },
+    ],
+    relatedCourseSlugs: [
+      "python-full-stack-course",
+      "java-full-stack-course",
+      "devops-training",
+    ],
+    seo: {
+      metaTitle: "Software Testing Training in Bangalore | Manual + Selenium - LearnMore",
+      metaDescription: "Best Software Testing Course in Bangalore with Manual QA, Selenium WebDriver, Java, Postman API Testing & 100% Placement Assistance.",
+      keywords: ["software testing training in bangalore", "software testing course marathahalli", "selenium automation course", "manual testing training"],
+    },
+  },
+  {
+    id: "course-power-bi",
+    slug: "power-bi-course",
+    title: "Power BI & Business Intelligence Certification Master Course",
+    categorySlug: "data-science-and-analytics",
+    categoryName: "Data Science & AI",
+    badge: "Trending",
+    rating: {
+      score: 4.9,
+      reviewCount: 2210,
+    },
+    duration: {
+      hours: 45,
+      weeks: 6,
+      modes: ["Classroom", "Live Online", "Weekend Batches"],
+    },
+    overview: "Master Microsoft Power BI from scratch to advanced analytics. Learn Power Query data transformation, DAX (Data Analysis Expressions) formulas, data modeling, interactive dashboard design, Power BI Service administration, and PL-300 Microsoft Certified Power BI Data Analyst exam preparation.",
+    highlights: [
+      "Microsoft PL-300 Exam Preparation with Practice Tests",
+      "Advanced DAX Calculations, Time Intelligence & Measures",
+      "Connect to SQL, Excel, Azure Cloud & REST Data Sources",
+      "10+ Interactive Industry Dashboards (Sales, Finance, HR, Logistics)",
+      "100% Job Placement Assistance with Resume Building",
+    ],
+    skillsGained: [
+      "Power Query ETL & Data Modeling (Star/Snowflake Schema)",
+      "DAX CALCULATE, FILTER, SUMX, RELATED, and Time Intelligence",
+      "Interactive Visualization, Custom Visuals & Drill-Throughs",
+      "Row-Level Security (RLS) & Workspace Management",
+      "Scheduled Data Refresh with On-Premises Data Gateways",
+    ],
+    toolsAndTechnologies: [
+      { name: "Power BI Desktop", category: "BI Tool" },
+      { name: "Power BI Service", category: "Cloud BI" },
+      { name: "DAX", category: "Calculation Engine" },
+      { name: "Power Query (M)", category: "ETL" },
+      { name: "SQL Server", category: "Database" },
+      { name: "Excel Advanced", category: "Spreadsheets" },
+    ],
+    curriculum: [
+      {
+        moduleNumber: 1,
+        title: "Power Query ETL & Data Transformation",
+        durationHours: 10,
+        topics: [
+          "Importing data from Excel, CSV, SQL Server, and Web APIs",
+          "Data Cleaning: Merging, Appending, Pivoting, Unpivoting columns",
+          "Handling missing data, data types, and custom M code transformations",
+        ],
+        handsOnLab: "Extracting, transforming, and staging messy multi-source sales data into a unified model.",
+      },
+      {
+        moduleNumber: 2,
+        title: "Data Modeling & Relationships",
+        durationHours: 10,
+        topics: [
+          "Dimensional Modeling: Fact tables vs Dimension tables",
+          "Star Schema vs Snowflake Schema best practices",
+          "Managing active vs inactive relationships, Cross-filter direction",
+        ],
+        handsOnLab: "Building a clean Star Schema data model connecting 8 enterprise dimensions.",
+      },
+      {
+        moduleNumber: 3,
+        title: "DAX (Data Analysis Expressions) Masterclass",
+        durationHours: 15,
+        topics: [
+          "Calculated Columns vs DAX Measures",
+          "Evaluation Context: Row Context vs Filter Context",
+          "Mastering CALCULATE, FILTER, ALL, ALLEXCEPT",
+          "Time Intelligence: YTD, QTD, MTD, SAMEPERIODLASTYEAR, Moving Averages",
+        ],
+        handsOnLab: "Authoring 30+ complex business DAX measures for financial KPI tracking.",
+      },
+      {
+        moduleNumber: 4,
+        title: "Report Design, Power BI Service & Governance",
+        durationHours: 10,
+        topics: [
+          "Visual Best Practices, Bookmarks, Page Navigation, Drill-Throughs",
+          "Row-Level Security (RLS) implementation for multi-tenant data access",
+          "Publishing to Power BI Service, Workspaces, Apps, Scheduled Refresh",
+        ],
+        handsOnLab: "Publishing an executive dashboard with role-based security and scheduled automated data refresh.",
+      },
+    ],
+    projects: [
+      {
+        title: "Global Retail Executive KPI Dashboard & Sales Performance Analyzer",
+        description: "Interactive Power BI dashboard tracking revenue, profit margins, regional sales rep performance, and inventory velocity across 50+ countries.",
+        technologies: ["Power BI Desktop", "DAX", "Power Query", "SQL Server"],
+        keyOutcome: "Provided C-suite executives with instant drill-down insights across product lines.",
+      },
+    ],
+    certifications: [
+      {
+        title: "Microsoft Certified: Power BI Data Analyst Associate (PL-300)",
+        organization: "Microsoft",
+        examCode: "PL-300",
+        description: "Validates technical proficiency in transforming data, modeling data, visualizing data, and maintaining assets in Microsoft Power BI.",
+      },
+    ],
+    trainers: [
+      {
+        name: "Karthik Nambiar",
+        designation: "Principal BI & Analytics Consultant",
+        experienceYears: 10,
+        companies: ["Ex-Deloitte", "Accenture BI"],
+        bio: "Microsoft Certified Trainer (MCT) with 10+ years delivering business intelligence solutions.",
+      },
+    ],
+    upcomingBatches: [
+      {
+        id: "batch-pbi-wkday-am",
+        startDate: "Next Monday",
+        scheduleType: "Weekdays",
+        timeSlot: "07:30 AM - 09:30 AM IST",
+        mode: "Classroom",
+        seatsLeft: 4,
+      },
+      {
+        id: "batch-pbi-wkend",
+        startDate: "Next Saturday",
+        scheduleType: "Weekends",
+        timeSlot: "11:00 AM - 03:00 PM IST",
+        mode: "Live Online",
+        seatsLeft: 6,
+      }
+    ],
+    faqs: [
+      {
+        question: "Is Power BI easy to learn for people with only Excel experience?",
+        answer: "Yes! If you know basic Excel formulas, Power BI is very intuitive to pick up. We transition you smoothly from spreadsheet logic into Power Query ETL and DAX data modeling.",
+      },
+    ],
+    relatedCourseSlugs: [
+      "data-analytics-course",
+      "data-science-course",
+      "snowflake-training",
+    ],
+    seo: {
+      metaTitle: "Power BI Training in Bangalore | PL-300 Course - LearnMore",
+      metaDescription: "Top Power BI Training Institute in Bangalore. Master DAX, Power Query, Data Modeling, Dashboards & PL-300 Exam with 100% Placement Support.",
+      keywords: ["power bi training in bangalore", "power bi course in marathahalli", "dax training bangalore", "pl-300 certification bangalore"],
+    },
+  },
+  {
+    id: "course-agentic-ai",
+    slug: "agentic-ai-course",
+    title: "Agentic AI & Autonomous Multi-Agent Systems Master Program",
+    categorySlug: "data-science-and-analytics",
+    categoryName: "Data Science & AI",
+    badge: "Hot Tech",
+    rating: {
+      score: 5.0,
+      reviewCount: 1420,
+    },
+    duration: {
+      hours: 60,
+      weeks: 8,
+      modes: ["Classroom", "Live Online", "Weekend Batches"],
+    },
+    overview: "Step into the future of Artificial Intelligence. Master Agentic AI design patterns, Autonomous Multi-Agent systems with LangGraph, CrewAI, AutoGen, Model Context Protocol (MCP), tool-use reasoning loops (ReAct), and enterprise workflow automation.",
+    highlights: [
+      "Build Autonomous Multi-Agent Workflows with LangGraph & CrewAI",
+      "Implement Tool Calling, Function Execution & Context Memory",
+      "Model Context Protocol (MCP) Standards & Enterprise Integration",
+      "Deploy Self-Correcting Code Generation & Research Agents",
+      "100% Placement Support with Cutting-Edge AI Labs",
+    ],
+    skillsGained: [
+      "ReAct (Reason + Act) & Plan-and-Solve Agent Architectures",
+      "LangGraph State Machines & Human-in-the-Loop Workflows",
+      "CrewAI Hierarchical Agent Teams & Delegation",
+      "Vector Embeddings, Hybrid Search & Semantic Routing",
+      "Local LLM Fine-Tuning & Quantization (Ollama / vLLM)",
+    ],
+    toolsAndTechnologies: [
+      { name: "LangGraph", category: "Agent Framework" },
+      { name: "CrewAI", category: "Agent Framework" },
+      { name: "AutoGen", category: "Multi-Agent" },
+      { name: "Python", category: "Language" },
+      { name: "OpenAI / Claude", category: "LLM" },
+      { name: "ChromaDB / Pinecone", category: "Vector DB" },
+      { name: "FastAPI", category: "Backend" },
+    ],
+    curriculum: [
+      {
+        moduleNumber: 1,
+        title: "LLM Foundations & Tool-Calling Architecture",
+        durationHours: 12,
+        topics: [
+          "Prompt Engineering, Structured Outputs with Pydantic",
+          "Function Calling & Tool Execution fundamentals",
+          "ReAct Pattern: Thought -> Action -> Observation loops",
+        ],
+        handsOnLab: "Building a live Web Search & Calculator Tool-Calling Assistant in Python.",
+      },
+      {
+        moduleNumber: 2,
+        title: "LangGraph Stateful Agent Graphs",
+        durationHours: 18,
+        topics: [
+          "StateGraph, Nodes, Edges, and Conditional Branching",
+          "Memory Persistence: Short-term thread memory and long-term vector stores",
+          "Human-in-the-Loop (HITL) approval gates and state rollback",
+        ],
+        handsOnLab: "Building an automated Customer Support Escalation Agent Graph with human review.",
+      },
+      {
+        moduleNumber: 3,
+        title: "CrewAI Multi-Agent Collaboration",
+        durationHours: 15,
+        topics: [
+          "Defining Agents, Roles, Goals, and Backstories",
+          "Task Decomposition, Sequential vs Hierarchical Processes",
+          "Inter-Agent Delegation, Tool Sharing, and Manager LLM routing",
+        ],
+        handsOnLab: "Developing an autonomous Tech Newsletter Creator with Researcher, Writer, and Editor agents.",
+      },
+      {
+        moduleNumber: 4,
+        title: "Model Context Protocol (MCP) & Enterprise Production AI",
+        durationHours: 15,
+        topics: [
+          "MCP Architecture: Clients, Servers, Resources, Tools, and Prompts",
+          "Integrating agents with internal SQL databases and GitHub APIs",
+          "Agent Evaluation, Guardrails, Latency Optimization, and Docker Deployment",
+        ],
+        handsOnLab: "Deploying a production Enterprise SQL Querying Agent with guardrails on AWS.",
+      },
+    ],
+    projects: [
+      {
+        title: "Autonomous Full-Stack Code Generation & PR Review Agent System",
+        description: "Multi-agent engineering team that takes a Jira user story, generates tested React/Node.js code, runs unit tests, fixes its own errors, and opens a GitHub Pull Request.",
+        technologies: ["LangGraph", "Claude 3.5 Sonnet", "Python", "GitHub API", "Docker"],
+        keyOutcome: "Automated 60% of routine boilerplate feature implementation workflows.",
+      },
+    ],
+    certifications: [
+      {
+        title: "Certified Agentic AI Systems Architect",
+        organization: "LearnMore Technologies",
+        description: "Validates proficiency in autonomous agent workflows, LangGraph state machines, and multi-agent coordination.",
+      },
+    ],
+    trainers: [
+      {
+        name: "Abhishek Mukherjee",
+        designation: "Principal AI Research Engineer",
+        experienceYears: 10,
+        companies: ["Ex-Microsoft AI", "Applied AI Labs"],
+        bio: "Specialist in LLM architectures, autonomous agents, and enterprise AI orchestration systems.",
+      },
+    ],
+    upcomingBatches: [
+      {
+        id: "batch-agentic-wkday-pm",
+        startDate: "Next Monday",
+        scheduleType: "Weekdays",
+        timeSlot: "07:30 PM - 09:30 PM IST",
+        mode: "Live Online",
+        seatsLeft: 3,
+      },
+      {
+        id: "batch-agentic-wkend",
+        startDate: "Next Saturday",
+        scheduleType: "Weekends",
+        timeSlot: "10:00 AM - 02:00 PM IST",
+        mode: "Hybrid",
+        seatsLeft: 5,
+      }
+    ],
+    faqs: [
+      {
+        question: "What are the prerequisites for Agentic AI?",
+        answer: "Basic Python programming knowledge and familiarity with REST APIs are recommended. We provide introductory modules for LLM fundamentals.",
+      },
+    ],
+    relatedCourseSlugs: [
+      "data-science-course",
+      "python-full-stack-course",
+      "aws-certified-solutions-architect",
+    ],
+    seo: {
+      metaTitle: "Agentic AI Course in Bangalore | LangGraph & CrewAI - LearnMore",
+      metaDescription: "Master Agentic AI & Autonomous Multi-Agent Systems in Bangalore. Learn LangGraph, CrewAI, MCP, Tool Calling & LLM Orchestration with 100% Placement.",
+      keywords: ["agentic ai course in bangalore", "agentic ai training marathahalli", "langgraph training", "crewai course bangalore"],
+    },
+  },
+  {
+    id: "course-snowflake",
+    slug: "snowflake-training",
+    title: "Snowflake Cloud Data Platform Master Program",
+    categorySlug: "database-and-warehousing",
+    categoryName: "Databases & Data Warehousing",
+    badge: "Trending",
+    rating: {
+      score: 4.9,
+      reviewCount: 1950,
+    },
+    duration: {
+      hours: 40,
+      weeks: 5,
+      modes: ["Classroom", "Live Online", "Weekend Batches"],
+    },
+    overview: "Master Snowflake Cloud Data Warehousing from architecture to Snowpark. Learn Virtual Warehouses, Time Travel, Zero-Copy Cloning, Micro-partitioning, Streams & Tasks, Data Sharing, and SnowPro Core Certification preparation.",
+    highlights: [
+      "SnowPro Core Certification (COF-C02) Preparation",
+      "Hands-on Architecture on Multi-Cluster Shared Data",
+      "Continuous Data Ingestion with Snowpipe & Staging",
+      "Real-Time Data Pipelines using Streams & Tasks",
+      "100% Placement Support in Top Data Analytics Firms",
+    ],
+    skillsGained: [
+      "Snowflake Unique Multi-Cluster Shared Data Architecture",
+      "Virtual Warehouse Sizing, Scaling Policies & Cost Control",
+      "Data Ingestion: COPY INTO, Internal/External Stages, Snowpipe",
+      "Time Travel, Fail-safe, and Zero-Copy Table Cloning",
+      "Role-Based Access Control (RBAC), Masking Policies & Secure Views",
+      "Snowpark Python / SQL for Data Engineering",
+    ],
+    toolsAndTechnologies: [
+      { name: "Snowflake", category: "Cloud Data Warehouse" },
+      { name: "SQL", category: "Query Language" },
+      { name: "AWS S3 / Azure Blob", category: "Cloud Storage" },
+      { name: "Snowpipe", category: "Streaming Ingestion" },
+      { name: "Python / Snowpark", category: "Data Engineering" },
+    ],
+    curriculum: [
+      {
+        moduleNumber: 1,
+        title: "Snowflake Architecture & Virtual Warehouses",
+        durationHours: 10,
+        topics: [
+          "Three-Layer Architecture: Database Storage, Query Processing, Cloud Services",
+          "Creating & Resizing Virtual Warehouses, Auto-suspend and Auto-resume",
+          "Multi-cluster Warehouses and Scaling policies (Standard vs Economy)",
+        ],
+        handsOnLab: "Provisioning dynamic virtual warehouses and optimizing compute credit consumption.",
+      },
+      {
+        moduleNumber: 2,
+        title: "Data Loading & Staging Best Practices",
+        durationHours: 10,
+        topics: [
+          "External Stages (AWS S3, Azure Blob, Google Cloud Storage)",
+          "COPY INTO command, File Formats (CSV, JSON, Parquet), Validation Modes",
+          "Continuous Automated Ingestion using Snowpipe and SQS notifications",
+        ],
+        handsOnLab: "Configuring auto-ingesting Snowpipe listening to AWS S3 bucket file drops.",
+      },
+      {
+        moduleNumber: 3,
+        title: "Advanced Features: Time Travel, Cloning & Security",
+        durationHours: 10,
+        topics: [
+          "Time Travel queries (AT, BEFORE), Undrop Tables & Schemas",
+          "Zero-Copy Cloning for instant development/testing environments",
+          "Dynamic Data Masking, Row-Level Access Policies, Secure Views",
+        ],
+        handsOnLab: "Restoring corrupted production data using Time Travel and building masked reporting views.",
+      },
+      {
+        moduleNumber: 4,
+        title: "Data Pipelines with Streams, Tasks & Snowpark",
+        durationHours: 10,
+        topics: [
+          "Change Data Capture (CDC) using Table Streams",
+          "Automating SQL workflows with Cron Tasks and Task Graphs (DAGs)",
+          "Introduction to Snowpark DataFrames with Python",
+        ],
+        handsOnLab: "Building an automated incremental CDC pipeline updating dimension tables via Tasks.",
+      },
+    ],
+    projects: [
+      {
+        title: "Enterprise Multi-Source Cloud Data Warehouse Migration & Analytics",
+        description: "Design and implement a centralized Snowflake data warehouse consolidating transactional ERP and web analytics data with automated Snowpipe ingestion and Power BI reporting integration.",
+        technologies: ["Snowflake", "AWS S3", "Snowpipe", "SQL", "Power BI"],
+        keyOutcome: "Reduced query execution time by 65% with automatic multi-cluster elasticity.",
+      },
+    ],
+    certifications: [
+      {
+        title: "Snowflake SnowPro Core Certification",
+        organization: "Snowflake",
+        examCode: "COF-C02",
+        description: "Demonstrates core expertise in Snowflake cloud data platform architecture, security, performance tuning, and data loading.",
+      },
+    ],
+    trainers: [
+      {
+        name: "Venkat Raman",
+        designation: "Principal Data Architect",
+        experienceYears: 14,
+        companies: ["Ex-Accenture Data Practice"],
+        bio: "Snowflake certified master architect with 14+ years in enterprise data warehousing and modern data stack migrations.",
+      },
+    ],
+    upcomingBatches: [
+      {
+        id: "batch-snowflake-wkday-am",
+        startDate: "Next Monday",
+        scheduleType: "Weekdays",
+        timeSlot: "07:30 AM - 09:30 AM IST",
+        mode: "Classroom",
+        seatsLeft: 4,
+      },
+      {
+        id: "batch-snowflake-wkend",
+        startDate: "Next Saturday",
+        scheduleType: "Weekends",
+        timeSlot: "10:00 AM - 02:00 PM IST",
+        mode: "Live Online",
+        seatsLeft: 6,
+      }
+    ],
+    faqs: [
+      {
+        question: "Is Snowflake in high demand in the data analytics industry?",
+        answer: "Yes, Snowflake is currently the fastest growing cloud data warehouse adopted by thousands of global enterprises, creating a massive shortage of certified data engineers and administrators.",
+      },
+    ],
+    relatedCourseSlugs: [
+      "data-analytics-course",
+      "power-bi-course",
+      "data-science-course",
+    ],
+    seo: {
+      metaTitle: "Snowflake Training in Bangalore | SnowPro Core Course - LearnMore",
+      metaDescription: "Master Snowflake Cloud Data Warehouse in Bangalore. Learn Architecture, Snowpipe, Time Travel, Snowpark & SnowPro Certification with 100% Placement.",
+      keywords: ["snowflake training in bangalore", "snowflake course marathahalli", "snowpro core certification", "snowflake data warehouse training"],
+    },
+  },
+  {
+    id: "course-java-fullstack",
+    slug: "java-full-stack-course",
+    title: "Java Full Stack Developer Master Program (Spring Boot + React/Angular)",
+    categorySlug: "programming-and-development",
+    categoryName: "Programming & Full Stack",
+    badge: "Bestseller",
+    rating: {
+      score: 4.9,
+      reviewCount: 3980,
+    },
+    duration: {
+      hours: 90,
+      weeks: 12,
+      modes: ["Classroom", "Live Online", "Weekend Batches"],
+    },
+    overview: "Comprehensive Java Full Stack Engineer training covering Core Java, Advanced Java, Spring Boot microservices, Spring Security, Hibernate/JPA ORM, React.js frontend, REST APIs, MySQL/PostgreSQL databases, Docker containerization, and AWS deployment with 100% placement support.",
+    highlights: [
+      "100% Guaranteed Placement Support with 500+ Hiring Partners",
+      "Spring Boot 3.x Microservices Architecture with Eureka & Gateway",
+      "Frontend with React 18, TypeScript & Modern UI Frameworks",
+      "Database Mastery: Hibernate, Spring Data JPA, MySQL, and Redis",
+      "4 Real-World Enterprise Projects (Banking & E-Commerce)",
+    ],
+    skillsGained: [
+      "Core Java OOPS, Multi-Threading, Collections, Streams API & Lambdas",
+      "Spring Framework, Spring Boot REST APIs & Dependency Injection",
+      "Spring Security with JWT Authentication & OAuth2",
+      "Microservices Design Patterns, Service Discovery & Config Server",
+      "React.js / Angular Frontend Engineering with State Management",
+      "Docker, Maven, Git, and Cloud CI/CD Deployment",
+    ],
+    toolsAndTechnologies: [
+      { name: "Java 21", category: "Language" },
+      { name: "Spring Boot 3", category: "Backend" },
+      { name: "Hibernate / JPA", category: "ORM" },
+      { name: "React / Angular", category: "Frontend" },
+      { name: "MySQL / Postgres", category: "Database" },
+      { name: "Docker", category: "DevOps" },
+      { name: "Kafka", category: "Messaging" },
+    ],
+    curriculum: [
+      {
+        moduleNumber: 1,
+        title: "Core Java 21 & Object-Oriented Software Design",
+        durationHours: 22,
+        topics: [
+          "Java Fundamentals, Memory Architecture (Heap vs Stack), JVM Internals",
+          "OOP Concepts: Abstraction, Encapsulation, Inheritance, Polymorphism, Interfaces",
+          "Collections Framework: ArrayList, HashSet, HashMap, Concurrent Collections",
+          "Java 8+ Features: Lambdas, Functional Interfaces, Streams API, Optional",
+          "Exception Handling, Multi-Threading, Concurrency Utilities, and File I/O",
+        ],
+        handsOnLab: "Building a multi-threaded bank transaction processor using Streams API and concurrent data structures.",
+      },
+      {
+        moduleNumber: 2,
+        title: "Database Management with SQL, JDBC & Hibernate / JPA",
+        durationHours: 18,
+        topics: [
+          "Relational Database Design, Complex Joins, Subqueries, Indexing",
+          "JDBC Connection Management and PreparedStatement",
+          "Hibernate ORM: Entity Mappings, HQL, Criteria API, Caching (L1/L2)",
+          "Spring Data JPA Repositories, Custom Queries, and Transaction Management",
+        ],
+        handsOnLab: "Implementing automated CRUD persistence layer with Spring Data JPA and MySQL.",
+      },
+      {
+        moduleNumber: 3,
+        title: "Spring Boot 3 & Enterprise Microservices Architecture",
+        durationHours: 25,
+        topics: [
+          "Spring Core: Inversion of Control (IoC), Dependency Injection (DI), Spring Beans",
+          "Building RESTful APIs with Spring Boot 3 & Spring Web MVC",
+          "Spring Security 6 with JWT Token Authentication and Role-Based Authorization",
+          "Microservices: Spring Cloud Netflix Eureka, Spring Cloud Gateway, Resilience4j Circuit Breaker",
+          "Event-Driven Microservices with Apache Kafka message brokers",
+        ],
+        handsOnLab: "Constructing a distributed microservices banking portal with JWT auth and Kafka event streaming.",
+      },
+      {
+        moduleNumber: 4,
+        title: "Frontend Development with React & Full Stack Integration",
+        durationHours: 25,
+        topics: [
+          "React 18 Architecture, JSX, State, Props, Hooks (useState, useEffect, useMemo)",
+          "React Router v6, Global State with Redux Toolkit / Zustand",
+          "Connecting React frontend to Spring Boot backend via Axios and secure cookies",
+          "Dockerizing Spring Boot + React applications and deploying to AWS EC2",
+        ],
+        handsOnLab: "End-to-end integration and AWS cloud deployment of the full-stack capstone project.",
+      },
+    ],
+    projects: [
+      {
+        title: "Enterprise Digital Banking & Payment Processing Microservices Platform",
+        description: "Full-scale banking portal comprising Account Service, Transaction Service, Notification Service, and Eureka Service Registry built with Spring Boot 3, React frontend, MySQL, Kafka, and Docker.",
+        technologies: ["Spring Boot", "React", "Kafka", "MySQL", "Docker", "AWS"],
+        keyOutcome: "Production-grade microservices architecture handling simulated high-concurrency payment transfers.",
+      },
+    ],
+    certifications: [
+      {
+        title: "Certified Java Full Stack Software Engineer",
+        organization: "LearnMore Technologies",
+        description: "Comprehensive industry certificate recognizing mastery of Spring Boot microservices, React, and enterprise software engineering.",
+      },
+    ],
+    trainers: [
+      {
+        name: "Manoj Prabhakar",
+        designation: "Senior Java Architect",
+        experienceYears: 13,
+        companies: ["Ex-Oracle", "Capgemini"],
+        bio: "Specialist in Spring Boot microservices and enterprise Java applications with 13+ years training top corporate teams.",
+      },
+    ],
+    upcomingBatches: [
+      {
+        id: "batch-java-wkday-am",
+        startDate: "Next Monday",
+        scheduleType: "Weekdays",
+        timeSlot: "08:00 AM - 10:00 AM IST",
+        mode: "Classroom",
+        seatsLeft: 4,
+      },
+      {
+        id: "batch-java-wkday-pm",
+        startDate: "Next Monday",
+        scheduleType: "Weekdays",
+        timeSlot: "07:00 PM - 09:00 PM IST",
+        mode: "Live Online",
+        seatsLeft: 5,
+      },
+      {
+        id: "batch-java-wkend",
+        startDate: "Next Saturday",
+        scheduleType: "Weekends",
+        timeSlot: "09:30 AM - 01:30 PM IST",
+        mode: "Hybrid",
+        seatsLeft: 4,
+      }
+    ],
+    faqs: [
+      {
+        question: "Why should I choose Java Full Stack for my IT career?",
+        answer: "Java powers backend systems for 90% of Fortune 500 companies and enterprise banking networks. Java Full Stack engineers enjoy consistently high job security and top compensation packages.",
+      },
+    ],
+    relatedCourseSlugs: [
+      "python-full-stack-course",
+      "aws-certified-solutions-architect",
+      "devops-training",
+    ],
+    seo: {
+      metaTitle: "Java Full Stack Training in Bangalore | Spring Boot & React - LearnMore",
+      metaDescription: "Best Java Full Stack Developer Course in Bangalore with Spring Boot, Microservices, React & AWS. 100% Placement Support in Marathahalli & Online.",
+      keywords: ["java full stack training in bangalore", "java full stack course marathahalli", "spring boot training bangalore", "java developer course"],
+    },
+  },
+  {
+    id: "course-azure-admin",
+    slug: "microsoft-azure-training",
+    title: "Microsoft Azure Administrator (AZ-104) & Solutions Architect Training",
+    categorySlug: "cloud-computing",
+    categoryName: "Cloud Computing & DevOps",
+    badge: "Trending",
+    rating: {
+      score: 4.8,
+      reviewCount: 2650,
+    },
+    duration: {
+      hours: 55,
+      weeks: 8,
+      modes: ["Classroom", "Live Online", "Weekend Batches"],
+    },
+    level: "Beginner to Advanced",
+    overview: "Master Microsoft Azure Cloud infrastructure management, Azure Active Directory (Entra ID), Virtual Networks, Virtual Machines, Azure Storage, AKS Kubernetes, and prepare for AZ-104 & AZ-305 official Microsoft certifications with 100% placement support.",
+    highlights: [
+      "Official Microsoft AZ-104 Certification Exam Preparation & Practice Labs",
+      "Hands-On Labs on Live Azure Portal, Azure CLI, and ARM / Bicep Templates",
+      "100% Job Placement Assistance with 500+ Corporate Hiring Partners",
+      "Azure Entra ID, Hybrid Cloud Networking & Zero Trust Security",
+      "Trained by Microsoft Certified Trainers (MCT) with 12+ Years Experience",
+    ],
+    skillsGained: [
+      "Azure Entra ID (Azure AD), RBAC & Multi-Tenant Identity Governance",
+      "Azure Virtual Networks (VNet), Subnets, Peering, VPN Gateway & ExpressRoute",
+      "Azure Virtual Machines, VM Scale Sets, Azure Bastion & Load Balancers",
+      "Azure Blob Storage, File Shares, Lifecycle Management & Storage Sync",
+      "Azure Kubernetes Service (AKS), App Services & Container Apps",
+      "Azure Monitor, Log Analytics, Network Watcher & Cost Management",
+    ],
+    toolsAndTechnologies: [
+      { name: "Azure Portal", category: "Cloud Console" },
+      { name: "Azure CLI / PowerShell", category: "CLI Automation" },
+      { name: "Entra ID (Azure AD)", category: "Identity & Access" },
+      { name: "Azure Virtual Networks", category: "Networking" },
+      { name: "Azure Kubernetes (AKS)", category: "Containers" },
+      { name: "ARM & Bicep Templates", category: "IaC" },
+    ],
+    curriculum: [
+      {
+        moduleNumber: 1,
+        title: "Azure Identities & Governance",
+        durationHours: 12,
+        topics: [
+          "Azure Entra ID (Azure AD) Users, Groups, and Administrative Units",
+          "Role-Based Access Control (RBAC) and Custom Role Definitions",
+          "Management Groups, Subscriptions, Resource Groups, and Azure Policies",
+        ],
+        handsOnLab: "Configuring multi-factor authentication (MFA) and conditional access policies in Azure Entra ID.",
+      },
+      {
+        moduleNumber: 2,
+        title: "Azure Virtual Networking & Security",
+        durationHours: 15,
+        topics: [
+          "VNets, Subnets, Network Security Groups (NSG), Application Security Groups (ASG)",
+          "VNet Peering, User Defined Routes (UDR), and Azure Firewall",
+          "Azure Load Balancer (Internal/Public), Application Gateway with WAF",
+        ],
+        handsOnLab: "Building a secure hub-and-spoke multi-tier network topology with VNet peering and Azure Firewall.",
+      },
+      {
+        moduleNumber: 3,
+        title: "Azure Compute & Container Deployments",
+        durationHours: 15,
+        topics: [
+          "Virtual Machine sizing, Availability Sets, and Virtual Machine Scale Sets (VMSS)",
+          "Azure App Services, Deployment Slots, and Custom Domain SSL",
+          "Azure Kubernetes Service (AKS) cluster creation, scaling, and ingress controller",
+        ],
+        handsOnLab: "Deploying high-availability containerized microservices to AKS with automated auto-scaling.",
+      },
+      {
+        moduleNumber: 4,
+        title: "Azure Storage, Backup & Monitoring",
+        durationHours: 13,
+        topics: [
+          "Azure Storage Accounts: Blob, File, Table, Queue, and Access Tiers (Hot/Cool/Archive)",
+          "Azure Backup, Recovery Services Vault, and Azure Site Recovery (ASR)",
+          "Azure Monitor, Log Analytics Workspaces, and Metrics Alerting Rules",
+        ],
+        handsOnLab: "Setting up automated cross-region VM disaster recovery failover and alert triggers via Log Analytics.",
+      },
+    ],
+    projects: [
+      {
+        title: "Enterprise Multi-Region High-Availability Azure Infrastructure",
+        description: "Deploy an enterprise core banking application across Azure East US and West US regions with Traffic Manager routing, Azure Application Gateway WAF, and private endpoint database connectivity.",
+        technologies: ["Azure VNets", "AKS", "App Gateway", "Azure SQL", "Bicep"],
+        keyOutcome: "Achieved 99.99% SLA uptime with automated multi-region disaster recovery failover.",
+      },
+    ],
+    certifications: [
+      {
+        title: "Microsoft Certified: Azure Administrator Associate (AZ-104)",
+        organization: "Microsoft",
+        examCode: "AZ-104",
+        description: "Validates subject matter expertise in implementing, managing, and monitoring an organization's Microsoft Azure environment.",
+      },
+    ],
+    trainers: [
+      {
+        name: "Pradeep Joshi",
+        designation: "Principal Azure Cloud Architect",
+        experienceYears: 12,
+        companies: ["Ex-Microsoft", "Infosys Cloud Practice"],
+        bio: "Microsoft Certified Trainer (MCT) with over 12 years of hands-on cloud migration experience across tier-1 enterprises.",
+      },
+    ],
+    upcomingBatches: [
+      {
+        id: "batch-az-1",
+        startDate: "Next Monday",
+        scheduleType: "Weekdays",
+        timeSlot: "08:00 AM - 10:00 AM IST",
+        mode: "Classroom",
+        seatsLeft: 5,
+      },
+    ],
+    faqs: [
+      {
+        question: "Does this course cover preparation for the AZ-104 exam?",
+        answer: "Yes, our course directly aligns with the official Microsoft AZ-104 certification syllabus with dedicated mock exam questions and interactive portal labs.",
+      },
+    ],
+    relatedCourseSlugs: [
+      "aws-certified-solutions-architect",
+      "devops-training",
+      "python-full-stack-course",
+    ],
+    seo: {
+      metaTitle: "Microsoft Azure Training in Bangalore | AZ-104 Certification - LearnMore",
+      metaDescription: "Best Microsoft Azure Training Institute in Bangalore with 100% Placement. Master AZ-104, VNet, AKS, Entra ID & ARM Templates in Marathahalli & Online.",
+      keywords: ["microsoft azure training bangalore", "az-104 course bangalore", "azure administrator certification", "azure training marathahalli"],
+    },
+  },
+  {
+    id: "course-data-analytics",
+    slug: "data-analytics-course",
+    title: "Data Analytics Master Program (SQL + Power BI + Python + Tableau)",
+    categorySlug: "data-science-and-analytics",
+    categoryName: "Data Science & AI",
+    badge: "Bestseller",
+    rating: {
+      score: 4.9,
+      reviewCount: 3120,
+    },
+    duration: {
+      hours: 60,
+      weeks: 8,
+      modes: ["Classroom", "Live Online", "Weekend Batches"],
+    },
+    level: "Beginner to Intermediate",
+    overview: "Become an industry-ready Data Analyst. Master Advanced SQL queries, Python for Data Analysis (Pandas, NumPy, Seaborn), Microsoft Power BI, Tableau Desktop, and Advanced Excel with 100% job placement support in Bangalore.",
+    highlights: [
+      "100% Job Placement Assistance with Top Analytics Companies",
+      "Master 4 In-Demand Tools: SQL, Power BI, Python & Tableau",
+      "15+ Live Business Case Studies (E-Commerce, Finance, Supply Chain, Healthcare)",
+      "Daily Practical Lab Exercises & Portfolio Building on GitHub",
+      "Classroom Lab Facility at Marathahalli, BTM & Online",
+    ],
+    skillsGained: [
+      "Complex SQL Queries: Joins, Window Functions, CTEs & Subqueries",
+      "Python Data Wrangling with Pandas & Data Visualization with Seaborn",
+      "Power BI DAX Formulas, Power Query ETL & Interactive Dashboards",
+      "Tableau Calculated Fields, Level of Detail (LOD) Expressions & Stories",
+      "Business Intelligence KPI Reporting & Executive Presentations",
+    ],
+    toolsAndTechnologies: [
+      { name: "SQL (PostgreSQL / MySQL)", category: "Database" },
+      { name: "Power BI", category: "BI Tool" },
+      { name: "Python (Pandas, NumPy)", category: "Analytics Language" },
+      { name: "Tableau", category: "Visualization" },
+      { name: "Advanced Excel", category: "Spreadsheet" },
+    ],
+    curriculum: [
+      {
+        moduleNumber: 1,
+        title: "Enterprise SQL & Database Querying",
+        durationHours: 15,
+        topics: [
+          "Relational Database Concepts, DDL, DML, DQL Commands",
+          "Advanced Filtering, Aggregations (GROUP BY, HAVING), and Multi-Table JOINs",
+          "Window Functions: ROW_NUMBER, RANK, DENSE_RANK, NTILE, LAG, LEAD",
+          "Common Table Expressions (CTEs), Subqueries & Query Performance Optimization",
+        ],
+        handsOnLab: "Writing 50+ complex analytical SQL queries against a multi-million record transactional database.",
+      },
+      {
+        moduleNumber: 2,
+        title: "Python for Data Analysis",
+        durationHours: 15,
+        topics: [
+          "Python Syntax, Lists, Dictionaries, and Functions",
+          "NumPy Arrays and Vectorized Mathematical Operations",
+          "Pandas DataFrames: Cleaning, Transforming, Merging, and Reshaping Data",
+          "Exploratory Data Analysis (EDA) with Matplotlib and Seaborn charts",
+        ],
+        handsOnLab: "Performing end-to-end data cleaning and exploratory analytics on real-world retail store sales data.",
+      },
+      {
+        moduleNumber: 3,
+        title: "Power BI & Dashboard Design",
+        durationHours: 15,
+        topics: [
+          "Power Query ETL Data Transformations and M Code",
+          "Data Modeling, Star Schema, Relationships, and Cross-Filtering",
+          "DAX Measures: CALCULATE, Time Intelligence (YTD, MTD), Filter Contexts",
+          "Publishing Reports to Power BI Service and Scheduling Automated Refreshes",
+        ],
+        handsOnLab: "Building an interactive executive KPI dashboard tracking product profit margins and customer churn.",
+      },
+      {
+        moduleNumber: 4,
+        title: "Tableau Visualization & Storytelling",
+        durationHours: 15,
+        topics: [
+          "Connecting to Live and In-Memory Data Sources in Tableau",
+          "Charts: Dual Axis, Heatmaps, Scatterplots, Bullet Graphs, and Maps",
+          "Parameters, Sets, Filters, and Level of Detail (LOD) Expressions",
+          "Interactive Dashboard Actions, Tooltips, and Business Storyboards",
+        ],
+        handsOnLab: "Constructing a supply chain logistics performance story with interactive geographic map drill-downs.",
+      },
+    ],
+    projects: [
+      {
+        title: "Global E-Commerce Revenue & Customer Retention Analytics Dashboard",
+        description: "Analyze 2 million transactions to identify high-value customer cohorts, churn trends, and marketing channel ROI using SQL and Power BI.",
+        technologies: ["SQL", "Power BI", "DAX", "Python"],
+        keyOutcome: "Discovered 18% revenue leakage in shipping operations and built an automated alert dashboard.",
+      },
+    ],
+    certifications: [
+      {
+        title: "Certified Business Data Analytics Specialist",
+        organization: "LearnMore Technologies",
+        description: "Validates proficiency across SQL database querying, Python statistical analysis, and Power BI / Tableau dashboard engineering.",
+      },
+    ],
+    trainers: [
+      {
+        name: "Sneha Varma",
+        designation: "Lead Data Analytics Consultant",
+        experienceYears: 10,
+        companies: ["Ex-Mu Sigma", "Nielsen"],
+        bio: "10+ years delivering business intelligence solutions and mentoring top data analyst professionals.",
+      },
+    ],
+    upcomingBatches: [
+      {
+        id: "batch-da-wkday-am",
+        startDate: "Next Monday",
+        scheduleType: "Weekdays",
+        timeSlot: "08:30 AM - 10:30 AM IST",
+        mode: "Classroom",
+        seatsLeft: 4,
+      },
+      {
+        id: "batch-da-wkend",
+        startDate: "Next Saturday",
+        scheduleType: "Weekends",
+        timeSlot: "10:00 AM - 02:00 PM IST",
+        mode: "Hybrid",
+        seatsLeft: 5,
+      }
+    ],
+    faqs: [
+      {
+        question: "Is coding experience required to learn Data Analytics?",
+        answer: "No! This course starts with SQL and Excel before moving to beginner-friendly Python data analysis. Anyone with basic logical reasoning can master this program.",
+      },
+    ],
+    relatedCourseSlugs: [
+      "power-bi-course",
+      "data-science-course",
+      "snowflake-training",
+    ],
+    seo: {
+      metaTitle: "Data Analytics Course in Bangalore | SQL & Power BI Training - LearnMore",
+      metaDescription: "Best Data Analytics Training Institute in Bangalore with SQL, Power BI, Python & Tableau. 100% Placement Support in Marathahalli & Online.",
+      keywords: ["data analytics training bangalore", "data analytics course marathahalli", "sql and power bi course", "data analyst training bangalore"],
+    },
+  },
+  {
+    id: "course-oracle-dba",
+    slug: "oracle-dba-training",
+    title: "Oracle DBA 19c / 21c Database Administrator Master Program",
+    categorySlug: "database-and-warehousing",
+    categoryName: "Databases & Data Warehousing",
+    badge: "Trending",
+    rating: {
+      score: 4.8,
+      reviewCount: 1750,
+    },
+    duration: {
+      hours: 50,
+      weeks: 7,
+      modes: ["Classroom", "Live Online", "Weekend Batches"],
+    },
+    level: "Intermediate to Advanced",
+    overview: "Master Oracle Database Administration (Oracle 19c/21c). Learn Oracle Architecture, Multi-tenant Pluggable Databases (CDB/PDB), RMAN Backup & Recovery, Data Guard replication, Oracle RAC clustering, and performance tuning.",
+    highlights: [
+      "Oracle 19c OCP Certification Exam Guidance & Lab Practice",
+      "RMAN Backup, Recovery & Disaster Recovery with Active Data Guard",
+      "Multi-tenant Database Architecture (CDB & PDB Administration)",
+      "Oracle Real Application Clusters (RAC) & ASM Storage Setup",
+      "100% Job Placement Assistance with Corporate Database Teams",
+    ],
+    skillsGained: [
+      "Oracle Instance Architecture (SGA, PGA, Background Processes)",
+      "Pluggable Database (PDB) Creation, Cloning, and Unplugging",
+      "RMAN Backup Strategies, Incremental Backups, and Point-In-Time Recovery",
+      "Data Guard Physical Standby configuration and Fast-Start Failover",
+      "AWR, ADDM, ASH Reports & SQL Performance Tuning",
+    ],
+    toolsAndTechnologies: [
+      { name: "Oracle 19c / 21c", category: "RDBMS" },
+      { name: "RMAN", category: "Backup & Recovery" },
+      { name: "Oracle Data Guard", category: "Disaster Recovery" },
+      { name: "Oracle RAC", category: "High Availability" },
+      { name: "SQL*Plus & SQL Developer", category: "DB Client" },
+    ],
+    curriculum: [
+      {
+        moduleNumber: 1,
+        title: "Oracle Database Architecture & Multi-Tenant Administration",
+        durationHours: 12,
+        topics: [
+          "Oracle Memory Structure (SGA/PGA) & Background Processes (DBWn, LGWR, CKPT, SMON)",
+          "Managing Tablespaces, Datafiles, Undo Management & Temporary Segments",
+          "CDB and PDB Administration: Provisioning, Cloning, and Relocating PDBs",
+        ],
+        handsOnLab: "Installing Oracle 19c on Linux and configuring a multi-tenant CDB with 4 pluggable databases.",
+      },
+      {
+        moduleNumber: 2,
+        title: "Backup, Restore & Disaster Recovery with RMAN",
+        durationHours: 14,
+        topics: [
+          "RMAN Architecture, Recovery Catalog, and Channel Configuration",
+          "Performing Full, Incremental, and Cumulative Database Backups",
+          "Complete vs Incomplete Database Recovery, Point-in-Time Recovery (PITR)",
+        ],
+        handsOnLab: "Simulating datafile corruption and executing zero-data-loss RMAN point-in-time recovery.",
+      },
+      {
+        moduleNumber: 3,
+        title: "Oracle Data Guard & High Availability",
+        durationHours: 12,
+        topics: [
+          "Data Guard Concepts: Redo Apply vs SQL Apply",
+          "Creating and Configuring Physical Standby Database",
+          "Switchover and Failover Operations, Data Guard Broker (DGMGRL)",
+        ],
+        handsOnLab: "Setting up automated synchronous Physical Standby Data Guard replication with broker switchover.",
+      },
+      {
+        moduleNumber: 4,
+        title: "Performance Tuning & Diagnostics",
+        durationHours: 12,
+        topics: [
+          "Generating and Analyzing AWR (Automatic Workload Repository) Reports",
+          "ADDM (Automatic Database Diagnostic Monitor) and ASH (Active Session History)",
+          "SQL Tuning Advisor, Explain Plan Analysis, and Index Optimization",
+        ],
+        handsOnLab: "Diagnosing CPU bottlenecks and tuning poorly performing SQL execution plans using AWR reports.",
+      },
+    ],
+    projects: [
+      {
+        title: "Enterprise Banking Database Migration to Oracle 19c Multi-Tenant with Data Guard",
+        description: "Migrate mission-critical financial database from legacy Oracle 11g to Oracle 19c CDB/PDB with zero downtime using Data Guard standby synchronization.",
+        technologies: ["Oracle 19c", "RMAN", "Data Guard", "Linux"],
+        keyOutcome: "Maintained 100% data integrity with sub-second failover recovery.",
+      },
+    ],
+    certifications: [
+      {
+        title: "Oracle Database Administrator Certified Professional (OCP)",
+        organization: "Oracle Corporation",
+        examCode: "1Z0-083",
+        description: "Validates in-depth technical skills required to manage, backup, secure, and tune enterprise Oracle Database environments.",
+      },
+    ],
+    trainers: [
+      {
+        name: "Shashidhar Murthy",
+        designation: "Lead Oracle Database Specialist",
+        experienceYears: 16,
+        companies: ["Ex-Oracle", "Wipro DB Practice"],
+        bio: "Oracle Certified Master (OCM) with 16+ years managing multi-terabyte mission-critical database fleets.",
+      },
+    ],
+    upcomingBatches: [
+      {
+        id: "batch-oracle-wkday-am",
+        startDate: "Next Monday",
+        scheduleType: "Weekdays",
+        timeSlot: "07:30 AM - 09:30 AM IST",
+        mode: "Classroom",
+        seatsLeft: 4,
+      },
+      {
+        id: "batch-oracle-wkend",
+        startDate: "Next Saturday",
+        scheduleType: "Weekends",
+        timeSlot: "11:00 AM - 03:00 PM IST",
+        mode: "Live Online",
+        seatsLeft: 5,
+      }
+    ],
+    faqs: [
+      {
+        question: "Is Oracle DBA in high demand?",
+        answer: "Yes, Oracle runs the core transaction processing systems of major banks, telecom providers, and insurance enterprises worldwide, ensuring steady demand for certified DBAs.",
+      },
+    ],
+    relatedCourseSlugs: [
+      "snowflake-training",
+      "aws-certified-solutions-architect",
+      "devops-training",
+    ],
+    seo: {
+      metaTitle: "Oracle DBA Training in Bangalore | 19c/21c Course - LearnMore",
+      metaDescription: "Master Oracle DBA 19c in Bangalore. Learn RMAN, Data Guard, RAC, Multi-Tenant Architecture & Performance Tuning with 100% Placement Support.",
+      keywords: ["oracle dba training bangalore", "oracle 19c dba course", "oracle dba training marathahalli", "ocp certification bangalore"],
+    },
+  },
+];
+
+export function getCourseBySlug(slug: string): Course | undefined {
+  return courses.find((c) => c.slug === slug);
+}
+
+export function getCoursesByCategory(categorySlug: string): Course[] {
+  return courses.filter((c) => c.categorySlug === categorySlug);
+}
+
+export function getAllCourseSlugs(): string[] {
+  return courses.map((c) => c.slug);
+}

@@ -1,0 +1,46 @@
+{
+  "timestamp": "2026-09-21T04:48:20.912Z",
+  "sourceStats": {
+    "totalCsvLines": 516,
+    "headerLineCount": 1,
+    "csvDataRowCount": 515
+  },
+  "inventoryStats": {
+    "totalInventoryRecords": 515
+  },
+  "uniquenessCheck": {
+    "uniqueCsvIds": 515,
+    "uniqueCsvPostNames": 515,
+    "uniqueCsvUrls": 515,
+    "uniqueInventoryIds": 515,
+    "uniqueInventorySlugs": 515,
+    "uniqueInventoryOriginalUrls": 515
+  },
+  "classificationBreakdown": {
+    "courseLocationPages": 466,
+    "coreCoursePages": 27,
+    "staticPages": 9,
+    "syllabusPages": 2,
+    "legacyUtility": 7
+  },
+  "migrationActionBreakdown": {
+    "dynamicRender": 502,
+    "staticPage": 7,
+    "redirect": 6
+  },
+  "completenessCheck": {
+    "csvToInventoryMatched": 515,
+    "missingInInventory": [],
+    "extraInInventory": []
+  },
+  "fieldIntegrityCheck": {
+    "missingId": 0,
+    "missingTitle": 0,
+    "missingSlug": 0,
+    "missingOriginalUrl": 0,
+    "missingTargetRoute": 0,
+    "missingSeoTitle": 0,
+    "missingMetaDescription": 0
+  },
+  "is100PercentComplete": true
+}
