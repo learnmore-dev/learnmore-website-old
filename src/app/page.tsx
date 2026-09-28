@@ -4,19 +4,9 @@ import { NewHomeExperience } from "@/components/home/NewHomeExperience";
 import { JsonLd } from "@/components/common/JsonLd";
 
 export const metadata: Metadata = {
-  title: "Best IT Software Training Institute in Bangalore | 100% Placement | LearnMore Technologies",
+  title: "Software Training Institute in Bangalore | 100% Placement | LearnMore Technologies",
   description:
     "Master Next-Gen Tech and launch high-salary IT careers with LearnMore Technologies Bangalore. Industry-focused training in Python Full Stack, AWS, Data Science, AI, DevOps & Software Testing with 100% placement support.",
-  keywords: [
-    "software training institute in bangalore",
-    "it courses in bangalore with placement",
-    "python full stack training marathahalli",
-    "aws certification training bangalore",
-    "data science course in bangalore",
-    "devops training institute btm",
-    "software testing courses kalyan nagar",
-    "learnmore technologies bangalore",
-  ],
   alternates: {
     canonical: "https://learnmoretechnologies.in/",
   },

@@ -49,16 +49,10 @@ export async function generateMetadata({ params }: CoursePageProps): Promise<Met
   }
 
   const canonicalUrl = course.seo.canonicalUrl || `https://learnmoretechnologies.in/courses/${course.slug}`;
-  const keywords = generateCourseKeywords(
-    course.title,
-    course.categoryName,
-    course.toolsAndTechnologies.map((t) => t.name)
-  );
 
   return {
     title: course.seo.metaTitle || `${course.title} in Bangalore | LearnMore Technologies`,
     description: course.seo.metaDescription || course.overview,
-    keywords,
     alternates: {
       canonical: canonicalUrl,
     },

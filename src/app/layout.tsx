@@ -31,15 +31,6 @@ export const metadata: Metadata = {
   },
   description:
     "Bangalore's #1 Software Training Institute in Marathahalli, BTM Layout & Kalyan Nagar. Certified courses in Python Full Stack, AWS, Data Science, DevOps, Java, AI & Software Testing with 100% Placement Support.",
-  keywords: [
-    "software training institute in bangalore",
-    "it courses in bangalore",
-    "python training in marathahalli",
-    "aws training in bangalore",
-    "data science course in bangalore",
-    "software testing training marathahalli",
-    "learn more technologies",
-  ],
   authors: [{ name: "LearnMore Technologies" }],
   openGraph: {
     type: "website",

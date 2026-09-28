@@ -13,14 +13,6 @@ export const metadata: Metadata = {
   title: "All IT Software Training Courses in Bangalore | LearnMore Technologies",
   description:
     "Explore 50+ job-oriented software training courses in Bangalore with 100% placement support. Python Full Stack, AWS, Data Science, DevOps, AI, Java & QA Testing across Marathahalli, BTM Layout & Kalyan Nagar.",
-  keywords: [
-    "software courses in bangalore",
-    "it training programs marathahalli",
-    "python full stack training",
-    "aws certification training bangalore",
-    "data science course with placement",
-    "devops training bangalore",
-  ],
   alternates: {
     canonical: "https://learnmoretechnologies.in/courses",
   },

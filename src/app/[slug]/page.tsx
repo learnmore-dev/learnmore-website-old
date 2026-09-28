@@ -25,7 +25,7 @@ import { courses, getCourseBySlug } from "@/data/courses";
 import { locations, getLocationBySlug } from "@/data/locations";
 import { categories } from "@/data/categories";
 import { wordPressPagesInventory, getPageBySlug, getAllPageSlugs, WordPressPageRecord } from "@/data/pageInventory";
-import { resolveCourseForRecord } from "@/lib/courseResolver";
+import { resolveCourseForRecord, resolveRecordFromSlug } from "@/lib/courseResolver";
 import {
   MapPin,
   Phone,
@@ -64,8 +64,17 @@ export async function generateStaticParams() {
 
 export async function generateMetadata({ params }: DynamicInventoryPageProps): Promise<Metadata> {
   const resolvedParams = await Promise.resolve(params);
-  const slug = resolvedParams.slug;
-  const record = getPageBySlug(slug);
+  const rawSlug = resolvedParams?.slug || "";
+  const slug = decodeURIComponent(rawSlug).trim().replace(/^\/+|\/+$/g, "").toLowerCase();
+
+  if (slug.includes("{slug") || slug.includes("%7bslug") || slug === "slug" || slug === "{slug}") {
+    return {
+      title: "All Courses | LearnMore Technologies",
+      description: "Explore software training programs at LearnMore Technologies.",
+    };
+  }
+
+  const record = resolveRecordFromSlug(slug);
 
   if (!record) {
     const course = getCourseBySlug(slug);
@@ -73,7 +82,6 @@ export async function generateMetadata({ params }: DynamicInventoryPageProps): P
       return {
         title: course.seo.metaTitle || `${course.title} | LearnMore Technologies`,
         description: course.seo.metaDescription || course.overview,
-        keywords: generateCourseKeywords(course.title, course.categoryName),
         alternates: { canonical: `https://learnmoretechnologies.in/${slug}` },
       };
     }
@@ -84,19 +92,16 @@ export async function generateMetadata({ params }: DynamicInventoryPageProps): P
   }
 
   const canonicalUrl = `https://learnmoretechnologies.in/${record.slug}`;
-  const keywords = record.pageType === "COURSE_LOCATION"
-    ? generateCourseLocationKeywords(record.courseName || record.postTitle, record.locationName || "Bangalore")
-    : generateCourseKeywords(record.courseName || record.postTitle);
+  const cleanTitle = (record.seoTitle || record.postTitle).replace(/\s*\|\s*LearnMore\s*Technologies/gi, "").trim();
 
   return {
-    title: record.seoTitle || `${record.postTitle} | LearnMore Technologies`,
+    title: cleanTitle,
     description: record.metaDescription,
-    keywords,
     alternates: {
       canonical: canonicalUrl,
     },
     openGraph: {
-      title: record.seoTitle,
+      title: cleanTitle,
       description: record.metaDescription,
       type: "website",
       url: canonicalUrl,
@@ -105,7 +110,7 @@ export async function generateMetadata({ params }: DynamicInventoryPageProps): P
     },
     twitter: {
       card: "summary_large_image",
-      title: record.seoTitle,
+      title: cleanTitle,
       description: record.metaDescription,
     },
   };
@@ -113,8 +118,15 @@ export async function generateMetadata({ params }: DynamicInventoryPageProps): P
 
 export default async function DynamicInventoryPage({ params }: DynamicInventoryPageProps) {
   const resolvedParams = await Promise.resolve(params);
-  const slug = resolvedParams.slug;
-  const record = getPageBySlug(slug);
+  const rawSlug = resolvedParams?.slug || "";
+  const slug = decodeURIComponent(rawSlug).trim().replace(/^\/+|\/+$/g, "").toLowerCase();
+
+  // Safety guard for placeholder URLs
+  if (slug.includes("{slug") || slug.includes("%7bslug") || slug === "slug" || slug === "{slug}") {
+    redirect("/courses");
+  }
+
+  const record = resolveRecordFromSlug(slug);
 
   if (!record) {
     const directCourse = getCourseBySlug(slug);
@@ -124,16 +136,16 @@ export default async function DynamicInventoryPage({ params }: DynamicInventoryP
   }
 
   // Handle redirects if needed
-  if (record && record.migrationAction === "REDIRECT" && record.targetRoute !== `/${record.slug}`) {
+  if (record && record.migrationAction === "REDIRECT" && record.targetRoute !== `/${record.slug}` && record.targetRoute !== `/${slug}`) {
     redirect(record.targetRoute);
   }
 
-  if (record && record.pageType === "STATIC_PAGE" && record.targetRoute !== `/${record.slug}`) {
+  if (record && record.pageType === "STATIC_PAGE" && record.targetRoute !== `/${record.slug}` && record.targetRoute !== `/${slug}`) {
     redirect(record.targetRoute);
   }
 
   // Resolve Course data
-  const course = record ? resolveCourseForRecord(record) : getCourseBySlug(slug)!;
+  const course = record ? resolveCourseForRecord(record) : (getCourseBySlug(slug) || courses[0]);
   const category = categories.find((c) => c.slug === course.categorySlug);
 
   // If this is a Syllabus page

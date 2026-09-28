@@ -1,6 +1,6 @@
 import { Course } from "@/types";
 import { courses, getCourseBySlug } from "@/data/courses";
-import { WordPressPageRecord } from "@/data/pageInventory";
+import { WordPressPageRecord, getPageBySlug } from "@/data/pageInventory";
 
 // Map aliases to core course slugs
 const SLUG_ALIAS_MAP: Record<string, string> = {
@@ -137,4 +137,81 @@ export function resolveCourseForRecord(record: WordPressPageRecord): Course {
 
   // Fallback to primary bestseller
   return courses[0];
+}
+
+function formatWords(str: string): string {
+  const cleaned = str
+    .replace(/^the-best-/i, "")
+    .replace(/^best-/i, "")
+    .replace(/^top-/i, "");
+
+  return cleaned
+    .split("-")
+    .map((w) => w.charAt(0).toUpperCase() + w.slice(1))
+    .join(" ");
+}
+
+/**
+ * Resolves any record from inventory or synthesizes a location-based course record
+ * for standard patterns like course_name-in-location_name (e.g. python-training-in-whitefield)
+ */
+export function resolveRecordFromSlug(slug: string): WordPressPageRecord | null {
+  if (!slug) return null;
+  const cleanSlug = decodeURIComponent(slug).trim().replace(/^\/+|\/+$/g, "").toLowerCase();
+
+  // 1. Direct page inventory match
+  const direct = getPageBySlug(cleanSlug);
+  if (direct) return direct;
+
+  // 2. Dynamic pattern match: course_name-in-location_name
+  if (cleanSlug.includes("-in-")) {
+    const parts = cleanSlug.split("-in-");
+    const coursePart = parts[0];
+    const locationPart = parts.slice(1).join("-in-");
+
+    const courseName = formatWords(coursePart);
+    const locationName = formatWords(locationPart);
+
+    return {
+      id: `dyn-${cleanSlug}`,
+      postTitle: `${courseName} in ${locationName}`,
+      postName: cleanSlug,
+      originalUrl: `https://learnmoretechnologies.in/${cleanSlug}/`,
+      slug: cleanSlug,
+      courseSlug: coursePart,
+      courseName: courseName,
+      locationSlug: locationPart,
+      locationName: locationName,
+      countryOrRegion: "India",
+      pageType: "COURSE_LOCATION",
+      targetRoute: `/${cleanSlug}`,
+      seoTitle: `${courseName} in ${locationName}`,
+      metaDescription: `Enroll in ${courseName} in ${locationName} at LearnMore Technologies. Industry expert mentorship, live real-time projects, dedicated lab support and 100% placement assistance.`,
+      migrationAction: "DYNAMIC_RENDER",
+    };
+  }
+
+  // 3. Direct core course check
+  const directCourse = getCourseBySlug(cleanSlug);
+  if (directCourse) {
+    return {
+      id: `dyn-course-${cleanSlug}`,
+      postTitle: `${directCourse.title} Training in Bangalore`,
+      postName: cleanSlug,
+      originalUrl: `https://learnmoretechnologies.in/${cleanSlug}/`,
+      slug: cleanSlug,
+      courseSlug: cleanSlug,
+      courseName: directCourse.title,
+      locationSlug: "bangalore",
+      locationName: "Bangalore",
+      countryOrRegion: "India",
+      pageType: "CORE_COURSE",
+      targetRoute: `/${cleanSlug}`,
+      seoTitle: `${directCourse.title} Training in Bangalore`,
+      metaDescription: directCourse.overview,
+      migrationAction: "DYNAMIC_RENDER",
+    };
+  }
+
+  return null;
 }
