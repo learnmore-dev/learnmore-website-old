@@ -23,7 +23,7 @@ export function ContactForm({ defaultCourse = "", defaultLocation = "" }: Contac
   const [isSubmitting, setIsSubmitting] = useState(false);
   const [error, setError] = useState("");
 
-  const handleSubmit = (e: React.FormEvent) => {
+  const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
     if (!formData.name || !formData.phone || !formData.email) {
       setError("Please fill in your name, phone number, and email.");
@@ -47,9 +47,9 @@ export function ContactForm({ defaultCourse = "", defaultLocation = "" }: Contac
     } else if (locLower.includes("marathahalli")) {
       targetPhone = "919036524555";
     }
-    // Send lead to backend API in the background
+    // Send lead to backend API which emails office.learnmore@gmail.com
     try {
-      fetch("/api/leads", {
+      await fetch("/api/leads", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({
@@ -62,18 +62,13 @@ export function ContactForm({ defaultCourse = "", defaultLocation = "" }: Contac
           source: "Contact Page Form",
           type: "Admission Inquiry",
         }),
-      }).catch(() => {});
-    } catch {}
-
-    const textMsg = encodeURIComponent(
-      `Hello LearnMore Technologies,\n\nI am submitting an Admission Inquiry:\n• Name: ${formData.name}\n• Phone: +91 ${formData.phone}\n• Email: ${formData.email}\n• Course: ${formData.course || "General Consultation"}\n• Preferred Branch: ${formData.location || "Bangalore Campus"}\n• Message: ${formData.message || "N/A"}\n\nPlease share batch schedule and fee structure.`
-    );
-    window.open(`https://api.whatsapp.com/send?phone=${targetPhone}&text=${textMsg}`, "_blank");
-
-    setTimeout(() => {
+      });
+    } catch (err) {
+      console.error("Error submitting contact form:", err);
+    } finally {
       setIsSubmitting(false);
       setIsSubmitted(true);
-    }, 800);
+    }
   };
 
   if (isSubmitted) {

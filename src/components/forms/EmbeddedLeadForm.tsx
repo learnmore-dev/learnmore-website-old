@@ -22,18 +22,11 @@ export function EmbeddedLeadForm({
     mode: "Classroom",
   });
   const [submitted, setSubmitted] = useState(false);
+  const [isSubmitting, setIsSubmitting] = useState(false);
 
-  const handleSubmit = (e: React.FormEvent) => {
+  const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
-    let targetPhone = "919036524555";
-    const locLower = (locationName || "").toLowerCase();
-    if (locLower.includes("btm")) {
-      targetPhone = "919036542555";
-    } else if (locLower.includes("kalyan")) {
-      targetPhone = "919036354551";
-    } else if (locLower.includes("marathahalli")) {
-      targetPhone = "919036524555";
-    }
+    setIsSubmitting(true);
 
     // Dispatch GA4 conversion event
     trackLeadSubmission({
@@ -43,9 +36,9 @@ export function EmbeddedLeadForm({
       mode: formData.mode,
     });
 
-    // Send lead to backend API in the background
     try {
-      fetch("/api/leads", {
+      // Send lead to backend API which emails office.learnmore@gmail.com
+      await fetch("/api/leads", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({
@@ -58,14 +51,13 @@ export function EmbeddedLeadForm({
           type: "Demo Booking",
           message: `Mode: ${formData.mode}`,
         }),
-      }).catch(() => {});
-    } catch {}
-
-    const textMsg = encodeURIComponent(
-      `Hello LearnMore Technologies,\n\nI am booking a Free Demo Session:\n• Program: ${courseTitle}\n• Name: ${formData.name}\n• Phone: +91 ${formData.phone}\n• Email: ${formData.email}\n• Preferred Mode: ${formData.mode}\n• Campus/Source: ${locationName} (${source})\n\nPlease share the demo class link and batch schedule.`
-    );
-    window.open(`https://api.whatsapp.com/send?phone=${targetPhone}&text=${textMsg}`, "_blank");
-    setSubmitted(true);
+      });
+    } catch (err) {
+      console.error("Error submitting lead:", err);
+    } finally {
+      setIsSubmitting(false);
+      setSubmitted(true);
+    }
   };
 
   return (

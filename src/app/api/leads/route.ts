@@ -1,4 +1,5 @@
 import { NextResponse } from "next/server";
+import { sendLeadNotificationEmail } from "@/lib/emailService";
 
 export async function POST(request: Request) {
   try {
@@ -20,8 +21,10 @@ export async function POST(request: Request) {
       );
     }
 
-    const cleanedPhone = phone.replace(/\D/g, "");
-    if (!/^[6-9]\d{9}$/.test(cleanedPhone) && cleanedPhone.length < 10) {
+    const rawDigits = phone.replace(/\D/g, "");
+    const cleanedPhone = rawDigits.length > 10 ? rawDigits.slice(-10) : rawDigits;
+
+    if (cleanedPhone.length < 10) {
       return NextResponse.json(
         { success: false, error: "Please enter a valid 10-digit mobile number." },
         { status: 400 }
@@ -48,12 +51,16 @@ export async function POST(request: Request) {
       createdAt: new Date().toISOString(),
     };
 
-    // Note: In production with AWS DynamoDB / PostgreSQL configured, 
-    // insert leadRecord into the database here.
+    // Dispatch notification email to office.learnmore@gmail.com
+    const emailResult = await sendLeadNotificationEmail(leadRecord);
 
     return NextResponse.json({
       success: true,
-      message: "Lead recorded successfully.",
+      emailSent: emailResult.success,
+      emailError: emailResult.error,
+      message: emailResult.success
+        ? "Lead recorded and notification email dispatched successfully."
+        : "Lead recorded locally. Set SMTP_PASS in .env.local to send live emails.",
       leadId: leadRecord.leadId,
       timestamp: leadRecord.createdAt,
     });

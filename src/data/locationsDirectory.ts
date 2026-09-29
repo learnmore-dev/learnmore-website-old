@@ -362,6 +362,51 @@ export const allLocationsDirectory: LocationDirectoryItem[] = [
     "totalCoursesCount": 4
   },
   {
+    "id": "bhopal",
+    "name": "Bhopal",
+    "slug": "bhopal",
+    "category": "Indian Metro Hub",
+    "hubCampus": "Live Interactive Virtual Hub",
+    "addressSnippet": "Madhya Pradesh, India",
+    "tag": "Madhya Pradesh",
+    "defaultRoute": "/python-training-in-bhopal",
+    "popularCourseLinks": [
+      {
+        "courseName": "Python Training",
+        "route": "/python-training-in-bhopal"
+      },
+      {
+        "courseName": "Data Science",
+        "route": "/data-science-course-in-bhopal"
+      },
+      {
+        "courseName": "AWS Cloud",
+        "route": "/aws-training-in-bhopal"
+      },
+      {
+        "courseName": "Microsoft Azure",
+        "route": "/microsoft-azure-training-in-bhopal"
+      },
+      {
+        "courseName": "Java Full Stack",
+        "route": "/java-full-stack-training-in-bhopal"
+      },
+      {
+        "courseName": "Data Analytics",
+        "route": "/data-analytics-training-in-bhopal"
+      },
+      {
+        "courseName": "Power BI",
+        "route": "/power-bi-training-in-bhopal"
+      },
+      {
+        "courseName": "Software Testing",
+        "route": "/software-testing-training-in-bhopal"
+      }
+    ],
+    "totalCoursesCount": 8
+  },
+  {
     "id": "chandigarh",
     "name": "Chandigarh",
     "slug": "chandigarh",
@@ -858,6 +903,51 @@ export const allLocationsDirectory: LocationDirectoryItem[] = [
       }
     ],
     "totalCoursesCount": 1
+  },
+  {
+    "id": "raisen",
+    "name": "Raisen",
+    "slug": "raisen",
+    "category": "Indian Metro Hub",
+    "hubCampus": "Live Interactive Virtual Hub",
+    "addressSnippet": "Madhya Pradesh, India",
+    "tag": "Madhya Pradesh",
+    "defaultRoute": "/python-training-in-raisen",
+    "popularCourseLinks": [
+      {
+        "courseName": "Python Training",
+        "route": "/python-training-in-raisen"
+      },
+      {
+        "courseName": "Data Science",
+        "route": "/data-science-course-in-raisen"
+      },
+      {
+        "courseName": "AWS Cloud",
+        "route": "/aws-training-in-raisen"
+      },
+      {
+        "courseName": "Microsoft Azure",
+        "route": "/microsoft-azure-training-in-raisen"
+      },
+      {
+        "courseName": "Java Full Stack",
+        "route": "/java-full-stack-training-in-raisen"
+      },
+      {
+        "courseName": "Data Analytics",
+        "route": "/data-analytics-training-in-raisen"
+      },
+      {
+        "courseName": "Power BI",
+        "route": "/power-bi-training-in-raisen"
+      },
+      {
+        "courseName": "Software Testing",
+        "route": "/software-testing-training-in-raisen"
+      }
+    ],
+    "totalCoursesCount": 8
   },
   {
     "id": "trichy",
