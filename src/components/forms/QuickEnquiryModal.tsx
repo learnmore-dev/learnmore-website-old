@@ -31,35 +31,106 @@ export function QuickEnquiryModal({
     program: defaultCourseSlug || "",
   });
   const [submitted, setSubmitted] = useState(false);
+  const [isSubmitting, setIsSubmitting] = useState(false);
+  const [errorMessage, setErrorMessage] = useState("");
 
   if (!isOpen) return null;
 
-  const handleSubmit = (e: React.FormEvent) => {
+  const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
+    setErrorMessage("");
+    setIsSubmitting(true);
 
-    // Prepare WhatsApp message redirect
-    const targetPhone = "919036524555";
     const selectedProgram = formData.program || "General Enquiry / Master Program";
 
-    // Dispatch GA4 conversion event
+    // 1. Dispatch GA4 conversion event
     trackLeadSubmission({
       courseTitle: selectedProgram,
-      source: "Quick Enquiry Modal",
+      source: "Quick Enquiry Modal (Popup)",
     });
 
-    const textMsg = encodeURIComponent(
-      `Hello LearnMore Technologies,\n\nI would like to enquire about the program:\n• Program: ${selectedProgram}\n• Name: ${formData.name}\n• Phone: +91 ${formData.phone}\n• Email: ${formData.email || "Not provided"}\n\nPlease share the syllabus, fees, and upcoming batch schedule.`
+    // 2. Prepare pre-filled email to office.learnmore@gmail.com
+    const emailSubject = encodeURIComponent(`Instant Callback Request - ${formData.name} - ${selectedProgram}`);
+    const emailBody = encodeURIComponent(
+`Hello LearnMore Technologies Admissions Desk,
+
+I would like to request an instant career callback for:
+Program: ${selectedProgram}
+
+My Contact Information:
+• Full Name: ${formData.name}
+• Mobile Number: +91 ${formData.phone}
+• Email Address: ${formData.email}
+• Selected Program: ${selectedProgram}
+
+Please share syllabus details, upcoming batch timings, and fee structure.
+
+Thank you,
+${formData.name}`
     );
 
-    // Open WhatsApp in new tab/window
-    window.open(`https://api.whatsapp.com/send?phone=${targetPhone}&text=${textMsg}`, "_blank");
+    const mailtoUrl = `mailto:office.learnmore@gmail.com?subject=${emailSubject}&body=${emailBody}`;
 
-    setSubmitted(true);
-    setTimeout(() => {
-      setSubmitted(false);
-      onClose();
-    }, 2500);
+    // 3. Open user's email app / client
+    try {
+      window.location.href = mailtoUrl;
+    } catch {}
+
+    try {
+      // 4. Also send lead to backend API for dual delivery
+      const res = await fetch("/api/leads", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({
+          name: formData.name,
+          phone: formData.phone,
+          email: formData.email,
+          course: selectedProgram,
+          location: "Bangalore (Fast-Track Callback)",
+          source: "Popup Quick Enquiry Modal",
+          type: "Fast-Track Career Callback",
+          message: `Student requested an immediate career callback for: ${selectedProgram}.`,
+        }),
+      });
+
+      if (!res.ok) {
+        const data = await res.json().catch(() => ({}));
+        if (data.error) {
+          setErrorMessage(data.error);
+          setIsSubmitting(false);
+          return;
+        }
+      }
+      setSubmitted(true);
+    } catch (err: any) {
+      console.error("Error submitting lead:", err);
+      setSubmitted(true);
+    } finally {
+      setIsSubmitting(false);
+    }
   };
+
+  const selectedProgram = formData.program || "General Enquiry / Master Program";
+  const emailSubject = encodeURIComponent(`Instant Callback Request - ${formData.name} - ${selectedProgram}`);
+  const emailBody = encodeURIComponent(
+`Hello LearnMore Technologies Admissions Desk,
+
+I would like to request an instant career callback for:
+Program: ${selectedProgram}
+
+My Contact Information:
+• Full Name: ${formData.name}
+• Mobile Number: +91 ${formData.phone}
+• Email Address: ${formData.email}
+• Selected Program: ${selectedProgram}
+
+Please share syllabus details, upcoming batch timings, and fee structure.
+
+Thank you,
+${formData.name}`
+  );
+  const mailtoUrl = `mailto:office.learnmore@gmail.com?subject=${emailSubject}&body=${emailBody}`;
+  const gmailWebUrl = `https://mail.google.com/mail/?view=cm&fs=1&to=office.learnmore@gmail.com&su=${emailSubject}&body=${emailBody}`;
 
   return (
     <div className="fixed inset-0 z-50 flex items-center justify-center p-4 bg-black/60 backdrop-blur-sm animate-fadeIn">
@@ -74,12 +145,38 @@ export function QuickEnquiryModal({
         </button>
 
         {submitted ? (
-          <div className="py-8 text-center space-y-4">
+          <div className="py-6 text-center space-y-4">
             <CheckCircle2 className="w-16 h-16 text-emerald-500 mx-auto animate-bounce" />
-            <h4 className="text-2xl font-extrabold text-slate-900">Enquiry Submitted!</h4>
-            <p className="text-slate-600 text-sm max-w-xs mx-auto">
-              Redirecting to WhatsApp counselor desk. Our senior advisor will assist you immediately.
+            <h4 className="text-2xl font-extrabold text-slate-900">Request Sent Successfully!</h4>
+            <p className="text-slate-600 text-sm max-w-sm mx-auto leading-relaxed">
+              Thank you, <strong className="text-slate-900">{formData.name}</strong>! Your inquiry for <strong className="text-slate-900">{formData.program || "IT Master Program"}</strong> is directed to our admissions desk at <strong className="text-slate-900">office.learnmore@gmail.com</strong>.
             </p>
+
+            <div className="pt-2 space-y-2.5">
+              <a
+                href={mailtoUrl}
+                className="w-full py-3 px-6 rounded-full bg-gradient-to-r from-blue-600 to-indigo-600 hover:from-blue-700 hover:to-indigo-700 text-white font-bold text-sm shadow-md transition flex items-center justify-center gap-2"
+              >
+                <Mail className="w-4 h-4" />
+                <span>Open in Email / Mail App</span>
+              </a>
+
+              <a
+                href={gmailWebUrl}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="w-full py-2.5 px-6 rounded-full bg-slate-100 hover:bg-slate-200 text-slate-700 font-semibold text-xs transition flex items-center justify-center gap-2"
+              >
+                <span>Open in Gmail (Web Browser)</span>
+              </a>
+
+              <button
+                onClick={onClose}
+                className="w-full py-2.5 px-6 rounded-full text-slate-500 hover:text-slate-800 font-medium text-xs transition"
+              >
+                Close
+              </button>
+            </div>
           </div>
         ) : (
           <>
@@ -186,13 +283,29 @@ export function QuickEnquiryModal({
                 </div>
               </div>
 
+              {errorMessage && (
+                <div className="p-3 bg-red-50 border border-red-200 rounded-xl text-xs font-semibold text-red-700">
+                  {errorMessage}
+                </div>
+              )}
+
               {/* Submit Button */}
               <button
                 type="submit"
-                className="w-full mt-5 py-3.5 px-6 rounded-full bg-gradient-to-r from-red-600 via-rose-600 to-red-600 hover:from-red-700 hover:to-rose-700 text-white font-extrabold text-sm sm:text-base shadow-xl shadow-red-600/25 hover:shadow-red-600/35 transition transform active:scale-[0.98] flex items-center justify-center gap-2 cursor-pointer"
+                disabled={isSubmitting}
+                className="w-full mt-5 py-3.5 px-6 rounded-full bg-gradient-to-r from-red-600 via-rose-600 to-red-600 hover:from-red-700 hover:to-rose-700 text-white font-extrabold text-sm sm:text-base shadow-xl shadow-red-600/25 hover:shadow-red-600/35 transition transform active:scale-[0.98] disabled:opacity-75 disabled:cursor-not-allowed flex items-center justify-center gap-2 cursor-pointer"
               >
-                <span>Request Instant Callback</span>
-                <ArrowRight className="w-4 h-4" />
+                {isSubmitting ? (
+                  <>
+                    <div className="w-4 h-4 border-2 border-white/40 border-t-white rounded-full animate-spin" />
+                    <span>Submitting Request...</span>
+                  </>
+                ) : (
+                  <>
+                    <span>Request Instant Callback</span>
+                    <ArrowRight className="w-4 h-4" />
+                  </>
+                )}
               </button>
 
               <p className="text-[11px] text-center text-slate-400 pt-1">

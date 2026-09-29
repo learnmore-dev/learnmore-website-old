@@ -80,9 +80,21 @@ export function getLocationSearchVariants(location: string): string[] {
     variants.add("rajajinagar");
     variants.add("rajaji nagar");
   }
+  if (clean.includes("bhopal")) {
+    variants.add("bhopal");
+    variants.add("mp nagar");
+    variants.add("madhya pradesh");
+  }
+  if (clean.includes("raisen")) {
+    variants.add("raisen");
+    variants.add("mandideep");
+    variants.add("madhya pradesh");
+  }
 
-  // Always include bangalore for local micro-locations
-  variants.add("bangalore");
+  // Include bangalore for general default unless a specific non-Bangalore city is requested
+  if (!clean.includes("bhopal") && !clean.includes("raisen") && !clean.includes("delhi") && !clean.includes("mumbai") && !clean.includes("pune") && !clean.includes("hyderabad") && !clean.includes("chennai")) {
+    variants.add("bangalore");
+  }
 
   return Array.from(variants);
 }
