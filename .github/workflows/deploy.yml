@@ -50,13 +50,10 @@ jobs:
             echo "🔒 Setting permissions for static assets..."
             chmod -R 755 .next public || true
 
-            # Restart application using PM2 (use restart instead of reload for complete worker refresh)
-            echo "🚀 Restarting PM2 process..."
-            if pm2 describe "${{ secrets.PM2_APP_NAME || 'learnmore-app' }}" > /dev/null 2>&1; then
-              pm2 restart "${{ secrets.PM2_APP_NAME || 'learnmore-app' }}" --update-env
-            else
-              pm2 start npm --name "${{ secrets.PM2_APP_NAME || 'learnmore-app' }}" -- start
-            fi
+            # Cleanly restart PM2 process (delete stale memory process and start fresh instance)
+            echo "🚀 Launching fresh PM2 process..."
+            pm2 delete "${{ secrets.PM2_APP_NAME || 'learnmore-app' }}" > /dev/null 2>&1 || true
+            pm2 start npm --name "${{ secrets.PM2_APP_NAME || 'learnmore-app' }}" -- start
 
             # Save PM2 state
             pm2 save
