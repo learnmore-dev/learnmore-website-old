@@ -1,4 +1,4 @@
-import type { Metadata } from "next";
+import type { Metadata, Viewport } from "next";
 import { Plus_Jakarta_Sans, Caveat } from "next/font/google";
 import "./globals.css";
 import { Header } from "@/components/layout/Header";
@@ -8,6 +8,12 @@ import { FloatingContactButtons } from "@/components/common/FloatingContactButto
 import { GoogleAnalytics } from "@/components/common/GoogleAnalytics";
 import { JsonLd } from "@/components/common/JsonLd";
 import { ContentProtection } from "@/components/common/ContentProtection";
+
+export const viewport: Viewport = {
+  width: "device-width",
+  initialScale: 1,
+  maximumScale: 5,
+};
 
 const plusJakartaSans = Plus_Jakarta_Sans({
   subsets: ["latin"],

@@ -38,19 +38,31 @@ jobs:
             echo "📦 Installing dependencies..."
             npm ci --production=false
 
+            # Clear previous Next build cache to prevent chunk hash collisions
+            echo "🧹 Cleaning old build cache..."
+            rm -rf .next/cache
+
             # Build Next.js application
             echo "🔨 Building Next.js project..."
             npm run build
 
-            # Restart application using PM2
+            # Ensure proper file permissions so Nginx/webserver can serve static assets without 403
+            echo "🔒 Setting permissions for static assets..."
+            chmod -R 755 .next public || true
+
+            # Restart application using PM2 (use restart instead of reload for complete worker refresh)
             echo "🚀 Restarting PM2 process..."
             if pm2 describe "${{ secrets.PM2_APP_NAME || 'learnmore-app' }}" > /dev/null 2>&1; then
-              pm2 reload "${{ secrets.PM2_APP_NAME || 'learnmore-app' }}" --update-env
+              pm2 restart "${{ secrets.PM2_APP_NAME || 'learnmore-app' }}" --update-env
             else
               pm2 start npm --name "${{ secrets.PM2_APP_NAME || 'learnmore-app' }}" -- start
             fi
 
             # Save PM2 state
             pm2 save
+
+            # Reload Nginx if possible to flush any proxy caches
+            echo "🔄 Refreshing Nginx web server..."
+            sudo systemctl reload nginx 2>/dev/null || sudo service nginx reload 2>/dev/null || true
 
             echo "✅ Deployment completed successfully!"
