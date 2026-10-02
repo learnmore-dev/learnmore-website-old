@@ -327,10 +327,15 @@ export function Footer() {
             © 2026 LearnMore Technologies. All Rights Reserved.
           </p>
 
-          <p className="mt-2 text-xl text-gray-500">
+          <p className="mt-2 text-sm text-gray-400">
             Designed &amp; Developed by{" "}
-            
-             Nextgen2ai
+            <a
+              href="https://nextgen2ai.com"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-[#0099ff] hover:underline font-semibold"
+            >
+              Nextgen2ai
             </a>
           </p>
         </div>
