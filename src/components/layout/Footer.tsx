@@ -329,13 +329,8 @@ export function Footer() {
 
           <p className="mt-2 text-xl text-gray-500">
             Designed &amp; Developed by{" "}
-            <a
-              href="https://rakshard.github.io/"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="text-gray-300 hover:text-white transition-colors"
-            >
-              Raksha R.D
+            
+             Nextgen2ai
             </a>
           </p>
         </div>

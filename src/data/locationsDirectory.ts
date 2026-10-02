@@ -15,7 +15,7 @@ export interface LocationDirectoryItem {
     route: string;
   }[];
 }
-
+// all location directory items are listed here in a single array for easy access and mapping
 export const allLocationsDirectory: LocationDirectoryItem[] = [
   {
     "id": "marathahalli",
