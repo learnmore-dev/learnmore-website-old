@@ -122,6 +122,7 @@ const categoryTabs = [
 
 export function LocationsExperience() {
   const [isEnquiryModalOpen, setIsEnquiryModalOpen] = useState(false);
+  const [selectedLocationForModal, setSelectedLocationForModal] = useState<string>("Python Fullstack Master Program");
   const [selectedTab, setSelectedTab] = useState<string>("All Locations");
   const [searchQuery, setSearchQuery] = useState<string>("");
 
@@ -514,14 +515,24 @@ export function LocationsExperience() {
                   </div>
                 </div>
 
-                <div className="pt-3 border-t border-slate-100">
+                <div className="pt-3 border-t border-slate-100 flex items-center gap-2">
                   <Link
                     href={item.defaultRoute || item.popularCourseLinks[0]?.route || "/courses"}
-                    className="w-full py-2 bg-slate-50 group-hover:bg-red-600 text-slate-800 group-hover:text-white font-bold text-xs rounded-xl border border-slate-200 group-hover:border-red-600 transition flex items-center justify-center gap-1.5"
+                    className="flex-1 py-2 bg-slate-50 hover:bg-slate-100 text-slate-800 font-bold text-xs rounded-xl border border-slate-200 transition flex items-center justify-center gap-1.5 truncate px-2.5"
                   >
-                    <span>View Courses in {item.name.replace(/\(.*\)/, "").trim()}</span>
-                    <ArrowRight className="w-3.5 h-3.5" />
+                    <span className="truncate">View Courses in {item.name.replace(/\(.*\)/, "").trim()}</span>
+                    <ArrowRight className="w-3.5 h-3.5 shrink-0" />
                   </Link>
+                  <button
+                    type="button"
+                    onClick={() => {
+                      setSelectedLocationForModal(item.popularCourseLinks[0]?.courseName || "Python Fullstack Master Program");
+                      setIsEnquiryModalOpen(true);
+                    }}
+                    className="py-2 px-3.5 bg-gradient-to-r from-red-600 via-rose-600 to-red-600 hover:from-red-500 hover:to-rose-500 text-white font-black text-xs rounded-xl shadow-sm transition flex items-center justify-center gap-1 shrink-0 cursor-pointer active:scale-95"
+                  >
+                    <span>Enroll</span>
+                  </button>
                 </div>
               </div>
             ))}
@@ -706,11 +717,13 @@ export function LocationsExperience() {
         </div>
       </section>
 
-      {/* Quick Enquiry Modal */}
+      {/* Quick Enquiry / Location Enrollment Modal */}
       <QuickEnquiryModal
         isOpen={isEnquiryModalOpen}
         onClose={() => setIsEnquiryModalOpen(false)}
-        defaultCourseSlug="python-full-stack-course"
+        defaultCourseSlug={selectedLocationForModal}
+        title="Enroll in Location Batch"
+        subtitle="Book free demo class, lab tour & 100% placement counseling"
       />
     </div>
   );

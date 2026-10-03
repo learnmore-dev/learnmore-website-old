@@ -3,6 +3,7 @@
 import React, { useState, useEffect } from "react";
 import Link from "next/link";
 import Image from "next/image";
+import { QuickEnquiryModal } from "@/components/forms/QuickEnquiryModal";
 import {
   Sparkles,
   CheckCircle2,
@@ -321,6 +322,8 @@ export function NewHomeExperience() {
   const [selectedTab, setSelectedTab] = useState("All Courses");
   const [openFaqIndex, setOpenFaqIndex] = useState<number | null>(0);
   const [currentSlide, setCurrentSlide] = useState(0);
+  const [isEnrollModalOpen, setIsEnrollModalOpen] = useState(false);
+  const [selectedCourseForModal, setSelectedCourseForModal] = useState("Python Fullstack Master Program");
 
   const heroSlides = [
     {
@@ -328,9 +331,9 @@ export function NewHomeExperience() {
       bgImage: "/home-hero.png",
       mobileBgImage: "/hero-student-mobile.jpg",
       theme: "red",
-      badge: "#1 IT Training Institute in Bangalore",
-      badgeIcon: "🎯",
-      badgeStyle: "bg-amber-500/10 border-amber-500/30 text-amber-300",
+      badge: "🪔 Dasara Mega Offer: Flat 20% OFF on All Programs",
+      badgeIcon: "✨",
+      badgeStyle: "bg-gradient-to-r from-red-600/30 to-amber-500/30 border-amber-500/50 text-amber-200 shadow-[0_0_15px_rgba(245,158,11,0.25)] animate-pulse",
       titleLine1: "Master Next-Gen Tech.",
       titleHighlight: "Launch High-Salary",
       titleHighlightGradient: "from-[#ff354b] via-[#ff556b] to-[#ff2038]",
@@ -519,24 +522,31 @@ export function NewHomeExperience() {
   ];
 
   return (
-    <div className="bg-[#070b14] text-white min-h-screen selection:bg-red-600 selection:text-white overflow-hidden">
+    <div className="bg-[#030204] text-white min-h-screen selection:bg-red-600 selection:text-white overflow-hidden relative">
+      {/* Global Ambient Background Glows matching brand style (Subtle & Deep) */}
+      <div className="fixed inset-0 pointer-events-none z-0 overflow-hidden">
+        <div className="absolute -top-32 -left-32 w-[600px] sm:w-[900px] h-[600px] sm:h-[900px] bg-gradient-to-br from-red-700/10 via-rose-900/5 to-transparent rounded-full blur-[150px]" />
+        <div className="absolute top-1/3 -right-32 w-[500px] sm:w-[700px] h-[500px] sm:h-[700px] bg-gradient-to-bl from-rose-700/8 via-red-950/4 to-transparent rounded-full blur-[170px]" />
+        <div className="absolute bottom-10 left-1/4 w-[600px] sm:w-[800px] h-[600px] sm:h-[800px] bg-gradient-to-tr from-red-800/8 via-rose-950/6 to-transparent rounded-full blur-[160px]" />
+      </div>
+
       {/* ========================================================================= */}
       {/* 1. HERO SECTION */}
       {/* ========================================================================= */}
-      <section className="relative pt-4 sm:pt-6 lg:pt-8 pb-8 sm:pb-10 lg:pb-14 border-b border-slate-800/80 bg-[#070b14] overflow-hidden min-h-0 lg:min-h-[600px] flex flex-col justify-between">
+      <section className="relative pt-4 sm:pt-6 lg:pt-8 pb-8 sm:pb-10 lg:pb-14 border-b border-red-950/40 bg-gradient-to-b from-[#0f0308] via-[#070205] to-[#030204] overflow-hidden min-h-0 lg:min-h-[600px] flex flex-col justify-between">
         {/* Mobile Full-Bleed Background Image Layer */}
         <div className="lg:hidden absolute inset-0 z-0 pointer-events-none overflow-hidden transition-opacity duration-500">
           <img
             key={currentHero.id}
             src={currentHero.mobileBgImage || currentHero.bgImage}
             alt={`LearnMore Technologies Hero Slide ${currentHero.id}`}
-            className={`w-full h-full brightness-95 contrast-105 animate-fadeIn ${
+            className={`w-full h-full brightness-90 contrast-110 animate-fadeIn ${
               currentHero.id === 1 ? "object-cover object-[78%_top]" : "object-cover object-center"
             }`}
           />
           {/* Subtle gradient overlays to keep upper text crystal clear and blend smoothly into cards */}
-          <div className="absolute inset-0 bg-gradient-to-b from-[#070b14]/75 via-transparent to-[#070b14]/90" />
-          <div className="absolute inset-0 bg-gradient-to-r from-[#070b14]/85 via-[#070b14]/30 to-transparent" />
+          <div className="absolute inset-0 bg-gradient-to-b from-[#0f0308]/85 via-transparent to-[#030204]/98" />
+          <div className="absolute inset-0 bg-gradient-to-r from-[#0f0308]/92 via-[#070205]/50 to-transparent" />
         </div>
 
         {/* Full-bleed Background Image Container (DESKTOP ONLY to prevent mobile overlap) */}
@@ -545,11 +555,11 @@ export function NewHomeExperience() {
             key={currentHero.bgImage}
             src={currentHero.bgImage}
             alt="LearnMore Technologies Hero"
-            className="w-full h-full object-cover object-center brightness-105 contrast-105 animate-fadeIn"
+            className="w-full h-full object-cover object-center brightness-100 contrast-110 animate-fadeIn"
           />
           {/* Subtle gradient overlay to keep text crystal clear and preserve the globe/student on right */}
-          <div className="absolute inset-0 bg-gradient-to-r from-[#070b14]/95 via-[#070b14]/50 to-transparent" />
-          <div className="absolute inset-0 bg-gradient-to-t from-[#070b14]/80 via-transparent to-black/30" />
+          <div className="absolute inset-0 bg-gradient-to-r from-[#0f0308]/98 via-[#070205]/70 to-transparent" />
+          <div className="absolute inset-0 bg-gradient-to-t from-[#030204]/90 via-transparent to-black/40" />
         </div>
 
         {/* Top Right Counter Indicator (01 / 04) - DESKTOP ONLY */}
@@ -608,7 +618,7 @@ export function NewHomeExperience() {
               </div>
 
               {/* Mobile Carousel Indicators */}
-              <div className="flex items-center gap-2 bg-[#0b1020]/80 border border-slate-800 rounded-full px-2.5 py-1 backdrop-blur-md shrink-0">
+              <div className="flex items-center gap-2 bg-[#060207]/95 border border-red-950/40 rounded-full px-2.5 py-1 backdrop-blur-md shrink-0">
                 <button
                   onClick={handlePrevSlide}
                   className="text-slate-400 hover:text-white transition p-0.5"
@@ -699,7 +709,7 @@ export function NewHomeExperience() {
             </div>
 
             {/* 7. Key Stats Card (Glassmorphism 4 cols) */}
-            <div className="bg-[#0b1020]/90 border border-slate-800 rounded-2xl p-4 shadow-xl backdrop-blur-md">
+            <div className="bg-[#060207]/95 border border-red-950/40 rounded-2xl p-4 shadow-xl backdrop-blur-md">
               <div className="grid grid-cols-4 gap-2 text-center divide-x divide-slate-800">
                 {currentHero.stats.map((stat, idx) => {
                   const isRating = stat.value.includes("★") || (stat as any).isRating;
@@ -720,7 +730,7 @@ export function NewHomeExperience() {
             </div>
 
             {/* 8. Four Feature Circles Card */}
-            <div className="bg-[#0b1020]/90 border border-slate-800 rounded-2xl p-4 sm:p-5 shadow-xl backdrop-blur-md">
+            <div className="bg-[#060207]/95 border border-red-950/40 rounded-2xl p-4 sm:p-5 shadow-xl backdrop-blur-md">
               <div className="grid grid-cols-4 gap-2 text-center">
                 <div>
                   <div className={`w-11 h-11 sm:w-12 sm:h-12 rounded-full border flex items-center justify-center mx-auto mb-2 ${currentHero.theme === "amber"
@@ -762,7 +772,7 @@ export function NewHomeExperience() {
             </div>
 
             {/* 9. Follow Us Bar */}
-            <div className="bg-[#0b1020]/90 border border-slate-800 rounded-full px-5 py-3 flex items-center justify-between shadow-xl backdrop-blur-md">
+            <div className="bg-[#060207]/95 border border-red-950/40 rounded-full px-5 py-3 flex items-center justify-between shadow-xl backdrop-blur-md">
               <div className="flex items-center gap-3">
                 <span className="font-extrabold text-xs tracking-wider text-slate-200">FOLLOW US</span>
                 <span className="text-slate-600 font-normal">|</span>
@@ -1024,9 +1034,9 @@ export function NewHomeExperience() {
           </div>
 
           {/* Desktop Bottom Banner Strip: Follow Us Social Links & Pagination Dots */}
-          <div className="hidden lg:flex pt-6 sm:pt-8 border-t border-slate-800/80 items-center justify-between gap-4 select-none relative z-20">
+          <div className="hidden lg:flex pt-6 sm:pt-8 border-t border-red-950/40 items-center justify-between gap-4 select-none relative z-20">
             {/* Follow Us Path */}
-            <div className="flex items-center gap-3.5 bg-[#0a0f1d]/95 border border-slate-700/90 rounded-full px-5 py-2.5 shadow-2xl backdrop-blur-md">
+            <div className="flex items-center gap-3.5 bg-[#060207]/95 border border-red-950/50 rounded-full px-5 py-2.5 shadow-2xl backdrop-blur-md">
               <span className="text-xs sm:text-sm font-black text-white tracking-wide uppercase flex items-center gap-2">
                 <span className="w-2.5 h-2.5 rounded-full bg-red-500 animate-pulse"></span>
                 <span>Follow Us:</span>
@@ -1142,7 +1152,7 @@ export function NewHomeExperience() {
       {/* ========================================================================= */}
       {/* 3. "FIND YOUR IDEAL TECHNOLOGY PROGRAM" (8 COURSES GRID) */}
       {/* ========================================================================= */}
-      <section id="programs" className="py-16 sm:py-24 relative bg-[#070b14]">
+      <section id="programs" className="py-16 sm:py-24 relative bg-gradient-to-b from-[#030204] via-[#090208] to-[#030204]">
         <div className="max-w-[1700px] mx-auto px-4 sm:px-6 lg:px-10 xl:px-14 space-y-10">
           {/* Header & Filter Controls */}
           <div className="flex flex-col md:flex-row md:items-end justify-between gap-6">
@@ -1177,7 +1187,7 @@ export function NewHomeExperience() {
                   onClick={() => setSelectedTab(tab)}
                   className={`px-4 py-2 rounded-full text-xs font-black whitespace-nowrap transition-all duration-200 ${isActive
                     ? "bg-gradient-to-r from-[#ea2837] via-[#f43f5e] to-[#dc2626] text-white shadow-[0_0_20px_rgba(234,40,55,0.4)] scale-105"
-                    : "bg-[#0e1626] text-slate-200 hover:text-white border border-[#1e293b] hover:border-slate-600 font-bold"
+                    : "bg-[#070208] text-slate-200 hover:text-white border border-red-950/40 hover:border-red-600/40 font-bold"
                     }`}
                 >
                   {tab}
@@ -1193,7 +1203,7 @@ export function NewHomeExperience() {
               return (
                 <div
                   key={c.id}
-                  className="bg-[#0c1220] hover:bg-[#10182b] border border-[#1e293b] hover:border-slate-600 rounded-2xl p-5 sm:p-6 transition-all duration-300 hover:-translate-y-1.5 shadow-[0_10px_30px_rgba(0,0,0,0.5)] flex flex-col justify-between space-y-4 group"
+                  className="bg-[#060207]/95 hover:bg-[#0e0310] border border-red-950/40 hover:border-red-500/50 rounded-2xl p-5 sm:p-6 transition-all duration-300 hover:-translate-y-1.5 shadow-[0_10px_30px_rgba(0,0,0,0.8)] flex flex-col justify-between space-y-4 group"
                 >
                   <div className="space-y-3.5">
                     {/* Glowing Course Icon */}
@@ -1223,15 +1233,25 @@ export function NewHomeExperience() {
                     </div>
                   </div>
 
-                  {/* View Details Button */}
-                  <div className="pt-3 border-t border-slate-800">
+                  {/* Action Buttons: View Details & Enroll */}
+                  <div className="pt-3 border-t border-slate-800/80 grid grid-cols-2 gap-2">
                     <Link
                       href={`/courses/${c.slug}`}
-                      className="w-full py-2.5 rounded-lg bg-slate-800/80 hover:bg-gradient-to-r hover:from-red-600 hover:to-rose-600 text-white font-black text-xs transition-all duration-200 flex items-center justify-center gap-1.5 shadow-sm"
+                      className="w-full py-2.5 rounded-lg bg-slate-800/80 hover:bg-slate-700 text-slate-200 hover:text-white font-bold text-xs transition-all duration-200 flex items-center justify-center gap-1 shadow-sm border border-slate-700/70"
                     >
                       <span>View Details</span>
-                      <ArrowRight className="w-3.5 h-3.5" />
+                      <ArrowRight className="w-3.5 h-3.5 text-slate-400" />
                     </Link>
+                    <button
+                      type="button"
+                      onClick={() => {
+                        setSelectedCourseForModal(c.title);
+                        setIsEnrollModalOpen(true);
+                      }}
+                      className="w-full py-2.5 rounded-lg bg-gradient-to-r from-[#ea2837] via-[#f43f5e] to-[#dc2626] hover:from-red-500 hover:to-rose-500 text-white font-black text-xs transition-all duration-200 flex items-center justify-center gap-1 shadow-md shadow-red-500/25 active:scale-95 cursor-pointer"
+                    >
+                      <span>Enroll</span>
+                    </button>
                   </div>
                 </div>
               );
@@ -1243,7 +1263,7 @@ export function NewHomeExperience() {
       {/* ========================================================================= */}
       {/* 4. "WHY LEARNMORE TECHNOLOGIES IS BANGALORE'S PREFERRED CHOICE" */}
       {/* ========================================================================= */}
-      <section className="py-16 sm:py-24 relative bg-gradient-to-b from-[#090d18] via-[#0b1020] to-[#070b14] border-y border-slate-800/80 overflow-hidden">
+      <section className="py-16 sm:py-24 relative bg-gradient-to-b from-[#030204] via-[#0c0209] to-[#030204] border-y border-red-950/40 overflow-hidden">
         {/* Dramatic Ambient Red Beam Lights on Left & Right */}
         <div className="absolute top-1/2 -left-20 w-[500px] h-[500px] bg-red-600/20 rounded-full blur-[140px] pointer-events-none -z-10 animate-pulse-glow" />
         <div className="absolute top-1/2 -right-20 w-[500px] h-[500px] bg-rose-600/20 rounded-full blur-[140px] pointer-events-none -z-10 animate-pulse-glow" />
@@ -1261,7 +1281,7 @@ export function NewHomeExperience() {
 
           {/* 5 Feature Cards Grid */}
           <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-5 gap-3 sm:gap-4">
-            <div className="bg-[#0c1220] border border-slate-800 hover:border-amber-500/50 p-4 sm:p-5 rounded-2xl space-y-3 transition-all duration-300 hover:-translate-y-1 shadow-lg">
+            <div className="bg-[#060207]/95 border border-red-950/40 hover:border-amber-500/50 p-4 sm:p-5 rounded-2xl space-y-3 transition-all duration-300 hover:-translate-y-1 shadow-lg">
               <div className="w-10 h-10 rounded-xl bg-amber-500/20 text-amber-400 flex items-center justify-center border border-amber-500/30 shadow-[0_0_15px_rgba(245,158,11,0.2)]">
                 <BookOpen className="w-5 h-5" />
               </div>
@@ -1270,7 +1290,7 @@ export function NewHomeExperience() {
               </div>
             </div>
 
-            <div className="bg-[#0c1220] border border-slate-800 hover:border-blue-500/50 p-4 sm:p-5 rounded-2xl space-y-3 transition-all duration-300 hover:-translate-y-1 shadow-lg">
+            <div className="bg-[#060207]/95 border border-red-950/40 hover:border-blue-500/50 p-4 sm:p-5 rounded-2xl space-y-3 transition-all duration-300 hover:-translate-y-1 shadow-lg">
               <div className="w-10 h-10 rounded-xl bg-blue-500/20 text-blue-400 flex items-center justify-center border border-blue-500/30 shadow-[0_0_15px_rgba(59,130,246,0.2)]">
                 <Code2 className="w-5 h-5" />
               </div>
@@ -1279,7 +1299,7 @@ export function NewHomeExperience() {
               </div>
             </div>
 
-            <div className="bg-[#0c1220] border border-slate-800 hover:border-rose-500/50 p-4 sm:p-5 rounded-2xl space-y-3 transition-all duration-300 hover:-translate-y-1 shadow-lg">
+            <div className="bg-[#060207]/95 border border-red-950/40 hover:border-rose-500/50 p-4 sm:p-5 rounded-2xl space-y-3 transition-all duration-300 hover:-translate-y-1 shadow-lg">
               <div className="w-10 h-10 rounded-xl bg-rose-500/20 text-rose-400 flex items-center justify-center border border-rose-500/30 shadow-[0_0_15px_rgba(244,63,94,0.2)]">
                 <Users className="w-5 h-5" />
               </div>
@@ -1288,7 +1308,7 @@ export function NewHomeExperience() {
               </div>
             </div>
 
-            <div className="bg-[#0c1220] border border-slate-800 hover:border-teal-500/50 p-4 sm:p-5 rounded-2xl space-y-3 transition-all duration-300 hover:-translate-y-1 shadow-lg">
+            <div className="bg-[#060207]/95 border border-red-950/40 hover:border-teal-500/50 p-4 sm:p-5 rounded-2xl space-y-3 transition-all duration-300 hover:-translate-y-1 shadow-lg">
               <div className="w-10 h-10 rounded-xl bg-teal-500/20 text-teal-400 flex items-center justify-center border border-teal-500/30 shadow-[0_0_15px_rgba(20,184,166,0.2)]">
                 <Briefcase className="w-5 h-5" />
               </div>
@@ -1297,7 +1317,7 @@ export function NewHomeExperience() {
               </div>
             </div>
 
-            <div className="bg-[#0c1220] border border-slate-800 hover:border-purple-500/50 p-4 sm:p-5 rounded-2xl space-y-3 transition-all duration-300 hover:-translate-y-1 shadow-lg col-span-2 sm:col-span-1">
+            <div className="bg-[#060207]/95 border border-red-950/40 hover:border-purple-500/50 p-4 sm:p-5 rounded-2xl space-y-3 transition-all duration-300 hover:-translate-y-1 shadow-lg col-span-2 sm:col-span-1">
               <div className="w-10 h-10 rounded-xl bg-purple-500/20 text-purple-400 flex items-center justify-center border border-purple-500/30 shadow-[0_0_15px_rgba(168,85,247,0.2)]">
                 <Calendar className="w-5 h-5" />
               </div>
@@ -1308,9 +1328,9 @@ export function NewHomeExperience() {
           </div>
 
           {/* Building Architecture Visual & Stats Overlay */}
-          <div className="relative rounded-3xl overflow-hidden bg-slate-950 border border-slate-800 p-6 sm:p-10 min-h-[340px] sm:min-h-[400px] flex items-center justify-between">
+          <div className="relative rounded-3xl overflow-hidden bg-[#040105] border border-red-950/40 p-6 sm:p-10 min-h-[340px] sm:min-h-[400px] flex items-center justify-between">
             {/* Background Texture & Ambient Glow */}
-            <div className="absolute inset-0 bg-[radial-gradient(#1e293b_1px,transparent_1px)] [background-size:16px_16px] opacity-40" />
+            <div className="absolute inset-0 bg-[radial-gradient(#2d111d_1px,transparent_1px)] [background-size:16px_16px] opacity-40" />
             <div className="absolute right-0 top-0 bottom-0 w-1/2 bg-gradient-to-l from-red-600/20 via-transparent to-transparent pointer-events-none" />
 
             {/* Left Content */}
@@ -1329,7 +1349,7 @@ export function NewHomeExperience() {
 
             {/* Right: Floating Glass Metrics Card + Script Typography */}
             <div className="relative z-10 hidden md:flex flex-col items-center space-y-4">
-              <div className="bg-[#0c1220]/95 border border-slate-700/80 rounded-2xl p-6 shadow-2xl backdrop-blur-md space-y-4 w-64 text-left">
+              <div className="bg-[#08020a]/95 border border-red-950/50 rounded-2xl p-6 shadow-2xl backdrop-blur-md space-y-4 w-64 text-left">
                 <div>
                   <div className="text-2xl font-black text-amber-400">24 LPA</div>
                   <div className="text-xs text-slate-300 font-bold">Highest Package</div>
@@ -1360,7 +1380,7 @@ export function NewHomeExperience() {
       {/* ========================================================================= */}
       {/* 5. "WHAT OUR STUDENTS SAY" (TESTIMONIALS + PARTNER TICKER) */}
       {/* ========================================================================= */}
-      <section className="py-16 sm:py-24 relative bg-[#070b14]">
+      <section className="py-16 sm:py-24 relative bg-gradient-to-b from-[#030204] via-[#070207] to-[#030204]">
         <div className="max-w-[1700px] mx-auto px-4 sm:px-6 lg:px-10 xl:px-14 space-y-10">
           {/* Header */}
           <div className="flex flex-col sm:flex-row sm:items-end justify-between gap-4">
@@ -1400,7 +1420,7 @@ export function NewHomeExperience() {
           {/* 4 Cards Grid (3 Real Google Reviews + 1 Dream Company Card) */}
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-5">
             {/* Review 1 - Google Review */}
-            <div className="bg-[#0c1220] border border-slate-800 hover:border-slate-700 rounded-2xl p-6 flex flex-col justify-between space-y-4 shadow-[0_10px_30px_rgba(0,0,0,0.5)] transition hover:-translate-y-1">
+            <div className="bg-[#060207]/95 border border-red-950/40 hover:border-red-500/40 rounded-2xl p-6 flex flex-col justify-between space-y-4 shadow-[0_10px_30px_rgba(0,0,0,0.8)] transition hover:-translate-y-1">
               <div className="space-y-3">
                 <div className="flex items-center justify-between">
                   <div className="flex items-center gap-3">
@@ -1440,7 +1460,7 @@ export function NewHomeExperience() {
             </div>
 
             {/* Review 2 - Google Review */}
-            <div className="bg-[#0c1220] border border-slate-800 hover:border-slate-700 rounded-2xl p-6 flex flex-col justify-between space-y-4 shadow-[0_10px_30px_rgba(0,0,0,0.5)] transition hover:-translate-y-1">
+            <div className="bg-[#060207]/95 border border-red-950/40 hover:border-red-500/40 rounded-2xl p-6 flex flex-col justify-between space-y-4 shadow-[0_10px_30px_rgba(0,0,0,0.8)] transition hover:-translate-y-1">
               <div className="space-y-3">
                 <div className="flex items-center justify-between">
                   <div className="flex items-center gap-3">
@@ -1480,7 +1500,7 @@ export function NewHomeExperience() {
             </div>
 
             {/* Review 3 - Google Review */}
-            <div className="bg-[#0c1220] border border-slate-800 hover:border-slate-700 rounded-2xl p-6 flex flex-col justify-between space-y-4 shadow-[0_10px_30px_rgba(0,0,0,0.5)] transition hover:-translate-y-1">
+            <div className="bg-[#060207]/95 border border-red-950/40 hover:border-red-500/40 rounded-2xl p-6 flex flex-col justify-between space-y-4 shadow-[0_10px_30px_rgba(0,0,0,0.8)] transition hover:-translate-y-1">
               <div className="space-y-3">
                 <div className="flex items-center justify-between">
                   <div className="flex items-center gap-3">
@@ -1520,7 +1540,7 @@ export function NewHomeExperience() {
             </div>
 
             {/* Card 4: From Classroom to Dream Company */}
-            <div className="bg-gradient-to-br from-[#111a2e] to-[#0a0f1d] border border-slate-700/80 rounded-2xl p-6 flex flex-col justify-between items-center text-center space-y-4 shadow-xl">
+            <div className="bg-gradient-to-br from-[#0e0310] to-[#040106] border border-red-950/50 rounded-2xl p-6 flex flex-col justify-between items-center text-center space-y-4 shadow-xl">
               <div className="w-14 h-14 rounded-2xl bg-red-600/20 text-red-500 flex items-center justify-center border border-red-500/30 shadow-[0_0_20px_rgba(239,68,68,0.2)]">
                 <GraduationCap className="w-8 h-8" />
               </div>
@@ -1547,7 +1567,7 @@ export function NewHomeExperience() {
       {/* ========================================================================= */}
       {/* 6. "FREQUENTLY ASKED QUESTIONS" */}
       {/* ========================================================================= */}
-      <section className="pt-16 pb-6 sm:pt-24 sm:pb-8 bg-[#050811] border-t border-slate-800/80 relative">
+      <section className="pt-16 pb-6 sm:pt-24 sm:pb-8 bg-gradient-to-b from-[#030204] via-[#080208] to-[#030204] border-t border-red-950/40 relative">
         <div className="max-w-[1700px] mx-auto px-4 sm:px-6 lg:px-10 xl:px-14">
           <div className="grid grid-cols-1 lg:grid-cols-12 gap-10 items-start">
             {/* Left: Real Boy Student Photo (boy.png) + Curved Arrow + Script Text (3 cols) */}
@@ -1597,11 +1617,11 @@ export function NewHomeExperience() {
                   return (
                     <div
                       key={idx}
-                      className="bg-[#0c1220] border border-slate-800 rounded-xl overflow-hidden transition-all duration-200"
+                      className="bg-[#060207]/95 border border-red-950/40 rounded-xl overflow-hidden transition-all duration-200"
                     >
                       <button
                         onClick={() => setOpenFaqIndex(isOpen ? null : idx)}
-                        className="w-full flex items-center justify-between p-4 text-left hover:bg-slate-800/60 transition gap-4"
+                        className="w-full flex items-center justify-between p-4 text-left hover:bg-red-950/20 transition gap-4"
                       >
                         <div className="flex items-center gap-2.5">
                           <HelpCircle className="w-4 h-4 text-red-500 flex-shrink-0" />
@@ -1616,7 +1636,7 @@ export function NewHomeExperience() {
                       </button>
 
                       {isOpen && (
-                        <div className="p-4 pt-0 border-t border-slate-800 text-xs text-slate-200 font-medium leading-relaxed bg-slate-950/40 animate-fadeIn">
+                        <div className="p-4 pt-0 border-t border-red-950/40 text-xs text-slate-200 font-medium leading-relaxed bg-black/50 animate-fadeIn">
                           {faq.a}
                         </div>
                       )}
@@ -1628,7 +1648,7 @@ export function NewHomeExperience() {
 
             {/* Right: Still Have Questions Card (3 cols) */}
             <div className="lg:col-span-3">
-              <div className="bg-[#0c1220] border border-slate-800 rounded-2xl p-6 text-center space-y-4 shadow-xl">
+              <div className="bg-[#060207]/95 border border-red-950/40 rounded-2xl p-6 text-center space-y-4 shadow-xl">
                 <div className="w-12 h-12 rounded-2xl bg-red-600/20 text-red-400 flex items-center justify-center mx-auto border border-red-500/30 shadow-[0_0_15px_rgba(239,68,68,0.2)]">
                   <Headphones className="w-6 h-6" />
                 </div>
@@ -1656,9 +1676,9 @@ export function NewHomeExperience() {
       {/* ========================================================================= */}
       {/* 7. "READY TO BUILD YOUR TECHNOLOGY CAREER?" DARK GRADIENT CTA CARD */}
       {/* ========================================================================= */}
-      <section className="pt-2 pb-16 sm:pt-4 sm:pb-24 bg-[#050811] relative overflow-hidden">
+      <section className="pt-2 pb-16 sm:pt-4 sm:pb-24 bg-[#030204] relative overflow-hidden">
         <div className="max-w-[1700px] mx-auto px-4 sm:px-6 lg:px-10 xl:px-14">
-          <div className="relative rounded-2xl sm:rounded-3xl bg-gradient-to-r from-[#240a15] via-[#100c1e] to-[#0a0a14] border border-slate-800/80 p-6 sm:p-8 lg:p-10 shadow-2xl overflow-hidden">
+          <div className="relative rounded-2xl sm:rounded-3xl bg-gradient-to-r from-[#17030c] via-[#09020e] to-[#030105] border border-red-950/60 p-6 sm:p-8 lg:p-10 shadow-2xl overflow-hidden">
             {/* Ambient Red/Orange Top-Left Glow */}
             <div className="absolute -left-16 -top-16 w-64 h-64 bg-red-600/30 rounded-full blur-3xl pointer-events-none" />
             <div className="absolute left-1/3 -bottom-16 w-64 h-64 bg-rose-600/15 rounded-full blur-3xl pointer-events-none" />
@@ -1732,8 +1752,14 @@ export function NewHomeExperience() {
         </div>
       </section>
 
-      {/* ========================================================================= */}
-
+      {/* Quick Enquiry / Enrollment Modal */}
+      <QuickEnquiryModal
+        isOpen={isEnrollModalOpen}
+        onClose={() => setIsEnrollModalOpen(false)}
+        defaultCourseSlug={selectedCourseForModal}
+        title="Enroll in Master Program"
+        subtitle="100% Placement Support • Free Demo Class • Industry Certification"
+      />
     </div>
   );
 }

@@ -68,9 +68,32 @@ export function Header() {
 
   return (
     <>
-      <header className="sticky top-0 z-40 w-full max-w-full bg-[#070b14]/95 backdrop-blur-md border-b border-slate-800/80 text-white shadow-xl">
+      <header className="sticky top-0 z-40 w-full max-w-full bg-[#0a060e]/95 backdrop-blur-md border-b border-red-950/40 text-white shadow-xl">
+        {/* Dasara Festive Mega Offer Top Banner (Sticky with Header) */}
+        <div className="bg-gradient-to-r from-[#cc1424] via-[#e02436] to-[#ea3548] text-white py-2.5 sm:py-3 px-3 sm:px-6 shadow-md relative z-50 border-b border-red-600/40">
+          <div className="max-w-[1700px] mx-auto flex items-center justify-center gap-3 sm:gap-5 flex-wrap text-center">
+            <div className="flex items-center gap-2.5 sm:gap-3 flex-wrap justify-center text-center">
+              <span className="text-amber-300 text-base sm:text-lg animate-pulse">⚡</span>
+              <span className="px-3.5 py-1 rounded-full bg-[#fbc02d] text-[#3e2100] font-black text-xs sm:text-sm uppercase tracking-wider shadow-xs">
+                DASARA SPECIAL
+              </span>
+              <span className="font-bold text-white text-sm sm:text-base lg:text-[17px] tracking-normal">
+                Get <span className="underline underline-offset-4 decoration-white decoration-2 sm:decoration-[3px] font-black">FLAT 20% OFF</span> on all IT Master Certification Programs!
+              </span>
+            </div>
+
+            <button
+              onClick={() => setIsEnquiryModalOpen(true)}
+              className="px-5 py-2 rounded-full bg-white hover:bg-slate-100 text-slate-950 font-black text-xs sm:text-sm shadow-md transition-all duration-150 flex items-center gap-1.5 active:scale-95 cursor-pointer shrink-0 hover:scale-105"
+            >
+              <span>Claim 20% Off</span>
+              <ArrowRight className="w-4 h-4 text-slate-950" />
+            </button>
+          </div>
+        </div>
+
         {/* Top Info & Social Links Bar (Visible on Tablet & Desktop, hidden on Mobile for clean view) */}
-        <div className="bg-[#04060d] text-slate-300 border-b border-slate-800/80 text-[11px] sm:text-xs py-1.5 px-3 sm:px-6 lg:px-8 xl:px-14 hidden md:block">
+        <div className="bg-[#060408] text-slate-300 border-b border-red-950/40 text-[11px] sm:text-xs py-1.5 px-3 sm:px-6 lg:px-8 xl:px-14 hidden md:block">
           <div className="max-w-[1700px] mx-auto flex items-center justify-between gap-3">
             {/* Left Info: Contact & Campuses */}
             <div className="flex items-center gap-3 sm:gap-5 flex-wrap">
