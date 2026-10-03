@@ -29,10 +29,10 @@ export interface LocationDropdownItem {
 }
 
 export const topUtilityBarData = {
-  announcement: "🌟 Next Classroom Batch Starts This Monday | 100% Placement Guarantee",
+  announcement: "🪔 Dasara Mega Festive Offer: Flat 20% OFF on All Master Programs | 100% Placement Guarantee",
   phone: "+91 90365 24555",
   whatsappPhone: "+919036524555",
-  whatsappText: "Hi LearnMore, I would like details on upcoming courses",
+  whatsappText: "Hi LearnMore, I would like details on the Dasara 20% Offer and upcoming courses",
   campusesHighlight: "📍 3 Campuses: Marathahalli • BTM Layout • Kalyan Nagar",
 };
 
@@ -65,42 +65,43 @@ export const mainNavItems = primaryHeaderNav;
 
 export const coursesMegaMenuData: MegaMenuColumn[] = [
   {
-    columnTitle: "Cloud & DevOps",
+    columnTitle: "Cloud, DevOps & MLOps",
     categorySlug: "cloud-computing",
     courses: [
       { title: "AWS Certified Solutions Architect", slug: "aws-certified-solutions-architect", badge: "Bestseller" },
-      { title: "AWS Cloud Practitioner", slug: "aws-cloud-practitioner-training" },
-      { title: "Microsoft Azure Administrator (AZ-104)", slug: "microsoft-azure-training" },
       { title: "DevOps & Kubernetes Master", slug: "devops-training", badge: "Hot Tech" },
+      { title: "MLOps & Production ML Engineering", slug: "mlops-course", badge: "Hot Tech" },
+      { title: "Microsoft Azure Administrator", slug: "microsoft-azure-training" },
+      { title: "AWS Cloud Practitioner", slug: "aws-cloud-practitioner-training" },
     ],
     viewAllHref: "/courses/category/cloud-computing",
     viewAllLabel: "View All Cloud & DevOps →",
   },
   {
-    columnTitle: "Programming & Full Stack",
+    columnTitle: "Programming & Cyber Security",
     categorySlug: "programming-and-development",
     courses: [
       { title: "Python Full Stack Developer", slug: "python-full-stack-course", badge: "Bestseller" },
       { title: "Java Full Stack Developer", slug: "java-full-stack-course", badge: "Bestseller" },
+      { title: "Cyber Security & SOC Analyst", slug: "cyber-security-course", badge: "Trending" },
       { title: "Core & Advanced Python", slug: "python-course" },
       { title: "Core & Advanced Java", slug: "java-course" },
-      { title: "Windows PowerShell Scripting", slug: "windows-powershell-training" },
     ],
     viewAllHref: "/courses/category/programming-and-development",
     viewAllLabel: "View All Development →",
   },
   {
-    columnTitle: "Data Science, AI & QA",
-    categorySlug: "data-science-and-analytics",
+    columnTitle: "Data Engineering, AI & dbt",
+    categorySlug: "database-and-warehousing",
     courses: [
+      { title: "Data Engineering Master Program", slug: "data-engineering-course", badge: "Bestseller" },
+      { title: "dbt & Modern Analytics Engineering", slug: "dbt-course", badge: "Trending" },
       { title: "Agentic AI & Multi-Agent Systems", slug: "agentic-ai-course", badge: "Trending" },
       { title: "Data Science Master Program", slug: "data-science-course", badge: "Trending" },
-      { title: "Data Analytics with Python & SQL", slug: "data-analytics-course" },
-      { title: "Power BI Certification (PL-300)", slug: "power-bi-course", badge: "Trending" },
-      { title: "Software Testing (Manual + Selenium)", slug: "software-testing-course", badge: "Bestseller" },
       { title: "Snowflake Cloud Data Platform", slug: "snowflake-training" },
+      { title: "Power BI Certification (PL-300)", slug: "power-bi-course", badge: "Trending" },
     ],
-    viewAllHref: "/courses/category/data-science-and-analytics",
+    viewAllHref: "/courses/category/database-and-warehousing",
     viewAllLabel: "View All Data & AI →",
   },
 ];
@@ -133,13 +134,14 @@ export const footerNavigationData = {
     email: "office.learnmore@gmail.com",
   },
   column2Courses: [
+    { label: "Data Engineering Master Program", href: "/courses/data-engineering-course" },
+    { label: "Cyber Security & SOC Analyst", href: "/courses/cyber-security-course" },
+    { label: "MLOps & Production ML Engineering", href: "/courses/mlops-course" },
+    { label: "dbt (Data Build Tool) Training", href: "/courses/dbt-course" },
     { label: "Python Full Stack Developer", href: "/courses/python-full-stack-course" },
     { label: "AWS Solutions Architect", href: "/courses/aws-certified-solutions-architect" },
-    { label: "Java Full Stack Developer", href: "/courses/java-full-stack-course" },
     { label: "Data Science & AI Master", href: "/courses/data-science-course" },
     { label: "DevOps & Kubernetes Master", href: "/courses/devops-training" },
-    { label: "Power BI Certification", href: "/courses/power-bi-course" },
-    { label: "Software Testing Master", href: "/courses/software-testing-course" },
     { label: "Snowflake Data Cloud", href: "/courses/snowflake-training" },
     { label: "Explore All 50+ Courses →", href: "/courses" },
   ],

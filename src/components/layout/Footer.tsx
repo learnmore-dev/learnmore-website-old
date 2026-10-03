@@ -60,7 +60,7 @@ export function Footer() {
   ];
 
   return (
-    <footer className="w-full max-w-full overflow-hidden bg-[#050811] text-slate-300 border-t border-slate-800/90 pt-16 pb-20 lg:pb-12 text-xs sm:text-[13px] font-sans">
+    <footer className="w-full max-w-full overflow-hidden bg-[#060408] text-slate-300 border-t border-red-950/40 pt-16 pb-20 lg:pb-12 text-xs sm:text-[13px] font-sans">
       <div className="max-w-[1750px] mx-auto px-4 sm:px-6 lg:px-10 xl:px-14">
         {/* Main 3-Section Flex/Grid Layout */}
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-12 gap-8 lg:gap-10 pb-12 border-b border-slate-800/80">

@@ -8,21 +8,33 @@ interface QuickEnquiryModalProps {
   isOpen: boolean;
   onClose: () => void;
   defaultCourseSlug?: string;
+  title?: string;
+  subtitle?: string;
 }
 
 const PROGRAM_OPTIONS = [
-  "Python Fullstack Master Program",
-  "Data Analytics Master Program",
-  "Cloud DevOps Master Program",
-  "Software Testing Master Program",
   "Data Engineering Master Program",
+  "Cyber Security & SOC Analyst",
+  "MLOps & Production ML Engineering",
+  "dbt (Data Build Tool) Training",
+  "Python Fullstack Master Program",
+  "Java Full Stack Master Program",
   "Data Science with AI Master Program",
+  "Cloud DevOps Master Program",
+  "AWS Solutions Architect & Cloud",
+  "Microsoft Azure Administrator",
+  "Power BI & Data Analytics",
+  "Software Testing Master Program",
+  "Snowflake Cloud Data Platform",
+  "Agentic AI Master Program",
 ];
 
 export function QuickEnquiryModal({
   isOpen,
   onClose,
   defaultCourseSlug,
+  title,
+  subtitle,
 }: QuickEnquiryModalProps) {
   const [formData, setFormData] = useState({
     name: "",
@@ -33,6 +45,12 @@ export function QuickEnquiryModal({
   const [submitted, setSubmitted] = useState(false);
   const [isSubmitting, setIsSubmitting] = useState(false);
   const [errorMessage, setErrorMessage] = useState("");
+
+  React.useEffect(() => {
+    if (defaultCourseSlug) {
+      setFormData((prev) => ({ ...prev, program: defaultCourseSlug }));
+    }
+  }, [defaultCourseSlug]);
 
   if (!isOpen) return null;
 
@@ -187,10 +205,10 @@ ${formData.name}`
                 <span>FAST-TRACK CAREER CALLBACK</span>
               </div>
               <h3 className="text-2xl sm:text-[26px] font-black text-slate-900 tracking-tight mt-3 mb-1">
-                Get Hired in Top IT MNCs
+                {title || "Get Hired in Top IT MNCs"}
               </h3>
               <p className="text-xs sm:text-sm font-medium text-slate-500">
-                100% Placement Assistance • 1-on-1 Senior Mentorship
+                {subtitle || "100% Placement Assistance • 1-on-1 Senior Mentorship"}
               </p>
             </div>
 

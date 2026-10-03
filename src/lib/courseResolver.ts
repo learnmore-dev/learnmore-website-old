@@ -59,6 +59,56 @@ const SLUG_ALIAS_MAP: Record<string, string> = {
   "linux": "devops-training",
   "windows-powershell": "devops-training",
 
+  // Data Engineering
+  "data-engineering-training": "data-engineering-course",
+  "data-engineering-course": "data-engineering-course",
+  "data-engineering": "data-engineering-course",
+  "data-engineer-training": "data-engineering-course",
+  "data-engineer-course": "data-engineering-course",
+  "azure-data-engineering": "data-engineering-course",
+  "aws-data-engineering": "data-engineering-course",
+  "pyspark-training": "data-engineering-course",
+  "pyspark-course": "data-engineering-course",
+  "spark-training": "data-engineering-course",
+  "apache-spark-training": "data-engineering-course",
+  "apache-kafka-training": "data-engineering-course",
+  "apache-airflow-training": "data-engineering-course",
+
+  // Cyber Security & SOC
+  "cyber-security-training": "cyber-security-course",
+  "cyber-security-course": "cyber-security-course",
+  "cyber-security": "cyber-security-course",
+  "cybersecurity-training": "cyber-security-course",
+  "cybersecurity-course": "cyber-security-course",
+  "cybersecurity": "cyber-security-course",
+  "soc-analyst-training": "cyber-security-course",
+  "soc-analyst-course": "cyber-security-course",
+  "ethical-hacking-training": "cyber-security-course",
+  "ethical-hacking-course": "cyber-security-course",
+  "ceh-training": "cyber-security-course",
+  "information-security-training": "cyber-security-course",
+  "splunk-training": "cyber-security-course",
+
+  // MLOps
+  "mlops-training": "mlops-course",
+  "mlops-course": "mlops-course",
+  "mlops": "mlops-course",
+  "machine-learning-operations": "mlops-course",
+  "ml-ops-training": "mlops-course",
+  "ml-ops-course": "mlops-course",
+  "kubeflow-training": "mlops-course",
+  "mlflow-training": "mlops-course",
+
+  // DBT (Data Build Tool)
+  "dbt-training": "dbt-course",
+  "dbt-course": "dbt-course",
+  "dbt": "dbt-course",
+  "data-build-tool-training": "dbt-course",
+  "data-build-tool-course": "dbt-course",
+  "data-build-tool": "dbt-course",
+  "analytics-engineering-training": "dbt-course",
+  "analytics-engineering-course": "dbt-course",
+
   // Databases & Snowflake
   "snowflake-training": "snowflake-training",
   "snowflake": "snowflake-training",
@@ -98,6 +148,18 @@ export function resolveCourseForRecord(record: WordPressPageRecord): Course {
 
   // 3. Match from post name or title keywords
   const titleLower = (record.postTitle + " " + record.slug).toLowerCase();
+  if (titleLower.includes("data engineer") || titleLower.includes("pyspark") || titleLower.includes("spark") || titleLower.includes("kafka") || titleLower.includes("airflow")) {
+    return getCourseBySlug("data-engineering-course")!;
+  }
+  if (titleLower.includes("cyber") || titleLower.includes("soc analyst") || titleLower.includes("ethical hack") || titleLower.includes("penetration test") || titleLower.includes("ceh") || titleLower.includes("security")) {
+    return getCourseBySlug("cyber-security-course")!;
+  }
+  if (titleLower.includes("mlops") || titleLower.includes("ml ops") || titleLower.includes("machine learning operations") || titleLower.includes("kubeflow") || titleLower.includes("mlflow")) {
+    return getCourseBySlug("mlops-course")!;
+  }
+  if (titleLower.includes("dbt") || titleLower.includes("data build tool") || titleLower.includes("analytics engineer")) {
+    return getCourseBySlug("dbt-course")!;
+  }
   if (titleLower.includes("python")) {
     return getCourseBySlug("python-full-stack-course")!;
   }

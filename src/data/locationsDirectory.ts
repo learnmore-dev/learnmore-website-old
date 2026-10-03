@@ -29,6 +29,22 @@ export const allLocationsDirectory: LocationDirectoryItem[] = [
     "defaultRoute": "/locations/marathahalli",
     "popularCourseLinks": [
       {
+        "courseName": "Data Engineering",
+        "route": "/data-engineering-training-in-marathahalli"
+      },
+      {
+        "courseName": "Cyber Security",
+        "route": "/cyber-security-training-in-marathahalli"
+      },
+      {
+        "courseName": "MLOps",
+        "route": "/mlops-training-in-marathahalli"
+      },
+      {
+        "courseName": "DBT Training",
+        "route": "/dbt-training-in-marathahalli"
+      },
+      {
         "courseName": "Python Training",
         "route": "/python-training-in-marathahalli"
       },
@@ -105,7 +121,7 @@ export const allLocationsDirectory: LocationDirectoryItem[] = [
         "route": "/android-training-in-marathahalli"
       }
     ],
-    "totalCoursesCount": 19
+    "totalCoursesCount": 23
   },
   {
     "id": "btm",
@@ -118,6 +134,22 @@ export const allLocationsDirectory: LocationDirectoryItem[] = [
     "tag": "South Bangalore Hub",
     "defaultRoute": "/locations/btm",
     "popularCourseLinks": [
+      {
+        "courseName": "Data Engineering",
+        "route": "/data-engineering-training-in-btm"
+      },
+      {
+        "courseName": "Cyber Security",
+        "route": "/cyber-security-training-in-btm"
+      },
+      {
+        "courseName": "MLOps",
+        "route": "/mlops-training-in-btm"
+      },
+      {
+        "courseName": "DBT Training",
+        "route": "/dbt-training-in-btm"
+      },
       {
         "courseName": "Python Training",
         "route": "/python-training-in-btm"
@@ -155,7 +187,7 @@ export const allLocationsDirectory: LocationDirectoryItem[] = [
         "route": "/aws-training-in-btm"
       }
     ],
-    "totalCoursesCount": 9
+    "totalCoursesCount": 13
   },
   {
     "id": "kalyan-nagar",
@@ -168,6 +200,22 @@ export const allLocationsDirectory: LocationDirectoryItem[] = [
     "tag": "North/East Hub",
     "defaultRoute": "/locations/kalyan-nagar",
     "popularCourseLinks": [
+      {
+        "courseName": "Data Engineering",
+        "route": "/data-engineering-training-in-kalyan-nagar"
+      },
+      {
+        "courseName": "Cyber Security",
+        "route": "/cyber-security-training-in-kalyan-nagar"
+      },
+      {
+        "courseName": "MLOps",
+        "route": "/mlops-training-in-kalyan-nagar"
+      },
+      {
+        "courseName": "DBT Training",
+        "route": "/dbt-training-in-kalyan-nagar"
+      },
       {
         "courseName": "Python Training",
         "route": "/python-training-in-kalyan-nagar"
@@ -217,7 +265,7 @@ export const allLocationsDirectory: LocationDirectoryItem[] = [
         "route": "/aws-training-in-kalyan-nagar"
       }
     ],
-    "totalCoursesCount": 12
+    "totalCoursesCount": 16
   },
   {
     "id": "hebbal",
@@ -230,6 +278,22 @@ export const allLocationsDirectory: LocationDirectoryItem[] = [
     "tag": "North Bangalore",
     "defaultRoute": "/microsoft-azure-training-in-hebbal",
     "popularCourseLinks": [
+      {
+        "courseName": "Data Engineering",
+        "route": "/data-engineering-training-in-hebbal"
+      },
+      {
+        "courseName": "Cyber Security",
+        "route": "/cyber-security-training-in-hebbal"
+      },
+      {
+        "courseName": "MLOps",
+        "route": "/mlops-training-in-hebbal"
+      },
+      {
+        "courseName": "DBT Training",
+        "route": "/dbt-training-in-hebbal"
+      },
       {
         "courseName": "Python Training",
         "route": "/python-training-in-hebbal"
@@ -255,7 +319,7 @@ export const allLocationsDirectory: LocationDirectoryItem[] = [
         "route": "/java-training-in-hebbal"
       }
     ],
-    "totalCoursesCount": 6
+    "totalCoursesCount": 10
   },
   {
     "id": "whitefield",
@@ -268,6 +332,22 @@ export const allLocationsDirectory: LocationDirectoryItem[] = [
     "tag": "East Bangalore",
     "defaultRoute": "/generative-ai-course-in-whitefield",
     "popularCourseLinks": [
+      {
+        "courseName": "Data Engineering",
+        "route": "/data-engineering-training-in-whitefield"
+      },
+      {
+        "courseName": "Cyber Security",
+        "route": "/cyber-security-training-in-whitefield"
+      },
+      {
+        "courseName": "MLOps",
+        "route": "/mlops-training-in-whitefield"
+      },
+      {
+        "courseName": "DBT Training",
+        "route": "/dbt-training-in-whitefield"
+      },
       {
         "courseName": "Python Training",
         "route": "/python-training-in-whitefield"
@@ -293,7 +373,7 @@ export const allLocationsDirectory: LocationDirectoryItem[] = [
         "route": "/microsoft-azure-training-in-whitefield"
       }
     ],
-    "totalCoursesCount": 6
+    "totalCoursesCount": 10
   },
   {
     "id": "ahmedabad",
@@ -305,6 +385,22 @@ export const allLocationsDirectory: LocationDirectoryItem[] = [
     "tag": "Gujarat",
     "defaultRoute": "/microsoft-azure-training-in-ahmedabad",
     "popularCourseLinks": [
+      {
+        "courseName": "Data Engineering",
+        "route": "/data-engineering-training-in-ahmedabad"
+      },
+      {
+        "courseName": "Cyber Security",
+        "route": "/cyber-security-training-in-ahmedabad"
+      },
+      {
+        "courseName": "MLOps",
+        "route": "/mlops-training-in-ahmedabad"
+      },
+      {
+        "courseName": "DBT Training",
+        "route": "/dbt-training-in-ahmedabad"
+      },
       {
         "courseName": "Python Training",
         "route": "/python-training-in-ahmedabad"
@@ -330,7 +426,7 @@ export const allLocationsDirectory: LocationDirectoryItem[] = [
         "route": "/power-bi-training-in-ahmedabad"
       }
     ],
-    "totalCoursesCount": 6
+    "totalCoursesCount": 10
   },
   {
     "id": "bangalore",
@@ -342,6 +438,22 @@ export const allLocationsDirectory: LocationDirectoryItem[] = [
     "tag": "Karnataka",
     "defaultRoute": "/python-training-in-bangalore",
     "popularCourseLinks": [
+      {
+        "courseName": "Data Engineering",
+        "route": "/data-engineering-training-in-bangalore"
+      },
+      {
+        "courseName": "Cyber Security",
+        "route": "/cyber-security-training-in-bangalore"
+      },
+      {
+        "courseName": "MLOps",
+        "route": "/mlops-training-in-bangalore"
+      },
+      {
+        "courseName": "DBT Training",
+        "route": "/dbt-training-in-bangalore"
+      },
       {
         "courseName": "Python Training",
         "route": "/python-training-in-bangalore"
@@ -359,7 +471,7 @@ export const allLocationsDirectory: LocationDirectoryItem[] = [
         "route": "/microsoft-azure-training-in-bangalore"
       }
     ],
-    "totalCoursesCount": 4
+    "totalCoursesCount": 8
   },
   {
     "id": "bhopal",
@@ -371,6 +483,22 @@ export const allLocationsDirectory: LocationDirectoryItem[] = [
     "tag": "Madhya Pradesh",
     "defaultRoute": "/python-training-in-bhopal",
     "popularCourseLinks": [
+      {
+        "courseName": "Data Engineering",
+        "route": "/data-engineering-training-in-bhopal"
+      },
+      {
+        "courseName": "Cyber Security",
+        "route": "/cyber-security-training-in-bhopal"
+      },
+      {
+        "courseName": "MLOps",
+        "route": "/mlops-training-in-bhopal"
+      },
+      {
+        "courseName": "DBT Training",
+        "route": "/dbt-training-in-bhopal"
+      },
       {
         "courseName": "Python Training",
         "route": "/python-training-in-bhopal"
@@ -404,7 +532,7 @@ export const allLocationsDirectory: LocationDirectoryItem[] = [
         "route": "/software-testing-training-in-bhopal"
       }
     ],
-    "totalCoursesCount": 8
+    "totalCoursesCount": 12
   },
   {
     "id": "chandigarh",
@@ -416,6 +544,22 @@ export const allLocationsDirectory: LocationDirectoryItem[] = [
     "tag": "Punjab / Haryana",
     "defaultRoute": "/microsoft-azure-training-in-chandigarh",
     "popularCourseLinks": [
+      {
+        "courseName": "Data Engineering",
+        "route": "/data-engineering-training-in-chandigarh"
+      },
+      {
+        "courseName": "Cyber Security",
+        "route": "/cyber-security-training-in-chandigarh"
+      },
+      {
+        "courseName": "MLOps",
+        "route": "/mlops-training-in-chandigarh"
+      },
+      {
+        "courseName": "DBT Training",
+        "route": "/dbt-training-in-chandigarh"
+      },
       {
         "courseName": "Python Training",
         "route": "/python-training-in-chandigarh"
@@ -441,7 +585,7 @@ export const allLocationsDirectory: LocationDirectoryItem[] = [
         "route": "/power-bi-training-in-chandigarh"
       }
     ],
-    "totalCoursesCount": 6
+    "totalCoursesCount": 10
   },
   {
     "id": "chennai",
@@ -453,6 +597,22 @@ export const allLocationsDirectory: LocationDirectoryItem[] = [
     "tag": "Tamil Nadu",
     "defaultRoute": "/microsoft-azure-training-in-chennai",
     "popularCourseLinks": [
+      {
+        "courseName": "Data Engineering",
+        "route": "/data-engineering-training-in-chennai"
+      },
+      {
+        "courseName": "Cyber Security",
+        "route": "/cyber-security-training-in-chennai"
+      },
+      {
+        "courseName": "MLOps",
+        "route": "/mlops-training-in-chennai"
+      },
+      {
+        "courseName": "DBT Training",
+        "route": "/dbt-training-in-chennai"
+      },
       {
         "courseName": "Python Training",
         "route": "/python-training-in-chennai"
@@ -478,7 +638,7 @@ export const allLocationsDirectory: LocationDirectoryItem[] = [
         "route": "/power-bi-training-in-chennai"
       }
     ],
-    "totalCoursesCount": 6
+    "totalCoursesCount": 10
   },
   {
     "id": "cochin",
@@ -490,6 +650,22 @@ export const allLocationsDirectory: LocationDirectoryItem[] = [
     "tag": "Kerala",
     "defaultRoute": "/microsoft-azure-training-in-cochin",
     "popularCourseLinks": [
+      {
+        "courseName": "Data Engineering",
+        "route": "/data-engineering-training-in-cochin"
+      },
+      {
+        "courseName": "Cyber Security",
+        "route": "/cyber-security-training-in-cochin"
+      },
+      {
+        "courseName": "MLOps",
+        "route": "/mlops-training-in-cochin"
+      },
+      {
+        "courseName": "DBT Training",
+        "route": "/dbt-training-in-cochin"
+      },
       {
         "courseName": "Python Training",
         "route": "/python-training-in-cochin"
@@ -515,7 +691,7 @@ export const allLocationsDirectory: LocationDirectoryItem[] = [
         "route": "/power-bi-training-in-cochin"
       }
     ],
-    "totalCoursesCount": 6
+    "totalCoursesCount": 10
   },
   {
     "id": "delhi",
@@ -527,6 +703,22 @@ export const allLocationsDirectory: LocationDirectoryItem[] = [
     "tag": "Delhi",
     "defaultRoute": "/microsoft-azure-training-in-delhi",
     "popularCourseLinks": [
+      {
+        "courseName": "Data Engineering",
+        "route": "/data-engineering-training-in-delhi"
+      },
+      {
+        "courseName": "Cyber Security",
+        "route": "/cyber-security-training-in-delhi"
+      },
+      {
+        "courseName": "MLOps",
+        "route": "/mlops-training-in-delhi"
+      },
+      {
+        "courseName": "DBT Training",
+        "route": "/dbt-training-in-delhi"
+      },
       {
         "courseName": "Python Training",
         "route": "/python-training-in-delhi"
@@ -552,7 +744,7 @@ export const allLocationsDirectory: LocationDirectoryItem[] = [
         "route": "/data-science-training-in-delhi"
       }
     ],
-    "totalCoursesCount": 6
+    "totalCoursesCount": 10
   },
   {
     "id": "gurgaon",
@@ -564,6 +756,22 @@ export const allLocationsDirectory: LocationDirectoryItem[] = [
     "tag": "Haryana",
     "defaultRoute": "/microsoft-azure-training-in-gurgaon",
     "popularCourseLinks": [
+      {
+        "courseName": "Data Engineering",
+        "route": "/data-engineering-training-in-gurgaon"
+      },
+      {
+        "courseName": "Cyber Security",
+        "route": "/cyber-security-training-in-gurgaon"
+      },
+      {
+        "courseName": "MLOps",
+        "route": "/mlops-training-in-gurgaon"
+      },
+      {
+        "courseName": "DBT Training",
+        "route": "/dbt-training-in-gurgaon"
+      },
       {
         "courseName": "Python Training",
         "route": "/python-training-in-gurgaon"
@@ -589,7 +797,7 @@ export const allLocationsDirectory: LocationDirectoryItem[] = [
         "route": "/power-bi-training-in-gurgaon"
       }
     ],
-    "totalCoursesCount": 6
+    "totalCoursesCount": 10
   },
   {
     "id": "hyderabad",
@@ -601,6 +809,22 @@ export const allLocationsDirectory: LocationDirectoryItem[] = [
     "tag": "Telangana",
     "defaultRoute": "/microsoft-azure-training-in-hyderabad",
     "popularCourseLinks": [
+      {
+        "courseName": "Data Engineering",
+        "route": "/data-engineering-training-in-hyderabad"
+      },
+      {
+        "courseName": "Cyber Security",
+        "route": "/cyber-security-training-in-hyderabad"
+      },
+      {
+        "courseName": "MLOps",
+        "route": "/mlops-training-in-hyderabad"
+      },
+      {
+        "courseName": "DBT Training",
+        "route": "/dbt-training-in-hyderabad"
+      },
       {
         "courseName": "Python Training",
         "route": "/python-training-in-hyderabad"
@@ -626,7 +850,7 @@ export const allLocationsDirectory: LocationDirectoryItem[] = [
         "route": "/power-bi-training-in-hyderabad"
       }
     ],
-    "totalCoursesCount": 6
+    "totalCoursesCount": 10
   },
   {
     "id": "indore",
@@ -638,6 +862,22 @@ export const allLocationsDirectory: LocationDirectoryItem[] = [
     "tag": "Madhya Pradesh",
     "defaultRoute": "/microsoft-azure-training-in-indore",
     "popularCourseLinks": [
+      {
+        "courseName": "Data Engineering",
+        "route": "/data-engineering-training-in-indore"
+      },
+      {
+        "courseName": "Cyber Security",
+        "route": "/cyber-security-training-in-indore"
+      },
+      {
+        "courseName": "MLOps",
+        "route": "/mlops-training-in-indore"
+      },
+      {
+        "courseName": "DBT Training",
+        "route": "/dbt-training-in-indore"
+      },
       {
         "courseName": "Python Training",
         "route": "/python-training-in-indore"
@@ -663,7 +903,7 @@ export const allLocationsDirectory: LocationDirectoryItem[] = [
         "route": "/power-bi-training-in-indore"
       }
     ],
-    "totalCoursesCount": 6
+    "totalCoursesCount": 10
   },
   {
     "id": "jaipur",
@@ -675,6 +915,22 @@ export const allLocationsDirectory: LocationDirectoryItem[] = [
     "tag": "Rajasthan",
     "defaultRoute": "/microsoft-azure-training-in-jaipur",
     "popularCourseLinks": [
+      {
+        "courseName": "Data Engineering",
+        "route": "/data-engineering-training-in-jaipur"
+      },
+      {
+        "courseName": "Cyber Security",
+        "route": "/cyber-security-training-in-jaipur"
+      },
+      {
+        "courseName": "MLOps",
+        "route": "/mlops-training-in-jaipur"
+      },
+      {
+        "courseName": "DBT Training",
+        "route": "/dbt-training-in-jaipur"
+      },
       {
         "courseName": "Python Training",
         "route": "/python-training-in-jaipur"
@@ -700,7 +956,7 @@ export const allLocationsDirectory: LocationDirectoryItem[] = [
         "route": "/power-bi-training-in-jaipur"
       }
     ],
-    "totalCoursesCount": 6
+    "totalCoursesCount": 10
   },
   {
     "id": "lucknow",
@@ -712,6 +968,22 @@ export const allLocationsDirectory: LocationDirectoryItem[] = [
     "tag": "Uttar Pradesh",
     "defaultRoute": "/microsoft-azure-training-in-lucknow",
     "popularCourseLinks": [
+      {
+        "courseName": "Data Engineering",
+        "route": "/data-engineering-training-in-lucknow"
+      },
+      {
+        "courseName": "Cyber Security",
+        "route": "/cyber-security-training-in-lucknow"
+      },
+      {
+        "courseName": "MLOps",
+        "route": "/mlops-training-in-lucknow"
+      },
+      {
+        "courseName": "DBT Training",
+        "route": "/dbt-training-in-lucknow"
+      },
       {
         "courseName": "Python Training",
         "route": "/python-training-in-lucknow"
@@ -737,7 +1009,7 @@ export const allLocationsDirectory: LocationDirectoryItem[] = [
         "route": "/power-bi-training-in-lucknow"
       }
     ],
-    "totalCoursesCount": 6
+    "totalCoursesCount": 10
   },
   {
     "id": "mumbai",
@@ -749,6 +1021,22 @@ export const allLocationsDirectory: LocationDirectoryItem[] = [
     "tag": "Maharashtra",
     "defaultRoute": "/microsoft-azure-training-in-mumbai",
     "popularCourseLinks": [
+      {
+        "courseName": "Data Engineering",
+        "route": "/data-engineering-training-in-mumbai"
+      },
+      {
+        "courseName": "Cyber Security",
+        "route": "/cyber-security-training-in-mumbai"
+      },
+      {
+        "courseName": "MLOps",
+        "route": "/mlops-training-in-mumbai"
+      },
+      {
+        "courseName": "DBT Training",
+        "route": "/dbt-training-in-mumbai"
+      },
       {
         "courseName": "Python Training",
         "route": "/python-training-in-mumbai"
@@ -774,7 +1062,7 @@ export const allLocationsDirectory: LocationDirectoryItem[] = [
         "route": "/power-bi-training-in-mumbai"
       }
     ],
-    "totalCoursesCount": 6
+    "totalCoursesCount": 10
   },
   {
     "id": "mysore",
@@ -786,6 +1074,22 @@ export const allLocationsDirectory: LocationDirectoryItem[] = [
     "tag": "Karnataka",
     "defaultRoute": "/microsoft-azure-training-in-mysore",
     "popularCourseLinks": [
+      {
+        "courseName": "Data Engineering",
+        "route": "/data-engineering-training-in-mysore"
+      },
+      {
+        "courseName": "Cyber Security",
+        "route": "/cyber-security-training-in-mysore"
+      },
+      {
+        "courseName": "MLOps",
+        "route": "/mlops-training-in-mysore"
+      },
+      {
+        "courseName": "DBT Training",
+        "route": "/dbt-training-in-mysore"
+      },
       {
         "courseName": "Python Training",
         "route": "/python-training-in-mysore"
@@ -811,7 +1115,7 @@ export const allLocationsDirectory: LocationDirectoryItem[] = [
         "route": "/power-bi-training-in-mysore"
       }
     ],
-    "totalCoursesCount": 6
+    "totalCoursesCount": 10
   },
   {
     "id": "noida",
@@ -823,6 +1127,22 @@ export const allLocationsDirectory: LocationDirectoryItem[] = [
     "tag": "Uttar Pradesh",
     "defaultRoute": "/microsoft-azure-training-in-noida",
     "popularCourseLinks": [
+      {
+        "courseName": "Data Engineering",
+        "route": "/data-engineering-training-in-noida"
+      },
+      {
+        "courseName": "Cyber Security",
+        "route": "/cyber-security-training-in-noida"
+      },
+      {
+        "courseName": "MLOps",
+        "route": "/mlops-training-in-noida"
+      },
+      {
+        "courseName": "DBT Training",
+        "route": "/dbt-training-in-noida"
+      },
       {
         "courseName": "Python Training",
         "route": "/python-training-in-noida"
@@ -848,7 +1168,7 @@ export const allLocationsDirectory: LocationDirectoryItem[] = [
         "route": "/power-bi-training-in-noida"
       }
     ],
-    "totalCoursesCount": 6
+    "totalCoursesCount": 10
   },
   {
     "id": "patna",
@@ -860,6 +1180,22 @@ export const allLocationsDirectory: LocationDirectoryItem[] = [
     "tag": "Bihar",
     "defaultRoute": "/microsoft-azure-training-in-patna",
     "popularCourseLinks": [
+      {
+        "courseName": "Data Engineering",
+        "route": "/data-engineering-training-in-patna"
+      },
+      {
+        "courseName": "Cyber Security",
+        "route": "/cyber-security-training-in-patna"
+      },
+      {
+        "courseName": "MLOps",
+        "route": "/mlops-training-in-patna"
+      },
+      {
+        "courseName": "DBT Training",
+        "route": "/dbt-training-in-patna"
+      },
       {
         "courseName": "Python Training",
         "route": "/python-training-in-patna"
@@ -885,7 +1221,7 @@ export const allLocationsDirectory: LocationDirectoryItem[] = [
         "route": "/power-bi-training-in-patna"
       }
     ],
-    "totalCoursesCount": 6
+    "totalCoursesCount": 10
   },
   {
     "id": "pune",
@@ -898,11 +1234,27 @@ export const allLocationsDirectory: LocationDirectoryItem[] = [
     "defaultRoute": "/python-course-training-in-pune",
     "popularCourseLinks": [
       {
+        "courseName": "Data Engineering",
+        "route": "/data-engineering-training-in-pune"
+      },
+      {
+        "courseName": "Cyber Security",
+        "route": "/cyber-security-training-in-pune"
+      },
+      {
+        "courseName": "MLOps",
+        "route": "/mlops-training-in-pune"
+      },
+      {
+        "courseName": "DBT Training",
+        "route": "/dbt-training-in-pune"
+      },
+      {
         "courseName": "Python Training",
         "route": "/python-training-in-pune"
       }
     ],
-    "totalCoursesCount": 1
+    "totalCoursesCount": 5
   },
   {
     "id": "raisen",
@@ -914,6 +1266,22 @@ export const allLocationsDirectory: LocationDirectoryItem[] = [
     "tag": "Madhya Pradesh",
     "defaultRoute": "/python-training-in-raisen",
     "popularCourseLinks": [
+      {
+        "courseName": "Data Engineering",
+        "route": "/data-engineering-training-in-raisen"
+      },
+      {
+        "courseName": "Cyber Security",
+        "route": "/cyber-security-training-in-raisen"
+      },
+      {
+        "courseName": "MLOps",
+        "route": "/mlops-training-in-raisen"
+      },
+      {
+        "courseName": "DBT Training",
+        "route": "/dbt-training-in-raisen"
+      },
       {
         "courseName": "Python Training",
         "route": "/python-training-in-raisen"
@@ -947,7 +1315,7 @@ export const allLocationsDirectory: LocationDirectoryItem[] = [
         "route": "/software-testing-training-in-raisen"
       }
     ],
-    "totalCoursesCount": 8
+    "totalCoursesCount": 12
   },
   {
     "id": "trichy",
@@ -959,6 +1327,22 @@ export const allLocationsDirectory: LocationDirectoryItem[] = [
     "tag": "Tamil Nadu",
     "defaultRoute": "/microsoft-azure-training-in-trichy",
     "popularCourseLinks": [
+      {
+        "courseName": "Data Engineering",
+        "route": "/data-engineering-training-in-trichy"
+      },
+      {
+        "courseName": "Cyber Security",
+        "route": "/cyber-security-training-in-trichy"
+      },
+      {
+        "courseName": "MLOps",
+        "route": "/mlops-training-in-trichy"
+      },
+      {
+        "courseName": "DBT Training",
+        "route": "/dbt-training-in-trichy"
+      },
       {
         "courseName": "Python Training",
         "route": "/python-training-in-trichy"
@@ -984,7 +1368,7 @@ export const allLocationsDirectory: LocationDirectoryItem[] = [
         "route": "/power-bi-training-in-trichy"
       }
     ],
-    "totalCoursesCount": 6
+    "totalCoursesCount": 10
   },
   {
     "id": "trivandrum",
@@ -996,6 +1380,22 @@ export const allLocationsDirectory: LocationDirectoryItem[] = [
     "tag": "Kerala",
     "defaultRoute": "/microsoft-azure-training-in-trivandrum",
     "popularCourseLinks": [
+      {
+        "courseName": "Data Engineering",
+        "route": "/data-engineering-training-in-trivandrum"
+      },
+      {
+        "courseName": "Cyber Security",
+        "route": "/cyber-security-training-in-trivandrum"
+      },
+      {
+        "courseName": "MLOps",
+        "route": "/mlops-training-in-trivandrum"
+      },
+      {
+        "courseName": "DBT Training",
+        "route": "/dbt-training-in-trivandrum"
+      },
       {
         "courseName": "Python Training",
         "route": "/python-training-in-trivandrum"
@@ -1021,7 +1421,7 @@ export const allLocationsDirectory: LocationDirectoryItem[] = [
         "route": "/power-bi-training-in-trivandrum"
       }
     ],
-    "totalCoursesCount": 6
+    "totalCoursesCount": 10
   },
   {
     "id": "visakhapatnam",
@@ -1033,6 +1433,22 @@ export const allLocationsDirectory: LocationDirectoryItem[] = [
     "tag": "Andhra Pradesh",
     "defaultRoute": "/microsoft-azure-training-in-visakhapatnam",
     "popularCourseLinks": [
+      {
+        "courseName": "Data Engineering",
+        "route": "/data-engineering-training-in-visakhapatnam"
+      },
+      {
+        "courseName": "Cyber Security",
+        "route": "/cyber-security-training-in-visakhapatnam"
+      },
+      {
+        "courseName": "MLOps",
+        "route": "/mlops-training-in-visakhapatnam"
+      },
+      {
+        "courseName": "DBT Training",
+        "route": "/dbt-training-in-visakhapatnam"
+      },
       {
         "courseName": "Python Training",
         "route": "/python-training-in-visakhapatnam"
@@ -1058,7 +1474,7 @@ export const allLocationsDirectory: LocationDirectoryItem[] = [
         "route": "/power-bi-training-in-visakhapatnam"
       }
     ],
-    "totalCoursesCount": 6
+    "totalCoursesCount": 10
   },
   {
     "id": "warangal",
@@ -1070,6 +1486,22 @@ export const allLocationsDirectory: LocationDirectoryItem[] = [
     "tag": "Telangana",
     "defaultRoute": "/microsoft-azure-training-in-warangal",
     "popularCourseLinks": [
+      {
+        "courseName": "Data Engineering",
+        "route": "/data-engineering-training-in-warangal"
+      },
+      {
+        "courseName": "Cyber Security",
+        "route": "/cyber-security-training-in-warangal"
+      },
+      {
+        "courseName": "MLOps",
+        "route": "/mlops-training-in-warangal"
+      },
+      {
+        "courseName": "DBT Training",
+        "route": "/dbt-training-in-warangal"
+      },
       {
         "courseName": "Python Training",
         "route": "/python-training-in-warangal"
@@ -1095,7 +1527,7 @@ export const allLocationsDirectory: LocationDirectoryItem[] = [
         "route": "/power-bi-training-in-warangal"
       }
     ],
-    "totalCoursesCount": 6
+    "totalCoursesCount": 10
   },
   {
     "id": "australia",
@@ -1107,6 +1539,22 @@ export const allLocationsDirectory: LocationDirectoryItem[] = [
     "tag": "Oceania (Global)",
     "defaultRoute": "/microsoft-azure-training-in-australia",
     "popularCourseLinks": [
+      {
+        "courseName": "Data Engineering",
+        "route": "/data-engineering-training-in-australia"
+      },
+      {
+        "courseName": "Cyber Security",
+        "route": "/cyber-security-training-in-australia"
+      },
+      {
+        "courseName": "MLOps",
+        "route": "/mlops-training-in-australia"
+      },
+      {
+        "courseName": "DBT Training",
+        "route": "/dbt-training-in-australia"
+      },
       {
         "courseName": "Python Training",
         "route": "/python-training-in-australia"
@@ -1132,7 +1580,7 @@ export const allLocationsDirectory: LocationDirectoryItem[] = [
         "route": "/power-bi-training-in-australia"
       }
     ],
-    "totalCoursesCount": 6
+    "totalCoursesCount": 10
   },
   {
     "id": "austria",
@@ -1144,6 +1592,22 @@ export const allLocationsDirectory: LocationDirectoryItem[] = [
     "tag": "Europe (Global)",
     "defaultRoute": "/microsoft-azure-training-in-austria",
     "popularCourseLinks": [
+      {
+        "courseName": "Data Engineering",
+        "route": "/data-engineering-training-in-austria"
+      },
+      {
+        "courseName": "Cyber Security",
+        "route": "/cyber-security-training-in-austria"
+      },
+      {
+        "courseName": "MLOps",
+        "route": "/mlops-training-in-austria"
+      },
+      {
+        "courseName": "DBT Training",
+        "route": "/dbt-training-in-austria"
+      },
       {
         "courseName": "Python Training",
         "route": "/python-training-in-austria"
@@ -1169,7 +1633,7 @@ export const allLocationsDirectory: LocationDirectoryItem[] = [
         "route": "/power-bi-training-in-austria"
       }
     ],
-    "totalCoursesCount": 6
+    "totalCoursesCount": 10
   },
   {
     "id": "belgium",
@@ -1181,6 +1645,22 @@ export const allLocationsDirectory: LocationDirectoryItem[] = [
     "tag": "Europe (Global)",
     "defaultRoute": "/microsoft-azure-training-in-belgium",
     "popularCourseLinks": [
+      {
+        "courseName": "Data Engineering",
+        "route": "/data-engineering-training-in-belgium"
+      },
+      {
+        "courseName": "Cyber Security",
+        "route": "/cyber-security-training-in-belgium"
+      },
+      {
+        "courseName": "MLOps",
+        "route": "/mlops-training-in-belgium"
+      },
+      {
+        "courseName": "DBT Training",
+        "route": "/dbt-training-in-belgium"
+      },
       {
         "courseName": "Python Training",
         "route": "/python-training-in-belgium"
@@ -1206,7 +1686,7 @@ export const allLocationsDirectory: LocationDirectoryItem[] = [
         "route": "/power-bi-training-in-belgium"
       }
     ],
-    "totalCoursesCount": 6
+    "totalCoursesCount": 10
   },
   {
     "id": "brunei",
@@ -1218,6 +1698,22 @@ export const allLocationsDirectory: LocationDirectoryItem[] = [
     "tag": "Southeast Asia (Global)",
     "defaultRoute": "/microsoft-azure-training-in-brunei",
     "popularCourseLinks": [
+      {
+        "courseName": "Data Engineering",
+        "route": "/data-engineering-training-in-brunei"
+      },
+      {
+        "courseName": "Cyber Security",
+        "route": "/cyber-security-training-in-brunei"
+      },
+      {
+        "courseName": "MLOps",
+        "route": "/mlops-training-in-brunei"
+      },
+      {
+        "courseName": "DBT Training",
+        "route": "/dbt-training-in-brunei"
+      },
       {
         "courseName": "Python Training",
         "route": "/python-training-in-brunei"
@@ -1243,7 +1739,7 @@ export const allLocationsDirectory: LocationDirectoryItem[] = [
         "route": "/power-bi-training-in-brunei"
       }
     ],
-    "totalCoursesCount": 6
+    "totalCoursesCount": 10
   },
   {
     "id": "denmark",
@@ -1255,6 +1751,22 @@ export const allLocationsDirectory: LocationDirectoryItem[] = [
     "tag": "Europe (Global)",
     "defaultRoute": "/microsoft-azure-training-in-denmark",
     "popularCourseLinks": [
+      {
+        "courseName": "Data Engineering",
+        "route": "/data-engineering-training-in-denmark"
+      },
+      {
+        "courseName": "Cyber Security",
+        "route": "/cyber-security-training-in-denmark"
+      },
+      {
+        "courseName": "MLOps",
+        "route": "/mlops-training-in-denmark"
+      },
+      {
+        "courseName": "DBT Training",
+        "route": "/dbt-training-in-denmark"
+      },
       {
         "courseName": "Python Training",
         "route": "/python-training-in-denmark"
@@ -1280,7 +1792,7 @@ export const allLocationsDirectory: LocationDirectoryItem[] = [
         "route": "/power-bi-training-in-denmark"
       }
     ],
-    "totalCoursesCount": 6
+    "totalCoursesCount": 10
   },
   {
     "id": "france",
@@ -1292,6 +1804,22 @@ export const allLocationsDirectory: LocationDirectoryItem[] = [
     "tag": "Europe (Global)",
     "defaultRoute": "/microsoft-azure-training-in-france",
     "popularCourseLinks": [
+      {
+        "courseName": "Data Engineering",
+        "route": "/data-engineering-training-in-france"
+      },
+      {
+        "courseName": "Cyber Security",
+        "route": "/cyber-security-training-in-france"
+      },
+      {
+        "courseName": "MLOps",
+        "route": "/mlops-training-in-france"
+      },
+      {
+        "courseName": "DBT Training",
+        "route": "/dbt-training-in-france"
+      },
       {
         "courseName": "Python Training",
         "route": "/python-training-in-france"
@@ -1317,7 +1845,7 @@ export const allLocationsDirectory: LocationDirectoryItem[] = [
         "route": "/power-bi-training-in-france"
       }
     ],
-    "totalCoursesCount": 6
+    "totalCoursesCount": 10
   },
   {
     "id": "germany",
@@ -1329,6 +1857,22 @@ export const allLocationsDirectory: LocationDirectoryItem[] = [
     "tag": "Europe (Global)",
     "defaultRoute": "/data-science-training-in-germany",
     "popularCourseLinks": [
+      {
+        "courseName": "Data Engineering",
+        "route": "/data-engineering-training-in-germany"
+      },
+      {
+        "courseName": "Cyber Security",
+        "route": "/cyber-security-training-in-germany"
+      },
+      {
+        "courseName": "MLOps",
+        "route": "/mlops-training-in-germany"
+      },
+      {
+        "courseName": "DBT Training",
+        "route": "/dbt-training-in-germany"
+      },
       {
         "courseName": "Python Training",
         "route": "/python-training-in-germany"
@@ -1354,7 +1898,7 @@ export const allLocationsDirectory: LocationDirectoryItem[] = [
         "route": "/java-training-in-germany"
       }
     ],
-    "totalCoursesCount": 6
+    "totalCoursesCount": 10
   },
   {
     "id": "guyana",
@@ -1366,6 +1910,22 @@ export const allLocationsDirectory: LocationDirectoryItem[] = [
     "tag": "South America (Global)",
     "defaultRoute": "/microsoft-azure-training-in-guyana",
     "popularCourseLinks": [
+      {
+        "courseName": "Data Engineering",
+        "route": "/data-engineering-training-in-guyana"
+      },
+      {
+        "courseName": "Cyber Security",
+        "route": "/cyber-security-training-in-guyana"
+      },
+      {
+        "courseName": "MLOps",
+        "route": "/mlops-training-in-guyana"
+      },
+      {
+        "courseName": "DBT Training",
+        "route": "/dbt-training-in-guyana"
+      },
       {
         "courseName": "Python Training",
         "route": "/python-training-in-guyana"
@@ -1391,7 +1951,7 @@ export const allLocationsDirectory: LocationDirectoryItem[] = [
         "route": "/power-bi-training-in-guyana"
       }
     ],
-    "totalCoursesCount": 6
+    "totalCoursesCount": 10
   },
   {
     "id": "luxembourg",
@@ -1403,6 +1963,22 @@ export const allLocationsDirectory: LocationDirectoryItem[] = [
     "tag": "Europe (Global)",
     "defaultRoute": "/microsoft-azure-training-in-luxembourg",
     "popularCourseLinks": [
+      {
+        "courseName": "Data Engineering",
+        "route": "/data-engineering-training-in-luxembourg"
+      },
+      {
+        "courseName": "Cyber Security",
+        "route": "/cyber-security-training-in-luxembourg"
+      },
+      {
+        "courseName": "MLOps",
+        "route": "/mlops-training-in-luxembourg"
+      },
+      {
+        "courseName": "DBT Training",
+        "route": "/dbt-training-in-luxembourg"
+      },
       {
         "courseName": "Python Training",
         "route": "/python-training-in-luxembourg"
@@ -1428,7 +2004,7 @@ export const allLocationsDirectory: LocationDirectoryItem[] = [
         "route": "/power-bi-training-in-luxembourg"
       }
     ],
-    "totalCoursesCount": 6
+    "totalCoursesCount": 10
   },
   {
     "id": "macao-sar",
@@ -1440,6 +2016,22 @@ export const allLocationsDirectory: LocationDirectoryItem[] = [
     "tag": "East Asia (Global)",
     "defaultRoute": "/microsoft-azure-training-in-macao-sar",
     "popularCourseLinks": [
+      {
+        "courseName": "Data Engineering",
+        "route": "/data-engineering-training-in-macao-sar"
+      },
+      {
+        "courseName": "Cyber Security",
+        "route": "/cyber-security-training-in-macao-sar"
+      },
+      {
+        "courseName": "MLOps",
+        "route": "/mlops-training-in-macao-sar"
+      },
+      {
+        "courseName": "DBT Training",
+        "route": "/dbt-training-in-macao-sar"
+      },
       {
         "courseName": "Python Training",
         "route": "/python-training-in-macao-sar"
@@ -1465,7 +2057,7 @@ export const allLocationsDirectory: LocationDirectoryItem[] = [
         "route": "/power-bi-training-in-macao-sar"
       }
     ],
-    "totalCoursesCount": 6
+    "totalCoursesCount": 10
   },
   {
     "id": "norway",
@@ -1477,6 +2069,22 @@ export const allLocationsDirectory: LocationDirectoryItem[] = [
     "tag": "Europe (Global)",
     "defaultRoute": "/microsoft-azure-training-in-norway",
     "popularCourseLinks": [
+      {
+        "courseName": "Data Engineering",
+        "route": "/data-engineering-training-in-norway"
+      },
+      {
+        "courseName": "Cyber Security",
+        "route": "/cyber-security-training-in-norway"
+      },
+      {
+        "courseName": "MLOps",
+        "route": "/mlops-training-in-norway"
+      },
+      {
+        "courseName": "DBT Training",
+        "route": "/dbt-training-in-norway"
+      },
       {
         "courseName": "Python Training",
         "route": "/python-training-in-norway"
@@ -1502,7 +2110,7 @@ export const allLocationsDirectory: LocationDirectoryItem[] = [
         "route": "/power-bi-training-in-norway"
       }
     ],
-    "totalCoursesCount": 6
+    "totalCoursesCount": 10
   },
   {
     "id": "qatar",
@@ -1514,6 +2122,22 @@ export const allLocationsDirectory: LocationDirectoryItem[] = [
     "tag": "Middle East (Global)",
     "defaultRoute": "/microsoft-azure-training-in-qatar",
     "popularCourseLinks": [
+      {
+        "courseName": "Data Engineering",
+        "route": "/data-engineering-training-in-qatar"
+      },
+      {
+        "courseName": "Cyber Security",
+        "route": "/cyber-security-training-in-qatar"
+      },
+      {
+        "courseName": "MLOps",
+        "route": "/mlops-training-in-qatar"
+      },
+      {
+        "courseName": "DBT Training",
+        "route": "/dbt-training-in-qatar"
+      },
       {
         "courseName": "Python Training",
         "route": "/python-training-in-qatar"
@@ -1539,7 +2163,7 @@ export const allLocationsDirectory: LocationDirectoryItem[] = [
         "route": "/power-bi-training-in-qatar"
       }
     ],
-    "totalCoursesCount": 6
+    "totalCoursesCount": 10
   },
   {
     "id": "singapore",
@@ -1551,6 +2175,22 @@ export const allLocationsDirectory: LocationDirectoryItem[] = [
     "tag": "Southeast Asia (Global)",
     "defaultRoute": "/power-bi-training-in-singapore",
     "popularCourseLinks": [
+      {
+        "courseName": "Data Engineering",
+        "route": "/data-engineering-training-in-singapore"
+      },
+      {
+        "courseName": "Cyber Security",
+        "route": "/cyber-security-training-in-singapore"
+      },
+      {
+        "courseName": "MLOps",
+        "route": "/mlops-training-in-singapore"
+      },
+      {
+        "courseName": "DBT Training",
+        "route": "/dbt-training-in-singapore"
+      },
       {
         "courseName": "Python Training",
         "route": "/python-training-in-singapore"
@@ -1576,7 +2216,7 @@ export const allLocationsDirectory: LocationDirectoryItem[] = [
         "route": "/data-science-training-in-singapore"
       }
     ],
-    "totalCoursesCount": 6
+    "totalCoursesCount": 10
   },
   {
     "id": "switzerland",
@@ -1588,6 +2228,22 @@ export const allLocationsDirectory: LocationDirectoryItem[] = [
     "tag": "Europe (Global)",
     "defaultRoute": "/microsoft-azure-training-in-switzerland",
     "popularCourseLinks": [
+      {
+        "courseName": "Data Engineering",
+        "route": "/data-engineering-training-in-switzerland"
+      },
+      {
+        "courseName": "Cyber Security",
+        "route": "/cyber-security-training-in-switzerland"
+      },
+      {
+        "courseName": "MLOps",
+        "route": "/mlops-training-in-switzerland"
+      },
+      {
+        "courseName": "DBT Training",
+        "route": "/dbt-training-in-switzerland"
+      },
       {
         "courseName": "Python Training",
         "route": "/python-training-in-switzerland"
@@ -1613,7 +2269,7 @@ export const allLocationsDirectory: LocationDirectoryItem[] = [
         "route": "/power-bi-training-in-switzerland"
       }
     ],
-    "totalCoursesCount": 6
+    "totalCoursesCount": 10
   },
   {
     "id": "taiwan",
@@ -1625,6 +2281,22 @@ export const allLocationsDirectory: LocationDirectoryItem[] = [
     "tag": "East Asia (Global)",
     "defaultRoute": "/microsoft-azure-training-in-taiwan",
     "popularCourseLinks": [
+      {
+        "courseName": "Data Engineering",
+        "route": "/data-engineering-training-in-taiwan"
+      },
+      {
+        "courseName": "Cyber Security",
+        "route": "/cyber-security-training-in-taiwan"
+      },
+      {
+        "courseName": "MLOps",
+        "route": "/mlops-training-in-taiwan"
+      },
+      {
+        "courseName": "DBT Training",
+        "route": "/dbt-training-in-taiwan"
+      },
       {
         "courseName": "Python Training",
         "route": "/python-training-in-taiwan"
@@ -1650,7 +2322,7 @@ export const allLocationsDirectory: LocationDirectoryItem[] = [
         "route": "/power-bi-training-in-taiwan"
       }
     ],
-    "totalCoursesCount": 6
+    "totalCoursesCount": 10
   },
   {
     "id": "uae",
@@ -1662,6 +2334,22 @@ export const allLocationsDirectory: LocationDirectoryItem[] = [
     "tag": "Middle East (Global)",
     "defaultRoute": "/microsoft-azure-training-in-uae",
     "popularCourseLinks": [
+      {
+        "courseName": "Data Engineering",
+        "route": "/data-engineering-training-in-uae"
+      },
+      {
+        "courseName": "Cyber Security",
+        "route": "/cyber-security-training-in-uae"
+      },
+      {
+        "courseName": "MLOps",
+        "route": "/mlops-training-in-uae"
+      },
+      {
+        "courseName": "DBT Training",
+        "route": "/dbt-training-in-uae"
+      },
       {
         "courseName": "Python Training",
         "route": "/python-training-in-uae"
@@ -1687,7 +2375,7 @@ export const allLocationsDirectory: LocationDirectoryItem[] = [
         "route": "/power-bi-training-in-uae"
       }
     ],
-    "totalCoursesCount": 6
+    "totalCoursesCount": 10
   },
   {
     "id": "usa",
@@ -1699,6 +2387,22 @@ export const allLocationsDirectory: LocationDirectoryItem[] = [
     "tag": "North America (Global)",
     "defaultRoute": "/microsoft-azure-training-in-usa",
     "popularCourseLinks": [
+      {
+        "courseName": "Data Engineering",
+        "route": "/data-engineering-training-in-usa"
+      },
+      {
+        "courseName": "Cyber Security",
+        "route": "/cyber-security-training-in-usa"
+      },
+      {
+        "courseName": "MLOps",
+        "route": "/mlops-training-in-usa"
+      },
+      {
+        "courseName": "DBT Training",
+        "route": "/dbt-training-in-usa"
+      },
       {
         "courseName": "Python Training",
         "route": "/python-training-in-usa"
@@ -1724,6 +2428,6 @@ export const allLocationsDirectory: LocationDirectoryItem[] = [
         "route": "/power-bi-training-in-usa"
       }
     ],
-    "totalCoursesCount": 6
+    "totalCoursesCount": 10
   }
 ];
